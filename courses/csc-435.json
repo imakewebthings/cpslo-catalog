@@ -1,0 +1,7 @@
+{
+  "id": "csc-435",
+  "title": "Introduction to Object Oriented Design Using Graphical User Interfaces",
+  "description": "Principles of object-oriented design, with emphasis on use of these principles in the design of graphical interfaces. Comparison and contrasting of two major object-oriented languages and their corresponding GUI class libraries. Language-independent object-oriented design methods, and application of these methods in the construction of a GUI-based project. Course may be offered in classroom-based or online format. 3 lectures, 1 laboratory.",
+  "units": 4,
+  "prerequisites": "CPE/CSC 305."
+}

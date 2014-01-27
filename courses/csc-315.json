@@ -1,0 +1,7 @@
+{
+  "id": "csc-315",
+  "title": "Computer Architecture",
+  "description": "In-depth study of the instruction set architecture and hardware design of a specific CPU. Introduction to pipelines, input/output and multi-processors. Computer abstractions and performance measurement. 3 lectures, 1 laboratory.",
+  "units": 4,
+  "prerequisites": "CSC/CPE 103, and CPE/EE 229 or CSC 225 or CPE/EE 233."
+}

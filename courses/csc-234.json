@@ -1,0 +1,7 @@
+{
+  "id": "csc-234",
+  "title": "C and Unix",
+  "description": "The C programming language and the UNIX programming environment. Operators, standard I/O functions, strings, pointers and arrays, data types and storage classes. Unix shell programming and basic I/O system calls. Credit not allowed for CSC, Software Engineering or CPE majors. 3 lectures.",
+  "units": 3,
+  "prerequisites": "Math 142."
+}

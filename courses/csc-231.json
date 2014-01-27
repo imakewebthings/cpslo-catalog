@@ -1,0 +1,7 @@
+{
+  "id": "csc-231",
+  "title": "Programming for Engineering Students",
+  "description": "Programming techniques and procedures with applications to engineering problems. Introduction to numerical methods and simulation. Credit not allowed for CSC, Software Engineering or CPE majors. 2 activities.",
+  "units": 2,
+  "prerequisites": "MATH 142; PHYS 121 or PHYS 131 or PHYS 141."
+}

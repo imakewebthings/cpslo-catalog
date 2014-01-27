@@ -1,0 +1,9 @@
+{
+  "id": "csc-596",
+  "title": "Thesis I",
+  "description": "Individual research or activity under faculty supervision, beginning work on the master's thesis.",
+  "units": 2,
+  "prerequisites": "Graduate standing and consent of instructor.",
+  "corequisites": "CSC 590."
+}
+

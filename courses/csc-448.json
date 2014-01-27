@@ -1,0 +1,8 @@
+{
+  "id": "csc-448",
+  "title": "Bioinformatics Algorithms",
+  "description": "Introduction to the use of computers to solve problems in molecular biology. The algorithms, languages, and databases important in determining and analyzing nucleic and protein sequences and their structure. 3 lectures, 1 laboratory.",
+  "units": 4,
+  "prerequisites": "CSC/CPE 103 with a grade of C- or better, or BIO/CHEM 441 and senior standing, or consent of instructor."
+}
+

@@ -1,0 +1,8 @@
+{
+  "id": "csc-582",
+  "title": "Introduction to Natural Language Processing",
+  "description": "Classic Natural Language Processing systems and techniques; review of recent advancements in the subject. Topics selected from: parsing, tagging, word-sense disambiguation, natural language generation, data mining, voice recognition, vocalization, knowledge management, semantic networks, stylistics and machine learning. 3 lectures, 1 laboratory.",
+  "units": 4,
+  "prerequisites": "CPE/CSC 480 or CPE/CSC 466 or graduate standing."
+}
+

@@ -1,0 +1,7 @@
+{
+  "id": "csc-141",
+  "title": "Discrete Structures I",
+  "description": "Introduction to structures of computer science: logic, sets, relations, functions, graphs and trees. Propositional and predicate logic. Applications of predicate logic to preconditions, postconditions, and proof techniques. Introduction to complexity of algorithms. 4 lectures.",
+  "units": 4,
+  "prerequisites": "MATH 118 and MATH 119, or high school equivalent. Recommended: Prior programming experience."
+}

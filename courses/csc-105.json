@@ -1,0 +1,8 @@
+{
+  "id": "csc-105",
+  "title": "Fundamentals of Computer Science I Supplemental Instruction",
+  "description": "Facilitated study and discussion of fundamental concepts of computer science and familiarization with programming environments. Credit/No Credit grading only. 1 laboratory.",
+  "units": 1,
+  "corequisites": "CPE/CSC 101.",
+  "crnc": true
+}

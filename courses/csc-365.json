@@ -1,0 +1,7 @@
+{
+  "id": "csc-365",
+  "title": "Introduction to Database Systems",
+  "description": "Basic principles of database management systems (DBMS) and of DBMS application development. DBMS objectives, systems architecture, database models with emphasis on Entity-Relationship and Relational models, data definition and manipulation languages, the Structured Query Language (SQL), database design, application development tools. 3 lectures, 1 laboratory.",
+  "units": 4,
+  "prerequisites": "CSC/CPE 103."
+}

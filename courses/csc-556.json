@@ -1,0 +1,7 @@
+{
+  "id": "csc-556",
+  "title": "Computer Security",
+  "description": "Exploration of advanced topics in computer security with an emphasis on research topics. 3 lectures, 1 laboratory.",
+  "units": 4,
+  "prerequisites": "CSC/CPE 456 and graduate standing, or consent of instructor."
+}

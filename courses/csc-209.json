@@ -1,0 +1,8 @@
+{
+  "id": "csc-209",
+  "title": "Problem Solving with Computers",
+  "description": "Reinforcement of computer science fundamentals. Review of important algorithms, language features, design, syntax, and testing techniques. Repeated application of techniques to solve problems in a constrained amount of time. Primarily intended to support students preparing for the Association for Computing Machinery's International Collegiate Programming Contest. Credit/No Credit grading only. Total credit limited to 15 units. 1 laboratory.",
+  "units": 1,
+  "prerequisites": "CSC/CPE 101 or CSC/CPE 108 with a grade of C- or better, or consent of instructor.",
+  "crnc": true
+}

@@ -1,0 +1,8 @@
+{
+  "id": "csc-453",
+  "title": "Introduction to Operating Systems",
+  "description": "Introduction to sequential and multiprogramming operating systems; kernel calls, interrupt service mechanisms, scheduling, files and protection mechanisms, conventional machine attributes that apply to operating system implementation, virtual memory management, and I/O control systems. 3 lectures, 1 laboratory.",
+  "units": 4,
+  "prerequisites": "CSC/CPE 357, and CSC/CPE 225 or CPE/EE 229 or CPE/EE 233."
+}
+

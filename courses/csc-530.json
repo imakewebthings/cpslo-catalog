@@ -1,0 +1,8 @@
+{
+  "id": "csc-530",
+  "title": "Languages and Translators",
+  "description": "Advanced programming language and translator concepts. Language concepts to be covered will be selected from current state-of-the-art languages and current issues in language design. Compiler concepts will include retargetable code generation, use of translator-writing systems, and error recovery. 4 seminars.",
+  "units": 4,
+  "prerequisites": "CSC 430 and graduate standing, or consent of instructor."
+}
+

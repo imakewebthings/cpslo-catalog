@@ -1,0 +1,7 @@
+{
+  "id": "csc-309",
+  "title": "Software Engineering II",
+  "description": "Continuation of the software lifecycle. Methods and tools for the implementation, integration, testing and maintenance of large software systems. Software development and test environments. Software quality assurance. Group laboratory project. Technical presentation methods and practice. 3 lectures, 1 laboratory.",
+  "units": 4,
+  "prerequisites": "CSC/CPE 308."
+}

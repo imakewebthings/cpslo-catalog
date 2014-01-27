@@ -1,0 +1,8 @@
+{
+  "id": "csc-540",
+  "title": "Theory of Computation II",
+  "description": "Advanced topics in theoretical computer science from such areas as automata theory, cellular automata theory, computational complexity, and program verification. 4 seminars.",
+  "units": 4,
+  "prerequisites": "CSC 445 and graduate standing, or consent of instructor."
+}
+

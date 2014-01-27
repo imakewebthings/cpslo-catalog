@@ -1,0 +1,7 @@
+{
+  "id": "csc-369",
+  "title": "Distributed Computing I",
+  "description": "Introduction to distributed computing paradigms and protocols: interprocess communications, group communications, the client-server model, distributed objects, and Internet protocols. Emphasis on distributed software above the operating system and network layers. 3 lectures, 1 laboratory.",
+  "units": 4,
+  "prerequisites": "CSC/CPE 357."
+}

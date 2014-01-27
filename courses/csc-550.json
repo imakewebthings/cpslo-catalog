@@ -1,0 +1,7 @@
+{
+  "id": "csc-550",
+  "title": "Operating Systems",
+  "description": "General concepts of computer architecture and operating systems. Design features of advanced computers, general time-sharing systems and schemes for dynamic memory allocation, scheduling and protection. Dynamic linkage between subroutines. Intercommunication between input/output and processors. 4 seminars.",
+  "units": 4,
+  "prerequisites": "CSC/CPE 453 and graduate standing, or consent of instructor."
+}

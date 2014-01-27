@@ -1,0 +1,7 @@
+{
+  "id": "csc-378",
+  "title": "Interactive Entertainment Engineering",
+  "description": "Project-based, software oriented, design of interactive entertainment applications. Topics may include interactive storytelling, game physics, game AI, scripting, and development of virtual worlds using modeling and rendering tools. Projects require significant programming. 3 lectures, 1 laboratory.",
+  "units": 4,
+  "prerequisites": "CPE/CSC 103."
+}

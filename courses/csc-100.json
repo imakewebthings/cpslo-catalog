@@ -1,0 +1,7 @@
+{
+  "id": "csc-100",
+  "title": "Computer Science Orientation",
+  "description": "Introduction to the computer science discipline for majors. Computer problem solving and the use of computers. Success skills for computer science majors. Career paths and opportunities. Interaction with upper division students and faculty. 2 seminars.",
+  "units": 2,
+  "prerequisites": "Computer science major or minor or software engineering major."
+}

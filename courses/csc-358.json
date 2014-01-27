@@ -1,0 +1,7 @@
+{
+  "id": "csc-358",
+  "title": "Computer System Administration",
+  "description": "Fundamental concepts of Unix system administration. Use of shell scripts and utilities. Techniques of networks and data communications. Methods of system maintenance and accounting. 2 seminars.",
+  "units": 2,
+  "prerequisites": "CSC/CPE 103 or permission of instructor."
+}

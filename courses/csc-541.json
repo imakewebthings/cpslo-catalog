@@ -1,0 +1,8 @@
+{
+  "id": "csc-541",
+  "title": "Numerical Methods",
+  "description": "Introduction to advanced methods used in numerical analysis. Finite element methods for one and two-dimensional problems. Study of transforms including the Fast Fourier Transform and the Fast Hartley Transform. Review of the software supporting these methods. 4 seminars.",
+  "units": 4,
+  "prerequisites": "CSC 342 and graduate standing, or consent of instructor."
+}
+

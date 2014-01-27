@@ -1,0 +1,7 @@
+{
+  "id": "csc-349",
+  "title": "Design and Analysis of Algorithms",
+  "description": "Intermediate and advanced algorithms and their analysis. Mathematical, geometrical, and graph algorithms. NP-complete problems. Additional topics will be chosen from pattern matching, file compression, cryptology, dynamic and linear programming, and exhaustive search. Course may be offered in classroom-based or online format. 3 lectures, 1 laboratory.",
+  "units": 4,
+  "prerequisites": "CSC/CPE 103, with a grade of C- or better, and MATH 142; and STAT 312 or STAT 321 or STAT 350."
+}

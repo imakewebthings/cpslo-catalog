@@ -1,0 +1,8 @@
+{
+  "id": "csc-520",
+  "title": "Computer Architecture",
+  "description": "Comparative study and design of multiprocessor, dataflow, RISC, high level language and other new computer architectures. VLSI processor design techniques. 3 seminars, 1 laboratory.",
+  "units": 4,
+  "prerequisites": "CPE 315 and graduate standing, or consent of instructor."
+}
+

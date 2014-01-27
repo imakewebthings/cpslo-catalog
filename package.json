@@ -1,0 +1,27 @@
+{
+  "name": "cpslo-catalog",
+  "version": "0.0.0",
+  "description": "Cal Poly San Luis Obispo Catalog",
+  "main": "index.js",
+  "scripts": {
+    "tdd": "testem",
+    "test": "testem ci"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/imakewebthings/cpslo-catalog.git"
+  },
+  "author": "Caleb Troughton <caleb@imakewebthings.com> (http://imakewebthings.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/imakewebthings/cpslo-catalog/issues"
+  },
+  "homepage": "https://github.com/imakewebthings/cpslo-catalog",
+  "devDependencies": {
+    "testem": "~0.6.5",
+    "mocha": "~1.17.1",
+    "chai": "~1.8.1",
+    "lodash": "~2.4.1",
+    "require-directory": "~1.2.0"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "id": "csc-485",
+  "title": "Autonomous Robot Navigation",
+  "description": "Overview of existing autonomous mobile robot systems, basic kinematic modeling, control structures, sensing and sensor modeling, localization, and motion planning algorithms. Implementation of autonomous navigation capabilities. 3 lectures, 1 laboratory.",
+  "units": 4,
+  "prerequisites": "CSC/CPE 357 or consent of instructor."
+}
+

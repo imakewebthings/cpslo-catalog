@@ -1,0 +1,7 @@
+{
+  "id": "csc-232",
+  "title": "Computer Programming for Scientists and Engineers",
+  "description": "Computer programming, with an emphasis on procedural programming, taught using a language hosted by applications commonly used in science and engineering. Credit not allowed for CSC, CPE or Software Engineering majors. 2 lectures, 1 activity.",
+  "units": 3,
+  "prerequisites": "MATH 118 or equivalent."
+}

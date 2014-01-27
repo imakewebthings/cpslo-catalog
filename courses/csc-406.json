@@ -1,0 +1,7 @@
+{
+  "id": "csc-406",
+  "title": "Software Deployment",
+  "description": "Deployment of a sizeable software product by a student team. Software maintenance and deployment economic issues. Management of deployed software: version control, defect tracking and technical support. 3 lectures, 1 laboratory.",
+  "units": 4,
+  "prerequisites": "CPE/CSC 405."
+}
