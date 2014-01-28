@@ -4,8 +4,7 @@
   "description": "Cal Poly San Luis Obispo Catalog",
   "main": "index.js",
   "scripts": {
-    "tdd": "testem",
-    "test": "testem ci"
+    "test": "mocha test/*_spec.js"
   },
   "repository": {
     "type": "git",
@@ -18,7 +17,6 @@
   },
   "homepage": "https://github.com/imakewebthings/cpslo-catalog",
   "devDependencies": {
-    "testem": "~0.6.5",
     "mocha": "~1.17.1",
     "chai": "~1.8.1",
     "lodash": "~2.4.1",
