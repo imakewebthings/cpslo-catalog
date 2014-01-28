@@ -4,7 +4,7 @@
   "description": "Cal Poly San Luis Obispo Catalog",
   "main": "index.js",
   "scripts": {
-    "test": "mocha test/*_spec.js"
+    "test": "mocha test/*_spec.js -R tap"
   },
   "repository": {
     "type": "git",
