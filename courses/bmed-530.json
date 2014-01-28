@@ -1,0 +1,9 @@
+{
+  "id": "bmed-530",
+  "title": "Biomaterials",
+  "description": "Structure-function relationships for materials in contact with biological systems. Interactions of materials implanted in the body. Histological and hematological considerations including foreign body responses, inflammation, carcinogenicity, thrombosis, hemolysis, immunogenic and toxic properties. Microbial interaction with material surfaces, degradation. 4 lectures. Crosslisted as BMED/MATE 530.",
+  "units": "4",
+  "prerequisites": "BIO 161, or BIO 213 and ENGR 213; MATE 210 and graduate standing or consent of instructor",
+  "corequisites": null,
+  "crnc": false
+}

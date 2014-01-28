@@ -1,0 +1,9 @@
+{
+  "id": "chem-201",
+  "title": "Undergraduate Research",
+  "description": "Laboratory research under faculty supervision. Credit/No Credit grading only. Total credit limited to 6 units.",
+  "units": "1-3",
+  "prerequisites": "Consent of instructor",
+  "corequisites": null,
+  "crnc": false
+}

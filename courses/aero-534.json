@@ -1,0 +1,9 @@
+{
+  "id": "aero-534",
+  "title": "Aerospace Structural Dynamics Analysis",
+  "description": "Fundamentals of structural dynamics and aeroelasticity of flight vehicles. Undamped and damped, free and forced vibration of a single and multi degree-of-freedom linear systems. Finite elements and vibrational analysis. 3 lectures, 1 laboratory.",
+  "units": "4",
+  "prerequisites": "Graduate standing or consent of instructor",
+  "corequisites": null,
+  "crnc": false
+}

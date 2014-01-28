@@ -1,8 +1,9 @@
 {
   "id": "csc-570",
   "title": "Current Topics in Computer Science",
-  "description": "Directed group study of selected topics for graduate students. Topics will normally consist of continuations of those in CSC 520, CSC 530, CSC 540, CSC 550, CSC 560 and CSC 580, and other topics as needed. Class Schedule will list topic selected. Topic credit limited to 12 units. 2 to 4 seminars.",
+  "description": "Directed group study of selected topics for graduate students. Topics will normally consist of continuations of those in CSC 520, CSC 530, CSC 540, CSC 550, CSC 560 and CSC 580, and other topics as needed. Class Schedule will list topic selected. Topic credit limited to 12 units. 2 to 4 seminars.",
   "units": "2-4",
-  "prerequisites": "Graduate standing and evidence of satisfactory preparation in computer science."
+  "prerequisites": "Graduate standing and evidence of satisfactory preparation in computer science",
+  "corequisites": null,
+  "crnc": false
 }
-

@@ -1,0 +1,9 @@
+{
+  "id": "fsn-429",
+  "title": "Clinical Nutrition I",
+  "description": "Application of the nutrition care process to physiological disorders which may alter nutritional requirements or require dietary modifications. Anthropometric, biochemical, clinical, and dietary assessment. Diabetes mellitus, electrolytes, acid-base balance, hydration and enteral and parenteral nutrition. Anemias, pharmacology, cardiovascular disease and obesity. 3 lectures, 1 laboratory.",
+  "units": "4",
+  "prerequisites": "ZOO 331, 332 (transfer equivalent ZOO 231, 232) and senior standing",
+  "corequisites": "FSN 329",
+  "crnc": false
+}

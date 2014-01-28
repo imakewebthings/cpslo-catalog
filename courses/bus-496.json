@@ -1,0 +1,9 @@
+{
+  "id": "bus-496",
+  "title": "Electronic Commerce",
+  "description": "Focus on the technology of electronic commerce, including programming, development environments and security, through a series of lectures, guest speakers, demonstrations, exercises and case studies. Networking, client/server computing, and web/database design concepts. Working e-commerce application required at end of course. 4 lectures.",
+  "units": "4",
+  "prerequisites": "BUS 392",
+  "corequisites": null,
+  "crnc": false
+}

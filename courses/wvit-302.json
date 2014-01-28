@@ -1,0 +1,9 @@
+{
+  "id": "wvit-302",
+  "title": "Wine Fermentation Laboratory",
+  "description": "Alcoholic and malolactic fermentation, maturation, stabilization and bottling of finished wines. Students must be 21 years or older. Not open to students with credit in WVIT 404, WVIT 405 or WVIT 406. 1 lecture, 1 laboratory.",
+  "units": "2",
+  "prerequisites": "WVIT 202",
+  "corequisites": null,
+  "crnc": false
+}

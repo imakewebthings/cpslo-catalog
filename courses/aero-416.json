@@ -1,0 +1,9 @@
+{
+  "id": "aero-416",
+  "title": "Principles of Rotary Wing Flight",
+  "description": "Introduction to analysis of rotary wing aircraft. Overview of avionics systems. Performance figures of merit. Stability and control of helicopters. Equations of motion for forward flight. 4 lectures.",
+  "units": "4",
+  "prerequisites": "AERO 306, AERO 300",
+  "corequisites": null,
+  "crnc": false
+}

@@ -1,0 +1,9 @@
+{
+  "id": "zoo-331",
+  "title": "Human Anatomy and Physiology I",
+  "description": "Structural and functional organization of the skeletal, muscular, nervous, endocrine, and integumentary systems. Includes discussion of molecular, cellular, and organ system levels of organization. Activities emphasize histology, cadaver anatomy, physiology of muscle contraction, nerve impulse initiation and conduction, sensory and motor functions. 4 lectures, 1 laboratory. Not open for major credit in Biological Sciences. Not open to students with credit in BIO 432 or ZOO 231.",
+  "units": "5",
+  "prerequisites": "BIO 111 or BIO 161; and CHEM 111, CHEM 124, CHEM 127 or PSC 102",
+  "corequisites": null,
+  "crnc": false
+}

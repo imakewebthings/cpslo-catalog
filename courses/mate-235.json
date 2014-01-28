@@ -1,0 +1,9 @@
+{
+  "id": "mate-235",
+  "title": "Materials Laboratory III",
+  "description": "Mechanical property testing by tensile tests and hardness tests. Emphasis of data interpretation and analysis with structure-property relationships of materials. Continued materials engineering professional practices. 1 laboratory.",
+  "units": "1",
+  "prerequisites": "MATE 225",
+  "corequisites": null,
+  "crnc": false
+}

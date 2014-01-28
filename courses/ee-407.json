@@ -1,0 +1,9 @@
+{
+  "id": "ee-407",
+  "title": "Power Systems Analysis II",
+  "description": "Symmetrical components, unbalanced faults, power system stability, system protection, relays and relay systems, power system instrumentation and measurement techniques, economic operation. 4 lectures.",
+  "units": "4",
+  "prerequisites": "EE 406",
+  "corequisites": null,
+  "crnc": false
+}

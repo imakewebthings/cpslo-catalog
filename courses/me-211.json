@@ -1,0 +1,9 @@
+{
+  "id": "me-211",
+  "title": "Engineering Statics",
+  "description": "Analysis of forces on engineering structures in equilibrium. Properties of forces, moments, couples, and resultants. Equilibrium conditions, friction, centroids, area moments of inertia. Introduction to mathematical modeling and problem solving. Vector mathematics where appropriate. 3 lectures.",
+  "units": "3",
+  "prerequisites": "MATH 241 (or concurrently), PHYS 131 or PHYS 141",
+  "corequisites": null,
+  "crnc": false
+}

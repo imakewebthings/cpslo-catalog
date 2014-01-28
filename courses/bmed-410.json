@@ -1,0 +1,9 @@
+{
+  "id": "bmed-410",
+  "title": "Biomechanics",
+  "description": "Introduction to physiological systems, with emphasis on structure and function of major tissues and organs. Application of mechanics to understand the behavior of these tissues and organs at gross and microscopic levels. Bioelastic solids. Rigid body biomechanics. Biofluids, basic mechanical properties of collagen and elastin, bone, cartilage, muscles, blood vessels, and other living tissues. Application of continuum mechanics to hard and soft tissues. Biomechanical engineering design for clinical applications. 3 lectures, 1 laboratory.",
+  "units": "4",
+  "prerequisites": "ME 212, CE 204, BMED 310 or consent of instructor",
+  "corequisites": null,
+  "crnc": false
+}

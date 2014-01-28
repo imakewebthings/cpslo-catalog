@@ -1,0 +1,9 @@
+{
+  "id": "chem-445",
+  "title": "Polymers & Coatings II",
+  "description": "Introduction to polymerization methods and mechanisms. Chemistry of initiators, catalysts and inhibitors, kinetics of polymerization. Uses of representative polymer types. Synthesis, film formation, structure and properties of polymers commonly used in coatings and adhesives. 3 lectures.",
+  "units": "3",
+  "prerequisites": "CHEM 217/317 and CHEM 444",
+  "corequisites": null,
+  "crnc": false
+}

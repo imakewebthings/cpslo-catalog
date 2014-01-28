@@ -1,0 +1,9 @@
+{
+  "id": "chem-125",
+  "title": "General Chemistry for the Engineering Disciplines II",
+  "description": "A continuation of general chemistry designed for engineering students. Topics include solution chemistry, thermodynamics, kinetics, equilibrium, acids and bases, electrochemistry, and nuclear chemistry. Integration of laboratory with theoretical concepts. Use of computers for data acquisition and multimedia resources. Guided inquiry and collaborative methods emphasized. Not open to students with credit for CHEM 128. 3 lectures, 1 laboratory. Fulfills GE B3 & B4.",
+  "units": "4",
+  "prerequisites": "CHEM 124, or AP Chemistry score of 5",
+  "corequisites": null,
+  "crnc": false
+}

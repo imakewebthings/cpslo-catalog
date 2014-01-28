@@ -1,0 +1,9 @@
+{
+  "id": "ime-326",
+  "title": "Engineering Test Design and Analysis",
+  "description": "Data gathering and statistical testing applied to industrial engineering and manufacturing fields. Experimental methods for product and process evaluation and comparisons; interpretation of engineering data. Engineering experimental design, linear and nonlinear regression, ANOVA, and multifactor ANOVA. Utilization of existing computer software. 4 lectures.",
+  "units": "4",
+  "prerequisites": "STAT 321 with a grade of C- or better",
+  "corequisites": null,
+  "crnc": false
+}

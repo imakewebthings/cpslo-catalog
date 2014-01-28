@@ -1,0 +1,9 @@
+{
+  "id": "asci-315",
+  "title": "Equine Biomechanics",
+  "description": "Anatomy and physiology of the equine hoof and limb. An understanding of the art and science of the farrier's work. Evaluation of proper hoof care, trimming, and shoeing. Foot and leg conformation as it relates to sound locomotion. 3 lectures, 1 activity.",
+  "units": "4",
+  "prerequisites": "ASCI 224",
+  "corequisites": null,
+  "crnc": false
+}

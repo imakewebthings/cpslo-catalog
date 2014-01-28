@@ -1,0 +1,9 @@
+{
+  "id": "educ-450",
+  "title": "Teaching Performance Assessment Seminar",
+  "description": "Tasks, timelines, evaluation rubrics, and academic writing for the Performance Assessment for California Teachers (PACT) Teaching Event, which is the performance assessment at Cal Poly that is required for state certification. Credit/No Credit grading. 1 seminar.",
+  "units": "1",
+  "prerequisites": null,
+  "corequisites": "EDUC 454 or EDUC 456",
+  "crnc": false
+}

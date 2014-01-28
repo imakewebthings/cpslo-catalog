@@ -2,7 +2,8 @@
   "id": "csc-599",
   "title": "Thesis III",
   "description": "Individual research or activity under faculty supervision leading to an acceptable thesis.",
-  "units": 3,
-  "prerequisites": "CSC 597, selection of thesis committee, graduate standing, and consent of instructor."
+  "units": "3",
+  "prerequisites": "CSC 597, selection of thesis committee, graduate standing, and consent of instructor",
+  "corequisites": null,
+  "crnc": false
 }
-

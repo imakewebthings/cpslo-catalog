@@ -1,0 +1,9 @@
+{
+  "id": "cpe-481",
+  "title": "Knowledge Based Systems",
+  "description": "In-depth treatment of knowledge representation, utilization and acquisition in a programming environment. Emphasis on the use of domain-specific knowledge to obtain expert performance in programs. 3 lectures, 1 laboratory. Crosslisted as CPE/CSC 481.",
+  "units": "4",
+  "prerequisites": "CSC/CPE 480",
+  "corequisites": null,
+  "crnc": false
+}

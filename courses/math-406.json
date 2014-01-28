@@ -1,0 +1,9 @@
+{
+  "id": "math-406",
+  "title": "Linear Algebra III",
+  "description": "Complex vector spaces, unitary and self-adjoint matrices, Spectral Theorem, Jordan canonical form. Selected topics in linear programming, convexity, numerical methods, and functional analysis. 4 lectures.",
+  "units": "4",
+  "prerequisites": "MATH 306",
+  "corequisites": null,
+  "crnc": false
+}

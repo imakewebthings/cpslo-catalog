@@ -1,0 +1,9 @@
+{
+  "id": "ee-460",
+  "title": "Senior Project Preparation",
+  "description": "Introduction to teamwork and team-oriented project execution. Project planning, scheduling and analysis. Usage of tools for project management including Gantt and Pert Charts. Project development, cost and time estimation using top-down and bottom-up approaches. Ethics and ethical issues as they pertain to the conduct of engineering. Development of senior project proposal. 1 lecture, 1 laboratory.",
+  "units": "2",
+  "prerequisites": "EE 314, EE 335",
+  "corequisites": "EE 409 & EE 449",
+  "crnc": false
+}

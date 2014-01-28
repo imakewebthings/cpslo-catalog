@@ -1,0 +1,9 @@
+{
+  "id": "me-460",
+  "title": "HVAC Senior Design Project II",
+  "description": "Continuation of work begun in ME 459. Team project designing heating, ventilating and air-conditioning (HVAC) systems. 2 laboratories.",
+  "units": "2",
+  "prerequisites": "ME 459",
+  "corequisites": null,
+  "crnc": false
+}

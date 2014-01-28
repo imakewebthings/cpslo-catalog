@@ -1,0 +1,9 @@
+{
+  "id": "brae-152",
+  "title": "3-D Solids Modeling",
+  "description": "Introduction to 3-dimensional solids modeling using state-of-the-art software. Model generation and modification of associative properties, assembly modeling, extrusions and revolutions. 1 laboratory.",
+  "units": "1",
+  "prerequisites": "BRAE 133, BRAE 151 or equivalent courses",
+  "corequisites": null,
+  "crnc": false
+}

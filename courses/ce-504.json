@@ -1,0 +1,9 @@
+{
+  "id": "ce-504",
+  "title": "Finite Element Analysis I",
+  "description": "Linear finite element theory and analysis. Strong, weak and variational formulations. Physical and isoparametric spaces. Error estimates and numerical integration. Development of finite element algorithms. Use of commercial finite element codes to illustrate course concepts including modeling issues and limitations. 3 lectures, 1 laboratory. Crosslisted as CE/ME 504.",
+  "units": "4",
+  "prerequisites": "CE/ME 404 and CE 511 or ME 501 or consent of instructor",
+  "corequisites": null,
+  "crnc": false
+}

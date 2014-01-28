@@ -1,0 +1,9 @@
+{
+  "id": "chem-439",
+  "title": "Instrumental Analysis",
+  "description": "Theory, practice and method selection of modern instrumental analytical techniques, including spectroscopic, electrochemical, chromatographic and thermal methods. Current industrial applications. Laboratory work emphasizes optimization of experimental parameters. 3 lectures, 2 laboratories.",
+  "units": "5",
+  "prerequisites": "CHEM 231/331, CHEM 354",
+  "corequisites": null,
+  "crnc": false
+}

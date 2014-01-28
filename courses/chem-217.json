@@ -1,0 +1,9 @@
+{
+  "id": "chem-217",
+  "title": "Organic Chemistry for Life Sciences II",
+  "description": "Properties and reactions of carbonyl compounds, alcohols, and organic halides with an overview of the mechanisms of the reactions. Introductory concepts and applications of infrared and NMR spectroscopy. CHEM 217 accepted in lieu of CHEM 317, but not for upper division credit. Not open to Biochemistry or Chemistry majors. Not open to students with credit in CHEM 317. 3 lectures, 1 laboratory.",
+  "units": "4",
+  "prerequisites": "CHEM 216/316",
+  "corequisites": null,
+  "crnc": false
+}

@@ -1,0 +1,9 @@
+{
+  "id": "stat-321",
+  "title": "Probability and Statistics for Engineers and Scientists",
+  "description": "Tabular and graphical methods for data summary, numerical summary measures, probability concepts and properties, discrete and continuous probability distributions, expected values, statistics and their sampling distributions, point estimation, confidence intervals for a mean and proportion. Use of statistical software. 4 lectures. Fulfills GE B6.",
+  "units": "4",
+  "prerequisites": "MATH 142",
+  "corequisites": null,
+  "crnc": false
+}

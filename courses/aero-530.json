@@ -1,0 +1,9 @@
+{
+  "id": "aero-530",
+  "title": "Inelastic Structural Analysis",
+  "description": "Inelastic stress analysis. Yield criteria. Strain hardening. Plastic straining and bending. Elastic-plastic problems. Plastic instability. Slip-line fields for plains. Plastic strain problems and analysis and introduction to viscoplasticity. 3 lectures, 1 laboratory.",
+  "units": "4",
+  "prerequisites": "Graduate standing or consent of instructor",
+  "corequisites": null,
+  "crnc": false
+}

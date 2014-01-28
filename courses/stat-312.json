@@ -1,0 +1,9 @@
+{
+  "id": "stat-312",
+  "title": "Statistical Methods for Engineers",
+  "description": "Descriptive and graphical methods. Discrete and continuous probability distributions. One and two sample confidence intervals and hypothesis testing. Single factor analysis of variance. Quality control. Introduction to regression and to experimental design. Substantial use of statistical software. 4 lectures. Fulfills GE B6.",
+  "units": "4",
+  "prerequisites": "MATH 142",
+  "corequisites": null,
+  "crnc": false
+}

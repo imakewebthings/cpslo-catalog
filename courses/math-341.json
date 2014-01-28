@@ -1,0 +1,9 @@
+{
+  "id": "math-341",
+  "title": "Theory of Numbers",
+  "description": "Properties of numbers. Euclid's Algorithm, greatest common divisors, diophantine equations, prime numbers, congruences, number theoretic functions, the quadratic reciprocity laws, primitive roots and indices. 4 lectures.",
+  "units": "4",
+  "prerequisites": "MATH 248 with a grade of C- or better or consent of instructor",
+  "corequisites": null,
+  "crnc": false
+}

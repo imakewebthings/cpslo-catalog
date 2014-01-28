@@ -1,7 +1,9 @@
 {
   "id": "csc-236",
   "title": "Fundamentals of Computer Science for Scientists and Engineers II",
-  "description": "Further study of computer program development with an emphasis on mathematical, scientific and engineering applications. Introduction to more complicated data types and structures. Practice of more complicated techniques of procedural programming. Introduction to the principles of object-oriented programming using a modern programming language. Detailed discussion of lists and classic list algorithms, algorithm analysis, multidimensional arrays, records, dynamic data structures, file input/output, classes. Not a substitute for CSC/CPE 102 for CSC/CPE majors or minors. 3 lectures, 1 laboratory.",
-  "units": 4,
-  "prerequisites": "CSC/CPE 235 with a grade of C- or better, or consent of instructor."
+  "description": "Further study of computer program development with an emphasis on mathematical, scientific and engineering applications. Introduction to more complicated data types and structures. Practice of more complicated techniques of procedural programming. Introduction to the principles of object-oriented programming using a modern programming language. Detailed discussion of lists and classic list algorithms, algorithm analysis, multidimensional arrays, records, dynamic data structures, file input/output, classes. Not a substitute for CSC/CPE 102 for CSC/CPE majors or minors. 3 lectures, 1 laboratory. Crosslisted as CPE/CSC 236.",
+  "units": "4",
+  "prerequisites": "CSC/CPE 235 with a grade of C- or better, or consent of instructor",
+  "corequisites": null,
+  "crnc": false
 }

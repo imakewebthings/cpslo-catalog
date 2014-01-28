@@ -1,0 +1,9 @@
+{
+  "id": "cpe-564",
+  "title": "Computer Networks: Research Topics",
+  "description": "Exploration of advanced topics in emerging computer networking technologies; focus on leading edge computer network research topics. 3 lectures, 1 laboratory. Crosslisted as CPE/CSC 564.",
+  "units": "4",
+  "prerequisites": "CSC/CPE 464 and graduate standing, or consent of instructor",
+  "corequisites": null,
+  "crnc": false
+}

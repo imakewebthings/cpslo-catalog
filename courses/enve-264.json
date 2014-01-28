@@ -1,0 +1,9 @@
+{
+  "id": "enve-264",
+  "title": "Environmental Fluid Mechanics",
+  "description": "Theory and application of fluid statics and fluid dynamics to environmental problems in air and water systems. Fluid properties, pressure within stationary and moving systems, fluid momentum, pipe and channel flow including Bernoulli's Equation and friction effects, flow measurement systems. 4 lectures.",
+  "units": "4",
+  "prerequisites": "MATH 241, PHYS 132, and ME 211",
+  "corequisites": null,
+  "crnc": false
+}

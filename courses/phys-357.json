@@ -1,0 +1,9 @@
+{
+  "id": "phys-357",
+  "title": "Advanced Instrumentation in Experimental Physics",
+  "description": "Advanced analog and digital electronics, computer interfacing to experiments, robotics. 2 lectures, 1 laboratory.",
+  "units": "3",
+  "prerequisites": "PHYS 206 and PHYS 256",
+  "corequisites": null,
+  "crnc": false
+}

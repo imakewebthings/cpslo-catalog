@@ -1,0 +1,9 @@
+{
+  "id": "ee-420",
+  "title": "Sustainable Electric Energy Conversion",
+  "description": "Electrical engineering aspects of photovoltaic and wind power generation and usage, and electrochemical energy conversion. Power control, processing, and quality for grid-connected and stand-alone systems. Distribution and storage of electric energy. Hydrogen and synthetic fuels. Distributed generation. 3 lectures, 1 laboratory.",
+  "units": "4",
+  "prerequisites": "CHEM 124 and EE 255 & EE 295 or consent of instructor",
+  "corequisites": null,
+  "crnc": false
+}

@@ -1,0 +1,9 @@
+{
+  "id": "hist-512",
+  "title": "Supervised Reading for Comprehensive Exams",
+  "description": "Directed supervision of reading for MA comprehensive exams. Regular consultation between advisor and student. Total credit limited to 4 units.",
+  "units": "2",
+  "prerequisites": "HIST 504 and 12 units of graduate study",
+  "corequisites": null,
+  "crnc": false
+}

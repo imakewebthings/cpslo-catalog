@@ -1,0 +1,9 @@
+{
+  "id": "arch-221",
+  "title": "Architectural Design Fundamentals 2",
+  "description": "Continuation of ARCH 133 in terms of materiality, structure and function and the theories, concepts, processes and skills pertaining to the design of architectural form, space and organizations. 3 laboratories.",
+  "units": "3",
+  "prerequisites": "ARCH 133",
+  "corequisites": null,
+  "crnc": false
+}

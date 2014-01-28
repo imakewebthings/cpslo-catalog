@@ -1,0 +1,9 @@
+{
+  "id": "ee-415",
+  "title": "Communication Systems Design",
+  "description": "Design of modern electronic communication and telemetry systems. Emphasis: practical implementation and comparative evaluation of various modulation systems. 3 lectures.",
+  "units": "3",
+  "prerequisites": "EE 409 & EE 449, EE 314",
+  "corequisites": null,
+  "crnc": false
+}

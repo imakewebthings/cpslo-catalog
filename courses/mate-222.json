@@ -1,0 +1,9 @@
+{
+  "id": "mate-222",
+  "title": "Materials Selection Life Cycle",
+  "description": "Materials selection for sustainable product design. Use of material selection software and techniques to solve design problems with multiple objectives and constraints. Focus on Triple Bottom Line design including functionality, economic viability, and sustainability. Principles and tools for weighted property optimization, production cost modeling, and life cycle analysis introduced through project-based learning mode. 4 lectures.",
+  "units": "4",
+  "prerequisites": "MATE 210",
+  "corequisites": null,
+  "crnc": false
+}

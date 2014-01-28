@@ -1,0 +1,9 @@
+{
+  "id": "bmed-430",
+  "title": "Biomedical Modeling and Simulation",
+  "description": "Finite element methods for anatomical modeling and boundary value problems in the biomechanics of tissues and biomedical devices. Nonlinear biodynamics, heat flow, cardiac impulse propagation, anatomic modeling, and biomechanics. 1 lecture, 1 laboratory.",
+  "units": "2",
+  "prerequisites": "BMED 425 or consent of instructor",
+  "corequisites": null,
+  "crnc": false
+}

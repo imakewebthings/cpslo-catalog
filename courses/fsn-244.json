@@ -1,0 +1,9 @@
+{
+  "id": "fsn-244",
+  "title": "Cereal and Bakery Science",
+  "description": "Applied science of cereal-based products. Theory and practice underlying preparation of doughs, batters, fillings, and glazes. Chemistry of baking doughs and batters and storage of finished products. Marketing and product development of breads, cakes, cookies, and pastries. Comparative nutritional evaluation of flours, grains, and finished products. 3 lectures, 1 laboratory.",
+  "units": "4",
+  "prerequisites": "FSN 125 or FSN 230",
+  "corequisites": null,
+  "crnc": false
+}

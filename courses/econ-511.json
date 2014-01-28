@@ -1,0 +1,9 @@
+{
+  "id": "econ-511",
+  "title": "Microeconomic Analysis",
+  "description": "Basic microeconomic theory including theory of the firm, consumer theory, general equilibrium, capital theory, and welfare economics. 4 lectures.",
+  "units": "4",
+  "prerequisites": "Concurrent with ECON 510 and graduate standing, or consent of instructor",
+  "corequisites": null,
+  "crnc": false
+}

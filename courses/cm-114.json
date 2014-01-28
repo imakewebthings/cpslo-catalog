@@ -1,0 +1,9 @@
+{
+  "id": "cm-114",
+  "title": "Construction Materials and Assemblies Lab",
+  "description": "Exploration of the various materials, assemblies, and processes used and applied in the building construction process. Includes presentation, discussion, analysis, study and research of construction materials and assemblies. 2 laboratories.",
+  "units": "2",
+  "prerequisites": "EDES 101",
+  "corequisites": null,
+  "crnc": false
+}

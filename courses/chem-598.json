@@ -1,0 +1,9 @@
+{
+  "id": "chem-598",
+  "title": "Graduate Project",
+  "description": "Supervised industrial graduate internship in polymers and coatings science. Provides students with industrial research experience. Requires approval of graduate advisor. Students engage in industrial research and development at an approved industry, make regular reports back to graduate advisor, and present formal report and seminar on work each quarter. Total credit limited to 9 units.",
+  "units": "3",
+  "prerequisites": "CHEM 545, CHEM 547, CHEM 548, CHEM 550, CHEM 551",
+  "corequisites": null,
+  "crnc": false
+}

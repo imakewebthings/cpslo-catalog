@@ -1,0 +1,9 @@
+{
+  "id": "aero-102",
+  "title": "General Aviation",
+  "description": "Fundamentals of flight aerodynamics and principles. Introduction to power systems, instrumentation, flight planning, modern air navigation, weather data interpretation, flight computer uses, meteorology. Hands-on cockpit/taxi familiarization. Private pilot's examination preparation. Not a technical elective for engineering students. Field trip may be required. 4 lectures.",
+  "units": "4",
+  "prerequisites": null,
+  "corequisites": null,
+  "crnc": false
+}

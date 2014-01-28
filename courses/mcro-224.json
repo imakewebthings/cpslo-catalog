@@ -1,0 +1,9 @@
+{
+  "id": "mcro-224",
+  "title": "General Microbiology I",
+  "description": "Microbial cellular structure and function, nutrition and growth dynamics, control of microbial growth, metabolism, genetics, and viruses. Both prokaryotic and eukaryotic microorganisms emphasized. 3 lectures, 2 laboratories. Fulfills GE B2 & B4.",
+  "units": "5",
+  "prerequisites": "BIO 161 and CHEM 111, CHEM 124 or CHEM 127",
+  "corequisites": null,
+  "crnc": false
+}

@@ -1,0 +1,9 @@
+{
+  "id": "arch-460",
+  "title": "Computer Graphics Applications III",
+  "description": "Advanced methods in the application of computer graphics and multi-media techniques in architectural design. 2 lectures, 1 activity.",
+  "units": "3",
+  "prerequisites": "ARCH 133 or ARCH 160 or consent of instructor",
+  "corequisites": null,
+  "crnc": false
+}

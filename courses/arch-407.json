@@ -1,0 +1,9 @@
+{
+  "id": "arch-407",
+  "title": "Environmental Control Systems 3",
+  "description": "Theory and application of mechanical and electrical systems for comfort. Emphasis on internal-load dominated buildings. Consideration of artificial lighting, H.V.A.C. systems, acoustics, water and waste systems. 4 lectures.",
+  "units": "4",
+  "prerequisites": "ARCH 307",
+  "corequisites": null,
+  "crnc": false
+}

@@ -1,0 +1,9 @@
+{
+  "id": "me-212",
+  "title": "Engineering Dynamics",
+  "description": "Analysis of motions of particles and rigid bodies encountered in engineering. Velocity, acceleration, relative motion, work, energy, impulse, and momentum. Further development of mathematical modeling and problem solving. Vector mathematics where appropriate. 3 lectures.",
+  "units": "3",
+  "prerequisites": "MATH 241; ME 211 or ARCE 211",
+  "corequisites": null,
+  "crnc": false
+}

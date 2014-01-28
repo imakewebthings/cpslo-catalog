@@ -1,0 +1,9 @@
+{
+  "id": "chem-252",
+  "title": "Laboratory Glassblowing",
+  "description": "Techniques of glassblowing applied to the making of simple laboratory apparatus. 1 laboratory.",
+  "units": "1",
+  "prerequisites": "CHEM 111, CHEM 124 or CHEM 127",
+  "corequisites": null,
+  "crnc": false
+}

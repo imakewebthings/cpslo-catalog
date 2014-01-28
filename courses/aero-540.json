@@ -1,0 +1,9 @@
+{
+  "id": "aero-540",
+  "title": "Elements of Rocket Propulsion",
+  "description": "Thrust and impulse equations, propellant composition and mixture ratios, nozzle expansion ratios, solid and liquid propellant combustion, internal ballistics, thermo-chemical computations, chemical kinetics, and combustion instability, nozzle design and exhaust plumes. 4 seminars.",
+  "units": "4",
+  "prerequisites": "AERO 303, AERO 401, graduate standing or consent of instructor",
+  "corequisites": null,
+  "crnc": false
+}

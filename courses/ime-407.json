@@ -1,0 +1,9 @@
+{
+  "id": "ime-407",
+  "title": "Operations Research III",
+  "description": "Systems modeling and solution of large scale problems using advanced operations research methods. Integer and goal programming. Application of nonlinear, quadratic, dynamic programming concepts. Case studies of systems modeling including software aided analysis. 3 lectures, 1 activity.",
+  "units": "4",
+  "prerequisites": "IME 301 or consent of instructor",
+  "corequisites": null,
+  "crnc": false
+}

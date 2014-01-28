@@ -1,0 +1,9 @@
+{
+  "id": "arce-372",
+  "title": "Steel Structures Design Laboratory",
+  "description": "Steel framed project incorporating structural system configuration and selection, structural analysis for gravity and lateral loads, and construction drawings and specifications. Integration of building services and architectural design, constructability issues, and relationships between construction methods and cost. 3 laboratories. Cannot be taken concurrently with ARCE 451 or ARCE 452.",
+  "units": "3",
+  "prerequisites": "ARCE 257, ARCE 302, ARCE 303, ARCE 352 and ARCE 371 (C- or better required for ARCE Majors)",
+  "corequisites": null,
+  "crnc": false
+}

@@ -1,0 +1,9 @@
+{
+  "id": "mate-401",
+  "title": "Materials Characterization Techniques",
+  "description": "Hands-on experience with materials characterization instruments, such as scanning electron microscopy (SEM), light optical microscopy, x-ray diffraction (XRD), and atomic force microscopy (AFM). Open-ended projects to develop expertise with trouble-shooting ability, and the process of materials characterization and analysis 2 lectures, 2 laboratories.",
+  "units": "4",
+  "prerequisites": "MATE 210 and MATE 215",
+  "corequisites": null,
+  "crnc": false
+}

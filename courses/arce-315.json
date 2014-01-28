@@ -1,0 +1,9 @@
+{
+  "id": "arce-315",
+  "title": "Small Scale Structures",
+  "description": "Introduction to structures that use timber and steel as the primary construction material. Introduction to gravity load carrying systems and lateral load resisting systems using steel and timber elements. Development of skills to analyze structures using free body diagrams and the concept of load flow. 4 lectures.",
+  "units": "4",
+  "prerequisites": "ARCE 226",
+  "corequisites": null,
+  "crnc": false
+}

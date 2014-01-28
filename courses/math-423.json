@@ -1,0 +1,9 @@
+{
+  "id": "math-423",
+  "title": "Advanced Mathematics for Teaching",
+  "description": "Introduction to mathematics education research and advanced exploration of the mathematics taught in California's public high schools and middle schools through problem analysis, concept analysis, and problem connections. 4 lectures.",
+  "units": "4",
+  "prerequisites": "MATH 442 and MATH 481",
+  "corequisites": null,
+  "crnc": false
+}

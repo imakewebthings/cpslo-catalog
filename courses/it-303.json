@@ -1,0 +1,9 @@
+{
+  "id": "it-303",
+  "title": "Lean Six Sigma Green Belt",
+  "description": "Development of a comprehensive set of skills to effectively function as a lean six sigma leader. Discussion and problem workout sessions covering the lean six sigma green belt body of knowledge including problem definition, measurement, analysis, improvement, and control, as well as the team leadership skills necessary to complete projects. 4 lectures.",
+  "units": "4",
+  "prerequisites": "STAT 217, STAT 218, STAT 251, or any 300 or 400 level statistics course",
+  "corequisites": null,
+  "crnc": false
+}

@@ -1,0 +1,9 @@
+{
+  "id": "it-475",
+  "title": "Packaging Performance Testing",
+  "description": "Survey of tests and procedures for packaging materials and packaging products following ASTM and ISTA standards. The testing procedures include tests for shock, vibration, drop and impact as prescribed for shipment by truck, rail, sea, and air. Hands-on product/packaging testing for quality control. 2 lectures, 2 laboratories.",
+  "units": "4",
+  "prerequisites": "IT 330",
+  "corequisites": null,
+  "crnc": false
+}

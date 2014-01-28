@@ -1,0 +1,9 @@
+{
+  "id": "aero-421",
+  "title": "Spacecraft Attitude Dynamics and Control",
+  "description": "Introduction to spacecraft attitude dynamics and control. Momentum exchange devices and bang-bang thruster control. Orbit determination (GPS), maneuvers and station keeping. Fundamentals of guidance and navigation systems. Analysis and design of control systems for aerospace vehicles. 4 lectures.",
+  "units": "4",
+  "prerequisites": "AERO 300; AERO 351; and AERO 320",
+  "corequisites": null,
+  "crnc": false
+}

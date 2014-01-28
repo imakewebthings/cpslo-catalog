@@ -1,0 +1,9 @@
+{
+  "id": "me-415",
+  "title": "Energy Conversion",
+  "description": "Engineering aspects of energy sources, conversion and storage. Topics selected from fossil fuel systems, nuclear power, thermoelectric systems, thermionic converters, fuel cells, magnetohydrodynamic generators, and geothermal, tidal, wind and ocean temperature energy conversion systems. 4 lectures.",
+  "units": "4",
+  "prerequisites": "ME 302",
+  "corequisites": null,
+  "crnc": false
+}

@@ -1,0 +1,9 @@
+{
+  "id": "arch-450",
+  "title": "Digital Design and Visualization",
+  "description": "Theory, principles and techniques of computer aided architectural or product design, visualization, and digital animation. Utilization of desk-top computers and 2-D and 3-D software as integrated tools for development of a comprehensive computer enhanced design process. 5 laboratories.",
+  "units": "5",
+  "prerequisites": "For architecture majors, all prerequisites required by the year and course level for which the student is seeking credit; for non-architecture majors, junior standing or permission of instructor; for local professionals not seeking academic credit, permission of instructor",
+  "corequisites": null,
+  "crnc": false
+}

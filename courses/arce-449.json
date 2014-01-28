@@ -1,0 +1,9 @@
+{
+  "id": "arce-449",
+  "title": "Cold Formed Steel Design Laboratory",
+  "description": "Analysis and design of cold formed steel structural members subjected to bending, shear, and axial forces. Project based design and constructability of cold formed structural systems including gravity framing, diaphragms, shear walls and their connections. 3 laboratories.",
+  "units": "3",
+  "prerequisites": "ARCE 303 and ARCE 451 (C- or better required for ARCE Majors)",
+  "corequisites": null,
+  "crnc": false
+}

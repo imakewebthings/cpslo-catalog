@@ -1,0 +1,9 @@
+{
+  "id": "me-236",
+  "title": "Measurements and Engineering Data Analysis",
+  "description": "Introduction to principles and practice of measurement. Application of probability distributions, sampling, confidence intervals, uncertainty, and regression analysis to engineering experiments and design. Techniques for measuring common physical quantities such as temperature, pressure, and strain. Introduction to laboratory report writing and communication of technical data. 2 lectures, 1 laboratory.",
+  "units": "3",
+  "prerequisites": "Engineering majors",
+  "corequisites": null,
+  "crnc": false
+}

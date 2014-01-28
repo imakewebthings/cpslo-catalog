@@ -1,0 +1,9 @@
+{
+  "id": "hist-599",
+  "title": "Thesis",
+  "description": "Directed supervision of MA thesis. Regular consultation between advisor and student. Course to be taken three times over three separate quarters; total credit limited to 9 units.",
+  "units": "3",
+  "prerequisites": "Graduate standing in History",
+  "corequisites": null,
+  "crnc": false
+}

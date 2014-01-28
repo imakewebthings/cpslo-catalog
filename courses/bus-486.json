@@ -1,0 +1,9 @@
+{
+  "id": "bus-486",
+  "title": "Human Resource Information Systems",
+  "description": "Application of computers to the management of human resources. Human resource decision support systems and routine transaction processing. Ethical use of information systems in managing the human resource function. Basic system design decisions. Use of information systems to support traditional human resource functional areas. Exposure to enterprise-wide, integrated software. 4 lectures.",
+  "units": "4",
+  "prerequisites": "BUS 384 and BUS 391",
+  "corequisites": null,
+  "crnc": false
+}

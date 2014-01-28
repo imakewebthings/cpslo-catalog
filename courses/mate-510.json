@@ -1,0 +1,9 @@
+{
+  "id": "mate-510",
+  "title": "Materials Analysis",
+  "description": "Fundamentals of materials surface analysis methods and thin-film microanalytical techniques, including electron microscopy, SPM, AES, XPS, SIMS, Raman and FTIR. Selection of surface analysis techniques. 4 lectures.",
+  "units": "4",
+  "prerequisites": "MATE 210 and graduate standing",
+  "corequisites": null,
+  "crnc": false
+}

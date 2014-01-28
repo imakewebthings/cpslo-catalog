@@ -1,0 +1,9 @@
+{
+  "id": "geol-401",
+  "title": "Field-Geology Methods",
+  "description": "Collecting and interpreting field-geologic data. Description of sedimentary rocks and construction of stratigraphic columns. Mapping geologic structures in the field. Surficial geologic stratigraphy and surficial geologic mapping. Understanding geologic processes through field study. Communicating results of field study. 1 lecture, 3 activities. Crosslisted as ERSC/GEOL 401.",
+  "units": "4",
+  "prerequisites": "GEOL 102 or GEOL 201, GEOL 241, GEOL 415, ERSC 223, ERSC 323",
+  "corequisites": null,
+  "crnc": false
+}

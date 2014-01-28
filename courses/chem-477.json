@@ -1,0 +1,9 @@
+{
+  "id": "chem-477",
+  "title": "Biochemical Pharmacology",
+  "description": "Consideration of current selected topics in pharmacology and drug targeting. 3 lectures.",
+  "units": "3",
+  "prerequisites": "CHEM 218 or CHEM 318",
+  "corequisites": null,
+  "crnc": false
+}

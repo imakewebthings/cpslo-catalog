@@ -1,0 +1,9 @@
+{
+  "id": "arch-251",
+  "title": "Architectural Design 2",
+  "description": "Continuation of ARCH 133 in terms of materiality and the theories, concepts, processes and skills pertaining to the analysis and design of architectural form, space and organizations to communicate intended concepts and meanings. 5 laboratories.",
+  "units": "5",
+  "prerequisites": "ARCH 133",
+  "corequisites": "ARCH 241",
+  "crnc": false
+}

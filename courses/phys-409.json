@@ -1,0 +1,9 @@
+{
+  "id": "phys-409",
+  "title": "Electromagnetic Fields and Waves II",
+  "description": "Wave equation, plane electromagnetic waves, guided waves. Dipole radiation, radiation from an accelerated charge. Special relativity. 3 lectures.",
+  "units": "3",
+  "prerequisites": "PHYS 408",
+  "corequisites": null,
+  "crnc": false
+}

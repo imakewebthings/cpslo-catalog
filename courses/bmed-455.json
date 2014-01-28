@@ -1,0 +1,9 @@
+{
+  "id": "bmed-455",
+  "title": "Biomedical Engineering Design I",
+  "description": "Engineering design methodology, design process, project planning, decision making, modeling, construction, and testing of an open-ended design project. Preparation of formal engineering reports. Statistical analysis. Governmental regulations. Bioethical issues. 2 lectures, 2 laboratories.",
+  "units": "4",
+  "prerequisites": "BMED 410 or consent of instructor",
+  "corequisites": null,
+  "crnc": false
+}

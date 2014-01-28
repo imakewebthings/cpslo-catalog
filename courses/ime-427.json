@@ -1,0 +1,9 @@
+{
+  "id": "ime-427",
+  "title": "Design of Experiments",
+  "description": "Experimental design principles. Simple comparative experiments. One-way ANOVA. Randomized block design. Factorial designs and the 2k factorial design. Fractional factorial designs. Response surface methodology. Design projects using real world problems. 3 lectures, 1 laboratory.",
+  "units": "4",
+  "prerequisites": "IME 326 or IME 327; IME 503 or STAT 312",
+  "corequisites": null,
+  "crnc": false
+}

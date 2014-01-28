@@ -1,0 +1,9 @@
+{
+  "id": "math-541",
+  "title": "Topology II",
+  "description": "Introduction to general topological spaces with emphasis on surfaces and manifolds. Fundamental group. Triangulations of spaces, classification of surfaces. Other topics may include covering spaces, simplicial homology, homotopy theory and topics from differential topology. 4 lectures. Not open to students with credit in MATH 441.",
+  "units": "4",
+  "prerequisites": "MATH 540 and graduate standing",
+  "corequisites": null,
+  "crnc": false
+}

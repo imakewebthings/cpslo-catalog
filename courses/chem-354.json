@@ -1,0 +1,9 @@
+{
+  "id": "chem-354",
+  "title": "Physical Chemistry Laboratory",
+  "description": "Experimental studies of gases, solutions, thermochemistry, chemical and phase equilibria, electrochemistry, chemical and enzyme kinetics, computational methods and applications to chemistry and biochemistry. Applicable literature and databases. 2 laboratories.",
+  "units": "2",
+  "prerequisites": "CHEM 231/331",
+  "corequisites": "CHEM 352",
+  "crnc": false
+}

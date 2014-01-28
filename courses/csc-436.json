@@ -1,8 +1,9 @@
 {
   "id": "csc-436",
   "title": "Mobile Application Development",
-  "description": "Inception, development, testing, and deployment of mobile applications. Introduction to tools, libraries, and frameworks for one or more mobile platforms and devices. Emphasis on software engineering best practices for developing entrepreneurial or humanitarian mobile-centric applications. 3 lectures, 1 laboratory.",
-  "units": 4,
-  "prerequisites": "CSC/CPE 357."
+  "description": "Inception, development, testing, and deployment of mobile applications. Introduction to tools, libraries, and frameworks for one or more mobile platforms and devices. Emphasis on software engineering best practices for developing entrepreneurial or humanitarian mobile-centric applications. 3 lectures, 1 laboratory. Crosslisted as CPE/CSC 436.",
+  "units": "4",
+  "prerequisites": "CSC/CPE 357",
+  "corequisites": null,
+  "crnc": false
 }
-

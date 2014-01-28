@@ -1,0 +1,9 @@
+{
+  "id": "arce-504",
+  "title": "Finite Element Method for Building Structures",
+  "description": "Basic concepts of equilibrium and compatibility. Stiffness and flexibility properties of various types of finite elements. Development and application of displacement and force methods. Elastic stability and dynamic response of buildings to earthquake, wind, and moving loads. Use of finite-element computer programs. 3 seminars.",
+  "units": "3",
+  "prerequisites": "MATH 244, ARCE 306, ARCE 501",
+  "corequisites": null,
+  "crnc": false
+}

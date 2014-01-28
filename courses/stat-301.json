@@ -1,0 +1,9 @@
+{
+  "id": "stat-301",
+  "title": "Statistics I",
+  "description": "Introduction to statistics for mathematically inclined students, focused on process of statistical investigations. Observational studies, controlled experiments, randomization, confounding, randomization tests, hypergeometric distribution, descriptive statistics, sampling, bias, binomial distribution, significance tests, confidence intervals, normal model, t-procedures, two-sample procedures. Substantial use of statistical software. 4 lectures.",
+  "units": "4",
+  "prerequisites": null,
+  "corequisites": "MATH 142",
+  "crnc": false
+}

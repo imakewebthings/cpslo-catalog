@@ -1,0 +1,9 @@
+{
+  "id": "ce-558",
+  "title": "Advanced Fiber Reinforced Polymer (FRP) Design",
+  "description": "Properties and mechanical characteristics of FRP composites and design methodologies based on the current understanding and usage of FRP composites. Applications of composite rebars in civil engineering structures as primary reinforcement. Design and analysis of reinforced concrete structures utilizing FRP rebars based on the ACI 440 design guidelines. Not open to students with credit in CE 458. 3 lectures, 1 laboratory.",
+  "units": "4",
+  "prerequisites": "CE 355",
+  "corequisites": null,
+  "crnc": false
+}

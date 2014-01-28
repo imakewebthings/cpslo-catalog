@@ -1,0 +1,9 @@
+{
+  "id": "math-451",
+  "title": "Numerical Analysis I",
+  "description": "Topics in interpolation and approximation methods, initial value problems, and boundary value problems of ordinary differential equations. 4 lectures.",
+  "units": "4",
+  "prerequisites": "MATH 206 and MATH 242, or MATH 241 and MATH 244, and an introductory college-level programming course",
+  "corequisites": null,
+  "crnc": false
+}

@@ -1,0 +1,9 @@
+{
+  "id": "zoo-321",
+  "title": "Mammalogy",
+  "description": "Ecology, behavior, physiology, functional morphology, and evolution of mammals. Classification and identification of mammals, with emphasis on California species. 2 lectures, 2 laboratories.",
+  "units": "4",
+  "prerequisites": "BIO 162 or BIO 263 or BIO 427 or ASCI 329",
+  "corequisites": null,
+  "crnc": false
+}

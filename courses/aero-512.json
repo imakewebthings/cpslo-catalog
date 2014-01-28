@@ -1,0 +1,9 @@
+{
+  "id": "aero-512",
+  "title": "Aerospace Vehicle Software Application",
+  "description": "Computer system requirements for aerospace vehicles. Typical aerospace vehicle computer architectures. Software testing, verification and validation. Vehicle automatic systems. Risks and benefits of vehicle autonomous operations. Integration of software with vehicle subsystems. Software development cost/schedule estimation. 4 lectures.",
+  "units": "4",
+  "prerequisites": "AERO 510, AERO 546 and graduate standing",
+  "corequisites": null,
+  "crnc": false
+}

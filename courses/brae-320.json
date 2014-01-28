@@ -1,0 +1,9 @@
+{
+  "id": "brae-320",
+  "title": "Principles of Bioresource Engineering",
+  "description": "Theory and applications of bioprocess technology in biological and agricultural systems. Engineering properties of biological materials and organisms. Basic unit operations, fluid mechanics and heat/mass transfer as applied to bioprocess technology. Special requirements of agricultural and biological processes. 3 lectures, 1 laboratory.",
+  "units": "4",
+  "prerequisites": "BRAE 232, BRAE 236, PHYS 132",
+  "corequisites": null,
+  "crnc": false
+}

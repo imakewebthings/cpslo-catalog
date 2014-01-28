@@ -1,0 +1,9 @@
+{
+  "id": "ee-251",
+  "title": "Electric Circuits Laboratory",
+  "description": "Techniques of measurement of DC and steady-state AC circuit parameters. Equivalent circuits, nonlinear elements, resonance. 1 laboratory.",
+  "units": "1",
+  "prerequisites": null,
+  "corequisites": null,
+  "crnc": false
+}

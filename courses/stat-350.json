@@ -1,0 +1,9 @@
+{
+  "id": "stat-350",
+  "title": "Probability and Random Processes for Engineers",
+  "description": "Random events, random variables, and random processes, with emphasis on probabilistic treatment of signals and noise. Specific topics include: sample spaces, probability, distributions, independence, moments, covariance, time/ensemble averages, stationarity, common processes, correlation and spectral functions. 4 lectures. Fulfills GE B6.",
+  "units": "4",
+  "prerequisites": "MATH 241, EE 228",
+  "corequisites": null,
+  "crnc": false
+}

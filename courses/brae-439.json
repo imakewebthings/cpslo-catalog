@@ -1,0 +1,9 @@
+{
+  "id": "brae-439",
+  "title": "Vineyard Water Management",
+  "description": "Management of rain and irrigation water in vineyards. Irrigation scheduling, managing water stress, climate control with irrigation methods commonly used. Management for wine, table grapes, and raisins. 3 lectures, 1 laboratory.",
+  "units": "4",
+  "prerequisites": "BRAE 340 or BRAE 236",
+  "corequisites": null,
+  "crnc": false
+}

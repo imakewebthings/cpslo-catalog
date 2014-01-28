@@ -1,0 +1,9 @@
+{
+  "id": "ee-342",
+  "title": "Classical Control Systems Laboratory",
+  "description": "Laboratory work pertaining to classical control systems, including servo control, transient and frequency responses, stability, and computer-aided analysis of control systems. 1 laboratory.",
+  "units": "1",
+  "prerequisites": "EE 228",
+  "corequisites": null,
+  "crnc": false
+}

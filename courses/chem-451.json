@@ -1,0 +1,9 @@
+{
+  "id": "chem-451",
+  "title": "Polymers and Coatings Laboratory III",
+  "description": "Preparation and characterization of coatings - solvent based and waterborne. Thermoplastic and thermosetting coatings. Coating film preparation methods. Applications of spectroscopy, scanning probe microscopy, thermal analysis, rheology in characterizing coatings. VOC, long-term exposure testing. Measurement of appearance (color, gloss). Not open to students with credit in CHEM 551. 2 laboratories.",
+  "units": "2",
+  "prerequisites": "CHEM 447 or CHEM 547",
+  "corequisites": "CHEM 450",
+  "crnc": false
+}

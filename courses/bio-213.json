@@ -1,0 +1,9 @@
+{
+  "id": "bio-213",
+  "title": "Life Science for Engineers",
+  "description": "Fundamentals of life sciences: energetics, cell biology, molecular and classical genetics, microbiology, organismal biology, and ecology. 2 lectures. Fulfills GE B2.",
+  "units": "2",
+  "prerequisites": "MATH 142; for engineering students only",
+  "corequisites": "ENGR/BRAE 213",
+  "crnc": false
+}

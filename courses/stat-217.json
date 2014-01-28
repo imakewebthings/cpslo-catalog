@@ -1,0 +1,9 @@
+{
+  "id": "stat-217",
+  "title": "Introduction to Statistical Concepts and Methods",
+  "description": "Sampling and experimentation, descriptive statistics, confidence intervals, two-sample hypothesis tests for means and proportions, Chi-square tests, linear and multiple regression, analysis of variance. Substantial use of statistical software. Not open to students with credit in STAT 218 or STAT 251. Course may be offered in classroom-based or online format. 4 lectures. Fulfills GE B1.",
+  "units": "4",
+  "prerequisites": "Passing score on the ELM examination, or an ELM exemption, or credit in MATH 104",
+  "corequisites": null,
+  "crnc": false
+}

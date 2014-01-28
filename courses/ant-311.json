@@ -1,0 +1,9 @@
+{
+  "id": "ant-311",
+  "title": "Archaeological Laboratory Methods",
+  "description": "Hands-on introduction to the methods employed in post-field processing, classification, analysis, and preservation of archaeological materials. Compilation of quantitative and qualitative information in data base format to assist in the classification and interpretation of faunal remains and artifacts. 3 lectures, 1 laboratory.",
+  "units": "4",
+  "prerequisites": "ANT 309 or ANT 310",
+  "corequisites": null,
+  "crnc": false
+}

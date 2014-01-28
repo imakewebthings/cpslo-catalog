@@ -1,0 +1,9 @@
+{
+  "id": "bio-452",
+  "title": "Cell Biology",
+  "description": "Introduction to cell structure and function, energy conversions, protein sorting, signaling, cytoskeleton, cell adhesion, and the cell cycle. 3 lectures, 1 laboratory.",
+  "units": "4",
+  "prerequisites": "BIO 351 or CHEM 373; and CHEM 216, CHEM 312 or CHEM 316",
+  "corequisites": null,
+  "crnc": false
+}

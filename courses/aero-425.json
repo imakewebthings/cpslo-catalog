@@ -1,0 +1,9 @@
+{
+  "id": "aero-425",
+  "title": "Aircraft Performance",
+  "description": "Fundamentals of propeller and jet aircraft performance. Steady and accelerated flight. Equations of motion. Level flight, gliding, climbing, driftdown. Takeoff and landing. Federal Aviation Regulations (FARs). Range and endurance. Payload-range diagram. Maneuvering. V-n diagram. Turning and pull-ups. Stall and spin behavior. Energy methods. 4 lectures.",
+  "units": "4",
+  "prerequisites": "ME 212, AERO 306, AERO 300",
+  "corequisites": null,
+  "crnc": false
+}

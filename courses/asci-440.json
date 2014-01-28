@@ -1,0 +1,9 @@
+{
+  "id": "asci-440",
+  "title": "Immunology and Diseases of Animals",
+  "description": "Introduction to immune system, including innate and acquired immunity of domesticated animals. Application of immunological analyses and examination of current disease issues in domesticated animals. 3 lectures, 1 laboratory.",
+  "units": "4",
+  "prerequisites": "ASCI 229",
+  "corequisites": null,
+  "crnc": false
+}

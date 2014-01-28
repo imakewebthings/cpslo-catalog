@@ -1,0 +1,9 @@
+{
+  "id": "me-234",
+  "title": "Philosophy of Design",
+  "description": "General approach to the meaning of engineering design. Conceptual blocks, creativity, design process, design considerations and elements. 3 lectures.",
+  "units": "3",
+  "prerequisites": "ME 130 or ME 228",
+  "corequisites": null,
+  "crnc": false
+}

@@ -1,0 +1,9 @@
+{
+  "id": "arce-448",
+  "title": "Seismic Rehabilitation Laboratory",
+  "description": "Overview of the general rehabilitation process and philosophy. Evaluation and analysis of existing structures to determine expected performance due to seismic loads. Development of basic rehabilitation strategies for buildings. 3 laboratories.",
+  "units": "3",
+  "prerequisites": "ARCE 303, ARCE 304, ARCE 305, ARCE 412, ARCE 444 (C- or better required for ARCE Majors)",
+  "corequisites": null,
+  "crnc": false
+}

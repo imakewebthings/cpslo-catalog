@@ -1,0 +1,9 @@
+{
+  "id": "aero-511",
+  "title": "Systems Engineering II",
+  "description": "Risk management. Design strategies to meet system/mission requirements. Design for supportability, manufacturability, reliability, etc. Quality function development and quality control concepts. 4 lectures. Crosslisted as AERO/IME 511.",
+  "units": "4",
+  "prerequisites": "AERO 510 or IME 510, graduate standing or consent of instructor",
+  "corequisites": null,
+  "crnc": false
+}

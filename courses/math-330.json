@@ -1,0 +1,9 @@
+{
+  "id": "math-330",
+  "title": "Algebraic Thinking with Technology",
+  "description": "Algebraic concepts for elementary teachers. Mathematical patterns, equations and inequalities, linear and quadratic functions, exponential and logarithmic functions, systems of equations, roots of polynomials, factoring of polynomials, and right-triangle trigonometry. Computer applications. 4 lectures.",
+  "units": "4",
+  "prerequisites": "MATH 329",
+  "corequisites": null,
+  "crnc": false
+}

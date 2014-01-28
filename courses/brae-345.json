@@ -1,0 +1,9 @@
+{
+  "id": "brae-345",
+  "title": "Aerial Photogrammetry and Remote Sensing",
+  "description": "Object recognition, three-dimensional equipment, and interpretation of aerial photographs. Print alignment, stereoscopic viewing, scales, elevation determination, and application. Orthophotos and their relationship to Geographic Information Systems (GIS). Application of aerial photos to regional studies. 2 lectures, 1 laboratory.",
+  "units": "3",
+  "prerequisites": "MATH 118",
+  "corequisites": null,
+  "crnc": false
+}

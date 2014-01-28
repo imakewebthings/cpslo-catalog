@@ -1,0 +1,9 @@
+{
+  "id": "mcro-221",
+  "title": "Microbiology",
+  "description": "Morphology, metabolism, classification, and identification; microbiology of air, soil, water, and foods with applications to industry, agriculture, medicine, and public health. Not open to students with credit in MCRO 224; not for credit for BIO or MCRO majors. 3 lectures, 1 laboratory. Fulfills GE B2 & B4.",
+  "units": "4",
+  "prerequisites": "CHEM 110 or CHEM 111 or CHEM 124 or CHEM 127 or PSC 102",
+  "corequisites": null,
+  "crnc": false
+}

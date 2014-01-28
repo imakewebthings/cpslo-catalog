@@ -1,0 +1,9 @@
+{
+  "id": "ce-207",
+  "title": "Mechanics of Materials II",
+  "description": "Combined stress states including torsion, axial, shear, moment, and pressure vessel loadings. Principle stress/strain states. Basic failure criteria. Analysis of beam forces, moments, deflections, and rotations. Introduction to stability concepts including column buckling. 3 lectures.",
+  "units": "3",
+  "prerequisites": "CE 204",
+  "corequisites": null,
+  "crnc": false
+}

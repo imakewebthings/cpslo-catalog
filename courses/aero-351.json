@@ -1,0 +1,9 @@
+{
+  "id": "aero-351",
+  "title": "Introduction to Orbital Mechanics",
+  "description": "Motion of a body in a central field. Keplerian Orbits. Orbital maneuvers. Interplanetary trajectories. 4 lectures. Formerly AERO 451.",
+  "units": "4",
+  "prerequisites": "AERO 300 and ME 212",
+  "corequisites": null,
+  "crnc": false
+}

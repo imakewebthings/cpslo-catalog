@@ -1,0 +1,9 @@
+{
+  "id": "ime-327",
+  "title": "Test Design and Analysis in Manufacturing Engineering",
+  "description": "Sampling and descriptive statistics. Central limit theorem. Hypothesis testing for means and variances. Analysis of variance (ANOVA) and factorial design. Applications in engineering design, reliability manufacturing, and inspection. Design projects. 3 lectures, 1 laboratory.",
+  "units": "4",
+  "prerequisites": "ME 236 or STAT 312 or STAT 321",
+  "corequisites": null,
+  "crnc": false
+}

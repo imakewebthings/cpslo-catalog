@@ -1,0 +1,9 @@
+{
+  "id": "bus-432",
+  "title": "Insurance Planning and Risk Management",
+  "description": "Introduction to insurance planning and risk management and its role in financial planning. Key concepts include determining risk exposure and selecting insurance products. Legal aspects of property and liability policy, life, health, and social insurance. 4 lectures.",
+  "units": "4",
+  "prerequisites": "BUS 342",
+  "corequisites": null,
+  "crnc": false
+}

@@ -1,0 +1,9 @@
+{
+  "id": "bio-502",
+  "title": "Biology of Organisms",
+  "description": "Principles of and current topics in organismal biology, with an emphasis on physiology (including organ systems), behavior, and responses to the environment. 3 lectures, 1 laboratory.",
+  "units": "4",
+  "prerequisites": "BIO 501 and graduate standing in Biological Sciences, or consent of instructor",
+  "corequisites": null,
+  "crnc": false
+}

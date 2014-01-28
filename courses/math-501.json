@@ -1,0 +1,9 @@
+{
+  "id": "math-501",
+  "title": "Analytic Methods in Applied Mathematics",
+  "description": "Introduction to advanced methods of mathematics useful in the analysis of engineering problems. Selected topics in perturbation theory, optimization and Fourier analysis. Not open to students in math major or master's degree program in mathematics. 4 lectures.",
+  "units": "4",
+  "prerequisites": "MATH 344 or AERO 300, and graduate standing",
+  "corequisites": null,
+  "crnc": false
+}

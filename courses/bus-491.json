@@ -1,0 +1,9 @@
+{
+  "id": "bus-491",
+  "title": "Decision Support Systems",
+  "description": "Modeling organizational systems and processes such as computer networks, transportation systems, manufacturing systems, retail systems, etc. Developing computer simulation models and animation of systems to provide decision support in selecting system design alternatives. Applying quantitative methods to model uncertainty and conduct statistical performance analysis. 4 lectures.",
+  "units": "4",
+  "prerequisites": "BUS 391, STAT 251 or equivalent; Business and Economics majors must have formally declared their concentration to enroll",
+  "corequisites": null,
+  "crnc": false
+}

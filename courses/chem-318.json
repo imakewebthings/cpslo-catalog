@@ -1,0 +1,9 @@
+{
+  "id": "chem-318",
+  "title": "Organic Chemistry III",
+  "description": "Chemistry of amines, aromatic compounds, heterocycles, macromolecules, some biomolecules, carbanions, rearrangement and ultraviolet and mass spectrometry. Not open to students with credit in CHEM 218. 3 lectures.",
+  "units": "3",
+  "prerequisites": "CHEM 217/317",
+  "corequisites": null,
+  "crnc": false
+}

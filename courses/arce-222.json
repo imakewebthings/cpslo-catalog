@@ -1,0 +1,9 @@
+{
+  "id": "arce-222",
+  "title": "Introduction to Mechanics of Structural Members",
+  "description": "Stress-strain relationships. Stresses and deformations in structural members due to axial force, shear, torsion, and moment. 3 lectures.",
+  "units": "3",
+  "prerequisites": "ARCE 221 (C- or better required for ARCE Majors)",
+  "corequisites": null,
+  "crnc": false
+}

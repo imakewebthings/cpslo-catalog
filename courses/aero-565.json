@@ -1,0 +1,9 @@
+{
+  "id": "aero-565",
+  "title": "Advanced Topics in Aircraft Design",
+  "description": "Application of advanced analytic engineering methods to aircraft design problems. Analysis and synthesis of advanced topics related to design of aircraft. 4 lectures.",
+  "units": "4",
+  "prerequisites": "AERO 522, AERO 530 and AERO 550, graduate standing or consent of instructor",
+  "corequisites": null,
+  "crnc": false
+}

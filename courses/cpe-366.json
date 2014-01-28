@@ -1,0 +1,9 @@
+{
+  "id": "cpe-366",
+  "title": "Database Modeling, Design and Implementation",
+  "description": "The database modeling problem. Database modeling levels: external, conceptual, logical and physical. Database models: entity-relationship, relational, object-oriented, semantic, and object-relational. Normal forms. Distributed database design. Functional analysis of database applications and transaction specification, design, and implementation. 3 lectures, 1 laboratory. Crosslisted as CPE/CSC 366.",
+  "units": "4",
+  "prerequisites": "CSC/CPE 365",
+  "corequisites": null,
+  "crnc": false
+}

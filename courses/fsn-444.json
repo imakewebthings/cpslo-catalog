@@ -1,0 +1,9 @@
+{
+  "id": "fsn-444",
+  "title": "Food Engineering",
+  "description": "Engineering principles governing heat transfer, fluid flow, and introductory mass transfer and application of these principles to selected unit operations; theoretical aspects of the scientific and engineering principles of fluid flow and the transfer and change of materials and energy primarily by physical means during processing of food. 4 lectures.",
+  "units": "4",
+  "prerequisites": "FSN 204 and FSN 330",
+  "corequisites": null,
+  "crnc": false
+}

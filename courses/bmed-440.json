@@ -1,0 +1,9 @@
+{
+  "id": "bmed-440",
+  "title": "Bioelectronics and Instrumentation",
+  "description": "Analog and digital circuits in bioinstrumentation. Biomedical signals in continuous and discrete systems. Sampling and digital signal processing. Ultrasound, MRI, CT, Bioelectromagnetics. Electrokinetics. Biophysical phenomena, transducers, and electronics as related to the design of biomedical instrumentation. Potentiometric and amperometric signals and amplifiers. Biopotentials, membrane potentials, chemical sensors. Mechanical transducers for displacement, force and pressure. Temperature sensors. Flow sensors. Light-based instrumentation. Electrical safety. 3 lectures, 1 laboratory.",
+  "units": "4",
+  "prerequisites": null,
+  "corequisites": null,
+  "crnc": false
+}

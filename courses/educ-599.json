@@ -1,0 +1,9 @@
+{
+  "id": "educ-599",
+  "title": "Thesis or Project",
+  "description": "Completion of a thesis or project pertinent to the field of education. Student must register for each quarter of advisement. Total credit limited to 6 units.",
+  "units": "3",
+  "prerequisites": "Consent of graduate committee and supervising faculty member(s)",
+  "corequisites": null,
+  "crnc": false
+}

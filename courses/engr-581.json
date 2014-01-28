@@ -1,0 +1,9 @@
+{
+  "id": "engr-581",
+  "title": "Biochemical Engineering I",
+  "description": "Fundamentals of Biotechnology. Types of microorganisms and their structure. Stoichiometric and thermodynamic principles for microbial growth and metabolism. Material and energy balances for aerobic and anaerobic growth and bioreactor design. Kinetics of enzyme catalyzed reactions. 3 seminars, 1 laboratory. Crosslisted as ENGR/ENVE 581.",
+  "units": "4",
+  "prerequisites": "MCRO 221 and CHEM 312",
+  "corequisites": null,
+  "crnc": false
+}

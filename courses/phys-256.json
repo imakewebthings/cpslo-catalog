@@ -1,0 +1,9 @@
+{
+  "id": "phys-256",
+  "title": "Electrical Measurements Laboratory",
+  "description": "Experimental studies of circuit analysis and electronics; introduction to digital techniques; instrumentation. 1 laboratory.",
+  "units": "1",
+  "prerequisites": "PHYS 133, MATH 143",
+  "corequisites": null,
+  "crnc": false
+}

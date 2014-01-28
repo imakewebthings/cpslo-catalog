@@ -1,0 +1,9 @@
+{
+  "id": "aero-523",
+  "title": "Turbulence",
+  "description": "Flow physics of turbulence. Turbulence scales and structures. Reynolds equations. Vorticity dynamics. Energy production, convection, and dissipation. Similarity rules and turbulence modeling for jets, wakes, mixing and boundary layers. Effect of turbulence on noise, combustion, heat transfer, and flow control. 4 lectures.",
+  "units": "4",
+  "prerequisites": "AERO 302, graduate standing or consent of instructor",
+  "corequisites": null,
+  "crnc": false
+}

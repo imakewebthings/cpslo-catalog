@@ -1,0 +1,9 @@
+{
+  "id": "kine-300",
+  "title": "Planning Techniques in Physical Education",
+  "description": "Practical skills and techniques of teaching physical education in schools. Unit and lesson planning, class management, implementation and evaluation of a lesson in a laboratory setting. 2 lectures, 1 laboratory.",
+  "units": "3",
+  "prerequisites": "KINE 180",
+  "corequisites": "KINE 306",
+  "crnc": false
+}

@@ -1,0 +1,9 @@
+{
+  "id": "mate-445",
+  "title": "Joining of Advanced Materials Laboratory",
+  "description": "Laboratory to accompany MATE 440. Illustration of principles, primary variables, and microstructural changes associated with the joining process. Physics of energy transfer. Heat and mass balances in joining, thermodynamic and kinetic justification of solidification and near interface micro-structures. Heterogeneous interfaces, adhesion, wetting. Relation between process selection, interface design, microstructure, and properties, weldability. 2 laboratories.",
+  "units": "2",
+  "prerequisites": "MATE 210",
+  "corequisites": null,
+  "crnc": false
+}

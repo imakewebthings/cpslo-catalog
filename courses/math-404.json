@@ -1,0 +1,9 @@
+{
+  "id": "math-404",
+  "title": "Introduction to Differential Geometry",
+  "description": "Theory of curves and surfaces in space. Topics such as Frenet formulas, curvature, geodesics, Cartan structural equations, Gauss-Bonnet Theorem. 4 lectures.",
+  "units": "4",
+  "prerequisites": "MATH 304",
+  "corequisites": null,
+  "crnc": false
+}

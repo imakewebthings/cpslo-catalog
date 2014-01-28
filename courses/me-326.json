@@ -1,0 +1,9 @@
+{
+  "id": "me-326",
+  "title": "Intermediate Dynamics",
+  "description": "Continuation of ME 212. Additional analysis of planar motion of rigid bodies with particular attention to the kinematics of mechanisms. Rotating reference frames. Introduction to three dimensional dynamics. Dynamic simulation of mechanisms. 3 lectures, 1 activity.",
+  "units": "4",
+  "prerequisites": "MATH 244 (or concurrent), ME 212, CSC 231 or CSC 234",
+  "corequisites": null,
+  "crnc": false
+}

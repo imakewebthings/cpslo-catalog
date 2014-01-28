@@ -1,0 +1,9 @@
+{
+  "id": "econ-522",
+  "title": "Advanced Econometrics II",
+  "description": "The use of statistical procedures to deal with simultaneous equations, limited dependent variables and time-series data. Includes methods of instrumental variables, generalized method of moments and maximum likelihood. 4 lectures.",
+  "units": "4",
+  "prerequisites": "ECON 520 and graduate standing, or consent of instructor",
+  "corequisites": null,
+  "crnc": false
+}

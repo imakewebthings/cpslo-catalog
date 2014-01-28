@@ -1,0 +1,9 @@
+{
+  "id": "aero-524",
+  "title": "Low Gravity Fluid Dynamics and Heat Transfer",
+  "description": "Low gravity environment. Mass, momentum and energy transport equations. Free and forced convections. Materials processing. Two-phase flows. Combustion and flame propagation. Turbulence. Fluid management in space. Students are expected to do self-study and make a presentation for the seminar. 3 lectures, 1 seminar.",
+  "units": "4",
+  "prerequisites": "AERO 301, AERO 302, and AERO 303, graduate standing or consent of instructor",
+  "corequisites": null,
+  "crnc": false
+}

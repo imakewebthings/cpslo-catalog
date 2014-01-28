@@ -1,0 +1,9 @@
+{
+  "id": "me-251",
+  "title": "Introduction to Detailed Design with Solid Modeling",
+  "description": "Part and system or assembly design with solid modeling using current software and hardware. Techniques of advanced communication including weld symbols, threaded fasteners, dimensioning and tolerancing. Creation of design layouts and part models with varied configurations and dynamic assembly models. Introduction to section mass and inertia properties. Emphasis of group work and peer review in the production of parts for assemblies. 1 lecture, 1 laboratory.",
+  "units": "2",
+  "prerequisites": "ME 130 or ME 228; Sophomore standing",
+  "corequisites": null,
+  "crnc": false
+}

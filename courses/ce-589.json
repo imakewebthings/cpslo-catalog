@@ -1,0 +1,9 @@
+{
+  "id": "ce-589",
+  "title": "Geosynthetics Engineering",
+  "description": "Geosynthetics applications within civil engineering. Design content for geotechnical, geoenvironmental, and transportation applications. Manufacturing processes, material properties, interaction with soils, and service conditions. 4 lectures.",
+  "units": "4",
+  "prerequisites": "CE 481",
+  "corequisites": null,
+  "crnc": false
+}

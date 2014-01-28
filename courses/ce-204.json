@@ -1,0 +1,9 @@
+{
+  "id": "ce-204",
+  "title": "Mechanics of Materials I",
+  "description": "Stresses, strains, and deformations associated with axial, torsional, and flexural loading of bars, shafts, and beams. Analysis of elementary determinate and indeterminate mechanical and structural systems. 3 lectures.",
+  "units": "3",
+  "prerequisites": "ME 211",
+  "corequisites": null,
+  "crnc": false
+}

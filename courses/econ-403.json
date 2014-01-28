@@ -1,0 +1,9 @@
+{
+  "id": "econ-403",
+  "title": "Industrial Organization",
+  "description": "Application of basic tools of economics to American Industry. Case studies of individual firms and industries. Performance of various business structures, such as monopoly and oligopoly. Effects of government regulation and antitrust policy. 4 lectures.",
+  "units": "4",
+  "prerequisites": "ECON 311 or consent of instructor",
+  "corequisites": null,
+  "crnc": false
+}

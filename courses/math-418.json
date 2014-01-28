@@ -1,0 +1,9 @@
+{
+  "id": "math-418",
+  "title": "Partial Differential Equations",
+  "description": "Mathematical formulation of physical laws. Separation of variables. Orthogonal functions and generalized Fourier series. Bessel functions, Legendre polynomials. Sturm-Liouville problem. Boundary value problems; nonhomogeneous techniques. Applications to heat flow, potential theory, vibrating strings and membranes. 4 lectures.",
+  "units": "4",
+  "prerequisites": "MATH 344 or consent of instructor",
+  "corequisites": null,
+  "crnc": false
+}

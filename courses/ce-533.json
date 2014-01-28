@@ -1,0 +1,9 @@
+{
+  "id": "ce-533",
+  "title": "Advanced Water Resources Engineering",
+  "description": "Matrix and simulation methods in hydrology, statistical studies in hydrology and their applications to civil engineering problems. Generalized hydrologic characteristics. Hydrologic simulation, computer applications, urban and small watershed hydrology, macroscopic and microscopic approach. Storm water management models. Hydrologic design. 4 lectures.",
+  "units": "4",
+  "prerequisites": "CE 336, graduate standing or consent of instructor",
+  "corequisites": null,
+  "crnc": false
+}

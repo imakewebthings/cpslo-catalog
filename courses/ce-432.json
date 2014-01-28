@@ -1,0 +1,9 @@
+{
+  "id": "ce-432",
+  "title": "Coastal Hydraulics II",
+  "description": "Reformed breaker height determination, wave runup analysis using a reformed breaker height. Wave setback analysis. Pile height determination. Criteria for types of breaking waves. Revetment analysis, rip-rap revetment design, wave forces on pilings. 4 lectures.",
+  "units": "4",
+  "prerequisites": "CE 431",
+  "corequisites": null,
+  "crnc": false
+}

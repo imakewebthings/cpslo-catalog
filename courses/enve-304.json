@@ -1,0 +1,9 @@
+{
+  "id": "enve-304",
+  "title": "Process Thermodynamics",
+  "description": "First and second laws of thermodynamics, properties of gases, liquids and mixtures, vapor-liquid equilibria, solubility and absorption, equilibrium in chemical reactions, thermodynamic applications in environmental engineering. 3 lectures.",
+  "units": "3",
+  "prerequisites": null,
+  "corequisites": "CHEM 125 or CHEM 129; ENVE 331",
+  "crnc": false
+}

@@ -1,0 +1,9 @@
+{
+  "id": "la-438",
+  "title": "GIS Application to Design Projects (ILC)",
+  "description": "Integrated Learning Course (ILC) to assist integration and application of geographic information systems (GIS) and spatial information into focus design studio courses. Total credit limited to 12 units. 4 activities.",
+  "units": "4",
+  "prerequisites": null,
+  "corequisites": "LA 220",
+  "crnc": false
+}

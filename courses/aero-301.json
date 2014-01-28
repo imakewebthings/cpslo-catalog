@@ -1,0 +1,9 @@
+{
+  "id": "aero-301",
+  "title": "Aerothermodynamics I",
+  "description": "Properties and characteristics of fluids, fluid statics and dynamics, the thermodynamic relations, laminar and turbulent flows, subsonic and supersonic flows as applied to flight vehicles. Introduction to heat transfer. 4 lectures.",
+  "units": "4",
+  "prerequisites": "ME 211",
+  "corequisites": "AERO 300",
+  "crnc": false
+}

@@ -1,0 +1,9 @@
+{
+  "id": "me-579",
+  "title": "Fluid Power Control",
+  "description": "Design, analysis, and control of fluid power systems. Analysis of fluid power system components such as valves, actuators, pumps and motors. System response and stability. Dynamic modeling and computer simulation 3 lectures, 1 laboratory.",
+  "units": "4",
+  "prerequisites": "ME 422",
+  "corequisites": null,
+  "crnc": false
+}

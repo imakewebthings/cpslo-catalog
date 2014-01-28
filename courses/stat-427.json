@@ -1,0 +1,9 @@
+{
+  "id": "stat-427",
+  "title": "Mathematical Statistics",
+  "description": "Continuation of STAT 426. The theory of hypothesis testing and its applications. Power and uniformly most powerful tests. Categorical data and nonparametric methods. Other selected topics. 4 lectures.",
+  "units": "4",
+  "prerequisites": "STAT 426",
+  "corequisites": null,
+  "crnc": false
+}

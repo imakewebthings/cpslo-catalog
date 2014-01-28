@@ -1,0 +1,9 @@
+{
+  "id": "brae-239",
+  "title": "Engineering Surveying",
+  "description": "Development of proper field note taking and procedures for measuring using automatic levels, total stations and GPS systems. Understanding in the procedures and computations for differential leveling, profiles, traversing, triangulation and topographic surveys. Computations in traverse adjustment, contour mapping, earthwork volumes, curve alignments and building layout. Understanding in map reading, the use of datums, photogrammetry, CAD design and boundary law. 2 lectures, 2 laboratories.",
+  "units": "4",
+  "prerequisites": "MATH 119 or equivalent",
+  "corequisites": null,
+  "crnc": false
+}

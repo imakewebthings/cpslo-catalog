@@ -1,0 +1,9 @@
+{
+  "id": "stat-313",
+  "title": "Applied Experimental Design and Regression Models",
+  "description": "Analysis of variance and regression analysis for students not majoring in statistics or mathematics. Includes one-way classification, randomized blocks, Latin squares, factorial designs, multiple regression, diagnostics, and model comparison. 4 lectures. Fulfills GE B1.",
+  "units": "4",
+  "prerequisites": "STAT 217 or STAT 218 or STAT 312 or STAT 542",
+  "corequisites": null,
+  "crnc": false
+}

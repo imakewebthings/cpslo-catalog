@@ -1,0 +1,9 @@
+{
+  "id": "bus-435",
+  "title": "Real Estate Investment",
+  "description": "Intensive investigation and computer analysis of real estate investment opportunities. Problems in real estate and property management. 4 lectures.",
+  "units": "4",
+  "prerequisites": "BUS 342",
+  "corequisites": null,
+  "crnc": false
+}

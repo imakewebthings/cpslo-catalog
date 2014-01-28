@@ -1,0 +1,9 @@
+{
+  "id": "cpe-461",
+  "title": "Senior Project I",
+  "description": "Selection and completion of an individual or team project in laboratory environment. Project results are presented in a formal report. 3 laboratories.",
+  "units": "3",
+  "prerequisites": "CPE 350",
+  "corequisites": null,
+  "crnc": false
+}

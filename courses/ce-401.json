@@ -1,0 +1,9 @@
+{
+  "id": "ce-401",
+  "title": "Advanced Mechanics of Materials",
+  "description": "Introduction to linear elasticity as a means for development of reduced order theories such as torsion, beams, columns, and plates from the general three-dimensional continuum. Energy methods as well as the application and limitation of these theories. 4 lectures.",
+  "units": "4",
+  "prerequisites": "CE 351 or ME 328",
+  "corequisites": null,
+  "crnc": false
+}

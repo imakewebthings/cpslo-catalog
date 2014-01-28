@@ -1,0 +1,9 @@
+{
+  "id": "mate-425",
+  "title": "Corrosion Engineering",
+  "description": "Forms of corrosion. Influences of environmental variables on corrosion. Methods of corrosion control. 3 lectures, 1 laboratory.",
+  "units": "4",
+  "prerequisites": "CHEM 125 or CHEM 128, MATE 210, MATE 215",
+  "corequisites": null,
+  "crnc": false
+}

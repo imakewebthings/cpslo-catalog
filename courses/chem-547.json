@@ -1,0 +1,9 @@
+{
+  "id": "chem-547",
+  "title": "Polymer Characterization and Analysis Laboratory",
+  "description": "Polymer characterization and analysis. Molecular weight analysis using viscometry, light scattering, and gel permeation chromatography. Thermal analysis using differential scanning calorimetry, thermal mechanical analysis and dynamic mechanical analysis. Polymer rheology. Infrared, Raman and FT-NMR spectroscopy. Atomic force microscopy. Special individual project. Not open to students with credit in CHEM 447. 2 laboratories.",
+  "units": "2",
+  "prerequisites": null,
+  "corequisites": "CHEM 544",
+  "crnc": false
+}

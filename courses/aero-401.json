@@ -1,0 +1,9 @@
+{
+  "id": "aero-401",
+  "title": "Propulsion Systems",
+  "description": "Power plant types, components, characteristics, and requirements. Principles of thrust and energy utilization. Thermodynamic processes and performance of turboprop, turboshaft, turbofan, turbojet, ramjet, and rocket engines. 4 lectures, 1 laboratory.",
+  "units": "5",
+  "prerequisites": "AERO 303, CHEM 124",
+  "corequisites": null,
+  "crnc": false
+}

@@ -1,0 +1,9 @@
+{
+  "id": "me-432",
+  "title": "Petroleum Reservoir Engineering",
+  "description": "Types of reservoirs and reservoir rocks. Measurement and interpretation of physical properties of reservoir rocks and fluids: porosity, permeability, compressibility, electrical resistivity, fluid saturation, viscosity, solution gas and PVT properties of reservoir fluids. Introduction to flow in porous media, reserve calculations for different reservoirs and computer applications. 3 lectures, 1 laboratory.",
+  "units": "4",
+  "prerequisites": "ME 341",
+  "corequisites": null,
+  "crnc": false
+}

@@ -1,0 +1,9 @@
+{
+  "id": "arce-511",
+  "title": "Structural Systems Behavior",
+  "description": "Design, performance, and construction issues related to structural systems. Further development of design and analysis techniques necessary for performance based engineering of structural systems. Assessment of advantages and limitations of different structural forms and systems. 3 laboratories.",
+  "units": "3",
+  "prerequisites": "ARCE 371, ARCE 403, ARCE 452, ARCE 483",
+  "corequisites": null,
+  "crnc": false
+}

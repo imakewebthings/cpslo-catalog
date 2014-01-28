@@ -1,0 +1,9 @@
+{
+  "id": "cpe-478",
+  "title": "Current Topics in Computer Graphics",
+  "description": "Selected aspects of the design, implementation and analysis of computer graphics. Topics may include rendering, modeling, visualization, animation, virtual reality, computer vision, multimedia, and perception issues. The Schedule of Classes will list topic selected. Total credit limited to 8 units. 3 lectures, 1 laboratory. Crosslisted as CPE/CSC 478.",
+  "units": "4",
+  "prerequisites": "CSC/CPE 471",
+  "corequisites": null,
+  "crnc": false
+}

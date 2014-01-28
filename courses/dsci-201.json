@@ -1,0 +1,9 @@
+{
+  "id": "dsci-201",
+  "title": "Introduction to Dairy Nutrition and Feed Ingredients",
+  "description": "Introduction to dairy cattle/ruminant nutrition. Classification and metabolism of nutrients. Nutrient content and identification of feeds common to dairy cattle. Nutrient analysis procedures and requirements. Ration formulation, feeding practices for maximizing growth and milk production. 3 lectures, 1 laboratory. Formerly DSCI 101.",
+  "units": "4",
+  "prerequisites": "DSCI 121 or DSCI 230; CHEM 111, BIO 111",
+  "corequisites": null,
+  "crnc": false
+}

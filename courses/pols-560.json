@@ -1,0 +1,9 @@
+{
+  "id": "pols-560",
+  "title": "Quantitative Methods",
+  "description": "Social science methodology focusing on research design and quantitative methods used in policy and political research, such as multi-regression, non-linear techniques, diagnostics and time series. Advanced computer packages used to analyze challenging data sets. 4 lectures, 1 activity.",
+  "units": "5",
+  "prerequisites": "Graduate standing or consent of instructor",
+  "corequisites": null,
+  "crnc": false
+}

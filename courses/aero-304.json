@@ -1,0 +1,9 @@
+{
+  "id": "aero-304",
+  "title": "Experimental Aerothermodynamics",
+  "description": "Laboratory experiments verify the momentum and energy equations. Mass flow rate, fan performance, boundary layer measurements, diffuser performance, and induction pump performance experiments are evaluated. Introduction to electronic sensors, signals and data acquisition. 1 lecture, 1 laboratory.",
+  "units": "2",
+  "prerequisites": "ENGL 149 and AERO 301",
+  "corequisites": null,
+  "crnc": false
+}

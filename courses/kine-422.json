@@ -1,0 +1,9 @@
+{
+  "id": "kine-422",
+  "title": "Teaching Elementary School Physical Education",
+  "description": "Implementation of a developmental physical education program for elementary aged children. The program will complement that conducted in the local public schools. 1 lecture, 1 seminar, 2 laboratories.",
+  "units": "4",
+  "prerequisites": "KINE 421",
+  "corequisites": null,
+  "crnc": false
+}

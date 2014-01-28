@@ -1,0 +1,9 @@
+{
+  "id": "me-506",
+  "title": "System Dynamics",
+  "description": "Unified approach for mathematical modeling and analysis of dynamic physical systems which may store energy in multiple energy domains. Emphasis on developing lumped-parameter linear system models from a set of primitive elements in a systematic manner. 4 lectures.",
+  "units": "4",
+  "prerequisites": "Graduate standing or consent of instructor",
+  "corequisites": null,
+  "crnc": false
+}

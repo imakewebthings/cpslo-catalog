@@ -1,0 +1,9 @@
+{
+  "id": "math-416",
+  "title": "Differential Equations II",
+  "description": "Qualitative theory of ordinary differential equations: Existence and Uniqueness Theorem, phase portraits, limit sets, stability of fixed points and periodic orbits, energy functions, Poincare-Bendixson Theorem, Poincare maps, bifurcations, attractors, chaos. 4 lectures.",
+  "units": "4",
+  "prerequisites": "MATH 206 and MATH 242, or MATH 241 and MATH 244",
+  "corequisites": null,
+  "crnc": false
+}

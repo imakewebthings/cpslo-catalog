@@ -1,0 +1,9 @@
+{
+  "id": "aero-561",
+  "title": "Vehicle Integration and Testing",
+  "description": "Space vehicle integration requirements and procedures. Clean room requirements and operations. Quality control and inspection. Qualification and acceptance testing requirements. Test equipment. Vibration and shock testing. Space environment and thermal-vac testing. Development of test procedures. 1 lecture, 1 laboratory.",
+  "units": "2",
+  "prerequisites": "AERO 446 and graduate standing or consent of instructor",
+  "corequisites": null,
+  "crnc": false
+}

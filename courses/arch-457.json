@@ -1,0 +1,9 @@
+{
+  "id": "arch-457",
+  "title": "Computer Graphics in Architecture",
+  "description": "Two-dimensional drawing systems in architectural practice with particular emphasis on office productivity in the production side of the design process; includes drawing database administration, local area networks, management and cost issues. 2 lectures, 2 laboratories.",
+  "units": "4",
+  "prerequisites": "Fourth year standing",
+  "corequisites": null,
+  "crnc": false
+}

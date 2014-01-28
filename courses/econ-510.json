@@ -1,0 +1,9 @@
+{
+  "id": "econ-510",
+  "title": "Quantitative Methods",
+  "description": "Review and discussion of the basic math tools needed for graduate work in economics, including set theory, linear algebra, properties of functions, static and dynamic optimization. 4 lectures.",
+  "units": "4",
+  "prerequisites": "ECON 408 or MATH 244 or equivalent, and graduate standing, or consent of instructor",
+  "corequisites": null,
+  "crnc": false
+}

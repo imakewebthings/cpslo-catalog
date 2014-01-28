@@ -1,0 +1,9 @@
+{
+  "id": "stat-530",
+  "title": "Statistical Computing with SAS",
+  "description": "Techniques available to the statistician for efficient use of computers to perform statistical computations and to analyze large amounts of data. Use of the SAS software system. Includes data preparation, report writing, basic statistical methods, and a research project. Not open to students with credit in STAT 330. 4 lectures.",
+  "units": "4",
+  "prerequisites": "STAT 512 or STAT 513 or STAT 542 or equivalent",
+  "corequisites": null,
+  "crnc": false
+}

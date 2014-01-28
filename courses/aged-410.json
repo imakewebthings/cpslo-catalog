@@ -1,0 +1,9 @@
+{
+  "id": "aged-410",
+  "title": "Computer Applications in Agricultural Education",
+  "description": "Development of computer literacy for teaching agriculture. Analysis and specialization of hardware. Instruction in digital technology, network systems and software applicable to teaching agriculture at the secondary level.",
+  "units": "2",
+  "prerequisites": "AGED 102",
+  "corequisites": null,
+  "crnc": false
+}

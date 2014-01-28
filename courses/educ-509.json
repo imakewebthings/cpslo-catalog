@@ -1,0 +1,9 @@
+{
+  "id": "educ-509",
+  "title": "Robotics for K-12 Educators",
+  "description": "The use of robots as the centerpiece of constructivist learning projects in K-12 classrooms. Project-based. Learning to build and program robots and design constructivist lessons around them. No engineering background required. 3 seminars, 1 activity.",
+  "units": "4",
+  "prerequisites": "EDUC 480 or EDUC 481 or EDUC 507 or consent of instructor",
+  "corequisites": null,
+  "crnc": false
+}

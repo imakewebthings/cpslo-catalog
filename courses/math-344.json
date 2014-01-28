@@ -1,0 +1,9 @@
+{
+  "id": "math-344",
+  "title": "Linear Analysis II",
+  "description": "Linear methods applied to the solution of differential equations. Laplace transforms. Series solutions to ordinary differential equations. Orthogonality in n-space, Gram-Schmidt orthogonalization and least squares methods. Orthogonal bases in function spaces, Sturm-Liouville theory. Fourier series and transforms. Special functions of applied mathematics. 4 lectures. Fulfills GE B6.",
+  "units": "4",
+  "prerequisites": "MATH 206 and MATH 242, or MATH 241 and MATH 244",
+  "corequisites": null,
+  "crnc": false
+}

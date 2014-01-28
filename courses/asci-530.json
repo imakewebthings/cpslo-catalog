@@ -1,0 +1,9 @@
+{
+  "id": "asci-530",
+  "title": "Advanced Molecular Nutrition",
+  "description": "In-depth analysis of molecular signaling mechanisms and events related to nutrient metabolism using examples from the current literature in animal science and nutrition. 3 lectures.",
+  "units": "3",
+  "prerequisites": "ASCI 320 or ASCI 420 or CHEM 372 or graduate standing and consent of instructor",
+  "corequisites": null,
+  "crnc": false
+}

@@ -1,0 +1,9 @@
+{
+  "id": "mate-440",
+  "title": "Welding Metallurgy and Joining of Advanced Materials",
+  "description": "Principles, primary variables, and microstructural changes associated with the joining process. Physics of energy transfer. Heat and mass balances in joining, thermodynamic and kinetic justification of solidification and near interface microstructures. Heterogeneous interfaces, adhesion, wetting. Relation between process selection, interface design, microstructure, and properties, weldability. 3 lectures.",
+  "units": "3",
+  "prerequisites": "MATE 210",
+  "corequisites": null,
+  "crnc": false
+}

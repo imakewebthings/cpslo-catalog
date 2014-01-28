@@ -1,0 +1,9 @@
+{
+  "id": "bus-321",
+  "title": "Intermediate Accounting I",
+  "description": "Comprehensive coverage of financial reporting issues. Covers financial statements, assets other than investments and intangibles, and liabilities. 4 lectures.",
+  "units": "4",
+  "prerequisites": "BUS 319",
+  "corequisites": null,
+  "crnc": false
+}

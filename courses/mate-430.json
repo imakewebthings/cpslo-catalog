@@ -1,0 +1,9 @@
+{
+  "id": "mate-430",
+  "title": "Microfabrication",
+  "description": "Silicon-based fabrication science and technology. Oxidation, diffusion, ion implantation, etching, chemical and physical vapor deposition, photolithography. 3 lectures. Crosslisted as BMED 434/MATE 430.",
+  "units": "3",
+  "prerequisites": "MATE 210",
+  "corequisites": null,
+  "crnc": false
+}

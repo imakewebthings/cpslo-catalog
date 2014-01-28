@@ -1,0 +1,9 @@
+{
+  "id": "ce-251",
+  "title": "Programming Applications in Engineering",
+  "description": "Concepts from basic programming theory introduced in the context of engineering applications. Topics include the application of programming constructs to demonstrate finite precision calculations, linear systems, linear programming, basic nonlinear systems, plotting, statistics, least squares, approximations, and solve related problems from civil and environmental engineering. 2 activities.",
+  "units": "2",
+  "prerequisites": "CE 113, CE 204 and MATH 244",
+  "corequisites": null,
+  "crnc": false
+}

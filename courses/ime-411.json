@@ -1,0 +1,9 @@
+{
+  "id": "ime-411",
+  "title": "Production Systems Analysis",
+  "description": "Systems analysis for production control. Design of computer integrated planning and control systems for scheduling manufacturing orders, monitoring operating costs and control system performance evaluation. Development of computer-aided decision making framework. Interactive decision making using simulation modeling. 2 lectures, 1 laboratory.",
+  "units": "3",
+  "prerequisites": "IME 410, or equivalent",
+  "corequisites": null,
+  "crnc": false
+}

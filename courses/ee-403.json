@@ -1,0 +1,9 @@
+{
+  "id": "ee-403",
+  "title": "Fiber Optic Communication",
+  "description": "Propagation of light in optical fibers, attenuation and bandwidth. LED and Laser Diode sources for use with optical fibers. Optical sources, detectors, and receivers. Design of optical communication systems with applications in telecommunications and local area networks (LANs). 3 lectures.",
+  "units": "3",
+  "prerequisites": "EE 335 or PHYS 323",
+  "corequisites": null,
+  "crnc": false
+}

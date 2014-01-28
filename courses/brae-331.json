@@ -1,0 +1,9 @@
+{
+  "id": "brae-331",
+  "title": "Irrigation Theory",
+  "description": "Plant-water-soil relations using evapo-transpiration, plant stress, soil moisture deficiency, frequency and depth of irrigation, salinity, infiltration, drainage and climate control. 3 lectures.",
+  "units": "3",
+  "prerequisites": "BRAE 236, or BRAE 340",
+  "corequisites": null,
+  "crnc": false
+}

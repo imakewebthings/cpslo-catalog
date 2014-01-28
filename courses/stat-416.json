@@ -1,0 +1,9 @@
+{
+  "id": "stat-416",
+  "title": "Statistical Analysis of Time Series",
+  "description": "Time series components, descriptive smoothing methods, regression models for time series data, forecasting via exponential smoothing, evaluation of forecasts, autocorrelation, ARIMA models and Box-Jenkins methods, combining forecasts, frequency domain analysis, filtering. 4 lectures.",
+  "units": "4",
+  "prerequisites": "STAT 324 or STAT 524",
+  "corequisites": null,
+  "crnc": false
+}

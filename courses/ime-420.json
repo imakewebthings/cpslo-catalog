@@ -1,0 +1,9 @@
+{
+  "id": "ime-420",
+  "title": "Simulation",
+  "description": "Design and analysis of manufacturing and service systems by simulation. System modeling. Random number and function generators, programming, and characteristics of simulation languages. Design projects using real world problems. Introduction to rule-based expert systems. 3 lectures, 1 laboratory.",
+  "units": "4",
+  "prerequisites": "IME 326; IME 405, or consent of instructor",
+  "corequisites": null,
+  "crnc": false
+}

@@ -1,0 +1,9 @@
+{
+  "id": "ee-533",
+  "title": "Antennas",
+  "description": "Principles of antenna theory. Antenna parameters, radiation integrals. Duality and reciprocity theorems. Wire antennas. Antenna arrays. Traveling wave antennas. Broadband and frequency independent antennas. Aperture and reflector antennas. Microstrip antennas. Antenna design. 4 seminars.",
+  "units": "4",
+  "prerequisites": "EE 402 or equivalent",
+  "corequisites": null,
+  "crnc": false
+}

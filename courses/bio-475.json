@@ -1,0 +1,9 @@
+{
+  "id": "bio-475",
+  "title": "Molecular Biology Laboratory",
+  "description": "Introduction to techniques used in molecular biology and biotechnology; DNA extraction, characterization, cloning, Southern blotting, reverse transcription, polymerase chain reaction, and sequencing analysis. 1 lecture, 2 laboratories. Crosslisted as BIO/CHEM 475. Formerly BIO/CHEM 375.",
+  "units": "3",
+  "prerequisites": "BIO 161, and grade of C- or better in BIO 351 or CHEM 373 or consent of instructor",
+  "corequisites": null,
+  "crnc": false
+}

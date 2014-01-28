@@ -1,0 +1,9 @@
+{
+  "id": "ime-541",
+  "title": "Advanced Operations Research",
+  "description": "Operations Research approach to model building. Linear programming and sensitivity analysis. Network flow models. Integer programming, large scale linear programming. Goal programming and multi-attribute decision making. Dynamic programming. Nonlinear programming and search methods. Applications in model building and computer solutions in planning, resource allocation, scheduling, and other industrial and service operations. 3 lectures, 1 laboratory.",
+  "units": "4",
+  "prerequisites": "Graduate standing and consent of instructor",
+  "corequisites": null,
+  "crnc": false
+}

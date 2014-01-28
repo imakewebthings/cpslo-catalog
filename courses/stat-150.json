@@ -1,0 +1,9 @@
+{
+  "id": "stat-150",
+  "title": "Introduction to Statistical Investigations",
+  "description": "Orientation to the statistics program. Introduction to the discipline of statistics and the nature of statistical reasoning. Design of surveys and experiments, graphical and numerical summaries, statistical models, and interpretation of results. Development of discussion, writing, presentation, and evaluation skills. 4 lectures.",
+  "units": "4",
+  "prerequisites": "Freshman statistics major",
+  "corequisites": null,
+  "crnc": false
+}

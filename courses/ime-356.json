@@ -1,0 +1,9 @@
+{
+  "id": "ime-356",
+  "title": "Manufacturing Automation",
+  "description": "Computers in the factory automation environment. Basic control theory including feedback. Programming and use of programmable logic controllers (PLC), human-machine interface (HMI), and industrial control systems. Interfacing of electro-mechanical systems; analog and digital inputs, output; programmable controllers. Computer process control. 3 lectures, 1 laboratory.",
+  "units": "4",
+  "prerequisites": "EE 321",
+  "corequisites": null,
+  "crnc": false
+}

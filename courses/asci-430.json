@@ -1,0 +1,9 @@
+{
+  "id": "asci-430",
+  "title": "Animal Feed Processing",
+  "description": "Management of feed manufacturing for poultry/swine, dairy/beef, and companion animals. General operation of a processing facility including process flow, raw materials receiving, particle reduction, mixing, pelleting, packaging and delivery. State and federal regulations. 3 lectures, 1 laboratory.",
+  "units": "4",
+  "prerequisites": "ASCI 112 or consent of instructor",
+  "corequisites": null,
+  "crnc": false
+}

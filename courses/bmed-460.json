@@ -1,0 +1,9 @@
+{
+  "id": "bmed-460",
+  "title": "Engineering Physiology",
+  "description": "Physiology for biomedical engineering students, with an emphasis on control mechanisms and engineering principles. Engineering aspects of basic cell functions; biological control systems; muscle; neural; endocrine, and circulatory systems, digestive, respiratory, renal, and reproductive systems; regulation of metabolism, and defense mechanisms. 3 lectures, 1 laboratory.",
+  "units": "4",
+  "prerequisites": "ZOO 331 or ZOO 332, and BMED 310 or graduate standing, or consent of instructor",
+  "corequisites": null,
+  "crnc": false
+}

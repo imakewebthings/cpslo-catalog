@@ -1,0 +1,9 @@
+{
+  "id": "phys-401",
+  "title": "Thermal Physics II",
+  "description": "Additional topics in thermodynamics and statistical physics, including chemical equilibrium, phase transitions, transport processes, and cryogenics. 3 lectures.",
+  "units": "3",
+  "prerequisites": "PHYS 301",
+  "corequisites": null,
+  "crnc": false
+}

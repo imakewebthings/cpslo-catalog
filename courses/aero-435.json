@@ -1,0 +1,9 @@
+{
+  "id": "aero-435",
+  "title": "Aerospace Numerical Analysis",
+  "description": "Taylor series. Finite difference calculus. Interpolation and extrapolation. Finite difference method. Basic equations of elasticity. Global stiffness matrix. Rayleigh-Ritz method. Galerkin method. Bernoulli-Euler beam element. Finite element formulation. Dynamic analysis. 3 lectures, 1 laboratory.",
+  "units": "4",
+  "prerequisites": "AERO 300, AERO 331",
+  "corequisites": null,
+  "crnc": false
+}

@@ -1,0 +1,9 @@
+{
+  "id": "me-434",
+  "title": "Enhanced Oil Recovery",
+  "description": "Primary, secondary, and tertiary (enhanced) oil recovery methods. Waterflooding, polymerflooding, gas injection, steam injection, in-situ combustion, chemical flooding, miscible flooding. Performance calculations and computer applications in EOR. 4 lectures.",
+  "units": "4",
+  "prerequisites": "ME 302, ME 347, ME 343",
+  "corequisites": null,
+  "crnc": false
+}

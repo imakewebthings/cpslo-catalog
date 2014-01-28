@@ -1,0 +1,9 @@
+{
+  "id": "arce-447",
+  "title": "Advanced Reinforced Concrete Laboratory",
+  "description": "Advanced topics in the design of reinforced concrete structures with emphasis on isolated and combined foundations, retaining walls, seismic-resistant ductile frames and yield line theory. 3 laboratories.",
+  "units": "3",
+  "prerequisites": "ARCE 444 (C- or better required for ARCE Majors)",
+  "corequisites": null,
+  "crnc": false
+}

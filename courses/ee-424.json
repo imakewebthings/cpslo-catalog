@@ -1,0 +1,9 @@
+{
+  "id": "ee-424",
+  "title": "Introduction to Remote Sensing",
+  "description": "Radiation characteristics, sensor technology and platforms, satellite systems, system design tradeoffs, collection and transmission of radio-metric data, GPS, thermal remote sensing, active radar and microwave remote sensing, interpretation and exploitation of remotely sensed data for various applications. 3 lectures, 1 laboratory.",
+  "units": "4",
+  "prerequisites": "MATH 244, senior or graduate standing in engineering, or consent of instructor",
+  "corequisites": null,
+  "crnc": false
+}

@@ -1,0 +1,9 @@
+{
+  "id": "me-444",
+  "title": "Combustion Engine Design",
+  "description": "Application of design parameters to the various engine cycles. Aspects of the combustion processes. Emission regulation effects on engine design. Static and dynamic loading. 3 lectures, 1 laboratory.",
+  "units": "4",
+  "prerequisites": "ME 303, ME 343, ME 347",
+  "corequisites": null,
+  "crnc": false
+}

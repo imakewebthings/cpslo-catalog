@@ -1,0 +1,9 @@
+{
+  "id": "bmed-525",
+  "title": "Skeletal Tissue Mechanics",
+  "description": "Overview of the mechanical properties of various tissues in the musculoskeletal system, the relationship of these properties to anatomic and histologic structures, and the changes in these properties caused by aging, disease, overuse, and disuse. Tissues covered include bone, cartilage and synovial fluid, ligament, and tendon. 4 lectures.",
+  "units": "4",
+  "prerequisites": "CE 204, BMED 460",
+  "corequisites": null,
+  "crnc": false
+}

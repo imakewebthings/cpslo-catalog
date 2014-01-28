@@ -1,0 +1,9 @@
+{
+  "id": "ee-425",
+  "title": "Analog Filter Design",
+  "description": "Approximation Theory. All pole filters. Frequency transformations. Elements of passive synthesis. Time delay filters. Theory and design of active filter. Sensitivity analysis. 3 lectures.",
+  "units": "3",
+  "prerequisites": "EE 409 & EE 449",
+  "corequisites": null,
+  "crnc": false
+}

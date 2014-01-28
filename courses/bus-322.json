@@ -1,0 +1,9 @@
+{
+  "id": "bus-322",
+  "title": "Intermediate Accounting II",
+  "description": "Comprehensive coverage of financial reporting issues. Covers investments, intangibles, equities, revenue recognition and the Cash Flows Statement. 4 lectures.",
+  "units": "4",
+  "prerequisites": "BUS 321 with minimum grade of C-; Business majors must have formally declared their concentration to enroll",
+  "corequisites": null,
+  "crnc": false
+}

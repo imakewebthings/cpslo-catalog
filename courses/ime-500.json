@@ -1,0 +1,9 @@
+{
+  "id": "ime-500",
+  "title": "Individual Study",
+  "description": "Advanced study planned and completed under the direction of a member of the department faculty. Open only to students who have demonstrated ability to do independent work.",
+  "units": "1-4",
+  "prerequisites": "Consent of department chair and supervising faculty member",
+  "corequisites": null,
+  "crnc": false
+}

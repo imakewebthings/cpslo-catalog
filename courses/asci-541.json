@@ -1,0 +1,9 @@
+{
+  "id": "asci-541",
+  "title": "Advanced Animal Immunology Laboratory",
+  "description": "Laboratory complement to ASCI 540. Independent research projects, including hypothesis development, experimental design, data collection and analyses, and written and oral presentations. 1 laboratory.",
+  "units": "1",
+  "prerequisites": null,
+  "corequisites": "ASCI 540",
+  "crnc": false
+}

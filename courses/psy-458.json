@@ -1,0 +1,9 @@
+{
+  "id": "psy-458",
+  "title": "Learning",
+  "description": "Theoretical and philosophical foundations of the experimental analysis of behavior. Principles of classical and operant conditioning including aversive control of behavior through punishment and avoidance learning and the theoretical basis for behavior therapy techniques and applications of learning principles in education and health settings. 4 lectures.",
+  "units": "4",
+  "prerequisites": "PSY 333",
+  "corequisites": null,
+  "crnc": false
+}

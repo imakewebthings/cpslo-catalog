@@ -1,0 +1,9 @@
+{
+  "id": "phys-410",
+  "title": "Physics of Solid Earth",
+  "description": "Gravity and the figure of the Earth. Body wave seismology, structure and composition of the Earth, heat flow and heat sources, Earth tides, rotational dynamics, the geomagnetic field and its source, paleomagnetism. 3 lectures.",
+  "units": "3",
+  "prerequisites": "PHYS 133, MATH 241 and MATH 244",
+  "corequisites": null,
+  "crnc": false
+}

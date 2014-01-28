@@ -1,0 +1,9 @@
+{
+  "id": "me-431",
+  "title": "Mechanical Design Techniques",
+  "description": "Comprehensive study of various design methods and techniques. Techniques used to explore various structural concepts such as prestressing, shaping, sizing, etc. Simulation of systems using digital computer. Design criteria identification of design parameters and constraints. 3 lectures, 1 laboratory.",
+  "units": "4",
+  "prerequisites": "ME 329",
+  "corequisites": null,
+  "crnc": false
+}

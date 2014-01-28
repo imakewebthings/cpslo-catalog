@@ -1,0 +1,9 @@
+{
+  "id": "phys-211",
+  "title": "Modern Physics I",
+  "description": "Special relativity, fundamental principles of quantum mechanics, emphasizing the modern description of atomic phenomena. Kinetic theory, wave particle duality, Bohr theory, Schroedinger equation, elementary atomic structure. 4 lectures.",
+  "units": "4",
+  "prerequisites": "PHYS 132 and PHYS 133 and MATH 241",
+  "corequisites": null,
+  "crnc": false
+}

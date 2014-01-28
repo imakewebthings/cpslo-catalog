@@ -1,0 +1,9 @@
+{
+  "id": "ce-505",
+  "title": "Finite Element Analysis II",
+  "description": "Nonlinear and dynamic finite element theory and analysis. Variational formulations and their significance. Isoparametric formulation and numerical integration. Development of two and three-dimensional finite element algorithms. The limitations of FEA. 3 lectures, 1 laboratory. Crosslisted as CE/ME 505.",
+  "units": "4",
+  "prerequisites": "CE/ME 504",
+  "corequisites": null,
+  "crnc": false
+}

@@ -1,0 +1,9 @@
+{
+  "id": "econ-408",
+  "title": "Mathematical Economics",
+  "description": "Applications of quantitative techniques to topics in microeconomic and macroeconomic theory. Use of multivariate calculus and linear algebra in formulating static economic models. Applications of statistical inference, estimation and forecasting in economic models. 4 lectures.",
+  "units": "4",
+  "prerequisites": "ECON 313, or consent of instructor",
+  "corequisites": null,
+  "crnc": false
+}

@@ -1,0 +1,9 @@
+{
+  "id": "bus-319",
+  "title": "Accounting Information Systems",
+  "description": "Comprehensive coverage of manual and computerized accounting processes and internal controls. 3 lectures, 1 activity.",
+  "units": "4",
+  "prerequisites": "BUS 214",
+  "corequisites": null,
+  "crnc": false
+}

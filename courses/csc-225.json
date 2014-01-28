@@ -1,7 +1,9 @@
 {
   "id": "csc-225",
   "title": "Introduction to Computer Organization",
-  "description": "Introduction to computer systems. Simple instruction set architecture and the computer hardware needed to implement that architecture. Machine and assembly language programming. 3 lectures, 1 laboratory.",
-  "units": 4,
-  "prerequisites": "CSC/CPE 102."
+  "description": "Introduction to computer systems. Simple instruction set architecture and the computer hardware needed to implement that architecture. Machine and assembly language programming. 3 lectures, 1 laboratory. Crosslisted as CPE/CSC 225.",
+  "units": "4",
+  "prerequisites": "CSC/CPE 102",
+  "corequisites": null,
+  "crnc": false
 }

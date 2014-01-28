@@ -1,0 +1,9 @@
+{
+  "id": "ce-502",
+  "title": "Advanced Matrix Analysis of Structures II",
+  "description": "Matrix procedures for analysis of three-dimensional frameworks. Development of algorithms and programs for use in the analysis of structural frameworks. Additional topics to include: member releases, nonprismatic members, elastic supports, offset connections and oblique supports. 3 lectures, 1 laboratory.",
+  "units": "4",
+  "prerequisites": "CE 501 or consent of instructor",
+  "corequisites": null,
+  "crnc": false
+}

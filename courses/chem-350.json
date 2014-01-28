@@ -1,0 +1,9 @@
+{
+  "id": "chem-350",
+  "title": "Chemical Safety",
+  "description": "Laboratory regulations, equipment hazard analysis, hazardous chemicals, classification of chemicals, toxic materials handling, reaction hazards, radiation, emergency procedures, safety management programs and legal concerns. Includes project. 1 lecture.",
+  "units": "1",
+  "prerequisites": "CHEM 212/312 or CHEM 216/316",
+  "corequisites": null,
+  "crnc": false
+}

@@ -1,0 +1,9 @@
+{
+  "id": "mate-460",
+  "title": "Materials Selection in Mechanical Design",
+  "description": "Materials-based approach to mechanical design. Using mechanical and physical properties of materials (performance indices) to select structural materials for applications (Materials Selection Charts). Detailed background of material properties - information from materials and mechanics. Numerous case studies highlight the concepts covered. 4 lectures.",
+  "units": "4",
+  "prerequisites": "MATE 350",
+  "corequisites": null,
+  "crnc": false
+}

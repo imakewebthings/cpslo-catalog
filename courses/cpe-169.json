@@ -1,0 +1,9 @@
+{
+  "id": "cpe-169",
+  "title": "Digital Design Laboratory",
+  "description": "Experiments to analyze and design combinational and sequential logic circuits with discrete ICs and PLDs. Introduction to laboratory equipment such as the logic state analyzer for testing circuits. Introduction to a hardware description language for logic simulation and design. Not open to students with credit in CPE/EE 133. 1 laboratory. Crosslisted as CPE/EE 169.",
+  "units": "1",
+  "prerequisites": "An orientation course in student's major (EE 111 & EE 151 for EE students, CPE 100 for CPE students), CPE/CSC 101",
+  "corequisites": null,
+  "crnc": false
+}

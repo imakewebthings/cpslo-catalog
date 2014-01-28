@@ -1,0 +1,9 @@
+{
+  "id": "astr-301",
+  "title": "The Solar System",
+  "description": "Quantitative and descriptive properties of the Solar System including the physics of the planets, their satellites, comets and interplanetary media. Possible origins of the Solar System. 3 lectures.",
+  "units": "3",
+  "prerequisites": "PHYS 132 or PHYS 122 and MATH 141 or MATH 161",
+  "corequisites": null,
+  "crnc": false
+}

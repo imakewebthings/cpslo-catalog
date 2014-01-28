@@ -1,0 +1,9 @@
+{
+  "id": "me-328",
+  "title": "Introduction to Design",
+  "description": "Design of machine parts by stress and deflection. Effects of fluctuating stresses and stress concentration. Design of shafts and other machine parts. Modern industrial design practice using standard components and design layout drawings. 3 lectures, 1 laboratory.",
+  "units": "4",
+  "prerequisites": "CE 207; ME 251; MATE 210; CSC 231 or CSC 234; ME 212; ME 234; and ENGL 149",
+  "corequisites": null,
+  "crnc": false
+}

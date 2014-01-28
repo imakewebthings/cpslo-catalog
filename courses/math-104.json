@@ -1,0 +1,9 @@
+{
+  "id": "math-104",
+  "title": "Intermediate Algebra",
+  "description": "Review of basic algebra skills at the intermediate algebra level intended primarily to prepare students for MATH 116. Not for baccalaureate credit. Credit/No Credit grading only. 3 lectures.",
+  "units": "3",
+  "prerequisites": "Appropriate score on the ELM examination, or credit in MATH 100",
+  "corequisites": null,
+  "crnc": false
+}

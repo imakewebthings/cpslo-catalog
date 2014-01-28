@@ -1,0 +1,9 @@
+{
+  "id": "me-540",
+  "title": "Viscous Flow",
+  "description": "Introduction to tensor calculus and indicial notation. Development of Reynolds' Transport Theory. Special forms of the governing equations of fluid motion. Internal flows and other classical solutions to the Navier-Stokes equations. 4 lectures.",
+  "units": "4",
+  "prerequisites": "ME 347, MATH 344 and graduate standing or consent of instructor",
+  "corequisites": null,
+  "crnc": false
+}

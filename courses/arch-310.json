@@ -1,0 +1,9 @@
+{
+  "id": "arch-310",
+  "title": "Architectural Design Methods and Theories",
+  "description": "Analysis of design process, methods of analysis, synthesis, and evaluation in design. Relation between methods used and theories of design. 4 lectures.",
+  "units": "4",
+  "prerequisites": "ARCH 253",
+  "corequisites": null,
+  "crnc": false
+}

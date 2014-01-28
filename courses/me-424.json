@@ -1,0 +1,9 @@
+{
+  "id": "me-424",
+  "title": "Design of Piping Systems",
+  "description": "Pipe specifications and pertinent codes. Valves, fittings, pumps and compressors. The transportation function of piping as related to power plants, refineries, slurry systems, pumping systems and drainage. Philosophy of system design. 3 lectures, 1 laboratory.",
+  "units": "4",
+  "prerequisites": "CE 207, ME 347, CSC 231, MATE 210",
+  "corequisites": null,
+  "crnc": false
+}

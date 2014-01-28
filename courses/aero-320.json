@@ -1,0 +1,9 @@
+{
+  "id": "aero-320",
+  "title": "Fundamentals of Dynamics and Control",
+  "description": "Introduction to six degree of freedom rigid body dynamic and kinematic equations of motion, including coordinate transformations, Euler angles and quaternions for aerospace vehicles. Linearization and dynamic system theory and stability. Introduction to linear control theory, controller design and analysis. 4 lectures.",
+  "units": "4",
+  "prerequisites": "AERO 300 and ME 212",
+  "corequisites": null,
+  "crnc": false
+}

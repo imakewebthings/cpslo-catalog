@@ -1,0 +1,9 @@
+{
+  "id": "aero-465",
+  "title": "Aerospace Systems Senior Laboratory",
+  "description": "Culminating laboratory based experience. Experiments require the integration of the many disciplines in Aerospace Engineering. The successful completion of each experiment requires synthesis and integration of the fundamental concepts of the engineering sciences. Experimentation in the areas of aeroelasticity, active vibration control, inertial navigation, thermal control, hardware-in-the-loop simulation, and momentum exchange. 1 laboratory.",
+  "units": "1",
+  "prerequisites": "AERO 303, AERO 304, AERO 320, AERO 431 and Senior standing",
+  "corequisites": null,
+  "crnc": false
+}

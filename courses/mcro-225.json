@@ -1,0 +1,9 @@
+{
+  "id": "mcro-225",
+  "title": "General Microbiology II",
+  "description": "Microbial diversity, systematics, ecology, and symbiotic relationships. Introduction to host-microorganism interactions including pathogenesis, epidemiology, and immunology. 3 lectures, 2 laboratories.",
+  "units": "5",
+  "prerequisites": "MCRO 224",
+  "corequisites": null,
+  "crnc": false
+}

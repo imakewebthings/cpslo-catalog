@@ -1,0 +1,9 @@
+{
+  "id": "ce-457",
+  "title": "Bridge Engineering",
+  "description": "Fundamentals of the structural analysis and design of highway bridges. Construction materials in bridges. Loads on highway bridges. Load path and distribution in bridge superstructure. Design of reinforced concrete, pre-stressed concrete, and composite bridges. 3 lectures, 1 laboratory.",
+  "units": "4",
+  "prerequisites": "CE 355",
+  "corequisites": null,
+  "crnc": false
+}

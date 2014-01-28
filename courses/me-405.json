@@ -1,0 +1,9 @@
+{
+  "id": "me-405",
+  "title": "Mechatronics",
+  "description": "Microprocessor applications in machine control and product design. Applied electronics. Drive technology; transducers and electromechanical systems. Real-time programming. Mechatronic design methodology. 3 lectures, 1 laboratory.",
+  "units": "4",
+  "prerequisites": "ME 305 and ME 329 (or concurrent), or CPE/EE 329 and CPE/CSC 369, or consent of instructor",
+  "corequisites": null,
+  "crnc": false
+}

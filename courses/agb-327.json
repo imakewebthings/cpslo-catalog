@@ -1,0 +1,9 @@
+{
+  "id": "agb-327",
+  "title": "Agribusiness Data Analysis",
+  "description": "Methods in agricultural business data analysis, including multiple regression analysis, analysis of variance, and time series analysis. Applications include agricultural price forecasting and estimation of the determinants of food and fiber demand. 3 lectures, 1 activity.",
+  "units": "4",
+  "prerequisites": "STAT 251 and AGB 260",
+  "corequisites": null,
+  "crnc": false
+}

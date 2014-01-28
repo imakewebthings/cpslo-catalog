@@ -1,0 +1,9 @@
+{
+  "id": "pols-590",
+  "title": "Graduate Seminar",
+  "description": "Seminar designed as a culminating component to the Master of Public Policy Program. Individual research under the supervision of the faculty within a small discussion environment, leading to a graduate project or paper that demonstrates practical mastery of the MPP curriculum. Total credit limited to 8 units. 4 seminars.",
+  "units": "4",
+  "prerequisites": "POLS 560 or consent of instructor",
+  "corequisites": null,
+  "crnc": false
+}

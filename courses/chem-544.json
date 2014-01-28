@@ -1,0 +1,9 @@
+{
+  "id": "chem-544",
+  "title": "Polymer Physical Chemistry and Analysis",
+  "description": "Physical properties of polymers and coatings and their measurement; molecular weight averages, glass transition, thermodynamics of polymers, viscoelastic properties, rheology; molecular weight determination, thermal analysis, spectroscopic analysis, mechanical testing, atomic force microscopy. Special individual project. Not open to students with credit in CHEM 444. 3 lectures.",
+  "units": "3",
+  "prerequisites": "CHEM 212/312 or CHEM 216/316 or equivalent; CHEM 351 or equivalent",
+  "corequisites": null,
+  "crnc": false
+}

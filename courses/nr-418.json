@@ -1,0 +1,9 @@
+{
+  "id": "nr-418",
+  "title": "Applied GIS",
+  "description": "Acquisition, organization and analysis of spatial data from diverse sources using Geographic Information System (GIS) software. GIS modeling applications and validation techniques used in development and preparation of client-driven projects. 1 lecture, 2 activities.",
+  "units": "3",
+  "prerequisites": "NR/LA 318",
+  "corequisites": null,
+  "crnc": false
+}

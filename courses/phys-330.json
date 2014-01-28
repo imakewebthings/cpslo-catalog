@@ -1,0 +1,9 @@
+{
+  "id": "phys-330",
+  "title": "Teaching Physics",
+  "description": "Introduction to inquiry approaches to teaching physics incorporating insights from physics education research and the use of computer technology. Designed for undergraduates considering careers in science teaching. Emphasis is placed on introducing pedagogical approaches to help others develop basic models of physics through experimentation, development of skills in scientific discourse and presentation, and formative and summative assessment of learning of others. 2 activities.",
+  "units": "2",
+  "prerequisites": "PHYS 122, PHYS 123, PHYS 132, PHYS 133, PSC 102, or PSC 103",
+  "corequisites": null,
+  "crnc": false
+}

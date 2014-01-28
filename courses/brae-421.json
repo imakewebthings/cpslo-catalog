@@ -1,0 +1,9 @@
+{
+  "id": "brae-421",
+  "title": "Equipment Engineering",
+  "description": "Design and construction of specialized agricultural components and equipment. 2 lectures, 1 laboratory.",
+  "units": "3",
+  "prerequisites": "CE 204, ME 212",
+  "corequisites": null,
+  "crnc": false
+}

@@ -1,0 +1,9 @@
+{
+  "id": "cpe-469",
+  "title": "Distributed Computing II",
+  "description": "Continued exploration of topics in distributed computing in greater depth, with emphasis on design patterns and team projects. 3 lectures, 1 laboratory. Crosslisted as CPE/CSC 469.",
+  "units": "4",
+  "prerequisites": "CSC/CPE 369",
+  "corequisites": null,
+  "crnc": false
+}

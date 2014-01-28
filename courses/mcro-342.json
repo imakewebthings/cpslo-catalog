@@ -1,0 +1,9 @@
+{
+  "id": "mcro-342",
+  "title": "Sanitary Microbiology",
+  "description": "Principles of disease prevention and control. Water-, food-, and air-borne microbial contaminations and epidemiology of ensuing diseases. 3 lectures, 1 laboratory.",
+  "units": "4",
+  "prerequisites": "MCRO 221 or MCRO 224",
+  "corequisites": null,
+  "crnc": false
+}

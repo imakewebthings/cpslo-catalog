@@ -1,0 +1,9 @@
+{
+  "id": "psy-256",
+  "title": "Developmental Psychology",
+  "description": "Introduction to the scientific study of development with emphasis on the lifespan, from infancy to old age. Basic research and concepts in understanding social, emotional, cognitive, contextual, and diversity influences on development. 4 lectures.",
+  "units": "4",
+  "prerequisites": "PSY 201 or PSY 202",
+  "corequisites": null,
+  "crnc": false
+}

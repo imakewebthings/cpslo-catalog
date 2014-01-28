@@ -1,0 +1,9 @@
+{
+  "id": "ime-240",
+  "title": "Additional Engineering Laboratory",
+  "description": "Total credit limited to 4 units, with a maximum of 2 units per quarter. 1 or 2 laboratories.",
+  "units": "1-2",
+  "prerequisites": null,
+  "corequisites": null,
+  "crnc": false
+}

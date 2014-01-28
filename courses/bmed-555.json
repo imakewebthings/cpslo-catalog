@@ -1,0 +1,9 @@
+{
+  "id": "bmed-555",
+  "title": "Neural Systems Simulation and Modeling",
+  "description": "The biophysical basis of the Hodgkin-Huxley active membrane model. A detailed description of the dynamics of voltage gated ion channels. The complete Hodgkin-Huxley active membrane model, with an emphasis on its use in simulating the electrical activity of nerve cells. Equivalent circuit/ circuit simulator based approaches to modeling Hodgkin-Huxley neurons. 4 lectures.",
+  "units": "4",
+  "prerequisites": "MATH 244, BMED 440",
+  "corequisites": null,
+  "crnc": false
+}

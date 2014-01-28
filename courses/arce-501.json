@@ -1,0 +1,9 @@
+{
+  "id": "arce-501",
+  "title": "Advanced Structural Mechanics",
+  "description": "Principles, concepts, and techniques of advanced structural mechanics. Studies of displacement, strain, stress, strain-displacement relation and constitutive models in three dimensions. Failure criteria. Introduction into energy principles and approximate solutions. 3 lectures.",
+  "units": "3",
+  "prerequisites": "ARCE 306, ARCE 353",
+  "corequisites": null,
+  "crnc": false
+}

@@ -1,0 +1,9 @@
+{
+  "id": "enve-309",
+  "title": "Noise and Vibration Control",
+  "description": "Impact of noise and methods for noise reduction in industrial environments. Behavior of sound waves, selection of instrumentation, practical measurements, criteria for noise and vibration control. Laboratory and field measurements to investigate the basic principles of sound propagation and control. Assessment of noise produced by transportation and other engineering facilities. 2 lectures, 1 laboratory.",
+  "units": "3",
+  "prerequisites": "MATH 241 and PHYS 132",
+  "corequisites": "ENGL 149",
+  "crnc": false
+}

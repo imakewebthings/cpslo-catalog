@@ -1,0 +1,9 @@
+{
+  "id": "ee-328",
+  "title": "Discrete Time Signals and Systems",
+  "description": "Discrete-time systems and analysis, with emphasis on linear time-invariant (LTI) systems. Sampling theorem. Classification of discrete-time systems. Convolution and its application to LTI systems. The z transform, discrete-time Fourier transform, and discrete Fourier transform. Introduction to digital filters. 3 lectures. Crosslisted as CPE/EE 328.",
+  "units": "3",
+  "prerequisites": "EE 228",
+  "corequisites": null,
+  "crnc": false
+}

@@ -1,0 +1,9 @@
+{
+  "id": "ee-413",
+  "title": "Advanced Electronic Design",
+  "description": "Advanced design of electronic circuits and subsystems. Design as a process. Implementation of specific design projects. Automated test using GPIB instruments. 3 lectures, 1 laboratory.",
+  "units": "4",
+  "prerequisites": "CSC 101, EE 409 & EE 449",
+  "corequisites": null,
+  "crnc": false
+}

@@ -1,0 +1,9 @@
+{
+  "id": "chem-110",
+  "title": "World of Chemistry",
+  "description": "The fundamentals of chemical cause and effect-structure/function relationships. The basic principles of chemistry and their applications to solving human problems in organic materials science, biochemistry, toxicology, environmental science, agriculture, nutrition, and medicine. Not open to students majoring in Chemistry or Biochemistry. Not open to students with credit in CHEM 111, CHEM 124, or CHEM 127. 3 lectures, 1 laboratory. Fulfills GE B3 & B4.",
+  "units": "4",
+  "prerequisites": "Passing score on ELM examination, or an ELM exemption, or MATH 104",
+  "corequisites": null,
+  "crnc": false
+}

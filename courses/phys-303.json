@@ -1,0 +1,9 @@
+{
+  "id": "phys-303",
+  "title": "Classical Mechanics II",
+  "description": "Mechanics in non-inertial reference frames. Dynamics of a rigid bodies. Coupled oscillators and normal modes. Use of numerical methods for solving problems. 3 lectures.",
+  "units": "3",
+  "prerequisites": "PHYS 302",
+  "corequisites": null,
+  "crnc": false
+}

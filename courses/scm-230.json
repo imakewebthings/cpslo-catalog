@@ -1,0 +1,9 @@
+{
+  "id": "scm-230",
+  "title": "Seminar for Learning Assistants",
+  "description": "Introduction to learning theory and teaching practices for mathematics and science learning assistants regarding conceptual development, questioning techniques, cooperative learning, nature of math and science, and argumentation in mathematics and science. Restricted to students admitted to the Learning Assistant program. 2 seminars.",
+  "units": "2",
+  "prerequisites": "BIO 160, BIO 161, CHEM 124, CHEM 127, MATH 141, PHYS 131, or PHYS 141",
+  "corequisites": null,
+  "crnc": false
+}

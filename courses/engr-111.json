@@ -1,0 +1,9 @@
+{
+  "id": "engr-111",
+  "title": "Engineering Science II",
+  "description": "Introduction to engineering and computer science. Computer-aided design (CAD) and manufacturing (CAM), and fabrication, as well as engineering orientation. Cultural pluralism and gender issues. 3 lectures.",
+  "units": "3",
+  "prerequisites": null,
+  "corequisites": null,
+  "crnc": false
+}

@@ -1,0 +1,9 @@
+{
+  "id": "bmed-520",
+  "title": "Introduction to Biomedical Engineering",
+  "description": "Advanced treatment of the basic engineering sciences in the biomedical engineering context. For the student who has had little prior exposure to biomedical engineering, but has either a strong engineering or a strong science background. 4 lectures.",
+  "units": "4",
+  "prerequisites": "Graduate standing",
+  "corequisites": null,
+  "crnc": false
+}

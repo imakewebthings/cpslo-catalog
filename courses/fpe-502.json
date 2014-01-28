@@ -1,0 +1,9 @@
+{
+  "id": "fpe-502",
+  "title": "Fire Dynamics",
+  "description": "First exposure to fire dynamics phenomena. Includes fundamental fire and combustion topics such as thermodynamics of combustion, fire chemistry, premixed and diffusion flames, ignition, burning of liquids and solids, heat release rates, flame spread and fire plumes. 4 lectures.",
+  "units": "4",
+  "prerequisites": "FPE 501 or consent of instructor",
+  "corequisites": null,
+  "crnc": false
+}

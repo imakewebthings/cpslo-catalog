@@ -1,0 +1,9 @@
+{
+  "id": "ime-429",
+  "title": "Ergonomics Laboratory",
+  "description": "Investigation of various physiological, sensory, and cognitive capabilities and limitations of people in work and living environments through laboratory data collection, design of experiments and statistical analysis. 1 laboratory.",
+  "units": "1",
+  "prerequisites": "IME 319, IME 326",
+  "corequisites": null,
+  "crnc": false
+}

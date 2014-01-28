@@ -1,0 +1,9 @@
+{
+  "id": "ee-255",
+  "title": "Energy Conversion Electromagnetics",
+  "description": "Fundamentals of electro-mechanical energy conversion. Magnetic circuits and electromagnetic devices. Theory of operation and operating characteristics of transformers, DC machines, and AC induction and synchronous machines. 3 lectures.",
+  "units": "3",
+  "prerequisites": "EE 212 & EE 242, or EE 201 & EE 251",
+  "corequisites": null,
+  "crnc": false
+}

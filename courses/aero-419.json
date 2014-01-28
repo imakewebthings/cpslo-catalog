@@ -1,0 +1,9 @@
+{
+  "id": "aero-419",
+  "title": "Simulation of Aerospace Vehicles and Systems",
+  "description": "Overview of flight simulators, aerospace avionics systems, and supporting facilities including simulation equations for flight mechanics and land navigation. Team-centered projects, reports, and presentations are emphasized with a strong focus on computer simulation of piloted flight. 2 lectures, 2 laboratories.",
+  "units": "4",
+  "prerequisites": "AERO 420",
+  "corequisites": null,
+  "crnc": false
+}

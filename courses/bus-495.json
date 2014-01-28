@@ -1,0 +1,9 @@
+{
+  "id": "bus-495",
+  "title": "Software Testing",
+  "description": "Theory and practice of software testing, including state-of-the-art practices, design issues, staffing issues, test management issues, and other related areas. Software testing tools utilized for applications testing, and test management. 4 lectures.",
+  "units": "4",
+  "prerequisites": "BUS 392",
+  "corequisites": null,
+  "crnc": false
+}

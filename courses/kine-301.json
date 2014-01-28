@@ -1,0 +1,9 @@
+{
+  "id": "kine-301",
+  "title": "Functional Muscle Anatomy",
+  "description": "Functional organization of the human muscular system. Review of all major muscle groups, with emphasis on segmental motion. 2 lectures.",
+  "units": "2",
+  "prerequisites": null,
+  "corequisites": "BIO 361 or ZOO 231 or ZOO 331",
+  "crnc": false
+}

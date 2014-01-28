@@ -1,0 +1,9 @@
+{
+  "id": "aero-215",
+  "title": "Introduction to Aerospace Design",
+  "description": "Introduction to problem solving techniques and team-centered design projects in aerospace engineering. Primary emphasis on the solutions of design problems in aerospace engineering using computers. 2 laboratories.",
+  "units": "2",
+  "prerequisites": "AERO 121, MATH 143, and IME 144",
+  "corequisites": null,
+  "crnc": false
+}

@@ -1,0 +1,9 @@
+{
+  "id": "me-305",
+  "title": "Introduction to Mechatronics",
+  "description": "Introduction to microcontrollers and assembly language programming. Emphasis on components and techniques for interfacing that are typical of embedded microcontroller applications (A/D conversion, D/A conversion, interrupts, timers, and pulse-width modulation). Laboratory exercises involve real-time interfacing of microcontrollers to external mechanical and/or electromechanical devices. 3 lectures, 1 laboratory.",
+  "units": "4",
+  "prerequisites": "EE 321 and EE 361, or consent of instructor",
+  "corequisites": null,
+  "crnc": false
+}

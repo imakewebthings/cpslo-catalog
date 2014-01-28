@@ -1,0 +1,9 @@
+{
+  "id": "ss-432",
+  "title": "Soil Physics",
+  "description": "Matter and energy in soils, with emphasis on properties and behavior of solids, water, air, and heat. Applications to agriculture, forestry, range management, engineering, and environmental sciences. Preparation of professional reports based on laboratory data and library research. 3 lectures, 1 laboratory, 1 activity.",
+  "units": "5",
+  "prerequisites": "SS 121, PHYS 121 or PHYS 141, CHEM 128, MATH 118 or MATH 141, or consent of instructor",
+  "corequisites": null,
+  "crnc": false
+}

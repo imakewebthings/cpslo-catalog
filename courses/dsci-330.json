@@ -1,0 +1,9 @@
+{
+  "id": "dsci-330",
+  "title": "Artificial Insemination and Embryo Biotechnology",
+  "description": "Techniques in the collection, evaluation and processing of semen, along with embryo culturing and manipulation. Insemination procedures, fertility problems, record keeping, estrous synchronization, endocrine control of reproduction, treating reproductive disorders and embryo transfer. 3 lectures, 1 laboratory.",
+  "units": "4",
+  "prerequisites": "DSCI 121 or DSCI 230 or ASCI 229 or consent of instructor",
+  "corequisites": null,
+  "crnc": false
+}

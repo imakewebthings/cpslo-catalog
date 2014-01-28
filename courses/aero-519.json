@@ -1,0 +1,9 @@
+{
+  "id": "aero-519",
+  "title": "Fundamentals of Vehicle Dynamics and Control",
+  "description": "Fundamentals of particle and rigid body dynamics as they apply to aerospace vehicles. Kinematic variables and coordinate transformations. Attitude dynamics. Fundamentals of feedback control and its application to aerospace systems. Stability analysis. Numerical simulation. Not open to students with credit in AERO 451 and AERO 452. 4 lectures.",
+  "units": "4",
+  "prerequisites": "Graduate standing or consent of instructor",
+  "corequisites": null,
+  "crnc": false
+}

@@ -1,7 +1,9 @@
 {
   "id": "csc-569",
   "title": "Distributed Computing",
-  "description": "Principles and practices in distributed computing: interprocess communications, group communications, client-server model, distributed objects, message queue system, distributed services, mobile agents, object space, Internet protocols. Distributed algorithms: consensus protocols, global state protocols. Fault tolerance: classification of faults, replication. Not open to students with credit in CSC/ CPE 369 or CSC/CPE 469. 3 lectures, 1 laboratory.",
-  "units": 4,
-  "prerequisites": "CSC/CPE 357 and graduate standing, or consent of instructor."
+  "description": "Principles and practices in distributed computing: interprocess communications, group communications, client-server model, distributed objects, message queue system, distributed services, mobile agents, object space, Internet protocols. Distributed algorithms: consensus protocols, global state protocols. Fault tolerance: classification of faults, replication. Not open to students with credit in CSC/ CPE 369 or CSC/CPE 469. 3 lectures, 1 laboratory. Crosslisted as CPE/CSC 569.",
+  "units": "4",
+  "prerequisites": "CSC/CPE 357 and graduate standing, or consent of instructor",
+  "corequisites": null,
+  "crnc": false
 }

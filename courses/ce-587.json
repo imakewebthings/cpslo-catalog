@@ -1,0 +1,9 @@
+{
+  "id": "ce-587",
+  "title": "Geoenvironmental Engineering",
+  "description": "Principles for containment applications. Engineering properties of soils and geosynthetics and their interaction with contaminants and wastes; analysis of geosynthetics used in containment facilities; liners; covers; leachate and gas collection systems; contaminant transport; and monitoring systems. 4 lectures.",
+  "units": "4",
+  "prerequisites": "CE 381",
+  "corequisites": null,
+  "crnc": false
+}

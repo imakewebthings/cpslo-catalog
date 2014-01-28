@@ -1,0 +1,9 @@
+{
+  "id": "cm-463",
+  "title": "Senior Project: Professional Practice for Constructors",
+  "description": "Practical application of construction management theory and practice solving problems related to the built environment. 3 laboratories.",
+  "units": "3",
+  "prerequisites": "CM 413",
+  "corequisites": "CM 443",
+  "crnc": false
+}

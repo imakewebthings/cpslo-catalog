@@ -1,0 +1,9 @@
+{
+  "id": "crsc-244",
+  "title": "Precision Farming",
+  "description": "Precision agriculture applications. Integrating GIS, GPS, and remote sensing technologies with site-specific farming practices to optimize agricultural productivity. Field trip required. 3 lectures, 1 laboratory.",
+  "units": "4",
+  "prerequisites": "FRSC 133 or VGSC 190 or VGSC 230",
+  "corequisites": null,
+  "crnc": false
+}

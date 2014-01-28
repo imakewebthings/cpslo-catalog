@@ -1,0 +1,9 @@
+{
+  "id": "ime-410",
+  "title": "Production Planning and Control Systems",
+  "description": "Building blocks of manufacturing resource planning (MRP II). Demand forecasting, production planning, master scheduling development. BOM and inventory files. MRP computations and operational challenges. Capacity analysis and production control in push and pull systems. Enterprise Resource Planning (ERP). Principles of JIT and lean manufacturing. Not open to students with credit in IME 580. 3 lectures, 1 laboratory.",
+  "units": "4",
+  "prerequisites": "IME 342 or IME 405",
+  "corequisites": null,
+  "crnc": false
+}

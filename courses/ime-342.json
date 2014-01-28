@@ -1,0 +1,9 @@
+{
+  "id": "ime-342",
+  "title": "Manufacturing Systems Integration",
+  "description": "Analysis and design tools for production planning, control, and simulation of manufacturing systems. Use of systems modeling software. Overview of ergonomics and facilities design. 3 lectures, 1 laboratory.",
+  "units": "4",
+  "prerequisites": "MATH 241 and IME 223 or consent of instructor",
+  "corequisites": null,
+  "crnc": false
+}

@@ -1,0 +1,9 @@
+{
+  "id": "math-142",
+  "title": "Calculus II",
+  "description": "Techniques of integration, applications to physics, transcendental functions. 4 lectures. Crosslisted as HNRS/MATH 142. Fulfills GE B1.",
+  "units": "4",
+  "prerequisites": "MATH 141 with a grade of C- or better or consent of instructor",
+  "corequisites": null,
+  "crnc": false
+}

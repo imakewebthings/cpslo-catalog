@@ -1,0 +1,9 @@
+{
+  "id": "ee-523",
+  "title": "Digital Systems Design",
+  "description": "Full-custom design and analysis of digital circuits using full CMOS, pass-transistor and dynamic circuit topologies. Transistor sizing for minimizing power consumption, delay and other design criteria. 3 seminars, 1 laboratory. Crosslisted as CPE/EE 523.",
+  "units": "4",
+  "prerequisites": "CPE/EE 329 or CPE/EE 336 or equivalent, and graduate standing or consent of instructor",
+  "corequisites": null,
+  "crnc": false
+}

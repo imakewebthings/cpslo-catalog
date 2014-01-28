@@ -1,0 +1,9 @@
+{
+  "id": "csc-303",
+  "title": "Teaching Computer Science",
+  "description": "Practical coverage of educational techniques appropriate for tutoring in CSC/CPE undergraduate courses, including Socratic methods for tutoring of technical topics, design of test questions and grading rubrics, and lecture presentation. Intended for CSC/CPE/SE students interested in tutoring, grading, or a career in teaching computer science. 1 lecture, 1 laboratory. Not available for technical elective credit.",
+  "units": "2",
+  "prerequisites": "CSC/CPE 103, with a grade of C- or better, or equivalent",
+  "corequisites": null,
+  "crnc": false
+}

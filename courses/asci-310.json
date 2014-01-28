@@ -1,0 +1,9 @@
+{
+  "id": "asci-310",
+  "title": "Technical Veterinary Skills",
+  "description": "Restraint and handling of animals, physical examination, necropsy procedure, basic wound management, applied pharmacology. Reproduction and herd health programs. 3 lectures, 1 laboratory.",
+  "units": "4",
+  "prerequisites": "ASCI 229",
+  "corequisites": null,
+  "crnc": false
+}

@@ -1,0 +1,9 @@
+{
+  "id": "cpe-368",
+  "title": "Signals and Systems Laboratory",
+  "description": "Laboratory work pertaining to linear systems, including Fourier analysis, time and frequency responses, and system transfer function. 1 laboratory. Crosslisted as CPE/EE 368.",
+  "units": "1",
+  "prerequisites": "EE 228",
+  "corequisites": null,
+  "crnc": false
+}

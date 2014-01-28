@@ -1,0 +1,9 @@
+{
+  "id": "ss-431",
+  "title": "Soil Resource Inventory",
+  "description": "Development and production of soil surveys for interpretive purposes. Use of soil taxonomy and land classification systems to evaluate land for best management practices. 2 lectures, 2 laboratories.",
+  "units": "4",
+  "prerequisites": "ERSC 223, SS 321",
+  "corequisites": null,
+  "crnc": false
+}

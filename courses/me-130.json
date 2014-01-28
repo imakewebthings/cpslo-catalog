@@ -1,0 +1,9 @@
+{
+  "id": "me-130",
+  "title": "Introduction to Mechanical Engineering III",
+  "description": "Use of computer-aided design to communicate parts and assemblies. Dimensioned drawings for part fabrication. Introduction to fits and tolerances. Layout drawings and functional assemblies. Conclusion of cornerstone service learning project. 1 laboratory. Formerly ME 152.",
+  "units": "1",
+  "prerequisites": "ME 129; Mechanical Engineering student; third quarter of freshman year",
+  "corequisites": null,
+  "crnc": false
+}

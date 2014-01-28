@@ -1,8 +1,9 @@
 {
   "id": "csc-458",
   "title": "Current Topics in Computer Systems",
-  "description": "Selected aspects of design, implementation and analysis of networks, advanced operating and distributed systems. Topics may include process management, virtual memory, process communication, context switching, file system designs, persistent objects, process and data migration, load balancing, security and networks. The Schedule of Classes will list topic selected. Total credit limited to 8 units. 3 lectures, 1 laboratory.",
-  "units": 4,
-  "prerequisites": "CSC/CPE 357."
+  "description": "Selected aspects of design, implementation and analysis of networks, advanced operating and distributed systems. Topics may include process management, virtual memory, process communication, context switching, file system designs, persistent objects, process and data migration, load balancing, security and networks. The Schedule of Classes will list topic selected. Total credit limited to 8 units. 3 lectures, 1 laboratory. Crosslisted as CPE/CSC 458.",
+  "units": "4",
+  "prerequisites": "CSC/CPE 357",
+  "corequisites": null,
+  "crnc": false
 }
-

@@ -1,0 +1,9 @@
+{
+  "id": "aero-546",
+  "title": "Spacecraft Systems Design",
+  "description": "Spacecraft missions, vehicle types, and applications. Introduction and preliminary sizing of major subsystems of a space system. Introduction to and design drivers for space environments, propulsion system, power system, structural design, spacecraft dynamics and attitude control, orbit mechanics, thermal control, communications, and ground segments. 4 lectures.",
+  "units": "4",
+  "prerequisites": "Graduate standing",
+  "corequisites": null,
+  "crnc": false
+}

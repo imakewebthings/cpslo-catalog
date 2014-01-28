@@ -1,0 +1,9 @@
+{
+  "id": "bmed-212",
+  "title": "Introduction to Biomedical Engineering",
+  "description": "A general introduction to bioengineering design, including examples of engineering analysis and design applied to representative topics in biomechanics, bioinstrumentation, biomaterials, biotechnology, and related areas. A review of technological needs, design methodology, testing procedures, statistical analysis, governmental regulations, evaluation of costs and benefits, quality of life, and ethical issues. 2 lectures, 1 laboratory.",
+  "units": "3",
+  "prerequisites": null,
+  "corequisites": null,
+  "crnc": false
+}

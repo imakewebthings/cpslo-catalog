@@ -1,0 +1,9 @@
+{
+  "id": "stat-423",
+  "title": "Design and Analysis of Experiments II",
+  "description": "Continuation of STAT 323. 2k factorial designs, 3k factorial designs, balanced and partially balanced incomplete block designs, nested designs, split-plot designs, response surface methodology, confounding, repeated measures, and other design approaches. 4 lectures.",
+  "units": "4",
+  "prerequisites": "STAT 323 or STAT 523",
+  "corequisites": null,
+  "crnc": false
+}

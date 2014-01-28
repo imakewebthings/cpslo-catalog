@@ -1,0 +1,9 @@
+{
+  "id": "arce-444",
+  "title": "Reinforced Concrete Laboratory",
+  "description": "Theory and design of basic reinforced concrete elements: non-slender columns, beams, tee beams and one way slabs. 3 laboratories.",
+  "units": "3",
+  "prerequisites": "ARCE 371 and ARCE 302 (C- or better required for ARCE Majors)",
+  "corequisites": null,
+  "crnc": false
+}

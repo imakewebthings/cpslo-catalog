@@ -1,0 +1,9 @@
+{
+  "id": "asci-403",
+  "title": "Applied Biotechnology in Animal Science",
+  "description": "Coverage of current resources, techniques and methodologies used in animal research and biotechnology as well as experimental design, model assessment, and data interpretation with application to an experimental setting in the laboratory. 3 lectures, 2 laboratories.",
+  "units": "5",
+  "prerequisites": "BIO 161, BIO 162, upper division genetics course (BIO 302 or BIO 303 or BIO 351 or ASCI 304) or consent of instructor",
+  "corequisites": null,
+  "crnc": false
+}

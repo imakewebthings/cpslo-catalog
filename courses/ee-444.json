@@ -1,0 +1,9 @@
+{
+  "id": "ee-444",
+  "title": "Power Systems Laboratory",
+  "description": "Protective relaying, coordination, and relay calibration. Power control using transformers, parallel operation of generators, and computer simulation of power systems. 1 laboratory.",
+  "units": "1",
+  "prerequisites": "EE 406",
+  "corequisites": null,
+  "crnc": false
+}

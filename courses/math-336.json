@@ -1,0 +1,9 @@
+{
+  "id": "math-336",
+  "title": "Combinatorial Math",
+  "description": "Methods of enumerative combinatorics: sum, product, and division rules, bijective and recursive techniques, inclusion and exclusion, generating functions, and the finite difference calculus. Advanced topics to be selected from the theory of partitions, Polya theory, designs, and codes. 4 lectures.",
+  "units": "4",
+  "prerequisites": "MATH 248 or junior standing",
+  "corequisites": null,
+  "crnc": false
+}

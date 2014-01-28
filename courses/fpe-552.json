@@ -1,0 +1,9 @@
+{
+  "id": "fpe-552",
+  "title": "Smoke Management and Special Hazards",
+  "description": "Analysis and design of smoke management systems. Assessment of smoke hazards. Identification of special hazards. Analysis and design of fire suppression systems used for fire control of special hazards, including gaseous and chemical agents and systems. 4 lectures.",
+  "units": "4",
+  "prerequisites": "FPE 502 and FPE 504",
+  "corequisites": null,
+  "crnc": false
+}

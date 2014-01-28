@@ -1,0 +1,9 @@
+{
+  "id": "sie-511",
+  "title": "Systems Analysis",
+  "description": "Analysis topics and techniques within the systems context, including functional analysis, systems simulation, design analysis, financial analysis, schedule analysis, manufacturability, reliability, maintainability, and usability. Course offered online only. 4 lectures.",
+  "units": "4",
+  "prerequisites": "SIE 510",
+  "corequisites": null,
+  "crnc": false
+}

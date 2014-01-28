@@ -1,0 +1,9 @@
+{
+  "id": "stat-418",
+  "title": "Analysis of Cross-Classified Data",
+  "description": "Discrete multivariate statistics, including analysis of cross-classified data, log-linear models for multidimensional contingency tables, goodness of fit statistics, measures of association, model selection, and hypothesis testing. 4 lectures.",
+  "units": "4",
+  "prerequisites": "STAT 324 or STAT 524",
+  "corequisites": null,
+  "crnc": false
+}

@@ -1,8 +1,9 @@
 {
   "id": "csc-480",
   "title": "Artificial Intelligence",
-  "description": "Programs and techniques that characterize artificial intelligence. Programming in a high level language. 3 lectures, 1 laboratory.",
-  "units": 4,
-  "prerequisites": "CSC/CPE 103 with a grade of C- or better."
+  "description": "Programs and techniques that characterize artificial intelligence. Programming in a high level language. 3 lectures, 1 laboratory. Crosslisted as CPE/CSC 480.",
+  "units": "4",
+  "prerequisites": "CSC/CPE 103 with a grade of C- or better",
+  "corequisites": null,
+  "crnc": false
 }
-

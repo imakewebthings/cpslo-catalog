@@ -1,0 +1,9 @@
+{
+  "id": "me-303",
+  "title": "Thermodynamics II",
+  "description": "Vapor and gas power cycles, refrigeration cycles, thermodynamic relations, psychrometrics, and chemical reactions. 3 lectures.",
+  "units": "3",
+  "prerequisites": "ME 302",
+  "corequisites": null,
+  "crnc": false
+}

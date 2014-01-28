@@ -1,0 +1,9 @@
+{
+  "id": "bus-434",
+  "title": "Real Estate Finance",
+  "description": "Analyses of real estate financing techniques and funding sources for development projects. Effects of federal, state, and local taxes on real estate investments. In-depth investigation and computer analyses of real estate investment projects. 4 lectures.",
+  "units": "4",
+  "prerequisites": "BUS 342",
+  "corequisites": null,
+  "crnc": false
+}

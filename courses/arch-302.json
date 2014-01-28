@@ -1,0 +1,9 @@
+{
+  "id": "arch-302",
+  "title": "Theories of Architectural Design",
+  "description": "Theories of architecture and their application in architectural design. 3 lectures.",
+  "units": "3",
+  "prerequisites": "ARCH 253",
+  "corequisites": null,
+  "crnc": false
+}

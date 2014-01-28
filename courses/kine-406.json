@@ -1,0 +1,9 @@
+{
+  "id": "kine-406",
+  "title": "Neuroanatomy",
+  "description": "Structure and function of the human nervous system. Afferent and efferent pathways involved in perception and action. Behavioral aspects of motor control and related neurological dysfunction and pathologies. Designed for allied health professions students. 4 lectures.",
+  "units": "4",
+  "prerequisites": "ZOO 231 and ZOO 232, or ZOO 331 and ZOO 332, or BIO 361",
+  "corequisites": null,
+  "crnc": false
+}

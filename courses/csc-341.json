@@ -1,7 +1,9 @@
 {
   "id": "csc-341",
   "title": "Numerical Engineering Analysis",
-  "description": "An intensive survey of numerical analysis techniques used for solving engineering problems. Topics include solution of nonlinear equations, solution of linear systems, interpolation, numerical quadrature, ordinary differential equations and boundary value problems. Not open to students who have completed CSC 342. 4 lectures. Fulfills GE B6.",
-  "units": 4,
-  "prerequisites": "MATH 244 and one of the following courses: CSC 101, CSC 231, CSC 232, CSC 234, CSC 235, or consent of instructor."
+  "description": "An intensive survey of numerical analysis techniques used for solving engineering problems. Topics include solution of nonlinear equations, solution of linear systems, interpolation, numerical quadrature, ordinary differential equations and boundary value problems. Not open to students who have completed CSC 342. 4 lectures. Fulfills GE B6.",
+  "units": "4",
+  "prerequisites": "MATH 244 and one of the following courses: CSC 101, CSC 231, CSC 232, CSC 234, CSC 235, or consent of instructor",
+  "corequisites": null,
+  "crnc": false
 }

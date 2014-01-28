@@ -1,0 +1,9 @@
+{
+  "id": "arce-502",
+  "title": "Nonlinear Structural Behavior I",
+  "description": "Principles, concepts, and behavior of structures loaded beyond their linear-elastic limit. Elastic-plastic behavior of truss, beam, and frame structures. Buckling and post-buckling behavior of columns. Behavior of beam-columns and the principle of superposition. Second-order elastic behavior of frames. 3 lectures.",
+  "units": "3",
+  "prerequisites": "ARCE 306 and ARCE 353",
+  "corequisites": null,
+  "crnc": false
+}

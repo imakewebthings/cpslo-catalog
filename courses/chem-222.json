@@ -1,0 +1,9 @@
+{
+  "id": "chem-222",
+  "title": "Introduction to Computational Chemistry",
+  "description": "Introduction to chemical structure and behavior by computational chemistry techniques. Applications include scientific visualization, molecular modeling, geometry optimization, transition states and molecular dynamics. 1 lectures, 1 laboratory.",
+  "units": "2",
+  "prerequisites": "CHEM 129; CHEM 216 or CHEM 316; MATH 142 or MATH 162",
+  "corequisites": null,
+  "crnc": false
+}

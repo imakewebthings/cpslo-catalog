@@ -1,0 +1,9 @@
+{
+  "id": "arce-316",
+  "title": "Large Scale Structures",
+  "description": "Introduction to structures that use steel and concrete as the primary construction material. Introduction to gravity load carrying systems and lateral load resisting systems using steel and concrete elements. Development of skills to analyze structures using free body diagrams and the concept of load flow. 4 lectures.",
+  "units": "4",
+  "prerequisites": "ARCE 315",
+  "corequisites": null,
+  "crnc": false
+}

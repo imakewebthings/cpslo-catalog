@@ -1,0 +1,9 @@
+{
+  "id": "aero-557",
+  "title": "Advanced Orbital Mechanics",
+  "description": "N-body orbit interactions, computer simulations, orbit determination, orbit and transfer optimization, libration points, halo orbits, and orbit perturbations. 4 lectures.",
+  "units": "4",
+  "prerequisites": "AERO 451, graduate standing, or consent of instructor",
+  "corequisites": null,
+  "crnc": false
+}

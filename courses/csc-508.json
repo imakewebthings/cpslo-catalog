@@ -2,7 +2,8 @@
   "id": "csc-508",
   "title": "Software Engineering I",
   "description": "In-depth study of requirements engineering, software project management, formal specifications and object-oriented analysis. 4 seminars.",
-  "units": 4,
-  "prerequisites": "CSC/CPE 307 or CSC/CPE 308 and graduate standing, or consent of instructor."
+  "units": "4",
+  "prerequisites": "CSC/CPE 307 or CSC/CPE 308 and graduate standing, or consent of instructor",
+  "corequisites": null,
+  "crnc": false
 }
-

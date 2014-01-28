@@ -1,0 +1,9 @@
+{
+  "id": "ee-321",
+  "title": "Electronics",
+  "description": "Semiconductor devices and circuits. Instrumentation amplifiers, power control rectifiers, feedback, pulse circuits, digital logic circuits. Not for Electrical Engineering majors. 3 lectures.",
+  "units": "3",
+  "prerequisites": "EE 201 or BRAE 216 for BRAE majors",
+  "corequisites": null,
+  "crnc": false
+}

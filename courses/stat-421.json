@@ -1,0 +1,9 @@
+{
+  "id": "stat-421",
+  "title": "Survey Sampling and Methodology",
+  "description": "Survey planning, execution, and analysis . Principles of survey research, including non-sampling and sampling error topics. Survey sample designs, including simple random, systematic, stratified, cluster, and multi-stage. Estimation procedures and sample size calculations. 4 lectures.",
+  "units": "4",
+  "prerequisites": "One of the following: STAT 252, STAT 302, STAT 313, STAT 512, or STAT 513",
+  "corequisites": null,
+  "crnc": false
+}

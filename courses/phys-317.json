@@ -1,0 +1,9 @@
+{
+  "id": "phys-317",
+  "title": "Special Theory Relativity",
+  "description": "Fundamental experiments and basic postulates of special relativity. Simultaneity, length and time measurements. Lorentz transformations. Four-Vectors. Space-time diagrams. Relativistic mechanics and electromagnetism. 3 lectures.",
+  "units": "3",
+  "prerequisites": "PHYS 211",
+  "corequisites": null,
+  "crnc": false
+}

@@ -1,0 +1,9 @@
+{
+  "id": "ee-511",
+  "title": "Electric Machines Theory",
+  "description": "Advanced topics in electric machines theory. Introduction to Park's transformation. Analysis of electric machines using Kron's generalized concept. Vector control of induction machines. 4 seminars.",
+  "units": "4",
+  "prerequisites": "EE 255 or equivalent, and graduate standing or consent of instructor",
+  "corequisites": null,
+  "crnc": false
+}

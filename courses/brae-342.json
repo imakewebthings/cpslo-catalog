@@ -1,0 +1,9 @@
+{
+  "id": "brae-342",
+  "title": "Agricultural Materials",
+  "description": "Physical properties of agricultural materials and their measurement. Strength of materials, material flow and transport, material deformation, shape and size classification, moisture relationships and biological interactions. Interactions between agricultural materials, the environment and equipment used to handle them. 3 lectures, 1 laboratory.",
+  "units": "4",
+  "prerequisites": "PHYS 121, SS 121, MATH 119",
+  "corequisites": null,
+  "crnc": false
+}

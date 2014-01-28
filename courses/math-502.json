@@ -1,0 +1,9 @@
+{
+  "id": "math-502",
+  "title": "Numerical Methods in Applied Mathematics",
+  "description": "Introduction to advanced numerical analysis. Numerical techniques for solving ordinary and partial differential equations, error analysis, stability, methods for linear systems. Not open to students in math major or master's degree program in mathematics. 4 lectures.",
+  "units": "4",
+  "prerequisites": "MATH 344 or AERO 300, an introductory college-level programming course, and graduate standing",
+  "corequisites": null,
+  "crnc": false
+}

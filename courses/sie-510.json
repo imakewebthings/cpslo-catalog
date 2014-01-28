@@ -1,0 +1,9 @@
+{
+  "id": "sie-510",
+  "title": "Introduction to Systems",
+  "description": "Introduction to man-made and socio-technical systems, including life cycle concepts, needs analysis, requirements discovery, models, complexity, project management, life cycle costing, risk management, and decision making. Verification, validation, and virtual collaboration of teams. Course offered online only. 4 lectures.",
+  "units": "4",
+  "prerequisites": "SIE 509",
+  "corequisites": null,
+  "crnc": false
+}

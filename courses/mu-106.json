@@ -1,0 +1,9 @@
+{
+  "id": "mu-106",
+  "title": "Musicianship II",
+  "description": "Sightsinging and dictation in minor mode; performance and dictation of one- and two-art rhythms in simple and compound meters syncopation; identification of compound intervals, triad inversions and cadence types; harmonic dictation using diatonic root position triads and the dominant seventh. 2 activities.",
+  "units": "2",
+  "prerequisites": "MU 104",
+  "corequisites": "MU 103",
+  "crnc": false
+}

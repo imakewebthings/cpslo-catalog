@@ -1,0 +1,9 @@
+{
+  "id": "chem-371",
+  "title": "Biochemical Principles",
+  "description": "Chemistry and function of major cellular constituents: proteins, lipids, carbohydrates, and membranes. 4 lectures, 1 laboratory.",
+  "units": "5",
+  "prerequisites": "CHEM 217 or CHEM 317; and BIO 161",
+  "corequisites": null,
+  "crnc": false
+}

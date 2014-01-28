@@ -1,0 +1,9 @@
+{
+  "id": "arce-503",
+  "title": "Nonlinear Structural Behavior II",
+  "description": "Principles, concepts, and techniques of nonlinear structural analysis currently used in practice. Classification of nonlinear problem types. Investigation of typical iterative solution strategies. Studies in material and geometric nonlinearities in spring, truss, and frame elements. Use of current nonlinear analysis software. 3 lectures.",
+  "units": "3",
+  "prerequisites": "ARCE 502",
+  "corequisites": null,
+  "crnc": false
+}

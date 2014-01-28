@@ -1,0 +1,9 @@
+{
+  "id": "econ-313",
+  "title": "Intermediate Macroeconomics",
+  "description": "Analysis of national income, price level, employment, international trade and economic growth. Development of the theory of national income determination. Evaluation of roles of monetary and fiscal policy. 4 lectures.",
+  "units": "4",
+  "prerequisites": "ECON 312",
+  "corequisites": null,
+  "crnc": false
+}

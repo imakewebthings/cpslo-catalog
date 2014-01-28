@@ -1,0 +1,9 @@
+{
+  "id": "dsci-501",
+  "title": "Dairy Chemistry",
+  "description": "Composition, structure/functional relationships and properties of milk, milk components and products. Physical, chemical and biochemical changes that occur during processing, storage and use of milk and milk components. Chemical, physical, functional and nutritional properties of milk components. 3 lectures.",
+  "units": "3",
+  "prerequisites": "CHEM 212 or CHEM 312; admission to Master of Professional Studies program in Dairy Products Technology",
+  "corequisites": null,
+  "crnc": false
+}

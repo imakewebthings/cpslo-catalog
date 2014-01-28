@@ -1,0 +1,9 @@
+{
+  "id": "cpe-336",
+  "title": "Microprocessor System Design",
+  "description": "Introduction to microcontrollers and integrated microprocessor systems. Hardware/software trade-offs, system economics, and functional configurations. Interface design, real-time clocks, interrupts, A/D conversion, serial and parallel communications, watch-dog timers, low power operation, event-based inter-peripheral communication, and assembly and higher-level language programming techniques. Architecture and design of sampled data and low-power systems. Not open to students with credit in CPE/EE 329. 3 lectures, 1 laboratory. Crosslisted as CPE/EE 336.",
+  "units": "4",
+  "prerequisites": "CPE/EE 229 & CPE/EE 269 or CPE/EE 233",
+  "corequisites": null,
+  "crnc": false
+}

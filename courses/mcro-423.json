@@ -1,0 +1,9 @@
+{
+  "id": "mcro-423",
+  "title": "Medical Microbiology",
+  "description": "Microorganisms as agents of disease in humans. Epidemiology, host-parasite relationships, and chemotherapy. The compromised host and opportunistic disease. Laboratory safety. Procedures for laboratory diagnosis of human diseases. Rapid miniaturized methods of identification. 3 lectures, 2 laboratories.",
+  "units": "5",
+  "prerequisites": "Junior standing; MCRO 225; and CHEM 216, CHEM 312 or CHEM 316; and consent of instructor",
+  "corequisites": null,
+  "crnc": false
+}

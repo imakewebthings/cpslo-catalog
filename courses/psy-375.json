@@ -1,0 +1,9 @@
+{
+  "id": "psy-375",
+  "title": "Forensic Psychology",
+  "description": "Application and practice of psychology in both the civil and criminal justice systems. Examination of police and investigative psychology, correctional psychology, expert witness testimony, psychological evaluations for the courts, understanding aggression. 4 lectures.",
+  "units": "4",
+  "prerequisites": "PSY 201 or PSY 202",
+  "corequisites": null,
+  "crnc": false
+}

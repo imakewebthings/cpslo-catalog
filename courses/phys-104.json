@@ -1,0 +1,9 @@
+{
+  "id": "phys-104",
+  "title": "Introductory Physics",
+  "description": "Elementary introduction to mechanics, gases, liquids and solids, heat, vibrations and waves, light, electricity and magnetism. Intended to provide non-science students with an understanding of basic physical concepts. Not open to students who have credit in a college physics course. 4 lectures. Fulfills GE B3.",
+  "units": "4",
+  "prerequisites": "Passing score on ELM examination, or an ELM exemption, or credit in MATH 104",
+  "corequisites": null,
+  "crnc": false
+}

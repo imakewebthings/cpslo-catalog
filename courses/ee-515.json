@@ -1,0 +1,9 @@
+{
+  "id": "ee-515",
+  "title": "Discrete Time Filters",
+  "description": "Advanced topics in filter design and implementation. Emphasis placed on current applications and on the processing of real signals. Topics may include signal analysis via spectral estimation, short time Fourier transforms, and spectrograms. Effects of coefficient quantization, and limits of practical filters. State space realization. Optimal and adaptive filters for signal prediction, system identification, and noise cancellation. Techniques implemented in programming assignments. 4 seminars.",
+  "units": "4",
+  "prerequisites": "EE 314 or equivalent, and graduate standing or consent of instructor",
+  "corequisites": null,
+  "crnc": false
+}

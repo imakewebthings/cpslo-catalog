@@ -1,0 +1,9 @@
+{
+  "id": "arce-257",
+  "title": "Structural CAD for Building Design",
+  "description": "Emphasis on the use of computer graphics software to represent a building's structural system and its individual elements. 1 lecture, 1 laboratory.",
+  "units": "2",
+  "prerequisites": "ARCH 133, CM 115",
+  "corequisites": null,
+  "crnc": false
+}

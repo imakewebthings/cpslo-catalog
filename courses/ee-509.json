@@ -1,0 +1,9 @@
+{
+  "id": "ee-509",
+  "title": "Computational Intelligence",
+  "description": "Theory, design, and applications of biologically inspired computational paradigms, including artificial neural networks, evolutionary computation, swarm intelligence, and hybrid intelligent systems. 4 seminars.",
+  "units": "4",
+  "prerequisites": "Senior or graduate standing",
+  "corequisites": null,
+  "crnc": false
+}

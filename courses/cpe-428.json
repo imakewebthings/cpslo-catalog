@@ -1,0 +1,9 @@
+{
+  "id": "cpe-428",
+  "title": "Computer Vision",
+  "description": "Introduction to the concepts of 2D and 3D computer vision: low-level image processing methods such as filtering and edge detection; feature extraction; segmentation and clustering; stereo vision; appearance-based and model-based algorithms. 3 lectures, 1 laboratory. Crosslisted as CPE/EE 428.",
+  "units": "4",
+  "prerequisites": "EE 328 or CPE/CSC 357 or ME 305 or consent of instructor",
+  "corequisites": null,
+  "crnc": false
+}

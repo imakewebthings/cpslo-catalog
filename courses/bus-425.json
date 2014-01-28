@@ -1,0 +1,9 @@
+{
+  "id": "bus-425",
+  "title": "Auditing",
+  "description": "Survey of the auditing environment including institutional, ethical, and legal liability dimensions. Introduction to audit planning, assessing materiality and audit risk, collecting and evaluating audit evidence, considering the internal control structure, substantive testing, and reporting. 4 lectures.",
+  "units": "4",
+  "prerequisites": "BUS 322",
+  "corequisites": null,
+  "crnc": false
+}

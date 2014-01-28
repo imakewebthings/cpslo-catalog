@@ -1,0 +1,9 @@
+{
+  "id": "me-343",
+  "title": "Heat Transfer",
+  "description": "Basic principles of heat transfer. Conduction, convection, radiation, and combined modes. Optional thermal engineering design project. 4 lectures.",
+  "units": "4",
+  "prerequisites": "ME 341; and ME 302 or MATE 380; MATH 244; and CSC 231 or CSC 234",
+  "corequisites": null,
+  "crnc": false
+}

@@ -1,0 +1,9 @@
+{
+  "id": "bus-442",
+  "title": "Introduction to Futures and Options",
+  "description": "An in-depth analysis of derivatives markets and instruments. Emphasis on the valuation of futures, options, swaps, and other derivative securities. 4 seminars.",
+  "units": "4",
+  "prerequisites": "BUS 431",
+  "corequisites": null,
+  "crnc": false
+}

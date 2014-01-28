@@ -1,0 +1,9 @@
+{
+  "id": "ee-306",
+  "title": "Semiconductor Device Electronics",
+  "description": "Internal operation, semiconductor physics, terminal characteristics, models and application of diodes (LEDs, solar cells, and photo-diodes) and transistors (field-effect and bipolar). 3 lectures.",
+  "units": "3",
+  "prerequisites": "CHEM 124, EE 212 & EE 242, IME 156 or IME 157 or IME 458, PHYS 211",
+  "corequisites": null,
+  "crnc": false
+}

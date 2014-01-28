@@ -1,0 +1,9 @@
+{
+  "id": "phys-417",
+  "title": "Nonlinear Dynamical Systems",
+  "description": "Analysis of linear and nonlinear dynamical systems with emphasis on geometrical methods and visualization techniques. Fixed points, phase plane analysis, bifurcations and limit cycles. Laboratory component includes data acquisition and analysis using computers, numerical simulations of dynamical systems, and analysis of discrete systems. 3 lectures, 1 laboratory. Fulfills GE B6.",
+  "units": "4",
+  "prerequisites": "PHYS 132 or PHYS 122; and PHYS 133 or PHYS 123; and MATH 241; and MATH 242 or MATH 244",
+  "corequisites": null,
+  "crnc": false
+}

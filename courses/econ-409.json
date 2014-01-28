@@ -1,0 +1,9 @@
+{
+  "id": "econ-409",
+  "title": "Probability Models for Economic Decisions",
+  "description": "Decision making in complex, realistic situations. Simulation of random variables in Excel. Risk aversion. Subjective assessment of probabilities and correlations. Decision trees. Optimal bidding in auctions. The winner's curse. Moral hazard and risk sharing. Repeated investment decisions under risk. 4 lectures.",
+  "units": "4",
+  "prerequisites": "ECON 311, or consent of instructor",
+  "corequisites": null,
+  "crnc": false
+}

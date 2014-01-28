@@ -1,0 +1,9 @@
+{
+  "id": "chem-219",
+  "title": "Organic Chemistry Laboratory III for Life Sciences",
+  "description": "Practice in multistep organic synthesis, enzymatic organic chemistry, biomimetic organic chemistry. Not open to Biochemistry or Chemistry majors. 1 laboratory.",
+  "units": "1",
+  "prerequisites": "C- or better in CHEM 217",
+  "corequisites": "CHEM 218/318",
+  "crnc": false
+}

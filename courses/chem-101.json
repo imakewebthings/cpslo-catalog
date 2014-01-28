@@ -1,0 +1,9 @@
+{
+  "id": "chem-101",
+  "title": "Introduction to the Chemical Sciences",
+  "description": "Introduction to the chemistry and biochemistry disciplines. Orientation, advising, career opportunities and introduction to the faculty. Designed for first-year CHEM and BCHEM majors. Credit/No Credit grading only. 1 lecture.",
+  "units": "1",
+  "prerequisites": "CHEM/BCHEM major or consent of instructor",
+  "corequisites": null,
+  "crnc": false
+}

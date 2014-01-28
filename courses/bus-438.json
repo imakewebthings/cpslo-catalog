@@ -1,0 +1,9 @@
+{
+  "id": "bus-438",
+  "title": "Advanced Corporate Finance",
+  "description": "Corporate finance with an emphasis on managing the corporation to create shareholder value. Detailed treatment of topics such as capital budgeting, capital structure, economic value-added, corporate distribution policy, financial distress, and mergers and acquisitions. 4 lectures.",
+  "units": "4",
+  "prerequisites": "BUS 431 and BUS 439",
+  "corequisites": null,
+  "crnc": false
+}

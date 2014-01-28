@@ -1,0 +1,9 @@
+{
+  "id": "me-412",
+  "title": "Composite Materials Analysis and Design",
+  "description": "Behavior of unidirectional fiber composites. Properties of short-fiber composites, and orthotropic lamina. Analysis of laminated composites. Strength and hygrothermal behavior of composite materials. Structural optimization. 3 lectures, 1 laboratory.",
+  "units": "4",
+  "prerequisites": "AERO 331 or ME 328",
+  "corequisites": null,
+  "crnc": false
+}

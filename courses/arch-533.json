@@ -1,0 +1,9 @@
+{
+  "id": "arch-533",
+  "title": "Architectural Programming",
+  "description": "Information management in the design process. Techniques for gathering, analyzing, and transforming data for use as design information. Variety of approaches to pre-design planning. 3 seminars.",
+  "units": "3",
+  "prerequisites": "ARCH 453",
+  "corequisites": null,
+  "crnc": false
+}

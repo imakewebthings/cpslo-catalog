@@ -1,0 +1,9 @@
+{
+  "id": "math-580",
+  "title": "Seminar",
+  "description": "Built around topics in advanced mathematics chosen according to the common interests and needs of the students enrolled. Each seminar will have a subtitle according to the nature of the content. Total credit limited to 12 units. 1-4 seminars.",
+  "units": "1-4",
+  "prerequisites": "Graduate standing and consent of instructor",
+  "corequisites": null,
+  "crnc": false
+}

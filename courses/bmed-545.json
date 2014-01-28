@@ -1,0 +1,9 @@
+{
+  "id": "bmed-545",
+  "title": "Cell Transplantation and Biotherapeutics",
+  "description": "Lecture topics include patho-physiology, disease models, rodent anatomy, and therapeutic strategies. Laboratory topics include rodent handling, survival surgery, therapy delivery, and measurements of organ function or repair. Focus on experimental design, data collection and analysis, and literature integration. 2 lectures, 2 laboratories.",
+  "units": "4",
+  "prerequisites": "Statistics - STAT 312 or STAT 218; Physiology - BMED 460, BIO 361, or ASCI/VS 438",
+  "corequisites": null,
+  "crnc": false
+}

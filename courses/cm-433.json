@@ -1,0 +1,9 @@
+{
+  "id": "cm-433",
+  "title": "Integrated Project Delivery",
+  "description": "Investigation and analysis of special advanced topics in Integrated Project Delivery including Design-Build, CM-at-Risk, Alliance Contracting and other alternative delivery models and application across a wide range of project types. Topics include source selection, acquisitions, contracting, performance criteria, design management, and others. 2 activities.",
+  "units": "2",
+  "prerequisites": "CM 214",
+  "corequisites": null,
+  "crnc": false
+}

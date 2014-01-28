@@ -1,0 +1,9 @@
+{
+  "id": "bmed-535",
+  "title": "Bioseparations",
+  "description": "Advanced topics in physicochemical hydrodynamics, bioseparations and microfluidic bioseparations, which include the key aspects of electrokinetics, colloid science and suspension mechanics in bioseparations. Understanding key separation design parameters through theoretical and numerical models. 4 lectures.",
+  "units": "4",
+  "prerequisites": "BMED 425, ME 341 or consent of instructor",
+  "corequisites": null,
+  "crnc": false
+}

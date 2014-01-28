@@ -1,0 +1,9 @@
+{
+  "id": "brae-433",
+  "title": "Agricultural Structures Design",
+  "description": "Structural analysis and design of agricultural service and processing buildings. Emphasis on use of wood, metals, and reinforced concrete in light construction. 3 lectures, 1 laboratory.",
+  "units": "4",
+  "prerequisites": "BRAE 232, CE 204",
+  "corequisites": null,
+  "crnc": false
+}

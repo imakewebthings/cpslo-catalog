@@ -1,0 +1,9 @@
+{
+  "id": "phys-313",
+  "title": "Introduction to Atmospheric Physics",
+  "description": "Properties of the atmosphere, atmospheric motions, solar and terrestrial radiation. Emphasis on conservation laws of momentum, energy and mass applied to understanding the Earth's atmospheric motions. 3 lectures.",
+  "units": "3",
+  "prerequisites": "PHYS 132 or PHYS 122, and MATH 241",
+  "corequisites": null,
+  "crnc": false
+}

@@ -1,0 +1,9 @@
+{
+  "id": "cpe-488",
+  "title": "Microelectronics and Electronics Packaging",
+  "description": "Materials, processes, and reliability of microelectronics and electronics packaging, surface mount assembly and printed circuit board fabrication. Organic substrates and ceramic substrates. Mechanical design, thermal, and electrical considerations in electronic packaging. Design for manufacturability. Overview of optoelectronics packaging and other emerging technologies in microelectronics and electronic packaging. Project on design and manufacture of an electronic device. 3 lectures, 1 laboratory. Crosslisted as CPE 488/IME 458/MATE 458.",
+  "units": "4",
+  "prerequisites": "EE 112 or EE 201",
+  "corequisites": null,
+  "crnc": false
+}

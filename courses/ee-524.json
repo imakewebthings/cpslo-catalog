@@ -1,0 +1,9 @@
+{
+  "id": "ee-524",
+  "title": "Solid State Electronics",
+  "description": "Physical theory of solid-state devices. Properties of metal-semiconductor junctions and p-n junctions. Derivation of properties of diodes, transistors, and four-layer devices from basic physical and mathematical considerations. 3 seminars.",
+  "units": "3",
+  "prerequisites": "PHYS 412 or equivalent, and graduate standing or consent of instructor",
+  "corequisites": null,
+  "crnc": false
+}

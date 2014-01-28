@@ -1,0 +1,9 @@
+{
+  "id": "phys-315",
+  "title": "Introduction to Lasers and Laser Applications",
+  "description": "Interaction of radiation with matter, theory of laser action, characteristics and modification of laser output, types of lasers. Holography and other applications. 3 lectures.",
+  "units": "3",
+  "prerequisites": "PHYS 211 and MATH 143",
+  "corequisites": null,
+  "crnc": false
+}

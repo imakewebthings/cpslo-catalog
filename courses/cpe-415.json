@@ -1,0 +1,9 @@
+{
+  "id": "cpe-415",
+  "title": "Microcomputer Systems",
+  "description": "Recent advances in microcomputer architectures. RISC, parallel processing advances, and component communication. 3 lectures, 1 laboratory.",
+  "units": "4",
+  "prerequisites": "CSC/CPE 315",
+  "corequisites": null,
+  "crnc": false
+}

@@ -1,0 +1,9 @@
+{
+  "id": "arch-252",
+  "title": "Architectural Design 2",
+  "description": "Continuation of ARCH 251 plus the theories, concepts, processes and skills pertaining to light, construction and function as determinants that shape the built environment and support the communication of intended concepts and meanings. 5 laboratories.",
+  "units": "5",
+  "prerequisites": "ARCH 251, ARCH 241",
+  "corequisites": "ARCH 242",
+  "crnc": false
+}

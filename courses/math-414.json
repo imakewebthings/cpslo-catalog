@@ -1,0 +1,9 @@
+{
+  "id": "math-414",
+  "title": "Introduction to Analysis III",
+  "description": "A continuation of Introduction to Analysis I covering such topics as integration, infinite series, uniform convergence and functions of several variables. Highly recommended for students planning to enter graduate programs or secondary teaching and those interested in applied mathematics. 4 lectures.",
+  "units": "4",
+  "prerequisites": "MATH 413",
+  "corequisites": null,
+  "crnc": false
+}

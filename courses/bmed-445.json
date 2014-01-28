@@ -1,0 +1,9 @@
+{
+  "id": "bmed-445",
+  "title": "Bipotential Instrumentation",
+  "description": "Focus on the principles associated with instrumentation used to detect surface biopotentials. Emphasis on circuit level design and laboratory implementation of systems used to detect ECG, EMG and EEG signals. Development of practical experience with analog electronic instrumentation used in the design and testing process. A system level design project related to surface biopotential detection and recording. 2 lectures, 2 laboratories.",
+  "units": "4",
+  "prerequisites": "BMED 440",
+  "corequisites": null,
+  "crnc": false
+}

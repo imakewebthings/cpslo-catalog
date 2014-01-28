@@ -1,0 +1,9 @@
+{
+  "id": "me-329",
+  "title": "Intermediate Design",
+  "description": "Design of mechanical equipment and systems using various machine elements and components such as threaded fasteners, power screws, springs, gears, bearings, clutches, prime movers, etc. Decision modeling based on technical and economic feasibility. 3 lectures, 1 laboratory.",
+  "units": "4",
+  "prerequisites": "ME 328",
+  "corequisites": null,
+  "crnc": false
+}

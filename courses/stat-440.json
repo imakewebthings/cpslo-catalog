@@ -1,0 +1,9 @@
+{
+  "id": "stat-440",
+  "title": "SAS Certification Preparation",
+  "description": "Preparation and discussion of programming, data management, and data analysis topics related to the Certified Base Programmer Exam offered by the SAS Institute. 2 lectures.",
+  "units": "2",
+  "prerequisites": "STAT 330",
+  "corequisites": null,
+  "crnc": false
+}

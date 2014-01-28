@@ -1,0 +1,9 @@
+{
+  "id": "aero-532",
+  "title": "Advanced Aerospace Composite Design",
+  "description": "Behavior of composite materials. Bending, buckling, and vibration of laminated plates. Fatigue and fracture mechanics analysis of composite structures. Optimum design of composite pressure vessels. 2 seminars, 2 laboratories.",
+  "units": "4",
+  "prerequisites": "Graduate standing or consent of instructor",
+  "corequisites": null,
+  "crnc": false
+}

@@ -1,0 +1,9 @@
+{
+  "id": "cm-239",
+  "title": "Construction Surveying",
+  "description": "Theory and practice of plane surveying with an emphasis on construction applications. Topics include property use and care of survey equipment and instruments, distance measurement, leveling, angular measurement, construction layout, basic roadwork, and as-built surveys. 3 lectures, 1 laboratory.",
+  "units": "4",
+  "prerequisites": "MATH 119 or equivalent",
+  "corequisites": null,
+  "crnc": false
+}

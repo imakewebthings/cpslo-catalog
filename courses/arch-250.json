@@ -1,0 +1,9 @@
+{
+  "id": "arch-250",
+  "title": "Computer Applications",
+  "description": "Introduction to the application of computers in architecture. History of computing and its use in architectural practice, hardware options, operating systems, electronic mail, databases, programming languages, graphics systems, survey and use of selected applications in architecture. 2 lectures, 1 laboratory.",
+  "units": "3",
+  "prerequisites": null,
+  "corequisites": null,
+  "crnc": false
+}

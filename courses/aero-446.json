@@ -1,0 +1,9 @@
+{
+  "id": "aero-446",
+  "title": "Introduction to Space Systems",
+  "description": "Basic satellite types and their applications. Major subsystems of a satellite system including ground support and launch systems. Interactions between subsystems and their effects on the overall system design. Detailed analysis of key subsystems on a spacecraft with special emphasis on power and communications subsystems. 4 lectures.",
+  "units": "4",
+  "prerequisites": "ME 212; EE 201 and EE 251; and AERO 353",
+  "corequisites": null,
+  "crnc": false
+}

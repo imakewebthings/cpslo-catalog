@@ -1,0 +1,9 @@
+{
+  "id": "ce-381",
+  "title": "Geotechnical Engineering",
+  "description": "Engineering geology, elementary mass-volume relations, clay-water interaction, soil classification, soil compaction, geostatic stress distributions, 1-D and 2-D steady-state flow, shear strength under drained and undrained conditions. 4 lectures.",
+  "units": "4",
+  "prerequisites": "CE 207; ME 341 or ENVE 264",
+  "corequisites": null,
+  "crnc": false
+}

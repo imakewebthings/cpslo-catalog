@@ -1,0 +1,9 @@
+{
+  "id": "ee-302",
+  "title": "Classical Control Systems",
+  "description": "Introduction to feedback control systems. System modeling. Transfer functions. Graphical system representation. System time response, stability. Root Locus. Frequency response. Compensation. 3 lectures.",
+  "units": "3",
+  "prerequisites": "EE 228",
+  "corequisites": null,
+  "crnc": false
+}

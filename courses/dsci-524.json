@@ -1,0 +1,9 @@
+{
+  "id": "dsci-524",
+  "title": "Dairy Processing and Manufacturing III",
+  "description": "Unit operations in process systems for the efficient manufacture of fermented milks, cheese, frozen desserts, and dried milk and whey products. Process variables and their control, system integration for these products. 3 lectures, 1 laboratory.",
+  "units": "4",
+  "prerequisites": "DSCI 520",
+  "corequisites": null,
+  "crnc": false
+}

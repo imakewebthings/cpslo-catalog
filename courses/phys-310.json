@@ -1,0 +1,9 @@
+{
+  "id": "phys-310",
+  "title": "Physics of Energy",
+  "description": "Physics and mathematics applied to broad energy topics. Efficient usage, transportation, solar energy, nuclear fission and fusion. Plasma, hydrogen economy, fuel cells, wind wave, tidal, and geothermal energy. Transmission, storage, fossils. National planning, and energy economics. 3 lectures.",
+  "units": "3",
+  "prerequisites": "PHYS 132",
+  "corequisites": null,
+  "crnc": false
+}

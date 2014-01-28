@@ -1,0 +1,9 @@
+{
+  "id": "econ-434",
+  "title": "Urban Economics",
+  "description": "Application of basic tools of economic analysis to problems of urban regions. Causes and possible cures for inadequate growth rate, income levels, and the quality of life in urban regions. 4 lectures.",
+  "units": "4",
+  "prerequisites": "ECON 311, or consent of instructor",
+  "corequisites": null,
+  "crnc": false
+}

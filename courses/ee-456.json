@@ -1,0 +1,9 @@
+{
+  "id": "ee-456",
+  "title": "Communication Systems Laboratory",
+  "description": "Methods of analog modulation and demodulation. Emphasis on spectral analysis, bandwidth requirements and other practical considerations of modulation and demodulation. 1 laboratory.",
+  "units": "1",
+  "prerequisites": "EE 328 & EE 368, EE 314",
+  "corequisites": null,
+  "crnc": false
+}

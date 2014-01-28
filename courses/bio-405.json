@@ -1,0 +1,9 @@
+{
+  "id": "bio-405",
+  "title": "Developmental Biology",
+  "description": "Events and mechanisms of embryonic development, including fertilization, morphogenesis, cell differentiation, and organogenesis, with emphasis on differential gene expression in model organisms. 3 lectures, 1 laboratory.",
+  "units": "4",
+  "prerequisites": "BIO 161, BIO 162, and BIO 303 or BIO 351 or CHEM 373",
+  "corequisites": null,
+  "crnc": false
+}

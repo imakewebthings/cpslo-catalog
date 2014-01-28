@@ -1,0 +1,9 @@
+{
+  "id": "ee-433",
+  "title": "Introduction to Magnetic Design",
+  "description": "Design of magnetic components. Fundamentals of magnetics, magnetic cores, design of power transformer, three-phase transformer, dc inductor, ac inductors, dc-dc converter transformer design, actuators. Use of commercially available software. 3 lectures, 1 laboratory.",
+  "units": "4",
+  "prerequisites": "EE 255 & EE 295 or consent of instructor",
+  "corequisites": null,
+  "crnc": false
+}

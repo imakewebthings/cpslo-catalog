@@ -1,0 +1,9 @@
+{
+  "id": "me-507",
+  "title": "Mechanical Control System Design",
+  "description": "Application of principles of high-level design to mechanical control system implementation. Use of modified state transition logic in conjunction with object-oriented programming as design methodology. Real-time programming using above techniques for control of mechanical systems. 3 lectures, 1 laboratory.",
+  "units": "4",
+  "prerequisites": "Graduate standing or consent of instructor",
+  "corequisites": null,
+  "crnc": false
+}

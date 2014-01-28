@@ -1,0 +1,9 @@
+{
+  "id": "ee-514",
+  "title": "Advanced Topics in Automatic Control",
+  "description": "Summary course covering five selected graduate-level topics in automatic control theory and practice; implementation issues in digital control, nonlinear control theory and design, LQ and time optimal control, variable structure control, and fuzzy logic/model-free control. 4 seminars.",
+  "units": "4",
+  "prerequisites": "EE 513 or equivalent, EE 328 or similar course on discrete-time linear systems",
+  "corequisites": null,
+  "crnc": false
+}

@@ -1,0 +1,9 @@
+{
+  "id": "stat-531",
+  "title": "Statistical Computing with R",
+  "description": "Obtain, manage, and clean data; use of regular expressions; functional and object-oriented programming; graphical, descriptive, and inferential statistical methods; random number generation; Monte Carlo methods including resampling, randomization, and simulation. Not open to students with credit in STAT 331. 4 lectures.",
+  "units": "4",
+  "prerequisites": "Graduate standing, STAT 513 or STAT 542, and one computer programming course; or consent of instructor",
+  "corequisites": null,
+  "crnc": false
+}

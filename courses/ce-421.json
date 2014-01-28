@@ -1,0 +1,9 @@
+{
+  "id": "ce-421",
+  "title": "Traffic Engineering",
+  "description": "Principles of traffic circulation on highway systems and other modes. Traffic control. Traffic data collection and analysis. Capacity analysis. Traffic modeling. New technologies. 3 lectures, 1 laboratory.",
+  "units": "4",
+  "prerequisites": "CE 321 or consent of instructor",
+  "corequisites": null,
+  "crnc": false
+}

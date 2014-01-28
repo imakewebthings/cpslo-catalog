@@ -1,0 +1,9 @@
+{
+  "id": "ee-525",
+  "title": "Stochastic Processes",
+  "description": "Probability and stochastic processes used in random signal analysis. Response of linear systems to random inputs. Auto-correlation and power spectral densities. Applications in signal processing using the discrete Kalman filter. 4 seminars.",
+  "units": "4",
+  "prerequisites": "STAT 350 or equivalent, and graduate standing or consent of instructor",
+  "corequisites": null,
+  "crnc": false
+}

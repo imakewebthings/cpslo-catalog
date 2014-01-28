@@ -1,0 +1,9 @@
+{
+  "id": "phys-406",
+  "title": "Quantum Mechanics II",
+  "description": "Angular momentum operators and problems in three dimensions including the hydrogen atom. The elements of matrix mechanics and spin wave functions. Perturbation theory. 3 lectures.",
+  "units": "3",
+  "prerequisites": "PHYS 405",
+  "corequisites": null,
+  "crnc": false
+}

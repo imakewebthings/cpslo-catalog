@@ -1,0 +1,9 @@
+{
+  "id": "ee-412",
+  "title": "Advanced Analog Circuits",
+  "description": "Application of linear integrated circuits to data acquisition problems: transducer interfacing, linear and nonlinear preprocessing, phase-locked loops, and high performance quantization and recovery (A/D, D/A conversion). 3 lectures.",
+  "units": "3",
+  "prerequisites": "EE 314, EE 409 & EE 449",
+  "corequisites": null,
+  "crnc": false
+}

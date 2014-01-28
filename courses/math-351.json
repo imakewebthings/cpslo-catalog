@@ -1,0 +1,9 @@
+{
+  "id": "math-351",
+  "title": "Typesetting with LaTeX",
+  "description": "Preparing documents, especially mathematical ones, using LaTeX and AMS-LaTeX. Credit/No Credit grading only. 1 lecture.",
+  "units": "1",
+  "prerequisites": "Junior standing",
+  "corequisites": null,
+  "crnc": false
+}

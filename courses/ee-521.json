@@ -1,0 +1,9 @@
+{
+  "id": "ee-521",
+  "title": "Computer Systems",
+  "description": "Organization of modern general purpose, high speed digital computer systems. Design of arithmetic units, control units, memories and memory subsystems. Cost, power and speed trade-offs in the design of such systems. 3 seminars, 1 laboratory. Crosslisted as CPE/EE 521.",
+  "units": "4",
+  "prerequisites": "CPE/EE 329 or CPE/EE 336, or equivalent, and graduate standing or consent of instructor",
+  "corequisites": null,
+  "crnc": false
+}

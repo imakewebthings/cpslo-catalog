@@ -1,0 +1,9 @@
+{
+  "id": "educ-500",
+  "title": "Individual Study",
+  "description": "Advanced study planned and completed under the direction of a member of the department faculty. Open only to graduate students who have demonstrated ability to do independent work. Enrollment by petition. Total credit limited to 8 units.",
+  "units": "1-4",
+  "prerequisites": "Consent of department head, graduate major advisor, and supervising faculty member",
+  "corequisites": null,
+  "crnc": false
+}

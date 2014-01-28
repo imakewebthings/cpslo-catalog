@@ -1,0 +1,9 @@
+{
+  "id": "math-116",
+  "title": "Precalculus Algebra I",
+  "description": "Pre-calculus college algebra without trigonometry. Special products and factoring, exponents and radicals. Fractional and polynomial equations. Matrices, determinants, and systems of equations. Polynomial, rational, exponential, and logarithmic functions. Graphing, inequalities, absolute value, and complex numbers. MATH 116 and MATH 117 are equivalent to MATH 118, but are taught at a slower pace. Upon completion of MATH 116 and MATH 117, a student will receive 4 units of GE credit for Area B1. Not open to students with credit in MATH 118. 3 lectures.",
+  "units": "3",
+  "prerequisites": "Passing score on ELM examination, or an ELM exemption, or credit in MATH 104",
+  "corequisites": null,
+  "crnc": false
+}

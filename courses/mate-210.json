@@ -1,0 +1,9 @@
+{
+  "id": "mate-210",
+  "title": "Materials Engineering",
+  "description": "Structure of matter. Physical and mechanical properties of materials including metals, polymers, ceramics, composites, and electronic materials. Equilibrium diagrams. Heat treatments, materials selection and corrosion phenomena. 3 lectures.",
+  "units": "3",
+  "prerequisites": "CHEM 111 or CHEM 124 or CHEM 127",
+  "corequisites": null,
+  "crnc": false
+}

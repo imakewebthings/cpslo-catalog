@@ -1,0 +1,9 @@
+{
+  "id": "gsb-596",
+  "title": "Economic Forecasting",
+  "description": "Applications to business planning of selected economic forecasting techniques. Classical time series analysis, Box-Jenkins (ARIMA) models, leading indicators and input-output analysis. 3 seminars, 1 laboratory.",
+  "units": "4",
+  "prerequisites": "GSB 512, GSB 523 and OCOB graduate standing or approval from the Associate Dean",
+  "corequisites": null,
+  "crnc": false
+}

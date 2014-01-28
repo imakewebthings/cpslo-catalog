@@ -1,0 +1,9 @@
+{
+  "id": "math-211",
+  "title": "Computational Mathematics I",
+  "description": "Fundamentals of procedural programming in C/C++ and selected applications to problems in integral and differential calculus, matrix analysis, geometry, and physics. 4 lectures.",
+  "units": "4",
+  "prerequisites": "MATH 141",
+  "corequisites": null,
+  "crnc": false
+}

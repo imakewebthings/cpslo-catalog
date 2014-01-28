@@ -1,0 +1,9 @@
+{
+  "id": "chem-218",
+  "title": "Organic Chemistry for Life Sciences III",
+  "description": "Properties and reactions of amines, heterocyclic and aromatic compounds with an overview of the mechanisms of the reactions. Introductory concepts and applications of ultraviolet spectroscopy and mass spectrometry. CHEM 218 accepted in lieu of CHEM 318, but not for upper division credit. Not open to Biochemistry or Chemistry majors. Not open to students with credit in CHEM 318. 3 lectures.",
+  "units": "3",
+  "prerequisites": "CHEM 217/317",
+  "corequisites": null,
+  "crnc": false
+}

@@ -1,0 +1,9 @@
+{
+  "id": "psy-430",
+  "title": "Sensation and Perception",
+  "description": "Principles of sensory systems, psychophysics, attention and the perception of color, shape, movement, space, and time. Survey of the development of perception through the lifespan. 4 lectures.",
+  "units": "4",
+  "prerequisites": "PSY 340",
+  "corequisites": null,
+  "crnc": false
+}

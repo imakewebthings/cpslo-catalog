@@ -1,8 +1,9 @@
 {
   "id": "csc-560",
   "title": "Database Systems",
-  "description": "Nested and long-running transactions, distributed concurrency control, semantic and object-oriented data models, database systems for non-traditional applications: engineering design databases, active, logic, temporal, multi-media, and real-time databases. 4 seminars.",
-  "units": 4,
-  "prerequisites": "CSC/CPE 365 and graduate standing, or consent of instructor."
+  "description": "nested and long-running transactions, distributed concurrency control, semantic and object-oriented data models, database systems for non-traditional applications: engineering design databases, active, logic, temporal, multi-media, and real-time databases. 4 seminars.",
+  "units": "4",
+  "prerequisites": "CSC/CPE 365 and graduate standing, or consent of instructor",
+  "corequisites": null,
+  "crnc": false
 }
-

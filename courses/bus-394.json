@@ -1,0 +1,9 @@
+{
+  "id": "bus-394",
+  "title": "System Analysis and Design",
+  "description": "Systems analysis and design. Project team creation and performance monitoring. Systems development life cycle and project management, process modeling using data flow diagrams, data modeling with Entity/Relationship (E/R) diagrams, Computer Assisted Software Engineering (CASE) tools, object modeling with Unified Modeling Language (UML), and prototype development. 4 lectures.",
+  "units": "4",
+  "prerequisites": "BUS 391; Business and Economics majors must have formally declared their concentration to enroll",
+  "corequisites": null,
+  "crnc": false
+}

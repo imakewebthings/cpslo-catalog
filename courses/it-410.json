@@ -1,0 +1,9 @@
+{
+  "id": "it-410",
+  "title": "Operations Planning and Control",
+  "description": "Linking supply chain operations to deliver value to the end customer. Contrasting of advanced manufacturing concepts, such as pull systems, sales and operations planning, mixed model manufacturing, level production, and theory of constraints to traditional materials requirements planning systems. 3 lectures, 1 activity.",
+  "units": "4",
+  "prerequisites": "IT 341 or IT 371 and BUS 391",
+  "corequisites": null,
+  "crnc": false
+}

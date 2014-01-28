@@ -1,0 +1,9 @@
+{
+  "id": "fpe-504",
+  "title": "Fire Modeling",
+  "description": "Fire modeling techniques for fire safety assessment. Application of various engineering correlations and computer-based fire models, including zone models and computational fluid dynamics models, to representative fire problems. 4 lectures.",
+  "units": "4",
+  "prerequisites": "FPE 502, FPE 503",
+  "corequisites": null,
+  "crnc": false
+}

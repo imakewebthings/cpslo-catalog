@@ -1,0 +1,9 @@
+{
+  "id": "aero-566",
+  "title": "Advanced Topics in Spacecraft Design",
+  "description": "Application of advanced engineering tools to the design of space vehicles. System architecture and mission design. Concept of operations. Requirements development and flow down. System and subsystems trade studies and preliminary design. 4 lectures.",
+  "units": "4",
+  "prerequisites": "AERO 510, AERO 546, and graduate standing",
+  "corequisites": null,
+  "crnc": false
+}

@@ -1,0 +1,9 @@
+{
+  "id": "fsn-375",
+  "title": "Food Safety",
+  "description": "Principles, practices, and regulations governing and ensuring the chemical, physical, and biological safety of the food supply. Topics include Hazard Analysis Critical Control Point (HACCP), risk assessment, import safety, food bioterrorism and defense, product recalls, and traceability. 3 lectures, 1 activity.",
+  "units": "4",
+  "prerequisites": "FSN 370",
+  "corequisites": null,
+  "crnc": false
+}

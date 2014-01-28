@@ -1,0 +1,9 @@
+{
+  "id": "me-531",
+  "title": "Acoustics and Noise Control",
+  "description": "Description of sound using normal modes and waves. Interaction between vibrating solids and sound fields. Sound absorption in enclosed spaces. Sound transmission through barriers. Applications in acoustic enclosures, room enclosures, room acoustics. Design of quiet machinery and transducers. 3 lectures.",
+  "units": "4",
+  "prerequisites": "ME 318, MATH 344",
+  "corequisites": null,
+  "crnc": false
+}

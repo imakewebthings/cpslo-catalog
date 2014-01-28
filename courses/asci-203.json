@@ -1,0 +1,9 @@
+{
+  "id": "asci-203",
+  "title": "Animal Parasitology",
+  "description": "Identification, life cycles, prevention and control of the common external and internal parasites causing economic loss in livestock. 3 lectures.",
+  "units": "3",
+  "prerequisites": "BIO 111 or BIO 161",
+  "corequisites": null,
+  "crnc": false
+}

@@ -1,0 +1,9 @@
+{
+  "id": "bus-391",
+  "title": "Information Systems",
+  "description": "Computer applications in business and industry. Information systems and integrated systems concepts, computer hardware and software, strategic uses of information systems, databases, data warehousing, decision support systems and artificial intelligence, network basics, electronic commerce, systems development, ethical use of information, employing technology in a socially responsible manner, and emerging trends and technologies in information systems. 4 lectures.",
+  "units": "4",
+  "prerequisites": "BUS 214",
+  "corequisites": null,
+  "crnc": false
+}

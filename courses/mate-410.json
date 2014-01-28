@@ -1,0 +1,9 @@
+{
+  "id": "mate-410",
+  "title": "Nanoscale Engineering",
+  "description": "Material properties (mechanics, electronics, heat transfer, photonics, fluid mechanics and biomechanics) at the nanometer scale. Evaluation of nano-scale systems designed from a bottoms-up approach with unique properties. Exploration of integration of biology, chemistry, physics and engineering. 3 lectures.",
+  "units": "3",
+  "prerequisites": "CHEM 125, PHYS 133 and MATE 210",
+  "corequisites": null,
+  "crnc": false
+}

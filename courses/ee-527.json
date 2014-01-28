@@ -1,0 +1,9 @@
+{
+  "id": "ee-527",
+  "title": "Advanced Topics in Power Electronics",
+  "description": "Selected advanced topics in power electronics such as dc-dc converters, phase-controlled rectifiers, switched-mode inverters, ac and dc drives, HVDC transmission, or utility applications of power electronics. 4 seminars.",
+  "units": "4",
+  "prerequisites": "EE 410 or equivalent, and graduate standing or consent of instructor",
+  "corequisites": null,
+  "crnc": false
+}

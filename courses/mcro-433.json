@@ -1,0 +1,9 @@
+{
+  "id": "mcro-433",
+  "title": "Microbial Biotechnology",
+  "description": "Principles and methods used for production of enzymes, pharmaceuticals, chemicals, and food additives using micro-organisms. Topics include screening and strain improvement, regulation of metabolite production, genetic engineering, heterologous gene expression systems, large-scale production, and intellectual property. 3 lectures.",
+  "units": "3",
+  "prerequisites": "MCRO 221 or MCRO 224; and BIO 303 or BIO 351 or equivalent; and CHEM 216, CHEM 312 or CHEM 316 or equivalent, or graduate standing in Biological Sciences",
+  "corequisites": null,
+  "crnc": false
+}

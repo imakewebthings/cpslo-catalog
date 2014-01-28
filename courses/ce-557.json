@@ -1,0 +1,9 @@
+{
+  "id": "ce-557",
+  "title": "Seismic Analysis and Design for Civil Engineers",
+  "description": "Extension of the basic principles of structural dynamics to analysis of civil structures (buildings, bridges, tanks, etc.) to earthquake loading. Code based (Uniform Building Code and AASHTO) earthquake resistant design of civil structures. Not open to students with credit in CE 456. 3 lectures, 1 laboratory.",
+  "units": "4",
+  "prerequisites": "CE 407",
+  "corequisites": null,
+  "crnc": false
+}

@@ -1,0 +1,9 @@
+{
+  "id": "bus-290",
+  "title": "Introduction to Systems Development",
+  "description": "Fundamentals of computer programming related to business applications. Application development using graphical user interface controls, variables, data types, and input/output with text files. 4 lectures.",
+  "units": "4",
+  "prerequisites": null,
+  "corequisites": null,
+  "crnc": false
+}

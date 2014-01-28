@@ -1,0 +1,9 @@
+{
+  "id": "stat-331",
+  "title": "Statistical Computing with R",
+  "description": "Data acquisition, cleaning, and management; use of regular expressions; functional and object-oriented programming; graphical, descriptive, and inferential statistical methods; random number generation; Monte Carlo methods including resampling, randomization, and simulation. 4 lectures.",
+  "units": "4",
+  "prerequisites": "STAT 252 or STAT 302 or STAT 312 or STAT 313, and CPE/CSC 101 or CPE/CSC 235 or BUS 290 or STAT 330",
+  "corequisites": null,
+  "crnc": false
+}

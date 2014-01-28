@@ -1,0 +1,9 @@
+{
+  "id": "gsb-585",
+  "title": "Investment Portfolio Management",
+  "description": "The application of financial theory to the problems of investment management. Topics cover the valuation of basic financial instruments, portfolio optimization, risk management, asset allocation, the CAPM, and market efficiency. Required use of optimization software and writing spreadsheet programs. 4 seminars.",
+  "units": "4",
+  "prerequisites": "GSB 531 and OCOB graduate standing or approval from the Associate Dean",
+  "corequisites": null,
+  "crnc": false
+}

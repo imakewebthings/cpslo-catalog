@@ -1,0 +1,9 @@
+{
+  "id": "chem-441",
+  "title": "Bioinformatics Applications",
+  "description": "Introduction to new problems in molecular biology and current computer applications for genetic database analyses. Use of software for: nucleic acid, genome and protein sequence analysis; genetic databases, database tools; industrial applications in bioinformatics; ethical and societal concerns. 3 lectures, 1 laboratory. Crosslisted as BIO/CHEM 441.",
+  "units": "4",
+  "prerequisites": "Junior standing; BIO 161 or BIO 303",
+  "corequisites": null,
+  "crnc": false
+}

@@ -1,0 +1,9 @@
+{
+  "id": "sie-512",
+  "title": "Systems Synthesis",
+  "description": "Systems synthesis and integration through systems thinking, interface management, configuration management, lean systems, A3 Thinking, commercial versus government systems, system verification and validation, and internal versus external subsystem development. Course offered online only. 4 lectures.",
+  "units": "4",
+  "prerequisites": "SIE 511",
+  "corequisites": null,
+  "crnc": false
+}

@@ -1,0 +1,9 @@
+{
+  "id": "ce-486",
+  "title": "Introduction to Geological Engineering",
+  "description": "Identification and characterization of consolidated geologic materials for the purpose of civil analysis and design. Interpretation of geologic maps, cross sections, and reports. Interpretation of aerial photographs. Engineering considerations important in dealing with transported soils. 4 lectures.",
+  "units": "4",
+  "prerequisites": "CE 381, CE 382, and GEOL 201",
+  "corequisites": null,
+  "crnc": false
+}

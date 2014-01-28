@@ -1,0 +1,9 @@
+{
+  "id": "chem-377",
+  "title": "Chemistry of Drugs and Poisons",
+  "description": "Introduction to pharmacology and toxicology: history, sources, development and testing, physical and chemical properties, biochemical and physiological effects, mechanisms of action, and the therapeutic uses and toxicology of common drugs and poisons. 3 lectures.",
+  "units": "3",
+  "prerequisites": "CHEM 313 or CHEM 371",
+  "corequisites": null,
+  "crnc": false
+}

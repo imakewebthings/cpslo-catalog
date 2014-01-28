@@ -1,0 +1,9 @@
+{
+  "id": "ce-371",
+  "title": "Construction Management and Project Planning",
+  "description": "Theory and practice of planning, scheduling, estimating, and reporting for construction projects. Fundamentals of scheduling logic including critical path, deterministic, and probabilistic scheduling; including the impact of constraints. Identifying resources and estimating time requirements for design activities and project operations. 3 lectures, 1 activity. Crosslisted as CE/CM 371.",
+  "units": "4",
+  "prerequisites": "ARCE 106, CE 259 or CM 113",
+  "corequisites": null,
+  "crnc": false
+}

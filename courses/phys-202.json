@@ -1,0 +1,9 @@
+{
+  "id": "phys-202",
+  "title": "Physics on the Computer",
+  "description": "Introduction to using computers for solving problems in physics: differential equations, matrix manipulations, simulations and numerical techniques, nonlinear dynamics. 4 lectures.",
+  "units": "4",
+  "prerequisites": "PHYS 133 and MATH 241",
+  "corequisites": null,
+  "crnc": false
+}

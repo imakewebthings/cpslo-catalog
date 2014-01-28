@@ -1,0 +1,9 @@
+{
+  "id": "arce-303",
+  "title": "Steel Design I",
+  "description": "Analysis and design of steel structural members subjected to bending, shear and axial forces. 3 lectures.",
+  "units": "3",
+  "prerequisites": "ARCE 223 (C- or better required for ARCE Majors)",
+  "corequisites": null,
+  "crnc": false
+}

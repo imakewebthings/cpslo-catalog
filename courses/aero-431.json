@@ -1,0 +1,9 @@
+{
+  "id": "aero-431",
+  "title": "Aerospace Structural Analysis II",
+  "description": "Basic equations of elasticity with applications to typical aerospace structures. Concepts studied include analysis of aircraft and aerospace structures; airworthiness and airframe loads; structural constraints; elementary aeroelasticity; structural instability; introduction to modern fatigue; fracture mechanics; and composite structures analysis. 4 lectures.",
+  "units": "4",
+  "prerequisites": "AERO 331",
+  "corequisites": null,
+  "crnc": false
+}

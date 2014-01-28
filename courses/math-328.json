@@ -1,0 +1,9 @@
+{
+  "id": "math-328",
+  "title": "Mathematics for Elementary Teaching II",
+  "description": "Introduction to rational and real numbers, probability and counting techniques, statistics, and geometry. Computer applications. 4 lectures.",
+  "units": "4",
+  "prerequisites": "MATH 227 with a grade of C- or better or consent of instructor",
+  "corequisites": null,
+  "crnc": false
+}

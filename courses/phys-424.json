@@ -1,0 +1,9 @@
+{
+  "id": "phys-424",
+  "title": "Theoretical Physics",
+  "description": "Contour integration in the complex plane, properties of the delta function, properties of some common functions of theoretical physics, Green's function techniques for solving differential equations. 3 lectures.",
+  "units": "3",
+  "prerequisites": "PHYS 133, MATH 304, MATH 344",
+  "corequisites": null,
+  "crnc": false
+}

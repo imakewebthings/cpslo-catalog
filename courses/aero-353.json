@@ -1,0 +1,9 @@
+{
+  "id": "aero-353",
+  "title": "Spacecraft Environment",
+  "description": "Effects of the space environment on a spacecraft and design considerations. Topics include the launch, vacuum, particulate, plasma, and radiation environments 4 lectures.",
+  "units": "4",
+  "prerequisites": "AERO 300 and AERO 301",
+  "corequisites": null,
+  "crnc": false
+}

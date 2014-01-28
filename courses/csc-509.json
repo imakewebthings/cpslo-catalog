@@ -2,7 +2,8 @@
   "id": "csc-509",
   "title": "Software Engineering II",
   "description": "In-depth study of software modeling and design. Formal design methodologies. Design patterns. Detailed case studies of existing projects. Tools and methods for designing large software systems. 4 seminars.",
-  "units": 4,
-  "prerequisites": "CSC 508 and graduate standing, or consent of instructor."
+  "units": "4",
+  "prerequisites": "CSC 508 and graduate standing, or consent of instructor",
+  "corequisites": null,
+  "crnc": false
 }
-

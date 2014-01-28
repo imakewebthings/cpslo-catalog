@@ -1,0 +1,9 @@
+{
+  "id": "asci-326",
+  "title": "Advanced Livestock Evaluation",
+  "description": "Application of deductive and inductive logical processes in appraising the relative merit of individual animals within a group sample. Oral expression of the selection rationale. 2 laboratories.",
+  "units": "2",
+  "prerequisites": "ASCI 226",
+  "corequisites": null,
+  "crnc": false
+}

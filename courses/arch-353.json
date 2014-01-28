@@ -1,0 +1,9 @@
+{
+  "id": "arch-353",
+  "title": "Architectural Design 3",
+  "description": "Continuation of ARCH 352 plus the development and exploration of architectural theories, building systems, and design concepts and processes involved in creating large-scale architecture with an emphasis on implications of socio-cultural and comprehensive/life safety systems integration issues as building form generator. 1 lecture, 4 laboratories.",
+  "units": "5",
+  "prerequisites": "ARCH 352, ARCH 307",
+  "corequisites": "ARCH 342",
+  "crnc": false
+}

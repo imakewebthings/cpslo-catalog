@@ -1,0 +1,9 @@
+{
+  "id": "stat-302",
+  "title": "Statistics II",
+  "description": "Continued study of the process, concepts, and methods of statistical investigations. Association, chi-square procedures, one-way ANOVA, multiple comparisons, two-way ANOVA with interaction, simple linear regression, correlation, prediction, multiple regression. Substantial use of statistical software. 4 lectures.",
+  "units": "4",
+  "prerequisites": "STAT 301",
+  "corequisites": null,
+  "crnc": false
+}

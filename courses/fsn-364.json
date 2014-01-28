@@ -1,0 +1,9 @@
+{
+  "id": "fsn-364",
+  "title": "Food Chemistry",
+  "description": "Study of molecular properties of major food components such as water, carbohydrates, lipids, proteins, vitamins, minerals, pigments, enzymes and other important molecules as well as chemical reactions of these compounds occurring as a result of processing and or storage. Laboratory focus on assessment of the role of food components in food systems and food products. 3 lectures, 1 laboratory.",
+  "units": "4",
+  "prerequisites": "FSN 125 or FSN 230, CHEM 313",
+  "corequisites": null,
+  "crnc": false
+}

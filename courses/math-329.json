@@ -1,0 +1,9 @@
+{
+  "id": "math-329",
+  "title": "Mathematics for Elementary Teaching III",
+  "description": "Introduction to rational and real numbers, probability and counting techniques, statistics, and geometry. Computer applications. 4 lectures.",
+  "units": "4",
+  "prerequisites": "MATH 328",
+  "corequisites": null,
+  "crnc": false
+}

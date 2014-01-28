@@ -1,0 +1,9 @@
+{
+  "id": "bio-426",
+  "title": "Immunology",
+  "description": "Principles of molecular and cellular immunology. Emphasis on molecular regulation of immune cell development, including generation of unique receptors, lymphocyte signal transduction and selection, programmed cell death and regulation of immune responses. Discussion and demonstration of roles of immunology in disease and as diagnostic tools. 3 lectures, 1 laboratory.",
+  "units": "4",
+  "prerequisites": "BIO 351 or CHEM 373",
+  "corequisites": null,
+  "crnc": false
+}

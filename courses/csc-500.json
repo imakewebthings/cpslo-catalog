@@ -3,7 +3,7 @@
   "title": "Directed Study",
   "description": "Individual directed study of advanced topics. Total credit limited to 4 units. Credit/No Credit grading only.",
   "units": "2-3",
-  "prerequisites": "Fully classified graduate standing and consent of instructor.",
-  "crnc": true
+  "prerequisites": "Fully classified graduate standing and consent of instructor",
+  "corequisites": null,
+  "crnc": false
 }
-

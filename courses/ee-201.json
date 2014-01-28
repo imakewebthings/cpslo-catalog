@@ -1,0 +1,9 @@
+{
+  "id": "ee-201",
+  "title": "Electric Circuit Theory",
+  "description": "Application of fundamental circuit laws and theorems to the analysis of DC, and steady-state single-phase and three-phase circuits. Not for electrical engineering majors. 3 lectures.",
+  "units": "3",
+  "prerequisites": "MATH 244, PHYS 133",
+  "corequisites": null,
+  "crnc": false
+}

@@ -1,0 +1,9 @@
+{
+  "id": "asci-420",
+  "title": "Animal Metabolism and Nutrition",
+  "description": "Metabolism of proteins, carbohydrates, lipids, minerals, vitamins and water, and the relationship of nutrient utilization to animal production. 3 lectures.",
+  "units": "3",
+  "prerequisites": "ASCI 220; ASCI 320 or CHEM 313 or CHEM 371",
+  "corequisites": null,
+  "crnc": false
+}

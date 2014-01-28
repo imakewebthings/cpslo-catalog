@@ -1,0 +1,9 @@
+{
+  "id": "ce-511",
+  "title": "Continuum Mechanics and Elasticity",
+  "description": "Introduction to continuum mechanics. Kinematics, stress, and balance laws. Constitutive theory for isotropic and anisotropic solids and viscous fluids. Applications including design of beams and pressure vessels, stress concentrations, fiber-reinforced composites, and non-homogeneous biological materials. 4 lectures. Crosslisted as CE 511/ME 501.",
+  "units": "4",
+  "prerequisites": "Graduate standing",
+  "corequisites": null,
+  "crnc": false
+}

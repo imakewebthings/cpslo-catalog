@@ -1,0 +1,9 @@
+{
+  "id": "geol-310",
+  "title": "Igneous and Metamorphic Petrology",
+  "description": "Processes associated with melting, igneous crystallization, and metamorphism of igneous and sedimentary rocks. Special attention to relationships with tectonic setting. Required field trip. 3 lectures, 1 laboratory.",
+  "units": "4",
+  "prerequisites": "GEOL 102 or GEOL 201, and ERSC 223",
+  "corequisites": null,
+  "crnc": false
+}

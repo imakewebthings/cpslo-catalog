@@ -1,0 +1,9 @@
+{
+  "id": "aero-409",
+  "title": "Flight Test",
+  "description": "Overview of flight tests, test equations, and supporting facilities. Principles of team-centered flight testing with applications to performance, stability and control, and avionics systems testing. Test planning, instrumentation, data analysis and reports. 2 lectures, 2 laboratories.",
+  "units": "4",
+  "prerequisites": "AERO 306",
+  "corequisites": null,
+  "crnc": false
+}

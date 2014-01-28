@@ -1,0 +1,9 @@
+{
+  "id": "chem-106",
+  "title": "Introductory Chemistry",
+  "description": "Introductory course in chemistry. Measurement, metric system, properties of matter, chemical symbols, atomic structure, chemical formulas, nomenclature, chemical equations, the mole concept, stoichiometry. 3 lectures. Not open to students majoring in Chemistry or Biochemistry. Not open to students with credit for CHEM 110, CHEM 111, CHEM 124, or CHEM 127.",
+  "units": "3",
+  "prerequisites": "Passing score on ELM examination, or an ELM exemption, or MATH 104",
+  "corequisites": null,
+  "crnc": false
+}

@@ -1,0 +1,9 @@
+{
+  "id": "ce-113",
+  "title": "Computer Aided Drafting in Civil Engineering",
+  "description": "Computer-aided drawing (CAD) and related software to display and quantify engineering designs. Elements of engineering design drawings. Related topics in information technology. 2 laboratories.",
+  "units": "2",
+  "prerequisites": "ENVE 111 or CE 112 (may be taken concurrently)",
+  "corequisites": null,
+  "crnc": false
+}

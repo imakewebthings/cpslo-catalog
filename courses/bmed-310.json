@@ -1,0 +1,9 @@
+{
+  "id": "bmed-310",
+  "title": "Biomedical Engineering Measurement and Analysis",
+  "description": "Fundamentals of biomedical engineering analysis. Use and application of tools and analytical methods used by bioengineers. 3 lectures, 1 laboratory.",
+  "units": "4",
+  "prerequisites": "EE 201 and CSC 101 or CSC 234 or consent of instructor",
+  "corequisites": null,
+  "crnc": false
+}

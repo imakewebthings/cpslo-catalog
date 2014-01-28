@@ -1,0 +1,9 @@
+{
+  "id": "ee-269",
+  "title": "Computer Design and Assembly Language Programming Laboratory",
+  "description": "Experiments to design and test digital computer circuits and systems with programmable logic devices (PLDs). Design projects to implement a basic computer with data path components and control. Assembly language programming projects for an off-the-shelf RISC-based microcontroller. Not open to students with credit in CPE/EE 233. 1 laboratory. Crosslisted as CPE/EE 269.",
+  "units": "1",
+  "prerequisites": "CPE/EE 129&169 or CPE/EE 133",
+  "corequisites": null,
+  "crnc": false
+}

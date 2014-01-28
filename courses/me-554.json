@@ -1,0 +1,9 @@
+{
+  "id": "me-554",
+  "title": "Computational Heat Transfer",
+  "description": "Numerical solutions of classical, industrial, and experimental problems in conduction, convection, and radiation heat transfer. 3 lectures, 1 laboratory.",
+  "units": "4",
+  "prerequisites": "ME 343, ME 347, MATH 418, graduate standing or consent of instructor",
+  "corequisites": null,
+  "crnc": false
+}

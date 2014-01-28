@@ -1,0 +1,9 @@
+{
+  "id": "aero-522",
+  "title": "Boundary-Layer Theory",
+  "description": "Concept of boundary-layer. Boundary-layer equations, similarity transformation, integral and differential methods for steady, two-dimensional laminar and turbulent boundary layers. 4 lectures.",
+  "units": "4",
+  "prerequisites": "AERO 302, graduate standing or consent of instructor",
+  "corequisites": null,
+  "crnc": false
+}

@@ -1,0 +1,9 @@
+{
+  "id": "ee-518",
+  "title": "Power System Protection",
+  "description": "Unsymmetrical faults. Protection fundamentals. Instrument transformers. Power system grounding. Generator protection, transformer protection, busbar protection, line and motor protection. 4 seminars.",
+  "units": "4",
+  "prerequisites": "EE 406 or equivalent, and graduate standing or consent of instructor",
+  "corequisites": null,
+  "crnc": false
+}

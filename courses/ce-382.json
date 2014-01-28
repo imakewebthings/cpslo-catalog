@@ -1,0 +1,9 @@
+{
+  "id": "ce-382",
+  "title": "Geotechnical Engineering Laboratory",
+  "description": "Use of standard laboratory test methods to determine physical, mechanical, and hydraulic properties of soil. 1 laboratory.",
+  "units": "1",
+  "prerequisites": null,
+  "corequisites": "CE 381",
+  "crnc": false
+}

@@ -1,0 +1,9 @@
+{
+  "id": "ee-211",
+  "title": "Electric Circuit Analysis II",
+  "description": "Continuation of basic circuit analysis. Op-amp circuits. Energy storage elements, RC and RL circuits, and AC steady state analysis. 3 lectures.",
+  "units": "3",
+  "prerequisites": "EE 112",
+  "corequisites": null,
+  "crnc": false
+}

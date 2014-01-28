@@ -1,0 +1,9 @@
+{
+  "id": "phil-242",
+  "title": "Symbolic Logic II",
+  "description": "The nature of deductive logical systems. Methods of notation, translation and proof in sentential and predicate calculi including truth-trees and natural deduction systems. Introduction to meta-theory. 4 lectures.",
+  "units": "4",
+  "prerequisites": "PHIL 241 with a grade of C- or better or consent of instructor",
+  "corequisites": null,
+  "crnc": false
+}

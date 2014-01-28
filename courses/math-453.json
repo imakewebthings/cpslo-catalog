@@ -1,0 +1,9 @@
+{
+  "id": "math-453",
+  "title": "Numerical Optimization",
+  "description": "Algorithms for solving optimization problems that cannot be solved analytically. Descent algorithms including exact and practical line-searches, steepest descent method, and Newton and quasi-Newton methods for unconstrained minimization. Optimality conditions for constrained optimization, linear programming. Projection and Lagrangian methods, and interior point methods for constrained minimization. 4 lectures.",
+  "units": "4",
+  "prerequisites": "MATH 306 and MATH 451",
+  "corequisites": null,
+  "crnc": false
+}

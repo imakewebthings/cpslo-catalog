@@ -1,0 +1,9 @@
+{
+  "id": "kine-303",
+  "title": "Physiology of Exercise",
+  "description": "Application of human physiology to exercise situations. 3 lectures, 1 laboratory.",
+  "units": "4",
+  "prerequisites": "ZOO 231 or ZOO 331 and ZOO 232 or ZOO 332 or BIO 361",
+  "corequisites": null,
+  "crnc": false
+}

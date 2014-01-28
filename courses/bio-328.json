@@ -1,0 +1,9 @@
+{
+  "id": "bio-328",
+  "title": "Marine Ecology",
+  "description": "Introduction to the functional biology of marine plants and animals and the ecological processes that underlie their distribution and abundance in open oceans, coastal regions, and estuaries. 2 lectures, 2 laboratories. Several field trips.",
+  "units": "4",
+  "prerequisites": "BIO 160, BIO 162, and BIO 263",
+  "corequisites": null,
+  "crnc": false
+}

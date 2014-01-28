@@ -1,0 +1,9 @@
+{
+  "id": "cpe-108",
+  "title": "Accelerated Introduction to Computer Science",
+  "description": "Accelerated introduction to basic principles of algorithmic and object-oriented problem solving and programming. Introduction to programming language concepts including control structures, data types, classes, and inheritance. Program design principles. Use and implementation of algorithms (searching, sorting, recursion) and data structures (lists, stacks, and queues). Intended for students with experience in algorithmic problem solving and using basic control structures and data types in a modern programming language (CSC/CPE 101), but who are not ready for CSC/CPE 102. Credit not available for students who have taken CSC/CPE 102. 3 lectures, 1 laboratory. Crosslisted as CPE/CSC 108.",
+  "units": "4",
+  "prerequisites": "Math 118 (or equivalent) with a grade of C- or better, significant experience in computer programming, and consent of instructor",
+  "corequisites": "CSC 141",
+  "crnc": false
+}

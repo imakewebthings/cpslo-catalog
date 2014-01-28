@@ -1,0 +1,9 @@
+{
+  "id": "cm-214",
+  "title": "Residential Construction Management",
+  "description": "Materials, methods, and techniques associated with residential and light commercial construction operations. Topics include shallow foundations, timber and masonry framing, roofing, and exterior and interior finishes. Scheduling, estimating, and construction contracts are integrated into a project based approach. 3 laboratories, 2 activities. Formerly CM 311.",
+  "units": "5",
+  "prerequisites": "CM 115, PHYS 132 or CHEM 124",
+  "corequisites": "CM 232",
+  "crnc": false
+}

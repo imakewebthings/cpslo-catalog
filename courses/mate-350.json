@@ -1,0 +1,9 @@
+{
+  "id": "mate-350",
+  "title": "Structural Materials Systems",
+  "description": "Design of structural materials systems. Topics include continuum mechanics - stress, strain, elasticity, anelasticity, plasticity. 3 lectures, 1 laboratory.",
+  "units": "4",
+  "prerequisites": "MATE 360, CE 204",
+  "corequisites": null,
+  "crnc": false
+}

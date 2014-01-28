@@ -1,0 +1,9 @@
+{
+  "id": "dsci-502",
+  "title": "Dairy Chemistry Laboratory",
+  "description": "Objective measurements, analysis and isolation of milk components. Experimental demonstration of chemical and physical reactions of milk components during typical processing conditions. 2 laboratories.",
+  "units": "2",
+  "prerequisites": "DSCI 501; admission to Master of Professional Studies program in Dairy Products Technology",
+  "corequisites": null,
+  "crnc": false
+}

@@ -1,0 +1,9 @@
+{
+  "id": "ss-321",
+  "title": "Soil Morphology",
+  "description": "Identification of soil morphological and site properties. Correlation of soil physical and chemical properties with soil taxonomy and land use. Techniques of interpretations for agriculture, forest lands, wetlands, range lands and urban development. 3 lectures, 1 laboratory.",
+  "units": "4",
+  "prerequisites": "SS 121",
+  "corequisites": null,
+  "crnc": false
+}

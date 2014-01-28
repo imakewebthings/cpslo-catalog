@@ -1,0 +1,9 @@
+{
+  "id": "me-402",
+  "title": "Orthopedic Biomechanics",
+  "description": "Biomechanical analysis of the musculoskeletal system. Emphasis on the use of statics, dynamics, strength of materials, viscoelasticity, and poroelasticity to analyze the mechanical loads acting on human joints, the mechanical properties of tissues, and the design of artificial joints. 3 lectures, 1 laboratory.",
+  "units": "4",
+  "prerequisites": "ME 328 or consent of instructor",
+  "corequisites": null,
+  "crnc": false
+}

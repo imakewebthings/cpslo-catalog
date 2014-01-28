@@ -2,7 +2,8 @@
   "id": "csc-572",
   "title": "Computer Graphics",
   "description": "Advanced topics in computer graphics with emphasis on leading edge computer graphics technologies and advanced topics in graphics fundamentals. 3 lectures, 1 laboratory.",
-  "units": 4,
-  "prerequisites": "Successful completion of CSC/CPE 471 and graduate standing, or consent of instructor."
+  "units": "4",
+  "prerequisites": "Successful completion of CSC/CPE 471 and graduate standing, or consent of instructor",
+  "corequisites": null,
+  "crnc": false
 }
-

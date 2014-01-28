@@ -1,0 +1,9 @@
+{
+  "id": "me-129",
+  "title": "Introduction to Mechanical Engineering II",
+  "description": "Communication of designs for manufacturing using basic definitions of points, lines and planes in space. Pictorials, orthographic projection, section views and auxiliary views. Techniques from geometry and spatial definitions integrated to provide information to both the design and manufacturing processes. Includes continuation of cornerstone service learning design project. 1 laboratory. Formerly ME 151.",
+  "units": "1",
+  "prerequisites": "ME 128; Mechanical Engineering student; second quarter of freshman year",
+  "corequisites": null,
+  "crnc": false
+}

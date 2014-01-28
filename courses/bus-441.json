@@ -1,0 +1,9 @@
+{
+  "id": "bus-441",
+  "title": "Computer Applications in Finance",
+  "description": "A combination lecture/computer lab course focusing on computer acquisition of financial data and the subsequent application of financial theory and analysis to this data so as to facilitate financial decision making. 3 lectures, 1 activity.",
+  "units": "4",
+  "prerequisites": "BUS 342",
+  "corequisites": null,
+  "crnc": false
+}

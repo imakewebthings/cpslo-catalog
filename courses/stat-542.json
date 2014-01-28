@@ -1,0 +1,9 @@
+{
+  "id": "stat-542",
+  "title": "Statistical Methods for Engineers",
+  "description": "Descriptive and graphical methods. Discrete and continuous probability distributions. One and two sample confidence intervals and hypothesis testing. Single factor analysis of variance. Quality control. Introduction to regression and to experimental design. Substantial use of statistical software. Not open to students with credit in STAT 312. 4 lectures.",
+  "units": "4",
+  "prerequisites": "MATH 142 and graduate standing",
+  "corequisites": null,
+  "crnc": false
+}

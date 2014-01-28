@@ -1,0 +1,9 @@
+{
+  "id": "math-141",
+  "title": "Calculus I",
+  "description": "Limits, continuity, differentiation. Introduction to integration. 4 lectures. Crosslisted as HNRS/MATH 141. Fulfills GE B1.",
+  "units": "4",
+  "prerequisites": "Completion of ELM requirement and passing score on appropriate Mathematics Placement Examination, or MATH 118 and high school trigonometry, or MATH 119",
+  "corequisites": null,
+  "crnc": false
+}

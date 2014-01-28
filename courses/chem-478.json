@@ -1,0 +1,9 @@
+{
+  "id": "chem-478",
+  "title": "Pharmaceutical Development",
+  "description": "Process of drug development from research clinical candidate to market. Chemical process development, including synthesis optimization, scale up, pilot plant work, manufacturing, and good manufacturing procedure (GMP's). Role of pharmaceutics in drug development, including various forms of formulation, analytical development requirements, and quality assurance. Project planning and timeline management, clinical trials, and regulatory affairs, including FDA filings. 3 lectures.",
+  "units": "3",
+  "prerequisites": "CHEM 218 or CHEM 318",
+  "corequisites": null,
+  "crnc": false
+}

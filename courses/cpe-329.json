@@ -1,0 +1,9 @@
+{
+  "id": "cpe-329",
+  "title": "Programmable Logic and Microprocessor-Based Systems Design",
+  "description": "Design, implementation and testing of programmable logic microprocessor-based systems. Hardware/software tradeoffs (such as timing analysis and power considerations), system economics of programmable logic and microprocessor-based system design. Interfacing hardware components (such as ADCs/DACs, sensors, transducers). 3 lectures, 1 laboratory. Not open to students with credit in CPE/EE 336. Crosslisted as CPE/EE 329.",
+  "units": "4",
+  "prerequisites": "EE 307&347, EE 229&269 or CPE/EE 233",
+  "corequisites": null,
+  "crnc": false
+}

@@ -1,8 +1,9 @@
 {
   "id": "csc-437",
   "title": "Dynamic Web Development",
-  "description": "Project-based study of web-based three-tiered applications, including current best practices and tools for design, implementation and testing of browser interface, serverside business logic, object-relational mapping, databases, and web services. 3 lectures, 1 laboratory.",
-  "units": 4,
-  "prerequisites": "CSC/CPE 357 (C- or better), CSC/CPE 365 or consent of instructor."
+  "description": "Project-based study of web-based three-tiered applications, including current best practices and tools for design, implementation and testing of browser interface, serverside business logic, object-relational mapping, databases, and web services. 3 lectures, 1 laboratory. Crosslisted as CPE/CSC 437.",
+  "units": "4",
+  "prerequisites": "CSC/CPE 357 (C- or better), CSC/CPE 365 or consent of instructor",
+  "corequisites": null,
+  "crnc": false
 }
-

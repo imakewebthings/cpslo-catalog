@@ -1,0 +1,9 @@
+{
+  "id": "aero-550",
+  "title": "Analysis and Design of Flight Control Systems",
+  "description": "Fundamental principles of flight control design and the application of the Cooper-Harper test and evaluation tool to modern aerospace vehicles. Human factors, issues, and automation, case study of the space shuttle. 3 lectures, 1 laboratory.",
+  "units": "4",
+  "prerequisites": "AERO 420, graduate standing or consent of instructor",
+  "corequisites": null,
+  "crnc": false
+}

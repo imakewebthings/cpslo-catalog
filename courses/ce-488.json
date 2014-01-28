@@ -1,0 +1,9 @@
+{
+  "id": "ce-488",
+  "title": "Engineering Risk Analysis",
+  "description": "Introduction to the basic concepts of probability theory, statistics, and decision theory as they pertain to problems in civil and environmental engineering. Emphasis placed on the use of probabilistic modeling, Bayesian statistics, risk analysis, and decision theory. 4 lectures.",
+  "units": "4",
+  "prerequisites": "CE 381 and STAT 312",
+  "corequisites": null,
+  "crnc": false
+}

@@ -1,0 +1,9 @@
+{
+  "id": "me-443",
+  "title": "Turbomachinery",
+  "description": "Performance characteristics of various types for liquids and for gases. Criteria for proper selection of type and main dimensions. Cavitation criteria. Gas turbine cycles and performance. Two-dimensional cascades. Axial flow turbines and compressors. Centrifugal compressors and radial-inflow turbines. 4 lectures.",
+  "units": "4",
+  "prerequisites": "ME 303, ME 347, ME 343, MATH 344",
+  "corequisites": null,
+  "crnc": false
+}

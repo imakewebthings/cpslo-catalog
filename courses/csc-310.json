@@ -1,7 +1,9 @@
 {
   "id": "csc-310",
   "title": "Computers for Poets",
-  "description": "How computers and computer devices work. Introduction to software systems and applications. How computers connect with various media including images, speech and data. How information is encoded and transmitted across networks. Relationship between the computer and human information processing. 4 lectures.",
-  "units": 4,
-  "prerequisites": "Junior standing and completion of GE Area B."
+  "description": "How computers and computer devices work. Introduction to software systems and applications. How computers connect with various media including images, speech and data. How information is encoded and transmitted across networks. Relationship between the computer and human information processing. 4 lectures. Crosslisted as CSC 310/HNRS 311. Fulfills GE Area F.",
+  "units": "4",
+  "prerequisites": "Junior standing and completion of GE Area B",
+  "corequisites": null,
+  "crnc": false
 }

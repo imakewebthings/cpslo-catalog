@@ -1,8 +1,9 @@
 {
   "id": "csc-581",
   "title": "Computer Support for Knowledge Management",
-  "description": "Methods and techniques that computer-based systems can provide to make the management of knowledge and information in digital form easier for the user. Emphasis on support for knowledge-intensive activities performed by users. 3 lectures, 1 laboratory.",
-  "units": 4,
-  "prerequisites": "CSC/CPE 480 or CSC/CPE 484 or consent of instructor."
+  "description": "Methods and techniques that computer-based systems can provide to make the management of knowledge and information in digital form easier for the user. Emphasis on support for knowledge-intensive activities performed by users. 3 lectures, 1 laboratory. Crosslisted as CPE/CSC 581.",
+  "units": "4",
+  "prerequisites": "CSC/CPE 480 or CSC/CPE 484 or consent of instructor",
+  "corequisites": null,
+  "crnc": false
 }
-

@@ -1,0 +1,9 @@
+{
+  "id": "econ-312",
+  "title": "Intermediate Microeconomics II",
+  "description": "Game theory; risk, uncertainty and information; choice over time; asset markets; general equilibrium; welfare economics, externalities and public goods. 4 lectures.",
+  "units": "4",
+  "prerequisites": "ECON 311",
+  "corequisites": null,
+  "crnc": false
+}

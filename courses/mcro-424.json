@@ -1,0 +1,9 @@
+{
+  "id": "mcro-424",
+  "title": "Microbial Physiology",
+  "description": "Cellular structure and life processes of bacteria; chemical composition, growth, and metabolism. General biological and evolutionary considerations. 3 lectures, 2 laboratories.",
+  "units": "5",
+  "prerequisites": "MCRO 225 and CHEM 313 or CHEM 371, or graduate standing in Biological Sciences",
+  "corequisites": null,
+  "crnc": false
+}

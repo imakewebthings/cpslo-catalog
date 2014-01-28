@@ -1,0 +1,9 @@
+{
+  "id": "ce-434",
+  "title": "Groundwater Hydraulics and Hydrology",
+  "description": "Differential equations of groundwater flow, Darcy's Law, solutions of the steady and unsteady flow, differential equations for confined and unconfined flows. Pumping test design. Groundwater models, leaky aquifers. Saltwater intrusion. 4 lectures.",
+  "units": "4",
+  "prerequisites": "CE 336",
+  "corequisites": null,
+  "crnc": false
+}

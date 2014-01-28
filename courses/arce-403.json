@@ -1,0 +1,9 @@
+{
+  "id": "arce-403",
+  "title": "Advanced Steel Structures Laboratory",
+  "description": "Advanced topics in design and construction of steel structures, such as: plate girders, plastic design of beams and frames, and composite beam design, load and resistance factor design, and advanced topics related to moment frames and braced frames. 3 laboratories.",
+  "units": "3",
+  "prerequisites": "ARCE 372 (C- or better required for ARCE Majors)",
+  "corequisites": null,
+  "crnc": false
+}

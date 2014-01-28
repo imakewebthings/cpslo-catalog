@@ -1,0 +1,9 @@
+{
+  "id": "me-542",
+  "title": "Dynamics and Thermodynamics of Compressible Flow",
+  "description": "Control volume analysis of fluid-thermo equations for one-dimensional, compressible flow involving area change, normal shocks, friction, and heat transfer. Two-dimensional supersonic flow including linearization, method of characteristics, and oblique shocks. One-dimensional constant area, unsteady flow, 4 lectures.",
+  "units": "4",
+  "prerequisites": "ME 303, ME 343, ME 347, MATH 244, and graduate standing or consent of instructor",
+  "corequisites": null,
+  "crnc": false
+}

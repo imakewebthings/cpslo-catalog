@@ -1,0 +1,9 @@
+{
+  "id": "ee-112",
+  "title": "Electric Circuit Analysis I",
+  "description": "Introduction to basic circuit analysis. Resistive circuits, voltage and current sources, network theorems. 2 lectures.",
+  "units": "2",
+  "prerequisites": "MATH 142 or equivalent",
+  "corequisites": null,
+  "crnc": false
+}

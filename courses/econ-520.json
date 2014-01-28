@@ -1,0 +1,9 @@
+{
+  "id": "econ-520",
+  "title": "Advanced Econometrics I",
+  "description": "The use of statistical procedures to measure theoretical economic relationships and to verify and reject theories. Advanced coverage of regression analysis and hypothesis testing. 4 lectures.",
+  "units": "4",
+  "prerequisites": "ECON 339, ECON 511 and graduate standing, or consent of instructor",
+  "corequisites": null,
+  "crnc": false
+}

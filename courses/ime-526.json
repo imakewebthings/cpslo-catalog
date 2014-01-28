@@ -1,0 +1,9 @@
+{
+  "id": "ime-526",
+  "title": "Advanced Topics in Manufacturing System Design",
+  "description": "Modeling and analysis of manufacturing systems. Advanced topics in manufacturing system design to support development of complex systems: Virtual Reality, discrete event simulation, system architectures, systems integration, scheduling and control of manufacturing systems. Total credit limited to 12 units. 3 seminars, 1 laboratory.",
+  "units": "4",
+  "prerequisites": "IME 410 or equivalent",
+  "corequisites": null,
+  "crnc": false
+}

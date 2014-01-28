@@ -1,0 +1,9 @@
+{
+  "id": "asci-410",
+  "title": "Applied Animal Behavior Science",
+  "description": "Principles of behavior applied to animals in managed environments. Observation and measurement of behavior, including sampling and recording methods. Learning, including training and operant conditioning. Discussion of issues related to behavioral welfare. Etiology and management of maladaptive behavior. 3 lectures, 1 laboratory.",
+  "units": "4",
+  "prerequisites": "ASCI 320, or CHEM 313 or CHEM 371, and ASCI 221, or ASCI 222, or ASCI 223, or ASCI 224, or ASCI 225, or ASCI 227",
+  "corequisites": null,
+  "crnc": false
+}

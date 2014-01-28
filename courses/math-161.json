@@ -1,0 +1,9 @@
+{
+  "id": "math-161",
+  "title": "Calculus for the Life Sciences I",
+  "description": "Review of exponential, logarithmic, and trigonometric functions. Differential and integral calculus with applications to the biological sciences. Introduction to differential equations and mathematical modeling. Examples, exercises and applications to emphasize problems in life sciences. Not open to students with credit in MATH 141, 142, respectively. 4 lectures. Fulfills GE B1.",
+  "units": "4",
+  "prerequisites": "Completion of ELM requirement and passing score on appropriate Mathematics Placement Examination, or MATH 118",
+  "corequisites": null,
+  "crnc": false
+}

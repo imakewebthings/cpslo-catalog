@@ -1,0 +1,9 @@
+{
+  "id": "geol-330",
+  "title": "Principles of Stratigraphy",
+  "description": "Description and analysis of stratified rock and sediment. Sedimentology, diagenesis, transgressive/regressive sequences, bedform interpretation, marine and terrestrial sediment and sedimentary-rock sequence interpretation, and sequence stratigraphy. Required field trips. 3 lectures, 1 laboratory.",
+  "units": "4",
+  "prerequisites": "GEOL 102 or GEOL 201, and GEOL 241",
+  "corequisites": null,
+  "crnc": false
+}

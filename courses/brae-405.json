@@ -1,0 +1,9 @@
+{
+  "id": "brae-405",
+  "title": "Chemigation",
+  "description": "Fertilizer and chemical injection through irrigation systems. Hardware, fertilizer compounds, and distribution uniformity. Matching chemicals and equipment to specific irrigation methods. Safety. 1 laboratory.",
+  "units": "1",
+  "prerequisites": "BRAE 236 or BRAE 340",
+  "corequisites": null,
+  "crnc": false
+}

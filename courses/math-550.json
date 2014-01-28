@@ -1,0 +1,9 @@
+{
+  "id": "math-550",
+  "title": "Real Analysis",
+  "description": "Introduction to Lebesgue measure and integration, convergence theorems, L1 spaces, Radon-Nikodym Theorem and Fubini's Theorem. 4 lectures.",
+  "units": "4",
+  "prerequisites": "Satisfactory completion of the Graduate Written Examination in Analysis or consent of the Graduate Committee",
+  "corequisites": null,
+  "crnc": false
+}

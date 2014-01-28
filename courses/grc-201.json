@@ -1,0 +1,9 @@
+{
+  "id": "grc-201",
+  "title": "Digital Publishing System",
+  "description": "Introduction to web and print publishing systems including hardware, software, design considerations, and file formats. Overview of output technologies, networking, and digital publishing standards. 2 lectures, 1 laboratory.",
+  "units": "3",
+  "prerequisites": "Graphic Communication majors only",
+  "corequisites": null,
+  "crnc": false
+}

@@ -1,0 +1,9 @@
+{
+  "id": "enve-455",
+  "title": "Environmental Health and Safety",
+  "description": "Physical, chemical and biological hazards associated with industrial processes. Toxicology. Safety analysis and design. Causes and prevention of occupational and environmental hazards. Development and implementation of industrial hygiene programs. 4 lectures.",
+  "units": "4",
+  "prerequisites": "ENVE 331",
+  "corequisites": null,
+  "crnc": false
+}

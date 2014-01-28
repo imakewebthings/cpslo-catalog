@@ -1,0 +1,9 @@
+{
+  "id": "arch-351",
+  "title": "Architectural Design 3",
+  "description": "Continuation of ARCH 253 plus the development and exploration of architectural theories, building systems, and design concepts and processes involved in creating architecture with an emphasis on implications of the program and space planning issues as building form generator. 1 lecture, 4 laboratories.",
+  "units": "5",
+  "prerequisites": "ARCE 212, ARCH 253, ARCH 207 and PHYS 122 or PHYS 132, or consent of department head",
+  "corequisites": "ARCH 341",
+  "crnc": false
+}

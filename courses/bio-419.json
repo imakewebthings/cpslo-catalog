@@ -1,0 +1,9 @@
+{
+  "id": "bio-419",
+  "title": "Ecological Methodology",
+  "description": "Introduction to quantitative methods used in ecology with an emphasis on the design and analysis of field studies. Population estimates, sampling design and analysis, and the determination of community structure. 3 seminars, 1 activity.",
+  "units": "4",
+  "prerequisites": "STAT 218 or equivalent, or graduate standing in Biological Sciences",
+  "corequisites": null,
+  "crnc": false
+}

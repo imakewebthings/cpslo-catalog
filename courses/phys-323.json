@@ -1,0 +1,9 @@
+{
+  "id": "phys-323",
+  "title": "Optics",
+  "description": "Geometrical optics, lens systems, aberrations, physical optics and polarization. 3 lectures, 1 laboratory.",
+  "units": "4",
+  "prerequisites": "MATH 241; and PHYS 133; and PHYS 322, EE 228, EE 201, or ME 318",
+  "corequisites": null,
+  "crnc": false
+}

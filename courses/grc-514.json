@@ -1,0 +1,9 @@
+{
+  "id": "grc-514",
+  "title": "Optical and Electrical Patterning",
+  "description": "Imaging technologies and processes for security, electronic, and active packaging printing. Focus on creating and evaluating images for applications in product security and electrical fabrication. Course offered online only. 4 lectures.",
+  "units": "4",
+  "prerequisites": null,
+  "corequisites": "GRC 501",
+  "crnc": false
+}

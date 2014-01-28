@@ -1,0 +1,9 @@
+{
+  "id": "coms-460",
+  "title": "Undergraduate Seminar",
+  "description": "Discussion and design of individual projects, oral reports on material in current professional writings. 1 seminar.",
+  "units": "1",
+  "prerequisites": "Completion of COMS 311, COMS 312, COMS 330 and COMS 332, and junior standing; for COMS majors only",
+  "corequisites": null,
+  "crnc": false
+}

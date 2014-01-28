@@ -1,0 +1,9 @@
+{
+  "id": "stat-419",
+  "title": "Applied Multivariate Statistics",
+  "description": "Continuous multivariate statistics. Multivariate linear model, principal components and factor analysis, discriminant analysis, clustering, and canonical correlation. Use of statistical software throughout the course. 4 lectures.",
+  "units": "4",
+  "prerequisites": "Two courses in statistics",
+  "corequisites": null,
+  "crnc": false
+}

@@ -1,0 +1,9 @@
+{
+  "id": "phys-342",
+  "title": "Quantum Physics Laboratory III",
+  "description": "Advanced experimental studies of quantum properties of atoms and nuclei. Interactions of radiation, particles and fields emphasizing spectroscopic techniques. 1 laboratory.",
+  "units": "1",
+  "prerequisites": "PHYS 341",
+  "corequisites": null,
+  "crnc": false
+}

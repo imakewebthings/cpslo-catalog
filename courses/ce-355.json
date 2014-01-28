@@ -1,0 +1,9 @@
+{
+  "id": "ce-355",
+  "title": "Reinforced Concrete Design",
+  "description": "Analytical and design principles of reinforced concrete in designing civil engineering systems. Origin of code requirements. Fundamentals of proportioning. Details of elements and structural systems. 3 lectures, 1 laboratory.",
+  "units": "4",
+  "prerequisites": "CE 259, CE 351",
+  "corequisites": null,
+  "crnc": false
+}

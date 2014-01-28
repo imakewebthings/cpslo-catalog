@@ -1,0 +1,9 @@
+{
+  "id": "aero-402",
+  "title": "Spacecraft Propulsion Systems",
+  "description": "Effects of the propulsion subsystem on spacecraft design. Introduction to air breathing propulsion systems. Topics include basic rocket performance, monopropellant thrusters, bipropellant thrusters, electric thrusters, thruster placement, plumbing, tank sizing and design, system layout, component design, and systems integration. 4 lectures, 1 laboratory.",
+  "units": "5",
+  "prerequisites": "AERO 303, AERO 353 and CHEM 124",
+  "corequisites": null,
+  "crnc": false
+}

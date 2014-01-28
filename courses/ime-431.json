@@ -1,0 +1,9 @@
+{
+  "id": "ime-431",
+  "title": "Supplier Quality Engineering",
+  "description": "Customer-supplier partnership. Functions of Supplier Quality Engineering. Supplier selection, development, process qualification, concurrent engineering, value engineering. Process characterization, repeatability, consistency, process control. Quality system standards. Supplier survey, audit, rating, measurement of quality, delivery performance and certification. Customer service, corrective action approaches. 3 lectures, 1 laboratory.",
+  "units": "4",
+  "prerequisites": "IME 430",
+  "corequisites": null,
+  "crnc": false
+}

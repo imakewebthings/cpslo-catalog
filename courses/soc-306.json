@@ -1,0 +1,9 @@
+{
+  "id": "soc-306",
+  "title": "Sociology of the Family",
+  "description": "Description and analysis of family relationships; role of family in society, effects of society on family economy, structure and change. Other topics include courtship, marriage, parenting, divorce and alternative family forms. 4 lectures.",
+  "units": "4",
+  "prerequisites": "SOC 110",
+  "corequisites": null,
+  "crnc": false
+}

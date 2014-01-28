@@ -1,0 +1,9 @@
+{
+  "id": "brae-343",
+  "title": "Mechanical Systems Analysis",
+  "description": "Use of statics and dynamics to make original calculations, plans, sketches, graphics, drawings, schemes and layouts for the fabrication and construction of machines. 3 lectures, 1 laboratory.",
+  "units": "4",
+  "prerequisites": "BRAE 342",
+  "corequisites": null,
+  "crnc": false
+}

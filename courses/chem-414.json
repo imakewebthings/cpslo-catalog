@@ -1,0 +1,9 @@
+{
+  "id": "chem-414",
+  "title": "Advanced Organic Chemistry - Mechanisms",
+  "description": "A mechanistic study of organic reactions; correlation of structure with reactivity; reaction intermediates and species involved in reactions; methods of probing reaction mechanisms. 3 lectures.",
+  "units": "3",
+  "prerequisites": "CHEM 318",
+  "corequisites": null,
+  "crnc": false
+}

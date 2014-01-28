@@ -1,0 +1,9 @@
+{
+  "id": "enve-443",
+  "title": "Bioremediation Engineering I",
+  "description": "State-of-the-art bioremediation technologies for soil, groundwater and contaminated air stream remediation and pollution prevention. Introduction to engineering design combining biogenetics, reactor configuration, and basic biological and engineering principles. Various in-situ and ex-situ technologies. 3 lectures, 1 laboratory.",
+  "units": "4",
+  "prerequisites": "ENVE 331",
+  "corequisites": null,
+  "crnc": false
+}

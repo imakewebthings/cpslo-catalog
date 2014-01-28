@@ -1,0 +1,9 @@
+{
+  "id": "stat-512",
+  "title": "Statistical Methods",
+  "description": "Statistical methods in research for graduate students not majoring in mathematical sciences. Probability distributions, confidence intervals, hypothesis testing, contingency tables, linear regression and correlation, multiple regression, analysis of variance. Substantial use of statistical software. 4 seminars.",
+  "units": "4",
+  "prerequisites": "Graduate standing and intermediate algebra or equivalent",
+  "corequisites": null,
+  "crnc": false
+}

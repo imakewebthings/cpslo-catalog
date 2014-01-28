@@ -1,0 +1,9 @@
+{
+  "id": "gsa-555",
+  "title": "Database Modeling and Analysis for Accounting",
+  "description": "Fundamental concepts in database analysis, design, implementation, administration, and audit including issues such as requirements specification, REA modeling, ER modeling, normalization, SQL, transaction control, database security, and query optimization. May also include topics such as data warehouses, XBRL and ebXLM. 4 lectures.",
+  "units": "4",
+  "prerequisites": "OCOB graduate standing or approval from the Associate Dean",
+  "corequisites": null,
+  "crnc": false
+}

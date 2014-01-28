@@ -1,0 +1,9 @@
+{
+  "id": "me-347",
+  "title": "Fluid Mechanics II",
+  "description": "Conservation equations of fluid dynamics. Viscous flow, boundary layer concepts, lift and drag, compressible flow, turbomachinery. Laboratory measurement of turbomachine performance, velocity profiles, boundary layers on surfaces. 3 lectures, 1 laboratory.",
+  "units": "4",
+  "prerequisites": "ME 236, ME 341, ME 302 or consent of instructor",
+  "corequisites": null,
+  "crnc": false
+}

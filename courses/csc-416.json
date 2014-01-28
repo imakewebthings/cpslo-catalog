@@ -1,7 +1,9 @@
 {
   "id": "csc-416",
   "title": "Autonomous Mobile Robotics",
-  "description": "Theory and application of concepts relevant to autonomous mobile robots. Sensor and actuator interfacing, programming mobile robots, mobile robot configurations, software architectures and algorithms. 3 lectures, 1 laboratory.",
-  "units": 4,
-  "prerequisites": "CPE/EE 329 or CPE/EE 336 or both CSC/CPE 315 and CSC/CPE 357."
+  "description": "Theory and application of concepts relevant to autonomous mobile robots. Sensor and actuator interfacing, programming mobile robots, mobile robot configurations, software architectures and algorithms. 3 lectures, 1 laboratory. Crosslisted as CPE/CSC 416.",
+  "units": "4",
+  "prerequisites": "CPE/EE 329 or CPE/EE 336 or both CSC/CPE 315 and CSC/CPE 357",
+  "corequisites": null,
+  "crnc": false
 }

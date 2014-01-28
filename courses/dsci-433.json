@@ -1,0 +1,9 @@
+{
+  "id": "dsci-433",
+  "title": "Dairy Plant Management and Equipment",
+  "description": "Basic management principles applied to the dairy industry. Industrial organization and control. Dairy plant design, facilities, layout. Inventory control and records. Milk pooling and stabilization records. Maintenance and operation of equipment. 3 lectures, 1 laboratory.",
+  "units": "4",
+  "prerequisites": "DSCI 233 and DSCI 434, or FSN 204 and FSN 474",
+  "corequisites": null,
+  "crnc": false
+}

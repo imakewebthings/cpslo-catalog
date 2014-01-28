@@ -1,0 +1,9 @@
+{
+  "id": "cpe-580",
+  "title": "Artificial Intelligence",
+  "description": "Current research in the field of artificial intelligence with emphasis on cooperative agents, distributed agents, and decision making in complex, concurrent environments. AI programming in a distributed environment. 3 lectures, 1 laboratory. Crosslisted as CPE/CSC 580.",
+  "units": "4",
+  "prerequisites": "CPE/CSC 480 and graduate standing, or consent of instructor",
+  "corequisites": null,
+  "crnc": false
+}

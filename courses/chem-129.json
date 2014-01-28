@@ -1,0 +1,9 @@
+{
+  "id": "chem-129",
+  "title": "General Chemistry III",
+  "description": "Continuation of CHEM 128. Acid and base equilibria, buffers, transition elements, solubility, complex ions, hybrid orbital theory, molecular orbital theory, and nuclear chemistry. Laboratory study of the chemical properties and semi-micro qualitative analysis of the representative group elements of the periodic table. 3 lectures, 1 laboratory.",
+  "units": "4",
+  "prerequisites": "CHEM 125 or CHEM 128",
+  "corequisites": null,
+  "crnc": false
+}

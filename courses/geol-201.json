@@ -1,0 +1,9 @@
+{
+  "id": "geol-201",
+  "title": "Physical Geology",
+  "description": "Processes responsible for the Earth's rocks, structural surface features, geologic hazards, and natural resources, with emphasis on interactions with human activities. 3 lectures.",
+  "units": "3",
+  "prerequisites": "MATH 119",
+  "corequisites": null,
+  "crnc": false
+}

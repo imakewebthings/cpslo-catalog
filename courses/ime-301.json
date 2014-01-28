@@ -1,0 +1,9 @@
+{
+  "id": "ime-301",
+  "title": "Operations Research I",
+  "description": "Systems modeling methodology, mathematical model formulations, linear programming, graphical and simplex methods. Duality and sensitivity analysis. Transportation, transshipment and assignment models. Introduction to goal programming and elastic constraints. Computer applications. 3 lectures, 1 activity.",
+  "units": "4",
+  "prerequisites": "MATH 244",
+  "corequisites": null,
+  "crnc": false
+}

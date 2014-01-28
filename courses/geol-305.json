@@ -1,0 +1,9 @@
+{
+  "id": "geol-305",
+  "title": "Fundamentals of Seismology",
+  "description": "Theory of plate tectonics. Elastic waves in layered media. Principle of the seismometer. Seismic properties, structure and composition throughout the Earth. Intensity, magnitude, and seismic moment and energy calculations. Major California faults and earthquakes. Paleoseismology, forecasting and prediction. Analysis of ground motion. Resonance. Effects of ground shaking on structures and bodies of water. Earthquake safety. 3 lectures, 1 laboratory. Fulfills GE B6.",
+  "units": "4",
+  "prerequisites": "PHYS 132",
+  "corequisites": null,
+  "crnc": false
+}

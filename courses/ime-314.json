@@ -1,0 +1,9 @@
+{
+  "id": "ime-314",
+  "title": "Engineering Economics",
+  "description": "Economic analysis of engineering decisions. Determining rates of return on investments. Effects of inflation, depreciation and income taxes. Sensitivity, uncertainty, and risk analysis. Application of basic principles and tools of analysis using case studies. 3 lectures.",
+  "units": "3",
+  "prerequisites": "MATH 241",
+  "corequisites": null,
+  "crnc": false
+}

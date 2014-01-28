@@ -1,0 +1,9 @@
+{
+  "id": "mate-310",
+  "title": "Noncrystalline Material Systems",
+  "description": "Design and synthesis of noncrystalline material systems. Synthesis, processing techniques, properties and fabrication methods of organic and inorganic polymeric materials. 3 lectures, 1 laboratory.",
+  "units": "4",
+  "prerequisites": "MATE 210, MATE 340, STAT 312",
+  "corequisites": null,
+  "crnc": false
+}

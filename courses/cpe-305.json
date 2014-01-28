@@ -1,0 +1,9 @@
+{
+  "id": "cpe-305",
+  "title": "Individual Software Design and Development",
+  "description": "Practical software development skills needed for construction of mid-sized production-quality software modules, using the CSC upper division programming language. Topics include inheritance, exceptions, and memory and disk-based dynamic data structures. Students must complete an individual programming project of mid-level complexity. 3 lectures, 1 laboratory. Crosslisted as CPE/CSC 305.",
+  "units": "4",
+  "prerequisites": "CSC/CPE 357",
+  "corequisites": null,
+  "crnc": false
+}

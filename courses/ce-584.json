@@ -1,0 +1,9 @@
+{
+  "id": "ce-584",
+  "title": "Lateral Support Systems",
+  "description": "Classical and modern earth pressure theories. Lateral earth pressure calculations for general subsurface conditions. Analysis and design of reinforced concrete cantilever walls, sheetpile walls, soldier-pile walls, tie-back walls, and mechanically-stabilized earth. Computer-aided analysis and design. 4 lectures.",
+  "units": "4",
+  "prerequisites": "CE 481 or graduate standing",
+  "corequisites": null,
+  "crnc": false
+}

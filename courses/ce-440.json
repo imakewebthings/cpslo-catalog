@@ -1,0 +1,9 @@
+{
+  "id": "ce-440",
+  "title": "Hydraulic Systems Engineering",
+  "description": "Water and wastewater flows. Design of water distribution systems, trans-mission and storage reservoirs, wastewater collection systems, and storm water systems. Pumps and pump systems, flow measurements. Water sources for municipal supply. 3 lectures, 1 laboratory.",
+  "units": "4",
+  "prerequisites": "CE 336",
+  "corequisites": null,
+  "crnc": false
+}

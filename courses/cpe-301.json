@@ -1,0 +1,9 @@
+{
+  "id": "cpe-301",
+  "title": "Personal Software Process",
+  "description": "Principles and practices for defining and applying software processes to individual software development tasks. Quantitative methods for the measurement and analysis of software development cost and quality. Interpretation and evaluation of process metrics for creation of improvement plans. Adaptation of processes to individual styles. 3 lectures, 1 laboratory. Crosslisted as CPE/CSC 301.",
+  "units": "4",
+  "prerequisites": "CSC/CPE 103",
+  "corequisites": null,
+  "crnc": false
+}

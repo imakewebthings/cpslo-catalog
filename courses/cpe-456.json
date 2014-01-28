@@ -1,0 +1,9 @@
+{
+  "id": "cpe-456",
+  "title": "Introduction to Computer Security",
+  "description": "Survey of topics in computer system and network security, including protection, access control, distributed access control, operating system security, applied cryptography, network security, firewalls, secure coding practices, and case studies from real-world systems. 3 lectures, 1 laboratory. Crosslisted as CPE/CSC 456.",
+  "units": "4",
+  "prerequisites": "CSC/CPE 453 and either CSC/CPE 300 or CPE 350",
+  "corequisites": null,
+  "crnc": false
+}

@@ -1,0 +1,9 @@
+{
+  "id": "chem-405",
+  "title": "Advanced Physical Chemistry",
+  "description": "Selected advanced topics in physical chemistry, which may include statistical mechanics, computational chemistry, nonequilibrium thermodynamics, lasers in chemistry, solid-state and/or advanced spectroscopy. Total credit limited to 6 units. 3 lectures.",
+  "units": "3",
+  "prerequisites": "CHEM 353 or consent of instructor",
+  "corequisites": null,
+  "crnc": false
+}

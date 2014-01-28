@@ -1,0 +1,9 @@
+{
+  "id": "ime-156",
+  "title": "Basic Electronics Manufacturing",
+  "description": "Practical electronics manufacturing knowledge expanded through concepts such as CAD/CAM design, Design for Manufacture (DFM), documentation requirements, prototyping and production planning. Hands-on techniques learned for project planning, soldering, automation, hand tool usage and production methods. 1 lecture, 1 laboratory.",
+  "units": "2",
+  "prerequisites": null,
+  "corequisites": null,
+  "crnc": false
+}

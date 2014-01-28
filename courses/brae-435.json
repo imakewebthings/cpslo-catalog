@@ -1,0 +1,9 @@
+{
+  "id": "brae-435",
+  "title": "Drainage",
+  "description": "Relevant principles of hydrology and porous media flow. Flow nets, wells and ground water, design of simple surface and sub-surface drains. 3 lectures, 1 laboratory.",
+  "units": "4",
+  "prerequisites": "Junior standing, BRAE 312, BRAE 331, or BRAE 340 or SS 432 and consent of instructor",
+  "corequisites": null,
+  "crnc": false
+}

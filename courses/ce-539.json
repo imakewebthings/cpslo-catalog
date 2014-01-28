@@ -1,0 +1,9 @@
+{
+  "id": "ce-539",
+  "title": "Environmental Hydraulics",
+  "description": "Application of fluid mechanics principles to environmental flows. Emphasis on advection, dispersion, stratification and mixing effects. Stratified flows, turbulent jets and plumes, wastewater and thermal diffusers, cooling ponds and channels, control of environmental problems. 4 lectures.",
+  "units": "4",
+  "prerequisites": "CE 336, graduate standing or consent of instructor",
+  "corequisites": null,
+  "crnc": false
+}

@@ -1,0 +1,9 @@
+{
+  "id": "me-552",
+  "title": "Advanced Heat Transfer I",
+  "description": "Advanced principles of heat transfer. Classical solution techniques to problems in conduction and/or radiation. 4 lectures.",
+  "units": "4",
+  "prerequisites": "ME 343, ME 347, MATH 344, and graduate standing or consent of instructor",
+  "corequisites": null,
+  "crnc": false
+}

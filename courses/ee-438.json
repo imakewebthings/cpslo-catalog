@@ -1,0 +1,9 @@
+{
+  "id": "ee-438",
+  "title": "Digital Computer Systems",
+  "description": "Design of computer ALU's, microprogram controllers, memory systems, and I/0 controllers. Use of LSI components in CPU design. Microprogram and nanoprogram development. 3 lectures. Crosslisted as CPE/EE 438.",
+  "units": "3",
+  "prerequisites": "CPE 427 or consent of instructor",
+  "corequisites": null,
+  "crnc": false
+}

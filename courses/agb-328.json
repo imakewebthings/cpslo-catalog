@@ -1,0 +1,9 @@
+{
+  "id": "agb-328",
+  "title": "Decision Tools for Agribusiness",
+  "description": "Development of agribusiness modeling techniques that are applied to solving a diverse and unique set of resource allocation issues encountered throughout the agricultural and food retail sectors. Techniques include linear programming, decision analysis, and computer simulations. 3 lectures, 1 activity.",
+  "units": "4",
+  "prerequisites": "STAT 251 and AGB 260",
+  "corequisites": null,
+  "crnc": false
+}

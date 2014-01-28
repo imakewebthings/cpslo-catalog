@@ -1,0 +1,9 @@
+{
+  "id": "brae-151",
+  "title": "CAD for Agricultural Engineering",
+  "description": "Computer aided drafting on a desktop personal computer using Autocad software. Drawing setup. 2-D projections including automatic dimensioning and hatching. Isometric construction, drawing layers, library symbols. Use of 3-D drawing software. 1 laboratory.",
+  "units": "1",
+  "prerequisites": "BRAE 133 or equivalent",
+  "corequisites": null,
+  "crnc": false
+}

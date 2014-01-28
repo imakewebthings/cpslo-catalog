@@ -1,0 +1,9 @@
+{
+  "id": "chem-420",
+  "title": "Advanced Organic Chemistry - Synthesis",
+  "description": "Modern methods of organic synthesis. Carbon-carbon bond forming reactions, functional group transformations, protecting groups, strategies of total synthesis of natural products. 3 seminars.",
+  "units": "3",
+  "prerequisites": "CHEM 218/318",
+  "corequisites": null,
+  "crnc": false
+}

@@ -1,0 +1,9 @@
+{
+  "id": "ime-330",
+  "title": "Fundamentals of Manufacturing Engineering",
+  "description": "Engineering analysis of manufacturing processes for casting, molding, forming, joining, and machining. Design for manufacturability and estimation of production costs. Process design strategies. Setup and operation of processing equipment; inspection methods. Field trip to manufacturing center. 3 lectures, 1 laboratory.",
+  "units": "4",
+  "prerequisites": "IME 141 or IT 341; IME 142; CE 204; MATE 210; MATE 215; IME 144 or IME 143 and ME 251",
+  "corequisites": null,
+  "crnc": false
+}

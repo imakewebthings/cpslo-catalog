@@ -1,0 +1,9 @@
+{
+  "id": "ime-457",
+  "title": "Advanced Electronic Manufacturing",
+  "description": "Design and fabrication of commercial electronic products; PCB layout design, bill of material analysis and component purchasing, production planning and scheduling, programming automated surface-mount assembly line, marketing of products. Multidisciplinary project teams exposed to real-world challenges of electronics manufacturers. 2 lectures, 2 laboratories.",
+  "units": "4",
+  "prerequisites": "EE 201, IME 156 or IME 157",
+  "corequisites": null,
+  "crnc": false
+}

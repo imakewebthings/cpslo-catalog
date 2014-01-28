@@ -1,0 +1,9 @@
+{
+  "id": "math-350",
+  "title": "Mathematical Software",
+  "description": "Problem-solving using mathematical software. 4 lectures.",
+  "units": "4",
+  "prerequisites": "MATH 206 or MATH 244, and MATH 241, and an introductory college-level programming course, or consent of instructor",
+  "corequisites": null,
+  "crnc": false
+}

@@ -1,0 +1,9 @@
+{
+  "id": "phys-111",
+  "title": "Contemporary Physics for Nonscientists",
+  "description": "Exploration of the key concepts of quantum mechanics and Einstein's special and general theories of relativity. Particle-wave duality, Heisenberg's uncertainty principle, Schrodinger's cat, warped spacetime, black holes. 4 lectures. Fulfills GE B3.",
+  "units": "4",
+  "prerequisites": null,
+  "corequisites": null,
+  "crnc": false
+}

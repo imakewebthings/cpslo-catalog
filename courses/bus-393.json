@@ -1,0 +1,9 @@
+{
+  "id": "bus-393",
+  "title": "Database Systems in Business",
+  "description": "Design, development, testing, and implementation of databases for business applications. Data modeling with entity relationship diagrams (ERD) and class diagrams (UML). Data normalization, data integrity, the effect of business rules on data normalization. Advanced queries using structured query language (SQL). Database application development culminating in a database project. 4 lectures.",
+  "units": "4",
+  "prerequisites": null,
+  "corequisites": "BUS 392; Business and Economics majors must have formally declared their concentration to enroll",
+  "crnc": false
+}

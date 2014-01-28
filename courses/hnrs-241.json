@@ -1,0 +1,9 @@
+{
+  "id": "hnrs-241",
+  "title": "Calculus IV",
+  "description": "Partial derivatives, multiple integrals, introduction to vector analysis. 4 lectures. Crosslisted as HNRS/MATH 241.",
+  "units": "4",
+  "prerequisites": "MATH 143",
+  "corequisites": null,
+  "crnc": false
+}

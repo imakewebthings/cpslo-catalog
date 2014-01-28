@@ -1,0 +1,9 @@
+{
+  "id": "kine-306",
+  "title": "Assessment in K-12 Physical Education",
+  "description": "Measurement and evaluation techniques in physical education, including statistics, computer applications, and measurement theories. Assessment tools in psychomotor, cognitive, and affective domains. 2 lectures, 1 laboratory.",
+  "units": "3",
+  "prerequisites": "KINE 180 and STAT 217 or STAT 218",
+  "corequisites": null,
+  "crnc": false
+}

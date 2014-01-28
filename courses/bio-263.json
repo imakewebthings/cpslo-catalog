@@ -1,0 +1,9 @@
+{
+  "id": "bio-263",
+  "title": "Introductory Ecology and Evolution",
+  "description": "Basic concepts in ecology and evolution. Relationships among organisms in populations, communities and ecosystems, structures and dynamics of populations, communities and ecosystems, ecosystem inputs and energy flows, nutrient cycling, biogeography, population genetics, evolution, patterns of biodiversity and issues in conservation biology. 3 lectures, 1 laboratory.",
+  "units": "4",
+  "prerequisites": "BIO 160 or BIO 161",
+  "corequisites": null,
+  "crnc": false
+}

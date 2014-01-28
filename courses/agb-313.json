@@ -1,0 +1,9 @@
+{
+  "id": "agb-313",
+  "title": "Agriculture Economic Analysis",
+  "description": "Advanced agricultural microeconomics with emphasis on mathematical problem solving; production and cost functions, single and multiple input allocation, agricultural output combinations, agricultural market structures, and economies of size. 4 lectures.",
+  "units": "4",
+  "prerequisites": "AGB 212 and MATH 221",
+  "corequisites": null,
+  "crnc": false
+}

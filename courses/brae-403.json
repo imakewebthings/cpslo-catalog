@@ -1,0 +1,9 @@
+{
+  "id": "brae-403",
+  "title": "Agricultural Systems Engineering",
+  "description": "Engineering and economic principles combined with mathematical optimization techniques to evaluate parameters in agricultural production and processing systems. Project planning techniques, linear and nonlinear modeling, response surface methodology. Professional responsibilities in Agricultural Engineering including ethics, patents, copyrights, liability. 3 lectures, 1 laboratory.",
+  "units": "4",
+  "prerequisites": "MATH 242 or MATH 244",
+  "corequisites": null,
+  "crnc": false
+}

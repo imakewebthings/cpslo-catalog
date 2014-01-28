@@ -1,0 +1,9 @@
+{
+  "id": "stat-523",
+  "title": "Design and Analysis of Experiments I",
+  "description": "Principles, construction and analysis of experimental designs. Completely randomized, randomized complete block, Latin squares, Graeco-Latin squares, factorial, and nested designs. Fixed and random effects, expected mean squares, multiple comparisons, and analysis of covariance. Not open to students with credit in STAT 323. 4 lectures.",
+  "units": "4",
+  "prerequisites": "STAT 513 or STAT 542",
+  "corequisites": null,
+  "crnc": false
+}

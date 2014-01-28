@@ -1,0 +1,9 @@
+{
+  "id": "hcs-304",
+  "title": "Plant Breeding",
+  "description": "Principles and techniques used to develop new plant varieties. Sexual reproduction, inheritance, selection and biotechnology methods useful in breeding of plants. Field trip required. 3 lectures, 1 laboratory.",
+  "units": "4",
+  "prerequisites": "HCS 120 or BOT 121",
+  "corequisites": null,
+  "crnc": false
+}

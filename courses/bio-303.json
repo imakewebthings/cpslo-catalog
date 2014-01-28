@@ -1,0 +1,9 @@
+{
+  "id": "bio-303",
+  "title": "Survey of Genetics",
+  "description": "Principles of heredity and variation, including transmission, population and quantitative genetics; introduction to molecular mechanisms of inheritance. 4 lectures.",
+  "units": "4",
+  "prerequisites": "BIO 111 or BIO 161 or BOT 121",
+  "corequisites": null,
+  "crnc": false
+}

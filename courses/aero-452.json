@@ -1,0 +1,9 @@
+{
+  "id": "aero-452",
+  "title": "Spaceflight Dynamics II",
+  "description": "Orbital motion, perturbing forces. Aspherocity of the earth, aerodynamic drag, third-body tidal forces, etc. Encke and Cowell solution techniques. Restricted 3-body problem. Satellite attitude dynamics, rigid body-symmetric and asymmetric semirigid bodies. Attitude control, spinning/fixed gravity gradient. 4 lectures.",
+  "units": "4",
+  "prerequisites": "AERO 451",
+  "corequisites": null,
+  "crnc": false
+}

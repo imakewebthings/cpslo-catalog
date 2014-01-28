@@ -1,0 +1,9 @@
+{
+  "id": "math-459",
+  "title": "Senior Seminar",
+  "description": "Written and oral analyses and presentations by students on topics from advanced mathematics and mathematical modeling. 4 seminars.",
+  "units": "4",
+  "prerequisites": "MATH 306, and completion of at least two additional upper-division courses in the math major",
+  "corequisites": null,
+  "crnc": false
+}

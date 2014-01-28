@@ -1,0 +1,9 @@
+{
+  "id": "ce-455",
+  "title": "Design of Timber Structures",
+  "description": "Analysis and design of timber structures with emphasis on construction methodology, and material behavior. Topics include: physical and mechanical properties of structural lumber and glulams; lateral load paths; diaphragms; connections; shear wall design; and combined load design. 3 lectures, 1 laboratory.",
+  "units": "4",
+  "prerequisites": "CE 355 or CE 356",
+  "corequisites": null,
+  "crnc": false
+}

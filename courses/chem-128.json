@@ -1,0 +1,9 @@
+{
+  "id": "chem-128",
+  "title": "General Chemistry II",
+  "description": "Continuation of CHEM 127. Colligative properties, colloids and solutions, oxidation-reduction reactions, electrochemistry, kinetics, equilibria, and thermodynamics. Intended primarily for students whose majors are in the College of Science and Mathematics. Not open to students with credit for CHEM 125. 3 lectures, 1 laboratory.",
+  "units": "4",
+  "prerequisites": "CHEM 127 or AP Chemistry score of 5",
+  "corequisites": null,
+  "crnc": false
+}

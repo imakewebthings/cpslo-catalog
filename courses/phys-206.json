@@ -1,0 +1,9 @@
+{
+  "id": "phys-206",
+  "title": "Experimental Physics",
+  "description": "L-R-C circuits and electronic circuit elements emphasizing the applications of analog and digital electronics to instrumentation in modern physics. 3 lectures.",
+  "units": "3",
+  "prerequisites": "PHYS 133, MATH 143, and concurrent enrollment in PHYS 256",
+  "corequisites": null,
+  "crnc": false
+}

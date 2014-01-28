@@ -1,0 +1,9 @@
+{
+  "id": "cd-462",
+  "title": "Senior Project",
+  "description": "Completion of a project under faculty supervision.",
+  "units": "2",
+  "prerequisites": "CD 461",
+  "corequisites": null,
+  "crnc": false
+}

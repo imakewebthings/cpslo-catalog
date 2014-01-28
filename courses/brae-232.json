@@ -1,0 +1,9 @@
+{
+  "id": "brae-232",
+  "title": "Agricultural Structures Planning",
+  "description": "Planning of facilities required in production systems. Materials and processes used in construction of agricultural structures. Environmental factors affecting crop storage structures and animal housing. Design of structural environments to meet the needs of commodities, animals, and plants. 3 lectures, 1 laboratory.",
+  "units": "4",
+  "prerequisites": "BRAE 151, PHYS 132",
+  "corequisites": null,
+  "crnc": false
+}

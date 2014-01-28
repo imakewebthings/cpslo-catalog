@@ -1,0 +1,9 @@
+{
+  "id": "cpe-300",
+  "title": "Professional Responsibilities",
+  "description": "The responsibilities of the computer science professional. The ethics of science and the IEEE/ACM Software Engineering Code of Ethics. Quality tradeoffs, software system safety, intellectual property, history of computing and the social implications of computers in the modern world. Applications to ethical dilemmas in computing. Technical presentation methods and practice. 3 lectures, 1 laboratory. Crosslisted as CPE/CSC 300.",
+  "units": "4",
+  "prerequisites": "CSC/CPE 357 and junior standing",
+  "corequisites": null,
+  "crnc": false
+}

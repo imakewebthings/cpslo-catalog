@@ -1,0 +1,9 @@
+{
+  "id": "psy-405",
+  "title": "Abnormal Psychology",
+  "description": "Normal and abnormal behavior in everyday life. Anxiety, somatoform, dissociative, mood, childhood, personality, psychotic, cognitive, eating, and substance use disorders and their treatment. 4 lectures.",
+  "units": "4",
+  "prerequisites": "PSY 201 or PSY 202",
+  "corequisites": null,
+  "crnc": false
+}

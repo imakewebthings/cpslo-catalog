@@ -1,0 +1,9 @@
+{
+  "id": "bus-431",
+  "title": "Security Analysis and Portfolio Management",
+  "description": "In-depth analysis of equity market and its instruments. Detailed study of leading stock valuation models. Impact of changes in the firm's fundamentals and in macroeconomic factors on stock prices. Brief introduction to equity and index derivatives. 4 lectures.",
+  "units": "4",
+  "prerequisites": "BUS 342, ECON 339, or STAT 324; Business majors must have formally declared their concentration to enroll",
+  "corequisites": null,
+  "crnc": false
+}

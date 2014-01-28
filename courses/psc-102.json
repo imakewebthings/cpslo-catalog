@@ -1,0 +1,9 @@
+{
+  "id": "psc-102",
+  "title": "Atoms and Molecules",
+  "description": "Introduction to the basic principles of the atomic, molecular, and sub-atomic behavior of matter, and applications of these principles in modern society. Electricity and magnetism, electrical nature of matter, organic and inorganic chemistry, modern physics, the nucleus. 3 lectures, 1 laboratory.",
+  "units": "4",
+  "prerequisites": "PSC 101 or PHYS 121 or PHYS 131 or PHYS 141",
+  "corequisites": null,
+  "crnc": false
+}

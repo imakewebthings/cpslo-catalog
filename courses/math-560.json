@@ -1,0 +1,9 @@
+{
+  "id": "math-560",
+  "title": "Field Theory",
+  "description": "Polynomial rings, field extensions, normal and separable extensions, automorphisms of fields, fundamental theorem of Galois theory, solvable groups, solution by radicals, insolvability of the quintic. 4 lectures.",
+  "units": "4",
+  "prerequisites": "Satisfactory completion of the Graduate Written Examination in Algebra or consent of the Graduate Committee",
+  "corequisites": null,
+  "crnc": false
+}

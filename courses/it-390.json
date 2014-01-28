@@ -1,0 +1,9 @@
+{
+  "id": "it-390",
+  "title": "Industrial Automation",
+  "description": "Automated manufacturing systems, including computer numerical control (CNC), robotics, computer-integrated manufacturing, assembly and packaging. Hands-on activities in manual/automatic programming/operation of CNC machines, robots and programmable logic controllers. 2 lectures, 2 activities. Formerly IT 445.",
+  "units": "4",
+  "prerequisites": "IT 233 and IT 260",
+  "corequisites": null,
+  "crnc": false
+}

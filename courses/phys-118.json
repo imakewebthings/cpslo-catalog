@@ -1,0 +1,9 @@
+{
+  "id": "phys-118",
+  "title": "Introductory College Physics",
+  "description": "Introductory course in physics emphasizing motion, force, torque, momentum, and energy. Applications to human motion and metabolism. Primarily for students in kinesiology. Not open to students with credit in PHYS 121 or PHYS 131 or PHYS 141. 4 lectures.",
+  "units": "4",
+  "prerequisites": "MATH 118 and high school trigonometry, or MATH 119",
+  "corequisites": null,
+  "crnc": false
+}

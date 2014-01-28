@@ -1,0 +1,9 @@
+{
+  "id": "arce-483",
+  "title": "Seismic Analysis and Design",
+  "description": "Introduction to dynamic response analysis of building structures with emphasis on earthquake ground motion. Earthquake resistant design of buildings in accordance with building codes. Application of computer programs and physical models for seismic design. Laboratory studies utilizing physical models for studying the behavior of building structures subjected to simulated ground motions. 3 lectures, 1 activity.",
+  "units": "4",
+  "prerequisites": "ARCE 372, ARCE 412 (C- or better required for ARCE Majors)",
+  "corequisites": null,
+  "crnc": false
+}

@@ -1,0 +1,9 @@
+{
+  "id": "asci-333",
+  "title": "Equine Reproduction",
+  "description": "Management of the breeding farm, breeding problems, diseases, study of estrus cycles, servicing the mare, handling stallions. Breeding systems, teasing, embryo transfer, ultrasound pregnancy diagnosis, new developments in breeding technology. 4 lectures, 1 laboratory.",
+  "units": "5",
+  "prerequisites": "ASCI 224",
+  "corequisites": null,
+  "crnc": false
+}

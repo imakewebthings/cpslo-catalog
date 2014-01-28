@@ -1,0 +1,9 @@
+{
+  "id": "ersc-402",
+  "title": "Geologic Mapping",
+  "description": "Bedrock geologic mapping on topographic maps and aerial photos. Surficial geologic mapping on topographic maps and aerial photos. Correlating and defining surficial geologic map units on the basis of soil development. Understanding landscape evolution using soil development 4 activities. Crosslisted as ERSC/GEOL 402.",
+  "units": "4",
+  "prerequisites": "ERSC/GEOL 401",
+  "corequisites": null,
+  "crnc": false
+}

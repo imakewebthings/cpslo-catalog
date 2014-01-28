@@ -1,0 +1,9 @@
+{
+  "id": "ime-409",
+  "title": "Economic Decision Systems",
+  "description": "Economic evaluation of information for complex decisions. Analysis of risks and uncertainties. Bayes theory and models. Decision theory, sequential decisions, and value of information applied to financial evaluation and control. Major project justification procedures. 3 lectures.",
+  "units": "3",
+  "prerequisites": "IME 239, IME 314, and IME 405, or consent of instructor",
+  "corequisites": null,
+  "crnc": false
+}

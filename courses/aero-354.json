@@ -1,0 +1,9 @@
+{
+  "id": "aero-354",
+  "title": "Space Environment Laboratory",
+  "description": "Laboratory examples of the effects of the space environment on a spacecraft and design considerations. Topics include the launch, vacuum, particulate, plasma, and radiation environments. All topics are applied to how the environment affects spacecraft design considerations. 2 laboratories.",
+  "units": "2",
+  "prerequisites": "ENGL 149 and AERO 353",
+  "corequisites": null,
+  "crnc": false
+}

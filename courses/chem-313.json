@@ -1,0 +1,9 @@
+{
+  "id": "chem-313",
+  "title": "Survey of Biochemistry and Biotechnology",
+  "description": "Chemistry of biomolecules including carbohydrates, proteins, fats, vitamins, enzymes and hormones. Basic molecular biology with applications to biotechnology and genetic engineering. Practical intermediary metabolism of prokaryotic and eukaryotic systems. 4 lectures, 1 laboratory.",
+  "units": "5",
+  "prerequisites": "CHEM 212/312 or CHEM 217/317",
+  "corequisites": null,
+  "crnc": false
+}

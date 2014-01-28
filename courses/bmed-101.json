@@ -1,0 +1,9 @@
+{
+  "id": "bmed-101",
+  "title": "Introduction to the Biomedical Engineering Major",
+  "description": "Introduction to major topics in Biomedical Engineering. Time management, study skills and class scheduling necessary for academic success. Overview of university services. Professional pathways and ethics. Review of career opportunities. 1 seminar.",
+  "units": "1",
+  "prerequisites": "Biomedical or General Engineering Freshmen",
+  "corequisites": null,
+  "crnc": false
+}

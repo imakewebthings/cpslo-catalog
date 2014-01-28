@@ -1,0 +1,9 @@
+{
+  "id": "chem-551",
+  "title": "Coatings Formulation Laboratory",
+  "description": "Laboratory formulation of modern coatings. Formation of pigment dispersions. Formulation of solvent-borne and high solids coatings, water-borne coatings, powder coatings, radiation cure coatings and architectural coatings. VOC measurements. Measurement of coating properties, film formation, film defects, application methods, color and color acceptance, hiding, gloss. Accelerated weathering. Special individual project. 2 laboratories.",
+  "units": "2",
+  "prerequisites": null,
+  "corequisites": "CHEM 550",
+  "crnc": false
+}

@@ -1,0 +1,9 @@
+{
+  "id": "msl-403",
+  "title": "Adaptive Leadership",
+  "description": "Beginning of transition from student to commissioned officer. Emphasis on expectations of an Army 2nd Lieutenant. Cultural awareness, effective command climates, terrorism and force protection in the current operational environment, and individual officer skills. 3 lectures.",
+  "units": "3",
+  "prerequisites": "MSL 401 and MSL 402",
+  "corequisites": null,
+  "crnc": false
+}

@@ -1,0 +1,9 @@
+{
+  "id": "math-248",
+  "title": "Methods of Proof in Mathematics",
+  "description": "Methods of proof (direct, contradiction, conditional, contraposition); valid and invalid arguments. Examples from set theory. Quantified statements and their negations. Functions, indexed sets, set functions. Proofs in number theory, algebra, geometry and analysis. Proof by induction. Equivalence and well-defined operations and functions. The axiomatic method. 4 lectures.",
+  "units": "4",
+  "prerequisites": "MATH 143",
+  "corequisites": null,
+  "crnc": false
+}

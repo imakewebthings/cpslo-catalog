@@ -1,0 +1,9 @@
+{
+  "id": "aero-533",
+  "title": "Finite Elements for Aerospace Structural Analysis",
+  "description": "Overview of theoretical and applied methods of finite element analysis for aerospace structures including composite and light weight structures. Topics include basic equations of elasticity, solutions of linear systems of equations transformation, global stiffness matrix, Bernoulli-Euler element, plane stress triangles, finite element formulation, isoparametric elements, alternative formulation, eigenvalue problems and dynamic analysis. 3 lectures, 1 laboratory.",
+  "units": "4",
+  "prerequisites": "AERO 431",
+  "corequisites": null,
+  "crnc": false
+}

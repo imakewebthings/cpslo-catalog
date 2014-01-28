@@ -1,0 +1,9 @@
+{
+  "id": "psy-340",
+  "title": "Biopsychology",
+  "description": "Relationship between physiological and behavioral processes such as learning and memory, language, sleep, and abnormal behavior. Information processing, biochemistry, and structural organization at the cellular and nervous system levels. 4 lectures. Fulfills GE B5.",
+  "units": "4",
+  "prerequisites": "PSY 201 or PSY 202",
+  "corequisites": null,
+  "crnc": false
+}

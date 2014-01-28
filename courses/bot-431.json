@@ -1,0 +1,9 @@
+{
+  "id": "bot-431",
+  "title": "Advanced Plant Pathology",
+  "description": "Methods, instruments, and materials used in diagnosis of plant diseases and in plant disease research. 2 lectures, 2 laboratories.",
+  "units": "4",
+  "prerequisites": "BOT 323",
+  "corequisites": null,
+  "crnc": false
+}

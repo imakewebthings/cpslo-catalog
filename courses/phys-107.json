@@ -1,0 +1,9 @@
+{
+  "id": "phys-107",
+  "title": "Introduction to Meteorology",
+  "description": "Physics of Earth's atmosphere. Topics include the physical basis for temperature, wind generation, atmospheric circulation, humidity, adiabatic processes, cloud formation, cyclone development, precipitation, and storm growth. Other topics include the variety of storms and their effects, satellite imaging, and air pollution and its possible effect on global temperature change. 4 lectures. Fulfills GE B3.",
+  "units": "4",
+  "prerequisites": "Passing score on ELM examination, or an ELM exemption, or credit in MATH 104",
+  "corequisites": null,
+  "crnc": false
+}

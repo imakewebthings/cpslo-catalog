@@ -1,0 +1,9 @@
+{
+  "id": "ime-450",
+  "title": "Manufacturing Process and Tool Engineering",
+  "description": "Engineering design of fixtures and tools for manufacturing processes. Interpretation of engineering design specifications. Analysis of cost, quality, productivity, and safety in tool design. Mechanical analysis of tool design. Detailed process design for net shape production and component design for manufacture. Process and tool design projects. 3 lectures, 1 laboratory.",
+  "units": "4",
+  "prerequisites": "MATH 244, IME 330",
+  "corequisites": null,
+  "crnc": false
+}

@@ -1,8 +1,9 @@
 {
   "id": "csc-471",
   "title": "Introduction to Computer Graphics",
-  "description": "Graphics software development and use of APIs for 3D graphics. The graphics pipeline, modeling, geometric and viewing transforms, lighting and shading, rendering, interaction techniques and graphics hardware. 3 lectures, 1 laboratory.",
-  "units": 4,
-  "prerequisites": "CSC/CPE 357."
+  "description": "Graphics software development and use of APIs for 3D graphics. The graphics pipeline, modeling, geometric and viewing transforms, lighting and shading, rendering, interaction techniques and graphics hardware. 3 lectures, 1 laboratory. Crosslisted as CPE/CSC 471.",
+  "units": "4",
+  "prerequisites": "CSC/CPE 357",
+  "corequisites": null,
+  "crnc": false
 }
-

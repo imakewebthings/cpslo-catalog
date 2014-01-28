@@ -1,0 +1,9 @@
+{
+  "id": "hnrs-244",
+  "title": "Linear Analysis I",
+  "description": "Separable and linear ordinary differential equations with selected applications; numerical and analytical solutions. Linear algebra: vectors in n-space, matrices, linear transformations, eigenvalues, eigenvectors, diagonalization; applications to the study of systems of linear differential equations. 4 lectures. Crosslisted as HNRS/MATH 244.",
+  "units": "4",
+  "prerequisites": "MATH 143",
+  "corequisites": null,
+  "crnc": false
+}

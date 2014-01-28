@@ -1,0 +1,9 @@
+{
+  "id": "geol-420",
+  "title": "Applied Geophysics",
+  "description": "Introduction to geophysical exploration of the shallow subsurface: seismic refraction, seismic reflection, electrical resistivity, magnetic and gravity methods. Application to determination of subsurface structure, groundwater and mineral resources. 2 lectures, 1 laboratory.",
+  "units": "3",
+  "prerequisites": "PHYS 132, GEOL 201",
+  "corequisites": null,
+  "crnc": false
+}

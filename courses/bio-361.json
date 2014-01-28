@@ -1,0 +1,9 @@
+{
+  "id": "bio-361",
+  "title": "Principles of Physiology",
+  "description": "Fundamental principles of animal physiology, including cellular mechanisms and integration to whole animals. Membrane transport, fluid/salt balance, excitable cells, metabolic rate, temperature, gas exchange and circulation. 3 lectures, 1 laboratory.",
+  "units": "4",
+  "prerequisites": "BIO 162; and CHEM 216, CHEM 312 or CHEM 316",
+  "corequisites": null,
+  "crnc": false
+}

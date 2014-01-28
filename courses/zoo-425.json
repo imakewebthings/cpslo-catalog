@@ -1,0 +1,9 @@
+{
+  "id": "zoo-425",
+  "title": "Parasitology",
+  "description": "External and internal parasites of man and animals. Life history. Parasite-host relationships. Control and recognition of species of clinical importance. 2 lectures, 2 laboratories.",
+  "units": "4",
+  "prerequisites": "BIO 160 and BIO 161, or MCRO 221, or MCRO 224, or graduate standing in Biological Sciences",
+  "corequisites": null,
+  "crnc": false
+}

@@ -1,0 +1,9 @@
+{
+  "id": "phys-123",
+  "title": "College Physics III",
+  "description": "Continuation of PHYS 121 and 122. Electrostatics, electric current, magnetic fields and induction. Elements of modern physics. Not open for credit to students having a grade of C- or better in PHYS 133. 3 lectures, 1 laboratory.",
+  "units": "4",
+  "prerequisites": "PHYS 118, PHYS 121, PHYS 131, or PHYS 141",
+  "corequisites": null,
+  "crnc": false
+}

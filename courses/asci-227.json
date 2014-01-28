@@ -1,0 +1,9 @@
+{
+  "id": "asci-227",
+  "title": "Companion Animal Science",
+  "description": "Companion animal anatomy and physiology, reproduction, nutrition, behavior, management, common parasites, and infectious diseases. Scientific method in studying the human-animal bond. Application of biological concepts to problems related to companion animals. Trends in pet industry including animal welfare issues. 3 lectures, 1 laboratory.",
+  "units": "4",
+  "prerequisites": "ASCI 112",
+  "corequisites": null,
+  "crnc": false
+}

@@ -1,0 +1,9 @@
+{
+  "id": "me-416",
+  "title": "Ground Vehicle Dynamics and Design",
+  "description": "Design of ground vehicles for directional stability and control. Tire mechanics and their effects on vehicle performance. Simulation of vehicle dynamics using digital computer. Synthesis of steering mechanism and suspension system. 3 lectures, 1 laboratory.",
+  "units": "4",
+  "prerequisites": "ME 318, ME 328",
+  "corequisites": null,
+  "crnc": false
+}

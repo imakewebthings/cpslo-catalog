@@ -1,0 +1,9 @@
+{
+  "id": "math-440",
+  "title": "Topology I",
+  "description": "Introduction to general topological spaces with emphasis on surfaces and manifolds. Open and closed sets, continuity, compactness, connectedness. Quotient spaces. 4 lectures. Not open to students with credit in MATH 540.",
+  "units": "4",
+  "prerequisites": "MATH 412",
+  "corequisites": "MATH 481",
+  "crnc": false
+}

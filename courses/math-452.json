@@ -1,0 +1,9 @@
+{
+  "id": "math-452",
+  "title": "Numerical Analysis II",
+  "description": "Numerical techniques for solving partial differential equations of the parabolic, hyperbolic and elliptic type. Further topics in approximation theory. 4 lectures.",
+  "units": "4",
+  "prerequisites": "MATH 451",
+  "corequisites": null,
+  "crnc": false
+}

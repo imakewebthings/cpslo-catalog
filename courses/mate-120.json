@@ -1,0 +1,9 @@
+{
+  "id": "mate-120",
+  "title": "Introduction to Materials Engineering Design II",
+  "description": "Second design laboratory, working in teams to design, build and test a complex system that benefits humanity. Focus on complete design process including project management, documentation in design, manufacturing techniques, and analysis of testing data. Issues of engineering ethics, technology and society, the environment and sustainability also studied. 1 laboratory.",
+  "units": "1",
+  "prerequisites": "MATE 110",
+  "corequisites": null,
+  "crnc": false
+}

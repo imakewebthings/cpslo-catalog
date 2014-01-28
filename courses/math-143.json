@@ -1,0 +1,9 @@
+{
+  "id": "math-143",
+  "title": "Calculus III",
+  "description": "Infinite sequences and series, vector algebra, curves. 4 lectures. Crosslisted as HNRS/MATH 143. Fulfills GE B1.",
+  "units": "4",
+  "prerequisites": "MATH 142 with a grade of C- or better or consent of instructor",
+  "corequisites": null,
+  "crnc": false
+}

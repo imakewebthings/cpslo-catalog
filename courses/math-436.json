@@ -1,0 +1,9 @@
+{
+  "id": "math-436",
+  "title": "Discrete Math with Applications II",
+  "description": "Methods of discrete mathematics with applications. Polya theory, codes, designs, matroids, the combinatorics of symmetric functions, and tableaux combinatorics. Additional topics including transversals and Latin squares, asymptotics, and discrete probability theory. 4 lectures. Not open to students with credit in MATH 531.",
+  "units": "4",
+  "prerequisites": "MATH 435",
+  "corequisites": "MATH 482",
+  "crnc": false
+}

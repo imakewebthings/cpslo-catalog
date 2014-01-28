@@ -2,7 +2,8 @@
   "id": "csc-568",
   "title": "Distributed Systems",
   "description": "Advanced topics in distributed systems with emphasis on recent and emerging distributed computing paradigms, fault tolerance, and distributed algorithms. 4 seminars.",
-  "units": 4,
-  "prerequisites": "CSC/CPE 369 or CSC/CPE 569 and graduate standing, or consent of instructor."
+  "units": "4",
+  "prerequisites": "CSC/CPE 369 or CSC/CPE 569 and graduate standing, or consent of instructor",
+  "corequisites": null,
+  "crnc": false
 }
-

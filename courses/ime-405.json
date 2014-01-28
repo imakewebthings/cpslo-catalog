@@ -1,0 +1,9 @@
+{
+  "id": "ime-405",
+  "title": "Operations Research II",
+  "description": "Stochastic decision analysis. Queuing models, inventory models and analysis. Markov processes. Computer aided modeling and case studies. 3 lectures, 1 activity.",
+  "units": "4",
+  "prerequisites": "IME 301, STAT 321 or consent of instructor",
+  "corequisites": null,
+  "crnc": false
+}

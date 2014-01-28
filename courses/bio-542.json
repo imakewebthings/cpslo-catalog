@@ -1,0 +1,9 @@
+{
+  "id": "bio-542",
+  "title": "Multivariate Biometry",
+  "description": "Studies in continuous multivariate statistics, including the multivariate linear model, principal components and factor analysis, discriminant analysis, clustering, and canonical correlation. Use of MINTAB and SAS throughout. 4 lectures.",
+  "units": "4",
+  "prerequisites": "Two courses in statistics or consent of instructor",
+  "corequisites": null,
+  "crnc": false
+}

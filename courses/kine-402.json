@@ -1,0 +1,9 @@
+{
+  "id": "kine-402",
+  "title": "Motor Learning and Control",
+  "description": "Variables which control sensory-motor integration. Analysis of factors which affect the acquisition of motor skills as related to the learning process and the learning environment. 3 lectures, 1 activity.",
+  "units": "4",
+  "prerequisites": "STAT 217 or STAT 218 or equivalent coursework",
+  "corequisites": null,
+  "crnc": false
+}

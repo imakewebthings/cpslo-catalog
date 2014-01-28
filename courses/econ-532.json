@@ -1,0 +1,9 @@
+{
+  "id": "econ-532",
+  "title": "Environmental and Natural Resource Economics",
+  "description": "Economic analysis of pollution, congestion, public good provision, and natural resource conservation. Static and dynamic efficiency, economic growth and sustainability, pollution taxes, marketable permits, and the design of market-based regulations. 4 lectures.",
+  "units": "4",
+  "prerequisites": "ECON 511 and graduate standing, or consent of instructor",
+  "corequisites": null,
+  "crnc": false
+}

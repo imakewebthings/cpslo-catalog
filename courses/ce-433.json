@@ -1,0 +1,9 @@
+{
+  "id": "ce-433",
+  "title": "Open Channel Hydraulics",
+  "description": "Analysis and characteristics of flow in open channels; critical flows; uniform flow; gradually varied flow; channel design problems, channel transitions and controls. Rapidly varied flow; hydraulic jump and energy dissipaters. Unsteady flows, waves and wave propagation, flood routing. Applications of numerical methods in hydraulic engineering. 4 lectures.",
+  "units": "4",
+  "prerequisites": "CE 336",
+  "corequisites": null,
+  "crnc": false
+}

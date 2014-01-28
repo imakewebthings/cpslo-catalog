@@ -1,0 +1,9 @@
+{
+  "id": "bio-433",
+  "title": "Vertebrate/Human Anatomy and Physiology II",
+  "description": "Anatomy and physiology of the digestive, circulatory, urinary, endocrine, and reproductive systems, with an emphasis on human systems. Not open to students with credit in ZOO 332. 3 lectures, 2 laboratories.",
+  "units": "5",
+  "prerequisites": "BIO 361 or consent of instructor",
+  "corequisites": null,
+  "crnc": false
+}

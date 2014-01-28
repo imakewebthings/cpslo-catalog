@@ -1,0 +1,9 @@
+{
+  "id": "math-481",
+  "title": "Abstract Algebra I",
+  "description": "Introduction to the study of algebraic structures, including groups, rings and fields. 4 lectures.",
+  "units": "4",
+  "prerequisites": "MATH 306 or MATH 341",
+  "corequisites": null,
+  "crnc": false
+}

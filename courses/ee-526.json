@@ -1,0 +1,9 @@
+{
+  "id": "ee-526",
+  "title": "Digital Communications",
+  "description": "M-ary signals. Vector space representation of signals. Optimum receiver principles. Common signal sets. Signal space dimensionality versus time-bandwidth product. 4 seminars.",
+  "units": "4",
+  "prerequisites": "EE 314 or equivalent, EE 525, and graduate standing or consent of instructor",
+  "corequisites": null,
+  "crnc": false
+}

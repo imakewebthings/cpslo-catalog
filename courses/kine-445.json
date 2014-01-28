@@ -1,0 +1,9 @@
+{
+  "id": "kine-445",
+  "title": "Electrocardiography",
+  "description": "Basic principles of electrocardiography, including practical skills of the ECG technician. Recognition of normal ECG patterns and abnormal changes related to rhythm disturbances, conduction defects, myocardial ischemia/infarction, and exercise. 3 lectures, 1 laboratory.",
+  "units": "4",
+  "prerequisites": "KINE 303 or consent of instructor",
+  "corequisites": null,
+  "crnc": false
+}

@@ -1,0 +1,9 @@
+{
+  "id": "arce-371",
+  "title": "Structural Systems Laboratory",
+  "description": "Studies in the relationship of structural framing to overall building geometry. Emphasis on the stability of structural configurations, calculation of building loads and development of a complete gravity and lateral load path. 3 laboratories.",
+  "units": "3",
+  "prerequisites": "ARCE 223, ARCE 227 (C- or better required for ARCE Majors), and third year standing in Architectural Engineering",
+  "corequisites": "ARCE 302",
+  "crnc": false
+}

@@ -1,0 +1,9 @@
+{
+  "id": "enve-421",
+  "title": "Mass Transfer Operations",
+  "description": "Theory of mass transfer principles applied to environmental problems. Diffusion and dispersion modeling of contaminant transport. Design principles of scrubbers, absorbers, and membrane systems for air and water pollution control. 4 lectures.",
+  "units": "4",
+  "prerequisites": "ENVE 325, ENVE 331, ENVE 304 or ME 302, ENVE 264 or ME 341",
+  "corequisites": null,
+  "crnc": false
+}

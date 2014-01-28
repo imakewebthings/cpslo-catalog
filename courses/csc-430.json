@@ -1,7 +1,9 @@
 {
   "id": "csc-430",
   "title": "Programming Languages I",
-  "description": "Construction of the front end of a compiler including lexical analysis, syntactic analysis, type checking, and formal semantics. Introduction to regular languages, finite automata, and context-free grammars. 3 lectures, 1 laboratory.",
-  "units": 4,
-  "prerequisites": "CSC 349 and CSC/CPE 357."
+  "description": "Construction of the front end of a compiler including lexical analysis, syntactic analysis, type checking, and formal semantics. Introduction to regular languages, finite automata, and context-free grammars. 3 lectures, 1 laboratory. Crosslisted as CPE/CSC 430.",
+  "units": "4",
+  "prerequisites": "CSC 349 and CSC/CPE 357",
+  "corequisites": null,
+  "crnc": false
 }

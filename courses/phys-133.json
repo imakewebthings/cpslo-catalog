@@ -1,0 +1,9 @@
+{
+  "id": "phys-133",
+  "title": "General Physics III",
+  "description": "Charge and matter, electric field, electric potential, dielectrics, capacitance, current and resistance, electromotive force and circuits, magnetic fields, magnetic field of a moving charge, induced emf. 3 lectures, 1 laboratory. Fulfills GE B3 & B4.",
+  "units": "4",
+  "prerequisites": "PHYS 131 or HNRS 131 or PHYS 141, and MATH 142",
+  "corequisites": null,
+  "crnc": false
+}

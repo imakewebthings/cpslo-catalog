@@ -1,0 +1,9 @@
+{
+  "id": "bot-326",
+  "title": "Plant Ecology",
+  "description": "Plant communities, population dynamics, and effects of the following environmental factors on plant growth and development: soil, water, temperature, light, atmosphere, topography, organisms, and fire. 3 lectures, 1 laboratory.",
+  "units": "4",
+  "prerequisites": "BIO 114, BIO 162, BIO 211, or BOT 121",
+  "corequisites": null,
+  "crnc": false
+}

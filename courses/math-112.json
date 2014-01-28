@@ -1,0 +1,9 @@
+{
+  "id": "math-112",
+  "title": "Nature of Modern Math",
+  "description": "Topics from contemporary mathematics, their development, applications, and role in society. Some typical topics, to be chosen by the instructor: graph theory, critical path analysis, statistical inference, coding, game theory, and symmetry. 4 lectures. Fulfills GE B1.",
+  "units": "4",
+  "prerequisites": "Passing score on ELM examination, or an ELM exemption, or credit in MATH 104",
+  "corequisites": null,
+  "crnc": false
+}

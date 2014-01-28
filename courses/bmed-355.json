@@ -1,0 +1,9 @@
+{
+  "id": "bmed-355",
+  "title": "Electrical Engineering Concepts for Biomedical Engineering",
+  "description": "An introduction to electrical engineering concepts for biomedical engineers. Continuation of basic circuit analysis. Steady state AC circuit analysis and phasor concepts. Application of the Laplace Transform to transient circuit analysis. An introduction to digital logic gates, combinational and sequential logic circuits. 4 lectures.",
+  "units": "4",
+  "prerequisites": "EE 201, MATH 344",
+  "corequisites": null,
+  "crnc": false
+}

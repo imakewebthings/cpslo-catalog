@@ -1,0 +1,9 @@
+{
+  "id": "brae-301",
+  "title": "Hydraulic and Mechanical Power Systems",
+  "description": "Selection, application and use of hydraulic components and mechanical power transmission equipment. Use of standardized circuit design procedures. 3 lectures, 1 laboratory.",
+  "units": "4",
+  "prerequisites": "PHYS 121 or PHYS 141",
+  "corequisites": null,
+  "crnc": false
+}

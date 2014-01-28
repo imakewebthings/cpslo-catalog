@@ -1,0 +1,9 @@
+{
+  "id": "stat-417",
+  "title": "Survival Analysis Methods",
+  "description": "Parametric and nonparametric methods for analyzing survival data. Topics include Kaplan-Meier and Nelson-Aalen estimates, Cox regression models, accelerated failure time models. Use of statistical software to implement methods throughout course. 4 lectures.",
+  "units": "4",
+  "prerequisites": "STAT 302",
+  "corequisites": null,
+  "crnc": false
+}

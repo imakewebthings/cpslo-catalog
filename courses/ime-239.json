@@ -1,0 +1,9 @@
+{
+  "id": "ime-239",
+  "title": "Industrial Costs and Controls",
+  "description": "Estimation of manufacturing costs for production planning, cost analysis, and cost control. Planning, budgeting and control processes. Costs, accounting data and analysis of variances for managerial control, inventory valuation and decision making. Techniques of forecasting, pricing, cost estimating and cost reduction. 3 lectures.",
+  "units": "3",
+  "prerequisites": "IME 223",
+  "corequisites": null,
+  "crnc": false
+}

@@ -1,0 +1,9 @@
+{
+  "id": "ce-435",
+  "title": "Engineering Hydrology",
+  "description": "Analysis of hydrologic cycle components such as precipitation, infiltration and evaporation. Rainfall-runoff analysis to determine peak flows and runoff hydrographs. Hydrologic river and reservoir routings and their applications for flood plain management. Application of frequency analysis methods to determine design rainfalls and design flows. 4 lectures.",
+  "units": "4",
+  "prerequisites": "CE 336",
+  "corequisites": null,
+  "crnc": false
+}

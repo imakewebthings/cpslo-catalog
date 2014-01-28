@@ -1,8 +1,9 @@
 {
   "id": "csc-468",
   "title": "Database Management Systems Implementation",
-  "description": "Data structures and algorithms used in the implementation of database systems. Implementation of data and transaction managers: access methods interfaces, concurrency control and recovery, query processors and optimizers. Introduction to implementation of distributed database systems. 3 lectures, 1 laboratory.",
-  "units": 4,
-  "prerequisites": "CSC/CPE 365."
+  "description": "Data structures and algorithms used in the implementation of database systems. Implementation of data and transaction managers: access methods interfaces, concurrency control and recovery, query processors and optimizers. Introduction to implementation of distributed database systems. 3 lectures, 1 laboratory. Crosslisted as CPE/CSC 468.",
+  "units": "4",
+  "prerequisites": "CSC/CPE 365",
+  "corequisites": null,
+  "crnc": false
 }
-

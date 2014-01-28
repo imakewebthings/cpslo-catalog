@@ -1,0 +1,9 @@
+{
+  "id": "phys-340",
+  "title": "Quantum Physics Laboratory I",
+  "description": "Experimental studies of the quantum properties of atoms and nuclei. Measurements of fundamental constants. Statistics and data analysis. 1 lecture, 1 laboratory.",
+  "units": "2",
+  "prerequisites": "PHYS 212 and PHYS 256",
+  "corequisites": null,
+  "crnc": false
+}

@@ -1,0 +1,9 @@
+{
+  "id": "arce-223",
+  "title": "Mechanics of Structural Members",
+  "description": "Advanced topics of stresses in beams. Plastic bending, unsymmetrical bending. Combined stresses. Stress transformation. Buckling. Deflection of beams. 3 lectures.",
+  "units": "3",
+  "prerequisites": "ARCE 212 or ARCE 222 (C- or better required for ARCE Majors)",
+  "corequisites": null,
+  "crnc": false
+}

@@ -1,0 +1,9 @@
+{
+  "id": "phys-422",
+  "title": "Polymer Electronics Laboratory",
+  "description": "Experimental procedures in polymer electronics. Investigation of the characteristics of a polymer electronic device. 1 laboratory. Crosslisted as EE/PHYS 422.",
+  "units": "1",
+  "prerequisites": "EE 347 or MATE 340 or CHEM 319 or PHYS 340",
+  "corequisites": null,
+  "crnc": false
+}

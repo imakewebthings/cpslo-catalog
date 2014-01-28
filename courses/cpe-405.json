@@ -1,0 +1,9 @@
+{
+  "id": "cpe-405",
+  "title": "Software Construction",
+  "description": "Design and construction of sizeable software products. Technical management of software development teams. Software development process models, software design, documentation, quality assurance during development, software unit and integration testing; CASE tools, development environments, test tools, configuration management. 3 lectures, 1 laboratory. Crosslisted as CPE/CSC 405.",
+  "units": "4",
+  "prerequisites": "CPE/CSC 402",
+  "corequisites": null,
+  "crnc": false
+}

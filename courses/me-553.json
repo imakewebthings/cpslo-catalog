@@ -1,0 +1,9 @@
+{
+  "id": "me-553",
+  "title": "Advanced Heat Transfer II",
+  "description": "Advanced principles of heat transfer. Classical solution techniques to problems in convection. 4 lectures.",
+  "units": "4",
+  "prerequisites": "ME 343, ME 347, MATH 344, and graduate standing or consent of instructor",
+  "corequisites": null,
+  "crnc": false
+}

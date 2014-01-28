@@ -1,0 +1,9 @@
+{
+  "id": "brae-427",
+  "title": "Agricultural Process Engineering",
+  "description": "Agricultural engineering principles applied to air, water, air-water mixtures, drying, heating, refrigeration, fluid flow, size reduction, fan laws and materials handling. 2 lectures, 1 laboratory.",
+  "units": "3",
+  "prerequisites": "BRAE 312, BRAE 430, ME 302",
+  "corequisites": null,
+  "crnc": false
+}

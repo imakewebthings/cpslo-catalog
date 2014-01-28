@@ -1,0 +1,9 @@
+{
+  "id": "bmed-420",
+  "title": "Principles of Biomaterials Design",
+  "description": "Fundamentals of materials science as applied to bioengineering design. Natural and synthetic polymeric materials. Materials characterization and design. Wound repair, blood clotting, foreign body response, transplantation biology, biocompatibility of materials, tissue engineering. Artificial organs and medical devices. Government regulations. Patenting. Ethical issues. 3 lectures, 1 laboratory.",
+  "units": "4",
+  "prerequisites": "CE 204, MATE 210 or consent of instructor",
+  "corequisites": null,
+  "crnc": false
+}

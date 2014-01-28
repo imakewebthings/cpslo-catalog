@@ -1,8 +1,9 @@
 {
   "id": "csc-489",
   "title": "Current Topics in Artificial Intelligence",
-  "description": "Selected aspects of the design, implementation and analysis of advanced systems and concepts in the area of artificial intelligence. Topics may include knowledge representation, reasoning, learning, or planning, and specific techniques like intelligent agents, genetic algorithms, semantic web, or robotics. The Schedule of Classes will list topic selected. Total credit limited to 8 units. 3 lectures, 1 laboratory.",
-  "units": 4,
-  "prerequisites": "CSC/CPE 480."
+  "description": "Selected aspects of the design, implementation and analysis of advanced systems and concepts in the area of artificial intelligence. Topics may include knowledge representation, reasoning, learning, or planning, and specific techniques like intelligent agents, genetic algorithms, semantic web, or robotics. The Schedule of Classes will list topic selected. Total credit limited to 8 units. 3 lectures, 1 laboratory. Crosslisted as CPE/CSC 489.",
+  "units": "4",
+  "prerequisites": "CSC/CPE 480",
+  "corequisites": null,
+  "crnc": false
 }
-

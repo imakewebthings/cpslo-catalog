@@ -1,0 +1,9 @@
+{
+  "id": "arch-492",
+  "title": "Senior Design Thesis",
+  "description": "Development of the framework and format of a thesis project proposal related to the specific design option. Work to include: research topic, intent, scope, methodology, assumptions, outline of work program and documentation. 3 seminars.",
+  "units": "3",
+  "prerequisites": "ARCH 451, ARCH 452 and ARCH 453",
+  "corequisites": null,
+  "crnc": false
+}

@@ -1,0 +1,9 @@
+{
+  "id": "chem-319",
+  "title": "Advanced Organic Chemistry Laboratory",
+  "description": "Practice in multiple step organic synthesis, column chromatography, vacuum distillation, enzymes as chemical reagents, inert atmosphere techniques, introduction to FT NMR spectroscopy and mass spectrometry, survey of organic chemical literature. 2 laboratories.",
+  "units": "2",
+  "prerequisites": "Concurrent or prior enrollment in CHEM 218/318",
+  "corequisites": null,
+  "crnc": false
+}

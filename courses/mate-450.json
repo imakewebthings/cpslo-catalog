@@ -1,0 +1,9 @@
+{
+  "id": "mate-450",
+  "title": "Fracture and Failure Analysis",
+  "description": "Fracture processes and fracture mechanics of structural materials concentrating on engineering alloys. Topics include fracture of alloys, fracture mechanics (Griffith analysis, Linear Elastic Fracture Mechanics), and fatigue. Laboratory focuses on fracture surface analysis, failure analysis, and mechanical testing. 3 lectures, 1 laboratory.",
+  "units": "4",
+  "prerequisites": "MATE 210, MATE 215, MATE 350; and Senior standing",
+  "corequisites": null,
+  "crnc": false
+}

@@ -1,0 +1,9 @@
+{
+  "id": "fsn-329",
+  "title": "Nutrient Metabolism II",
+  "description": "Continuation of FSN 328. Biochemical, molecular, and physiological functions of vitamins and minerals and their interaction with other nutrients. 3 lectures, 1 laboratory.",
+  "units": "4",
+  "prerequisites": "FSN 328",
+  "corequisites": null,
+  "crnc": false
+}

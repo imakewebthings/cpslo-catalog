@@ -1,0 +1,9 @@
+{
+  "id": "phys-201",
+  "title": "Learning Center Tutor",
+  "description": "Act as a tutor in the Physics Learning Center. Help students with problem solving techniques and introductory physics course material. Total credit limited to 3 units, with a maximum of 1 unit per quarter. Credit/No Credit grading only.",
+  "units": "1",
+  "prerequisites": "PHYS 133 and consent of instructor",
+  "corequisites": null,
+  "crnc": false
+}

@@ -1,0 +1,9 @@
+{
+  "id": "me-457",
+  "title": "Refrigeration Principles and Design",
+  "description": "Basic engineering principles of refrigeration processes including: vapor compression cycles, multipressure systems, absorption systems, steam jet cooling, air cycles, and low temperature refrigeration. 3 lectures, 1 laboratory.",
+  "units": "4",
+  "prerequisites": "ME 341, ME 343",
+  "corequisites": null,
+  "crnc": false
+}

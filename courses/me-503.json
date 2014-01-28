@@ -1,0 +1,9 @@
+{
+  "id": "me-503",
+  "title": "Inelastic Stress Analysis",
+  "description": "Perfectly plastic and work hardening materials; von Mises and Tresca yield, isotropic and kinematic hardening flow rules, boundary-value problems. Finite elasticity: kinematics, Cauchy- and Green-elasticity, invariance, constraints, Neo-Hookean and Mooney-Rivlin materials, experimental approaches, non-uniqueness, anisotropy, residual stress, thermoelasticity, boundary-value problems. 4 lectures. Crosslisted as CE 513/ME 503.",
+  "units": "4",
+  "prerequisites": "ME 501 or CE 511",
+  "corequisites": null,
+  "crnc": false
+}

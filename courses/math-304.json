@@ -1,0 +1,9 @@
+{
+  "id": "math-304",
+  "title": "Vector Analysis",
+  "description": "Differential and integral calculus of vector-valued functions. Green's Theorem, Stokes' Theorem, and the Divergence Theorem. Applications and generalizations. 4 lectures. Fulfills GE B6.",
+  "units": "4",
+  "prerequisites": "MATH 206 or MATH 244, and MATH 241",
+  "corequisites": null,
+  "crnc": false
+}

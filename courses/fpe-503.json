@@ -1,0 +1,9 @@
+{
+  "id": "fpe-503",
+  "title": "Flammability Assessment Methods",
+  "description": "Characterization of flammability properties of gaseous, liquid and solid materials. Fire test methods for evaluating flammability properties of materials and burning characteristics of products. Overview of regulatory requirements for restricting the flammability of products and materials used in buildings. 4 lectures.",
+  "units": "4",
+  "prerequisites": "FPE 502",
+  "corequisites": null,
+  "crnc": false
+}

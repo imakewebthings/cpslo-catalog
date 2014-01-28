@@ -1,0 +1,9 @@
+{
+  "id": "ime-545",
+  "title": "Advanced Topics in Simulation",
+  "description": "Validation of simulation models. Statistical techniques for variance reduction. Experimental design and optimization. Comparison of attributes of simulation languages. Review of current manufacturing and service industry applications. Case studies. 3 lectures, 1 laboratory.",
+  "units": "4",
+  "prerequisites": "IME 420 and graduate standing",
+  "corequisites": null,
+  "crnc": false
+}

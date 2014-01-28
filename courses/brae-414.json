@@ -1,0 +1,9 @@
+{
+  "id": "brae-414",
+  "title": "Irrigation Engineering",
+  "description": "Design of on-farm irrigation systems; micro, surface, and sprinkler irrigation systems; canals and pumps; economic and strategies of pipe design; pipeline protection. 3 lectures, 1 laboratory.",
+  "units": "4",
+  "prerequisites": "BRAE 331 or BRAE 340; BRAE 312 or course in hydraulics with a grade of C or better",
+  "corequisites": null,
+  "crnc": false
+}

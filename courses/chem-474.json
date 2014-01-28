@@ -1,0 +1,9 @@
+{
+  "id": "chem-474",
+  "title": "Protein Techniques Laboratory",
+  "description": "Experiments in protein purification and analysis from recombinant sources. Ion-exchange and affinity chromatography, electrophoresis and blotting. UV, chemical, immune, and fluorescent detection. Enzyme kinetic analysis. 2 laboratories.",
+  "units": "2",
+  "prerequisites": "CHEM 371 or consent of instructor",
+  "corequisites": null,
+  "crnc": false
+}

@@ -1,0 +1,9 @@
+{
+  "id": "chem-599",
+  "title": "Graduate Thesis",
+  "description": "Directed graduate research in specialized advanced topics related to polymers and coatings science, leading to a graduate thesis of suitable quality. Requires approval of graduate advisor. Students are expected to work independently and report weekly to faculty advisor. Total credit limited to 9 units.",
+  "units": "3",
+  "prerequisites": "CHEM 545, CHEM 547, CHEM 548, CHEM 550, CHEM 551",
+  "corequisites": null,
+  "crnc": false
+}

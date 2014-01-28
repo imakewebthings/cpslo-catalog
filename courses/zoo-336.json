@@ -1,0 +1,9 @@
+{
+  "id": "zoo-336",
+  "title": "Invertebrate Zoology",
+  "description": "Invertebrate groups of animals with emphasis on taxonomy, morphology, distribution, and economic importance. 2 lectures, 2 laboratories, and fieldwork.",
+  "units": "4",
+  "prerequisites": "BIO 160 and BIO 162",
+  "corequisites": null,
+  "crnc": false
+}

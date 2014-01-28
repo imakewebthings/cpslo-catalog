@@ -1,0 +1,9 @@
+{
+  "id": "chem-357",
+  "title": "Physical Chemistry III Lab",
+  "description": "Experimental and computational investigations of quantum chemistry, spectroscopy, symmetry and statistical chemistry. 1 laboratory.",
+  "units": "1",
+  "prerequisites": null,
+  "corequisites": "CHEM 353",
+  "crnc": false
+}

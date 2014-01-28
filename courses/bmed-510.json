@@ -1,0 +1,9 @@
+{
+  "id": "bmed-510",
+  "title": "Principles of Tissue Engineering",
+  "description": "Exploration of areas including cell source and isolation, scaffold selection and modification, tissue cultivation and bioreactor design, and patient implantation. Applications of tissue engineering for creating skin, cartilage, blood vessels, and other tissues. 3 lectures, 1 laboratory.",
+  "units": "4",
+  "prerequisites": "An upper division course in physiology",
+  "corequisites": null,
+  "crnc": false
+}

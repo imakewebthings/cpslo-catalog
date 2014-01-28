@@ -1,0 +1,9 @@
+{
+  "id": "arce-421",
+  "title": "Soil Mechanics",
+  "description": "Principles of soil mechanics, including rudiments of geology, soil classification, gravimetric and volumetric relations, compaction, methods and testing, shear strength of soil and strength theories. 2 lectures, 1 laboratory.",
+  "units": "3",
+  "prerequisites": "ARCE 212 or ARCE 222 (C- or better required for ARCE Majors), GEOL 201",
+  "corequisites": null,
+  "crnc": false
+}

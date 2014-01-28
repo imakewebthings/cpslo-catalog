@@ -1,0 +1,9 @@
+{
+  "id": "fsn-330",
+  "title": "Introduction to Principles of Food Engineering",
+  "description": "Introduction to principles of food engineering and basic calculations needed for food plant operations. Unit conversions, material balance, heat balance, steam heating, psychrometry, vacuum and pressure. Field trip may be required. 3 lectures, 1 laboratory.",
+  "units": "4",
+  "prerequisites": "FSN 125; MATH 118 or equivalent; and PHYS 121",
+  "corequisites": null,
+  "crnc": false
+}

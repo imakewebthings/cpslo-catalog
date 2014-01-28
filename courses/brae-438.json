@@ -1,0 +1,9 @@
+{
+  "id": "brae-438",
+  "title": "Drip/Micro Irrigation",
+  "description": "Drip/micro irrigation hardware and management. Emphasizes agricultural drip/micro irrigation with some landscape application. Filtration, emitters, chemical injection, agronomic constraints, and scheduling. Field trip(s) included. 3 lectures, 1 laboratory.",
+  "units": "4",
+  "prerequisites": "BRAE 236 or BRAE 340",
+  "corequisites": null,
+  "crnc": false
+}

@@ -1,0 +1,9 @@
+{
+  "id": "coms-301",
+  "title": "Business and Professional Communication",
+  "description": "Communication skills and functions for all levels of organizational employees. Interviewing, oral briefings, motivational and conference speaking. 4 lectures.",
+  "units": "4",
+  "prerequisites": "COMS 101 or COMS 102",
+  "corequisites": null,
+  "crnc": false
+}

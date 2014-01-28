@@ -2,7 +2,8 @@
   "id": "csc-445",
   "title": "Theory of Computation I",
   "description": "Theory of formal languages and automata. Turing machines. Chomsky hierarchy. Theory of decidability and computability. 4 lectures.",
-  "units": 4,
-  "prerequisites": "CSC 141 and CSC 349 or consent of instructor."
+  "units": "4",
+  "prerequisites": "CSC 141 and CSC 349 or consent of instructor",
+  "corequisites": null,
+  "crnc": false
 }
-

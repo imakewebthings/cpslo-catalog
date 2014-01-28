@@ -1,0 +1,9 @@
+{
+  "id": "ee-411",
+  "title": "Power Electronics II",
+  "description": "Switching losses. Analysis, performance characterization, and design of snubber circuits and resonant converters. Operation of DC transmission lines, flexible AC transmission system (FACTS) controllers, three-phase inverters, and AC motor drives. Use of commercially available software. 3 lectures, 1 laboratory.",
+  "units": "4",
+  "prerequisites": "EE 410",
+  "corequisites": null,
+  "crnc": false
+}

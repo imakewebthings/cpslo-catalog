@@ -1,0 +1,9 @@
+{
+  "id": "it-457",
+  "title": "Radio Frequency Identification in Supply Chain Management",
+  "description": "An overview of Radio Frequency Identification (RFID) technology from the managerial standpoint. Developing simple RFID solutions using development kits. 2 lectures, 2 laboratories.",
+  "units": "4",
+  "prerequisites": "PHYS 121 or PHYS 122, MATH 141 or MATH 221",
+  "corequisites": null,
+  "crnc": false
+}

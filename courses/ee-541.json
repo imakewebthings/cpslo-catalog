@@ -1,0 +1,9 @@
+{
+  "id": "ee-541",
+  "title": "Advanced Microwave Laboratory",
+  "description": "Experimental measurement in waveguide and microstrip circuits employing the advanced Network Analyzer. Design of both passive and active microwave circuits using microstrip. Graphical and analytical design techniques as well as the use of computer-aided design codes. 2 laboratories.",
+  "units": "2",
+  "prerequisites": "EE 402 or equivalent and graduate standing or consent of instructor",
+  "corequisites": "EE 502",
+  "crnc": false
+}

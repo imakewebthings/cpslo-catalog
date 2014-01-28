@@ -1,0 +1,9 @@
+{
+  "id": "ee-307",
+  "title": "Digital Electronics and Integrated Circuits",
+  "description": "Analysis, design, application and interfacing of integrated logic circuits, including NMOS, CMOS, TTL, ECL, and other logic families. 3 lectures.",
+  "units": "3",
+  "prerequisites": "EE/CPE 129 & EE/CPE 169 or EE/CPE 133, EE 306 & EE 346",
+  "corequisites": null,
+  "crnc": false
+}

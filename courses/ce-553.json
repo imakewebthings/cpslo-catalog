@@ -1,0 +1,9 @@
+{
+  "id": "ce-553",
+  "title": "Ductile Design of Steel Structures",
+  "description": "Plastic analysis and capacity design principle; design of ductile steel structures including moment frames, concentrically braced frames, eccentrically braced frames, buckling-restrained braced frames, and steel plate shear walls according to the AISC Seismic Provisions for Structural Steel Buildings. 3 lectures, 1 activity.",
+  "units": "4",
+  "prerequisites": "CE 356 and senior or graduate standing",
+  "corequisites": null,
+  "crnc": false
+}

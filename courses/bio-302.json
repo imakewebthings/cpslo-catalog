@@ -1,0 +1,9 @@
+{
+  "id": "bio-302",
+  "title": "Human Genetics",
+  "description": "Basic principles of human inheritance, including the transmission of genetic traits, chromosomal abnormalities and their effects, gene structure and function, mutations and mutagenic agents, cancer genetics, population genetics, and principles of genetic counseling. 4 lectures. Fulfills GE B5.",
+  "units": "4",
+  "prerequisites": "One course from GE Area B1 ( Recommended: STAT 217 or STAT 218), and one course from GE Area B2",
+  "corequisites": null,
+  "crnc": false
+}

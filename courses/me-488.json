@@ -1,0 +1,9 @@
+{
+  "id": "me-488",
+  "title": "Wind Energy Engineering",
+  "description": "Engineering aspects of windpower systems including mechanical design, support structure design, aerodynamic analysis, wind field analysis, system concepts and analysis, and economics. 4 lectures.",
+  "units": "4",
+  "prerequisites": "ME 329, ME 347, ME 302",
+  "corequisites": null,
+  "crnc": false
+}

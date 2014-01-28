@@ -1,0 +1,9 @@
+{
+  "id": "ee-406",
+  "title": "Power Systems Analysis I",
+  "description": "Introduction to electric power systems. Representation of power systems and its components including transmission lines, synchronous machines, transformers and loads. One line diagrams and per unit calculations. symmetrical faults. Load flow analysis. 4 lectures.",
+  "units": "4",
+  "prerequisites": "EE 335, EE 255 & EE 295",
+  "corequisites": null,
+  "crnc": false
+}

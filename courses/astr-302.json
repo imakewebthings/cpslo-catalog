@@ -1,0 +1,9 @@
+{
+  "id": "astr-302",
+  "title": "Stars and Galaxies",
+  "description": "Quantitative and descriptive properties of the stars, galaxies and interstellar media; including stellar structure and evolution, structure and make-up of galaxies and cosmological models. 3 lectures.",
+  "units": "3",
+  "prerequisites": "PHYS 132 or PHYS 122 and MATH 141 or MATH 161",
+  "corequisites": null,
+  "crnc": false
+}

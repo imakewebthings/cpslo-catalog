@@ -1,0 +1,9 @@
+{
+  "id": "ee-410",
+  "title": "Power Electronics I",
+  "description": "Introduction to power electronics and power semiconductor devices. Analysis, performance characterization, and design of power electronics converters such as: rectifiers, DC choppers, AC voltage controllers, and single-phase inverters. Operation of DC motor drives. Use of commercially available software. 3 lectures, 1 laboratory.",
+  "units": "4",
+  "prerequisites": "EE 308 and EE 348, or EE 321 and consent of instructor",
+  "corequisites": null,
+  "crnc": false
+}

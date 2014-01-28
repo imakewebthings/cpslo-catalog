@@ -1,0 +1,9 @@
+{
+  "id": "math-460",
+  "title": "Applied Math Senior Seminar",
+  "description": "Written and oral analyses and presentations by students on topics in applied mathematics, including applications to sustainability. Construction of mathematical models for physical and biological problems, with analysis and interpretation of the solutions of these models using both analytical and numerical techniques. 4 seminars.",
+  "units": "4",
+  "prerequisites": "MATH 306, MATH 344, and MATH 451",
+  "corequisites": null,
+  "crnc": false
+}

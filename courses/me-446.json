@@ -1,0 +1,9 @@
+{
+  "id": "me-446",
+  "title": "Advanced and Hybrid Vehicle Design",
+  "description": "Systematic methodology to design and optimize hybrid powertrains. Exploration of conventional and hybrid powertrain subsystem models and application in a vehicle simulation, including internal combustion engines, electric motors and generators, transmissions, batteries, fuel cells, hydraulic reservoirs, ultracapacitors, flywheels, etc. Analytical modeling and optimization. 3 lectures, 1 laboratory.",
+  "units": "4",
+  "prerequisites": "ME 329 and ME 303",
+  "corequisites": null,
+  "crnc": false
+}

@@ -1,0 +1,9 @@
+{
+  "id": "math-182",
+  "title": "Calculus for Architecture and Construction Management",
+  "description": "Integral calculus with applications to architecture and construction management. The algebra of vectors. Polar, cylindrical, and spherical coordinate systems. Not open to students with credit in MATH 142. 4 lectures. Fulfills GE B1.",
+  "units": "4",
+  "prerequisites": "MATH 141",
+  "corequisites": null,
+  "crnc": false
+}

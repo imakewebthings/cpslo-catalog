@@ -1,0 +1,9 @@
+{
+  "id": "psy-432",
+  "title": "Psychological Testing",
+  "description": "Theory and practice of psychological measurement and testing. Principles of test construction, administration, and interpretation. Survey of common testing domains such as intelligence, scholastic aptitude and achievement, and personality. 4 lectures.",
+  "units": "4",
+  "prerequisites": "PSY 333",
+  "corequisites": null,
+  "crnc": false
+}

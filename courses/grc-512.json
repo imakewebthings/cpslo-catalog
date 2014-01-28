@@ -1,0 +1,9 @@
+{
+  "id": "grc-512",
+  "title": "Printing and Coating Technologies",
+  "description": "Study of functional printing and coating technologies, including screen printing, flexography, gravure, ink jet, offset, slot die, blade coating and conventional deposition techniques. Course offered online only. 4 lectures.",
+  "units": "4",
+  "prerequisites": null,
+  "corequisites": "GRC 501",
+  "crnc": false
+}

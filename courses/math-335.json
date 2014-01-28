@@ -1,0 +1,9 @@
+{
+  "id": "math-335",
+  "title": "Graph Theory",
+  "description": "Introduction to graph theory and its applications: isomorphism, paths and searching, connectedness, trees, tournaments, planarity, graph colorings, matching theory, network flow, adjacency and incidence matrices. Further topics to be selected from the theory of finite state machines, Ramsey theory, extremal theory, and graphical enumeration. 4 lectures.",
+  "units": "4",
+  "prerequisites": "MATH 248 or junior standing",
+  "corequisites": null,
+  "crnc": false
+}

@@ -1,0 +1,9 @@
+{
+  "id": "aero-553",
+  "title": "Advanced Linear Control Theory",
+  "description": "Advanced linear control theory techniques and analytic and computational analysis. State space system representation, solutions to linear dynamic systems, stability analysis, full-state and output feedback, controllability and observability and advanced control topics. Computational methods applied to problems in stability and control of dynamic systems. 4 lectures.",
+  "units": "4",
+  "prerequisites": "AERO 320, graduate standing or consent of instructor",
+  "corequisites": null,
+  "crnc": false
+}

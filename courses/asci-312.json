@@ -1,0 +1,9 @@
+{
+  "id": "asci-312",
+  "title": "Production Medicine",
+  "description": "Basic disease concepts. Fundamentals of immunology and therapeutics. Disease prevention principles, infectious and non-infectious. Pre-harvest food safety and milk and meat quality assurance. Herd health management programs for production efficiency and product quality. 3 lectures.",
+  "units": "3",
+  "prerequisites": "ASCI 221 or ASCI 223; ASCI 225 or ASCI 222; ASCI 224 or ASCI 227; and ASCI 229",
+  "corequisites": null,
+  "crnc": false
+}

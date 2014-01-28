@@ -1,0 +1,9 @@
+{
+  "id": "bio-443",
+  "title": "Molecular Ecology and Systematics",
+  "description": "Introduction to the science used to define and recognize the units of biological diversity, including a survey of the types of molecular data and computer programs used at the population and species level. 3 lectures, 1 laboratory.",
+  "units": "4",
+  "prerequisites": "BIO 160, BIO 162, BIO 263, BIO 351 and STAT 218 or equivalent",
+  "corequisites": null,
+  "crnc": false
+}

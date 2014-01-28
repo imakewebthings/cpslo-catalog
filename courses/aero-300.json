@@ -1,0 +1,9 @@
+{
+  "id": "aero-300",
+  "title": "Aerospace Engineering Analysis",
+  "description": "Analytical methods for aerospace engineering problems. Topics include vector calculus, linear algebra, differential equations, Laplace transforms and Fourier series. Computer tools and numerical methods as applied to problems in aerodynamics, structures, stability and control and astronautics. 4 lectures, 1 laboratory.",
+  "units": "5",
+  "prerequisites": "PHYS 133, ME 211 and MATH 244",
+  "corequisites": null,
+  "crnc": false
+}

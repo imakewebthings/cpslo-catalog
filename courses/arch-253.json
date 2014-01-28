@@ -1,0 +1,9 @@
+{
+  "id": "arch-253",
+  "title": "Architectural Design 2",
+  "description": "Continuation of ARCH 251 and ARCH 252 plus the theories, concepts, processes and skills pertaining to context, structure and climate as determinants that shape the built environment and support the communication of intended concepts and meanings. 5 laboratories.",
+  "units": "5",
+  "prerequisites": "ARCH 252 and ARCH 242",
+  "corequisites": "ARCH 207",
+  "crnc": false
+}

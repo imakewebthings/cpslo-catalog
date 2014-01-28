@@ -1,0 +1,9 @@
+{
+  "id": "asci-304",
+  "title": "Animal Genomics",
+  "description": "Application of genetic principles for domestic animal improvement. Improving animal performance and health through use of genetic markers and diagnostics, gene mapping, and related current technologies. 3 lectures.",
+  "units": "3",
+  "prerequisites": "BIO 302 or BIO 303 or BIO 351",
+  "corequisites": null,
+  "crnc": false
+}

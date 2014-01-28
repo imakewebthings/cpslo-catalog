@@ -1,0 +1,9 @@
+{
+  "id": "cm-314",
+  "title": "Heavy Civil Construction Management",
+  "description": "Materials, methods, and techniques associated with civil engineering projects and heavy construction operations. Topics include tunnel, bridge, dam, and road construction; equipment selection; and temporary structures. Scheduling, estimating, and construction contracts are integrated into a project based approach. 3 laboratories, 2 activities. Formerly CM 213.",
+  "units": "5",
+  "prerequisites": "CM 313",
+  "corequisites": null,
+  "crnc": false
+}

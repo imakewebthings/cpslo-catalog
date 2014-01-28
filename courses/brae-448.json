@@ -1,0 +1,9 @@
+{
+  "id": "brae-448",
+  "title": "Bioconversion",
+  "description": "Biological, thermal and physical techniques for converting biomass into useful energy forms for agriculture and industry. Laboratory exercises include experiments with anaerobic digestion of animal wastes into methane, ethanol fermentation of grains and composting of agricultural residues. Technical and economic feasibility of biofuels. 3 lectures, 1 laboratory.",
+  "units": "4",
+  "prerequisites": "MATH 118 or equivalent, or consent of instructor",
+  "corequisites": null,
+  "crnc": false
+}

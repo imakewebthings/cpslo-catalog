@@ -1,0 +1,9 @@
+{
+  "id": "stat-218",
+  "title": "Applied Statistics for the Life Sciences",
+  "description": "Data collection and experimental design, descriptive statistics, confidence intervals, parametric and non parametric one and two-sample hypothesis tests, analysis of variance, correlation, simple linear regression, chi-square tests, relative risk and odds. Applications of statistics to the life sciences. Substantial use of statistical software. Not open to students with credit in STAT 217 or STAT 251. 4 lectures. Fulfills GE B1.",
+  "units": "4",
+  "prerequisites": "Passing score on the ELM examination, or an ELM exemption, or credit in MATH 104",
+  "corequisites": null,
+  "crnc": false
+}

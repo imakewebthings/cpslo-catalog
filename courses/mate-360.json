@@ -1,0 +1,9 @@
+{
+  "id": "mate-360",
+  "title": "Metallurgical Materials Systems",
+  "description": "Physical metallurgy of engineering alloys including ferrous (steel) and nonferrous (aluminum, copper) systems. Connection to phase diagrams, microstructural development and phase transformations, physical and mechanical properties, precipitation hardening, cold work and annealing treated in detail. Laboratory focuses on microstructure development in steels and aluminum alloy casting. 3 lectures, 1 laboratory.",
+  "units": "4",
+  "prerequisites": "MATE 232, MATE 225 and IME 144",
+  "corequisites": null,
+  "crnc": false
+}

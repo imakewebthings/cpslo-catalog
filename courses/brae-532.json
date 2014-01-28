@@ -1,0 +1,9 @@
+{
+  "id": "brae-532",
+  "title": "Water Wells and Pumps",
+  "description": "Water well drilling, design, and development. Pump characteristics and system head. Series and parallel operation. Design of pump intakes. Variable speed electric drives and engines. Pump testing. 3 lectures, 1 laboratory.",
+  "units": "4",
+  "prerequisites": "BRAE 340 or equivalent, or BRAE 312 or equivalent",
+  "corequisites": null,
+  "crnc": false
+}

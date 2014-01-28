@@ -2,6 +2,8 @@
   "id": "csc-479",
   "title": "Computer Graphics Seminar",
   "description": "Current topics in computer graphics. Total credit limited to 4 units. 2 seminars.",
-  "units": 2,
-  "prerequisites": "CSC/CPE 471."
+  "units": "2",
+  "prerequisites": "CSC/CPE 471",
+  "corequisites": null,
+  "crnc": false
 }

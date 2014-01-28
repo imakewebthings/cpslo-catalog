@@ -1,0 +1,9 @@
+{
+  "id": "bio-445",
+  "title": "Community Ecology",
+  "description": "Principles of ecology at the community level including the mechanism that structure ecological communities, and the quantitative methods used to study community ecology such as diversity metrics, community composition analyses, interaction strengths and the application of statistics to field and experimental studies. 3 lectures, 1 laboratory.",
+  "units": "4",
+  "prerequisites": "BIO 160, BIO 162, BIO 263, and STAT 218 or Graduate standing in Biological Sciences",
+  "corequisites": null,
+  "crnc": false
+}

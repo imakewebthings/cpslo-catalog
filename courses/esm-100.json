@@ -1,0 +1,9 @@
+{
+  "id": "esm-100",
+  "title": "Early Start Program: Mathematics",
+  "description": "Review of basic algebra skills intended for students who need to meet the CSU Early Start Program (ESP) requirement. Not for baccalaureate credit. Credit/No Credit grading only.",
+  "units": "1.5",
+  "prerequisites": "Appropriate score on the ELM examination",
+  "corequisites": null,
+  "crnc": false
+}

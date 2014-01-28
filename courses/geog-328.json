@@ -1,0 +1,9 @@
+{
+  "id": "geog-328",
+  "title": "Applications in Remote Sensing",
+  "description": "Introduction to the use of satellite imagery to analyze natural and human features on the earth. Applications in geology, water, climate, vegetation, agriculture, and urban land use. Fundamentals of processing digital satellite images. Emphasis on bridging the earth and social sciences. 3 lectures, 1 activity.",
+  "units": "4",
+  "prerequisites": "GEOG 250 and junior standing",
+  "corequisites": null,
+  "crnc": false
+}

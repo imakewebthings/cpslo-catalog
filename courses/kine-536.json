@@ -1,0 +1,9 @@
+{
+  "id": "kine-536",
+  "title": "Advanced Electrocardiography",
+  "description": "Theory and application of electrocardiography and other techniques for cardiovascular assessment and treatment of cardiac disease and other abnormalities. 3 seminars, 1 laboratory.",
+  "units": "4",
+  "prerequisites": "KINE 445",
+  "corequisites": null,
+  "crnc": false
+}

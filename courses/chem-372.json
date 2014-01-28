@@ -1,0 +1,9 @@
+{
+  "id": "chem-372",
+  "title": "Metabolism",
+  "description": "Intermediary metabolism of carbohydrates, lipids, amino acids and nucleotides, regulation and integration of metabolic pathways, bioenergetics, photosynthesis, electron transport, nitrogen fixation, biochemical function of vitamins and minerals. 4 lectures.",
+  "units": "4",
+  "prerequisites": "CHEM 371",
+  "corequisites": null,
+  "crnc": false
+}

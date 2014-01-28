@@ -1,0 +1,9 @@
+{
+  "id": "chem-111",
+  "title": "Survey of Chemistry",
+  "description": "Introduction to atomic theory, chemical reactions, bonding, stoichiometry, nomenclature, and solutions. Intended for students who are preparing for CHEM 212/312. Not open to students with credit in CHEM 124 or CHEM 127. Credit will be granted in only one of the following courses: CHEM 110, CHEM 111. 4 lectures, 1 laboratory. Fulfills GE B3 & B4.",
+  "units": "5",
+  "prerequisites": "Passing score on ELM examination, or an ELM exemption, or credit in MATH 104",
+  "corequisites": null,
+  "crnc": false
+}

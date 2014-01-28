@@ -1,0 +1,9 @@
+{
+  "id": "chem-316",
+  "title": "Organic Chemistry I",
+  "description": "Structure, bonding, nomenclature, isomerism, stereochemistry and physical properties of organic compounds. Introduction to spectroscopy. Reactions and mechanisms of alkanes, alkenes, alkynes, cycloalkanes and aromatic compounds. Laboratory techniques in organic preparations. Not open to students with credit in CHEM 216. 4 lectures, 1 laboratory.",
+  "units": "5",
+  "prerequisites": "CHEM 125 or CHEM 129",
+  "corequisites": null,
+  "crnc": false
+}

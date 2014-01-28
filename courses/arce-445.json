@@ -1,0 +1,9 @@
+{
+  "id": "arce-445",
+  "title": "Prestressed Concrete Design Laboratory",
+  "description": "Design and analysis of prestressed concrete structures. 3 laboratories.",
+  "units": "3",
+  "prerequisites": "ARCE 444 (C- or better required for ARCE Majors)",
+  "corequisites": null,
+  "crnc": false
+}

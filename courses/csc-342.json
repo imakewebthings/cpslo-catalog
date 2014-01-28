@@ -2,6 +2,8 @@
   "id": "csc-342",
   "title": "Numerical Analysis I",
   "description": "Computer solutions of nonlinear equations and systems of linear equations. Polynomial interpolation. Numerical quadrature. Introduction to the solution of ordinary differential equations. 3 lectures.",
-  "units": 3,
-  "prerequisites": "MATH 143 and knowledge of a high level programming language, or ability to use one of the following systems: Maple, MatLab, Mathematica, or Mathcad."
+  "units": "3",
+  "prerequisites": "MATH 143 and knowledge of a high level programming language, or ability to use one of the following systems: Maple, MatLab, Mathematica, or Mathcad",
+  "corequisites": null,
+  "crnc": false
 }

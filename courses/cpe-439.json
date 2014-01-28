@@ -1,0 +1,9 @@
+{
+  "id": "cpe-439",
+  "title": "Real-Time Embedded Systems",
+  "description": "Introduction to operating systems as they apply to real-time embedded applications. Use of standard and/or softcore microcontroller platforms with communications to discrete peripherals through common bus interfaces. 3 lectures, 1 laboratory. Crosslisted as CPE/EE 439.",
+  "units": "4",
+  "prerequisites": "CPE/EE 329 or CPE/EE 336",
+  "corequisites": null,
+  "crnc": false
+}

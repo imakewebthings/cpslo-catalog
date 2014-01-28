@@ -1,0 +1,9 @@
+{
+  "id": "econ-512",
+  "title": "Macroeconomic Analysis",
+  "description": "Basic macroeconomic theory including markets for commodities and credit, the demand for money, market-clearing and the labor market, inflation and interest rates, investment, real business cycles and unemployment, economic growth, government consumption and the role of public services, and taxes, transfers, and the public debt. 4 lectures.",
+  "units": "4",
+  "prerequisites": "ECON 511 and graduate standing, or consent of instructor",
+  "corequisites": null,
+  "crnc": false
+}

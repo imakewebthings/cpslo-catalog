@@ -1,0 +1,9 @@
+{
+  "id": "math-437",
+  "title": "Game Theory",
+  "description": "Development of the mathematical concepts, techniques, and models used to investigate optimal strategies in competitive situations; games in extensive, normal, and characteristic form, Nash equilibrium points and Nash Bargaining Model. 4 lectures.",
+  "units": "4",
+  "prerequisites": "MATH 206 or MATH 244, and MATH 248 with a grade of C- or better, or consent of instructor",
+  "corequisites": null,
+  "crnc": false
+}

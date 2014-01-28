@@ -1,0 +1,9 @@
+{
+  "id": "ee-528",
+  "title": "Digital Image Processing",
+  "description": "Processing and interpretation of images by computer. Emphasis on current applications with real images used in programming assignments. Topics may include histogram equalization, 2-D convolution, correlation, frequency-domain processing, median filtering, compression, Hough transform, segmentation and region growing, morphological operations, texture description, shape description, Bayes classifier. 4 seminars.",
+  "units": "4",
+  "prerequisites": null,
+  "corequisites": null,
+  "crnc": false
+}

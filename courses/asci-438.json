@@ -1,0 +1,9 @@
+{
+  "id": "asci-438",
+  "title": "Systemic Animal Physiology",
+  "description": "Homeostatic relationships of organ systems. Cardiovascular, respiratory, urogenital and neuro-endocrinological functions. 3 lectures, 1 laboratory.",
+  "units": "4",
+  "prerequisites": "ASCI 229; CHEM 313 or CHEM 371, or ASCI 320",
+  "corequisites": null,
+  "crnc": false
+}

@@ -1,0 +1,9 @@
+{
+  "id": "me-410",
+  "title": "Experimental Methods in Mechanical Design I",
+  "description": "Bonded resistance strain gages for static and dynamic measurements; rosettes, bridge circuits, lead wire effects, special gages. Data acquisition systems, and measurement of displacement, velocity, and acceleration. Photoelastic methods including birefringent coatings. Applications in mechanical design and metrology. 3 lectures, 1 laboratory.",
+  "units": "4",
+  "prerequisites": "ME 328",
+  "corequisites": null,
+  "crnc": false
+}

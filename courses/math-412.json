@@ -1,0 +1,9 @@
+{
+  "id": "math-412",
+  "title": "Introduction to Analysis I",
+  "description": "Introduction to concepts and methods basic to real analysis. Topics such as the real number system, sequences, continuity, uniform continuity and differentiation. 4 lectures.",
+  "units": "4",
+  "prerequisites": "MATH 306",
+  "corequisites": null,
+  "crnc": false
+}

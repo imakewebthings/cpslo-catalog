@@ -1,0 +1,9 @@
+{
+  "id": "ime-503",
+  "title": "Applied Statistical Methods in Engineering",
+  "description": "Application of hypothesis testing, regression models, and ANOVA models to forecasting, process optimization, cost estimation, work measurement, inventory control, scheduling, and ergonomics. Probability distributions of process outputs in industries and service systems such as Normal, exponential, Uniform, Hypergeometric, Binomial, and Poisson. Applications in queuing, reliability, Markov chains. Expectations for random variables. Measures of central tendency and variation. Population and a random sample. Central limit theorem and its application in simulation of processes. 3 lectures, 1 laboratory.",
+  "units": "4",
+  "prerequisites": "Graduate standing or consent of instructor",
+  "corequisites": null,
+  "crnc": false
+}

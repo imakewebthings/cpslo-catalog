@@ -1,0 +1,9 @@
+{
+  "id": "arce-221",
+  "title": "Elementary Structures",
+  "description": "Forces on building structures. Static equilibrium and stability of structural systems. Shear and bending moment diagrams. 3 lectures.",
+  "units": "3",
+  "prerequisites": "PHYS 141, MATH 142",
+  "corequisites": null,
+  "crnc": false
+}

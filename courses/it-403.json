@@ -1,0 +1,9 @@
+{
+  "id": "it-403",
+  "title": "Quality Systems Management",
+  "description": "Quality assurance as viewed from a systems perspective that includes cost, time, and process elements. Lean thinking applied as a problem solving approach to achieve continuous process improvement through the elimination of waste and the reduction of variability. 4 lectures.",
+  "units": "4",
+  "prerequisites": "IT 341 or IT 371 and STAT 217, or STAT 218, or STAT 251; Business majors must have formally declared their concentration to enroll",
+  "corequisites": null,
+  "crnc": false
+}

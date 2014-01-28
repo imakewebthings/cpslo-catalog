@@ -1,0 +1,9 @@
+{
+  "id": "bio-444",
+  "title": "Population Ecology",
+  "description": "Growth, fluctuations, balance, and natural mechanisms controlling terrestrial wildlife populations. 3 lectures.",
+  "units": "3",
+  "prerequisites": "BIO 263 or NR 306",
+  "corequisites": null,
+  "crnc": false
+}

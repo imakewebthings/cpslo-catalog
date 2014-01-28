@@ -1,0 +1,9 @@
+{
+  "id": "econ-339",
+  "title": "Econometrics",
+  "description": "Application of statistical methods useful in economics. General linear regression model. Specific issues and problems related to economic models: multicollinearity, autocorrelation, heteroscedasticity, dummy variables, lagged variables, and simultaneous equation estimation. Application and evaluation of selected examples of empirical economic research. Microcomputer applications. 3 lectures, 1 activity.",
+  "units": "4",
+  "prerequisites": "MATH 142 or MATH 221, and STAT 252 or STAT 302, and either ECON 221 and ECON 222, or ECON 201, or consent of instructor",
+  "corequisites": null,
+  "crnc": false
+}

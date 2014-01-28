@@ -1,0 +1,9 @@
+{
+  "id": "ime-336",
+  "title": "Computer-Aided Manufacturing II",
+  "description": "Advanced Computer Numerical Control (CNC) programming and machine tool control. Machining center operation. Parametric representation of curves and surfaces. Computation of tool paths. Product and process design for CNC machining. CNC machine tool dynamics. Introduction to flexible manufacturing systems and robotics. Design and fabrication projects. 3 lectures, 1 laboratory.",
+  "units": "4",
+  "prerequisites": "IME 335, ME 212, MATH 244, or consent of instructor",
+  "corequisites": null,
+  "crnc": false
+}

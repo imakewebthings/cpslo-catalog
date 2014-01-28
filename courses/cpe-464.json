@@ -1,0 +1,9 @@
+{
+  "id": "cpe-464",
+  "title": "Introduction to Computer Networks",
+  "description": "Computer network architectures; communications protocol standards; services provided by the network; historical and current examples presented. 3 lectures, 1 laboratory. Crosslisted as CPE/CSC 464.",
+  "units": "4",
+  "prerequisites": "CSC/CPE 357",
+  "corequisites": null,
+  "crnc": false
+}

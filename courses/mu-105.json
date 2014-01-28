@@ -1,0 +1,9 @@
+{
+  "id": "mu-105",
+  "title": "Music Theory II: Chromatic Materials",
+  "description": "Construction and resolution of diatonic seventh chords, secondary dominants, augmented sixth, and Neapolitan chords. Modal mixture and modulation to closely-related keys. Binary, ternary, and variation forms. Introduction to 18th-century counterpoint. Composition project. 4 lectures.",
+  "units": "4",
+  "prerequisites": "MU 103",
+  "corequisites": null,
+  "crnc": false
+}

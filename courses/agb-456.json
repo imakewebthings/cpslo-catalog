@@ -1,0 +1,9 @@
+{
+  "id": "agb-456",
+  "title": "Agricultural Management Problems",
+  "description": "Management problems in agricultural production. Enterprise costing procedures, equipment costing and replacement, scheduling of operations to obtain efficiencies. Determination of most profitable production mix. Includes whole farm budget development and analysis. 4 lectures.",
+  "units": "4",
+  "prerequisites": "AGB 301; AGB 310; AGB 312; AGB 313; AGB 323; and one of the following AGB 327, AGB 328, AGB 405, AGB 421, AGB 422, AGB 433, AGB 435",
+  "corequisites": null,
+  "crnc": false
+}

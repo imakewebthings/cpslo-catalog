@@ -1,0 +1,9 @@
+{
+  "id": "math-408",
+  "title": "Complex Analysis I",
+  "description": "Elementary analytic functions and mappings. Cauchy's Integral Theorem; Poisson's Integral Formula. Taylor and Laurent series, theory of residues, and the evaluation of integrals. Harmonic functions, conformal mappings. 4 lectures. Fulfills GE B6.",
+  "units": "4",
+  "prerequisites": "MATH 242, or MATH 241 and MATH 244",
+  "corequisites": null,
+  "crnc": false
+}

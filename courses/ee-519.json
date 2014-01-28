@@ -1,0 +1,9 @@
+{
+  "id": "ee-519",
+  "title": "Advanced Analysis of Power Systems",
+  "description": "Advanced power system stability analysis, numerical methods in power system analysis. 4 seminars.",
+  "units": "4",
+  "prerequisites": "EE 406 or equivalent, and graduate standing or consent of instructor",
+  "corequisites": null,
+  "crnc": false
+}

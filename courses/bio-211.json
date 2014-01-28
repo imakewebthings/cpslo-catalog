@@ -1,0 +1,9 @@
+{
+  "id": "bio-211",
+  "title": "Biology of Plants and Animals",
+  "description": "Plant and animal anatomy, physiology, diversity and life cycles. How plants and animals acquire nutrients, reproduce, and adapt to environments. Emphasis on hands-on activities and model organisms suited for the elementary classroom. 3 lectures, 1 laboratory.",
+  "units": "4",
+  "prerequisites": "BIO 111; for Liberal Studies majors only",
+  "corequisites": null,
+  "crnc": false
+}

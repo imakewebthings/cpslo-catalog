@@ -1,0 +1,9 @@
+{
+  "id": "ee-348",
+  "title": "Analog Electronics and Integrated Circuits Laboratory",
+  "description": "Design, simulation, construction and testing of solid state amplifiers and sub-circuits to meet stated specifications. 1 laboratory.",
+  "units": "1",
+  "prerequisites": "EE 302 & EE 342, EE 307 & EE 347",
+  "corequisites": null,
+  "crnc": false
+}

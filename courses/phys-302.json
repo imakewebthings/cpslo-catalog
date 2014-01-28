@@ -1,0 +1,9 @@
+{
+  "id": "phys-302",
+  "title": "Classical Mechanics I",
+  "description": "Laws of motion, kinematics and dynamics of a particle. Use of numerical methods for solving problems. Work and energy. Linear and angular momentum. Lagrange's and Hamilton's equations and the calculus of variations. Newton's Law of gravity, Kepler's laws of orbital motion, and central force problems. 4 lectures.",
+  "units": "4",
+  "prerequisites": "PHYS 131 or PHYS 141; and MATH 241; and MATH 242 or MATH 244",
+  "corequisites": null,
+  "crnc": false
+}

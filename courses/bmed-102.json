@@ -1,0 +1,9 @@
+{
+  "id": "bmed-102",
+  "title": "Introduction to Biomedical Engineering Analysis",
+  "description": "General introduction to bioengineering analysis applied to representative topics in biomechanics, biofluidics, bioinstrumentation, biomaterials, biotechnology, and related areas. Review of technological needs, testing procedures, governmental regulation, quality of life, and ethical issues. 1 seminar.",
+  "units": "1",
+  "prerequisites": "BMED 101 and MATH 141",
+  "corequisites": null,
+  "crnc": false
+}

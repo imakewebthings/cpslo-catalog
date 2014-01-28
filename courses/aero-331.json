@@ -1,0 +1,9 @@
+{
+  "id": "aero-331",
+  "title": "Aerospace Structural Analysis I",
+  "description": "Deflection analysis. Principles of fictitious displacement, virtual work, and unit load method. Energy methods: Castigliano's theorem, Maxwell-Betti reciprocal theorem, minimum principles, Rayleigh-Ritz's method and Galerkin's method. Stress analysis of aircraft and spacecraft components. 4 lectures.",
+  "units": "4",
+  "prerequisites": "AERO 300, CE 207, and ME 212",
+  "corequisites": null,
+  "crnc": false
+}

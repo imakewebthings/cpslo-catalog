@@ -1,0 +1,9 @@
+{
+  "id": "chem-317",
+  "title": "Organic Chemistry II",
+  "description": "Reactions and reaction mechanisms of organic halides, alcohols, phenols, epoxides, ethers, carboxylic acids and their derivatives, aldehydes, ketones; acidity and basicity; infrared and NMR spectroscopy. Not open to students with credit in CHEM 217. 3 lectures, 2 laboratories.",
+  "units": "5",
+  "prerequisites": "CHEM 216/316",
+  "corequisites": null,
+  "crnc": false
+}

@@ -1,0 +1,9 @@
+{
+  "id": "dsci-401",
+  "title": "Physical and Chemical Properties of Dairy Products",
+  "description": "Composition, structure and properties of milk and milk products. Physical and chemical changes that occur during processing and storage of dairy products. Objective measurement of chemical and physical properties. 3 lectures, 1 laboratory.",
+  "units": "4",
+  "prerequisites": "CHEM 212 or CHEM 312",
+  "corequisites": null,
+  "crnc": false
+}

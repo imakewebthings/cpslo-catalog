@@ -1,0 +1,9 @@
+{
+  "id": "ce-524",
+  "title": "Pavement Performance and Management Systems",
+  "description": "Introduction to pavement management; pavement distress data collection; deflection measurements and analysis; pavement performance modeling; pavement structure design; maintenance planning and rehabilitation strategies; prioritization and optimization; computer applications in pavement management. 2 lectures, 2 laboratories.",
+  "units": "4",
+  "prerequisites": "CE 321, CE 322, CE 259",
+  "corequisites": null,
+  "crnc": false
+}

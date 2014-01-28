@@ -1,0 +1,9 @@
+{
+  "id": "fpe-521",
+  "title": "Egress Analysis and Design",
+  "description": "Regulatory requirements for egress systems in buildings, including occupancy classifications, occupant loads, means of egress components and exit capacities. Introduction to human behavior in fire and to methods for calculating people movement under emergency conditions, including computer-based evacuation models. 4 lectures.",
+  "units": "4",
+  "prerequisites": "Graduate standing or consent of instructor",
+  "corequisites": null,
+  "crnc": false
+}

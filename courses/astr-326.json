@@ -1,0 +1,9 @@
+{
+  "id": "astr-326",
+  "title": "Cosmology",
+  "description": "Introduction to the basic ideas of modern observational cosmology from the Big Bang to the ultimate fate of the universe. Topics include: special and general relativity, curvature of space, dark matter, dark energy, cosmic microwave background, type Ia supernovae. 3 lectures.",
+  "units": "3",
+  "prerequisites": "PHYS 211 (may be taken concurrently)",
+  "corequisites": null,
+  "crnc": false
+}

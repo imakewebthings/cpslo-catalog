@@ -1,0 +1,9 @@
+{
+  "id": "ime-435",
+  "title": "Reliability for Design and Testing",
+  "description": "Reliability concepts and mathematical models, mechanical device reliability, electrical device reliability, systems reliability and maintainability, reliability data, assurance program elements. Not open to students with credit in IME 542. 3 lectures.",
+  "units": "3",
+  "prerequisites": "IME 326, IME 327, IME 503 or STAT 312",
+  "corequisites": null,
+  "crnc": false
+}

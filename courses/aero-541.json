@@ -1,0 +1,9 @@
+{
+  "id": "aero-541",
+  "title": "Air Breathing Propulsion",
+  "description": "Aerothermodynamics of propulsion systems, power plant selection and design, on-off design performance, component characterization, component design, component matching, optimization, and introduction to power plant and airframe integration systems for aircraft. 4 seminars.",
+  "units": "4",
+  "prerequisites": "AERO 401, graduate standing or consent of instructor",
+  "corequisites": null,
+  "crnc": false
+}

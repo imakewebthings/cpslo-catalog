@@ -1,0 +1,9 @@
+{
+  "id": "ee-228",
+  "title": "Continuous-Time Signals and Systems",
+  "description": "Continuous-time systems analysis, with emphasis on linear time-invariant (LTI) systems. Classifications of continuous-time systems. Convolution and its application to LTI systems. The Laplace transform, Fourier transform, and Fourier series, and their application to the analysis of LTI systems. 4 lectures.",
+  "units": "4",
+  "prerequisites": "EE 212 & EE 242",
+  "corequisites": null,
+  "crnc": false
+}

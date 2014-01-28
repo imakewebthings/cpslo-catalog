@@ -1,0 +1,9 @@
+{
+  "id": "chem-484",
+  "title": "Inorganic Chemistry Laboratory",
+  "description": "Laboratory techniques in inorganic chemistry. Synthetic and analytic techniques as applied to inorganic and organometallic chemistry. 2 laboratories.",
+  "units": "2",
+  "prerequisites": "CHEM 481",
+  "corequisites": null,
+  "crnc": false
+}

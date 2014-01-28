@@ -1,0 +1,9 @@
+{
+  "id": "grc-510",
+  "title": "Materials for Functional Printing",
+  "description": "Study of functional materials including substrates, coatings, and inks. Focus on barrier and heat-stable substrates as well as conductive, semi-conductive, dielectric, transparent conductors, forensic, sensor, and other functional inks and coatings. Emphasis on rheology, morphology, sintering and annealing. Course offered online only. 4 lectures.",
+  "units": "4",
+  "prerequisites": null,
+  "corequisites": "GRC 501",
+  "crnc": false
+}

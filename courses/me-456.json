@@ -1,0 +1,9 @@
+{
+  "id": "me-456",
+  "title": "HVAC Air and Water Distribution System Design",
+  "description": "Air and water distribution components and systems and the design of these systems with applications to the heating, ventilating and air-conditioning (HVAC) industry. 3 lectures, 1 laboratory.",
+  "units": "4",
+  "prerequisites": "ME 302, ME 347",
+  "corequisites": null,
+  "crnc": false
+}

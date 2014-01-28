@@ -1,0 +1,9 @@
+{
+  "id": "ime-542",
+  "title": "Advanced Reliability Engineering",
+  "description": "Reliability terminology and bathtub curve. Failure distributions: Exponential, Lognormal, and Weibull. Probability plotting. Reliability of systems. Maintainability and availability. Reliability in design; Load-strength analysis; Failure modes and effects analysis; Fault tree analysis. Reliability testing; Reliability management. Not open to students with credit in IME 435. 3 lectures, 1 laboratory.",
+  "units": "4",
+  "prerequisites": "IME 326, IME 327, IME 503 or STAT 312",
+  "corequisites": null,
+  "crnc": false
+}

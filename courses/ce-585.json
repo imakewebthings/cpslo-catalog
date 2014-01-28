@@ -1,0 +1,9 @@
+{
+  "id": "ce-585",
+  "title": "Slope Stability Analysis",
+  "description": "Analysis of stability by planar, circular arc, piecewise-linear, and composite-surface techniques. Analysis of earth-fill dams and reservoirs for static, steady flow, sudden drawdown, and seismic loading conditions. Field instrumentation. Methods for slope remediation and stabilization. Computer-aided analysis. 4 lectures.",
+  "units": "4",
+  "prerequisites": "CE 481 or graduate standing",
+  "corequisites": null,
+  "crnc": false
+}

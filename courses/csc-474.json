@@ -1,8 +1,9 @@
 {
   "id": "csc-474",
   "title": "Computer Animation",
-  "description": "Basic and advanced algorithms for generating sequences of synthetic images. Interpolation in time and space, procedural and keyframe animation, particle systems, dynamics and inverse kinematics, morphing and video. 3 lectures, 1 laboratory.",
-  "units": 4,
-  "prerequisites": "CSC/CPE 471."
+  "description": "Basic and advanced algorithms for generating sequences of synthetic images. Interpolation in time and space, procedural and keyframe animation, particle systems, dynamics and inverse kinematics, morphing and video. 3 lectures, 1 laboratory. Crosslisted as CPE/CSC 474.",
+  "units": "4",
+  "prerequisites": "CSC/CPE 471",
+  "corequisites": null,
+  "crnc": false
 }
-

@@ -1,0 +1,9 @@
+{
+  "id": "cm-221",
+  "title": "Concrete and Formwork Technology",
+  "description": "Modern concepts of concrete and formwork construction. Significant developments in concrete chemistry and strength theory. Formwork systems, concrete mix design, admixtures, batching, finishing, curing and testing. Includes physically building basic forms, finishing and curing concrete, and testing of designed mixes. 2 lectures, 1 laboratory.",
+  "units": "3",
+  "prerequisites": "ARCH 106",
+  "corequisites": null,
+  "crnc": false
+}

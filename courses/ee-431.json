@@ -1,0 +1,9 @@
+{
+  "id": "ee-431",
+  "title": "Computer-Aided Design of VLSI Devices",
+  "description": "Design of VLSI circuits, design of subsystems using static CMOS, transmission gates, and other methods. Variety of CAD tools for design, verification, test, and simulation. Several design projects. 3 lectures, 1 laboratory. Crosslisted as CPE 441/EE 431.",
+  "units": "4",
+  "prerequisites": "EE 307 & EE 347, EE 308 & EE 348 or consent of instructor",
+  "corequisites": null,
+  "crnc": false
+}

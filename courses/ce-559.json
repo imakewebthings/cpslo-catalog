@@ -1,0 +1,9 @@
+{
+  "id": "ce-559",
+  "title": "Prestressed Concrete Design",
+  "description": "Advanced analysis, design and behavior of prestressed and precast concrete elements and structures. Origin of code requirements. Detailed design of prestressed concrete components of civil engineering systems for buildings and highway construction. Creep and shrinkage of concrete and relaxation of steel applied to prestressing losses. 4 lectures.",
+  "units": "4",
+  "prerequisites": "CE 355 or graduate standing",
+  "corequisites": null,
+  "crnc": false
+}

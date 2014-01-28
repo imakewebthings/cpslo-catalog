@@ -1,0 +1,9 @@
+{
+  "id": "ime-428",
+  "title": "Engineering Metrology",
+  "description": "Measurement of attributes and variables; standards, accuracy and precision; mechanical, electronic and optical/laser measurement systems. Contact and non-contact measurement; straightness, flatness and squareness; GDT (Geometric Dimensioning and Tolerancing); CMM (Coordinate Measurement Machines); surface roughness; metrology for electronic products. 3 lectures, 1 laboratory.",
+  "units": "4",
+  "prerequisites": "IME 143 or IME 144; and IME 326, IME 327, IME 503 or STAT 312",
+  "corequisites": null,
+  "crnc": false
+}

@@ -1,0 +1,9 @@
+{
+  "id": "econ-311",
+  "title": "Intermediate Microeconomics I",
+  "description": "Consumer behavior and the theory of demand; production, cost, supply functions; perfect competition; monopoly and oligopoly; the economics of information technology. 4 lectures.",
+  "units": "4",
+  "prerequisites": "MATH 142 or MATH 221, and STAT 252 or STAT 302, and either ECON 221 and ECON 222, or ECON 201",
+  "corequisites": null,
+  "crnc": false
+}

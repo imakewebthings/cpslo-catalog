@@ -1,0 +1,9 @@
+{
+  "id": "ppsc-511",
+  "title": "Ecological Biometrics",
+  "description": "General survey of current analytical methodology available to ecological researchers to evaluate effects and assess the underlying mechanisms that drive natural and cultivated ecosystems. Methodology includes general linear models, ordination, survival analysis, multivariate analyses, and computer simulations. Student research used as a basis for instruction. Total credit limited to 8 units. 3 seminars, 1 activity. Crosslisted as HCS/PPSC 511.",
+  "units": "4",
+  "prerequisites": "STAT 218 or STAT 512, or consent of instructor",
+  "corequisites": null,
+  "crnc": false
+}

@@ -1,0 +1,9 @@
+{
+  "id": "arce-305",
+  "title": "Masonry Design",
+  "description": "Design of load-bearing walls, shear walls, columns and beams in masonry. 2 lectures.",
+  "units": "2",
+  "prerequisites": "ARCE 371 for ARCE majors (with C- or better); ARCE 223 and ARCE 226 for ARCE minors",
+  "corequisites": null,
+  "crnc": false
+}

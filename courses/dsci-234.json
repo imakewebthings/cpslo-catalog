@@ -1,0 +1,9 @@
+{
+  "id": "dsci-234",
+  "title": "Dairy Foods Evaluation",
+  "description": "Basic principles of sensory evaluation of dairy foods, physiology of various senses and their relationship to distinguishing the quality of dairy products by sight, flavor, body and texture. Product defects, causes, and methods of prevention. 1 lecture, 1 laboratory.",
+  "units": "2",
+  "prerequisites": "DSCI 231, or FSN 125, or FSN 230",
+  "corequisites": null,
+  "crnc": false
+}

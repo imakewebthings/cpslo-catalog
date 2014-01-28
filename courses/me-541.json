@@ -1,0 +1,9 @@
+{
+  "id": "me-541",
+  "title": "Advanced Thermodynamics",
+  "description": "Selected modern applications of thermodynamics which may include topics from: 1) equilibrium and kinetics as applied to combustion and air pollution, analysis and evaluation of techniques used to predict properties of gases and liquids, and 2) improvement of modern thermodynamic cycles by second law analysis. 4 lectures.",
+  "units": "4",
+  "prerequisites": "ME 303, ME 343, ME 347 and graduate standing or consent of instructor",
+  "corequisites": null,
+  "crnc": false
+}

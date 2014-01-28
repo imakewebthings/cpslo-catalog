@@ -1,0 +1,9 @@
+{
+  "id": "ime-408",
+  "title": "Systems Engineering",
+  "description": "Systems, subsystems, static, dynamic, closed and open systems. Systems design requirements. Performance measures. Process control modeling and analysis, transform methods, linear systems analysis, digital, adaptive and steady state optimal control. Optimal search strategies. Manufacturing, maintenance, replacement and engineering applications. 3 lectures.",
+  "units": "3",
+  "prerequisites": "IME 326, IME 405, CSC 232",
+  "corequisites": null,
+  "crnc": false
+}

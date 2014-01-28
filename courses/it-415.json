@@ -1,0 +1,9 @@
+{
+  "id": "it-415",
+  "title": "Supply Chain and Logistics",
+  "description": "Key concepts, tools, and approaches for making effective supply chain and logistics decisions in support of business goals. Practical management issues and applications are the focus rather than theoretical, mathematical optimization. Business cases and simulations are used to illustrate and explore best practices. 4 lectures.",
+  "units": "4",
+  "prerequisites": "IT 303, IT 326, IT 330, IT 341, or IT 371",
+  "corequisites": null,
+  "crnc": false
+}

@@ -1,0 +1,9 @@
+{
+  "id": "math-221",
+  "title": "Calculus for Business and Economics",
+  "description": "Polynomial calculus for optimization and marginal analysis, and elementary integration. Not open to students with credit in MATH 142. 4 lectures. Fulfills GE B1.",
+  "units": "4",
+  "prerequisites": "Completion of ELM requirement and passing score on appropriate Mathematics Placement Examination, or MATH 118",
+  "corequisites": null,
+  "crnc": false
+}

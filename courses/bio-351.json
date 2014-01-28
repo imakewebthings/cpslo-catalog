@@ -1,0 +1,9 @@
+{
+  "id": "bio-351",
+  "title": "Principles of Genetics",
+  "description": "Principles of genetics and genetic analysis, including underlying molecular mechanisms. Subjects include gene structure and function, inheritance patterns, regulation of gene expression, mutation, recombination, recombinant DNA technology, and an introduction to population genetics. 5 lectures.",
+  "units": "5",
+  "prerequisites": "BIO 161",
+  "corequisites": "CHEM 216, CHEM 312 or CHEM 316",
+  "crnc": false
+}

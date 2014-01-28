@@ -1,0 +1,9 @@
+{
+  "id": "ce-431",
+  "title": "Coastal Hydraulics I",
+  "description": "Waves and their characteristics, types of waves, water wave theories, orbital velocities, refraction of waves, wave diffraction, wave reflection, application of linear theory to wave forces on cylindrical structures, submerged pipelines and vertical flat barriers (sea walls), wave uprush, rubble mound breakwaters. 4 lectures.",
+  "units": "4",
+  "prerequisites": "ME 341 or ENVE 264",
+  "corequisites": null,
+  "crnc": false
+}

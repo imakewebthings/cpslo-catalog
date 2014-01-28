@@ -1,8 +1,9 @@
 {
   "id": "csc-473",
   "title": "Advanced Rendering Techniques",
-  "description": "Illumination models, reflectance, absorption, emittance, Gouraud shading, Phong shading, raytracing polyhedra and other modeling primitives, coherence, acceleration methods, radiosity, form factors, advanced algorithms. 3 lectures, 1 laboratory.",
-  "units": 4,
-  "prerequisites": "CSC/CPE 471."
+  "description": "Illumination models, reflectance, absorption, emittance, Gouraud shading, Phong shading, raytracing polyhedra and other modeling primitives, coherence, acceleration methods, radiosity, form factors, advanced algorithms. 3 lectures, 1 laboratory. Crosslisted as CPE/CSC 473.",
+  "units": "4",
+  "prerequisites": "CSC/CPE 471",
+  "corequisites": null,
+  "crnc": false
 }
-

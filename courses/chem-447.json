@@ -1,0 +1,9 @@
+{
+  "id": "chem-447",
+  "title": "Polymers and Coatings Laboratory I",
+  "description": "Experimental techniques of producing and characterizing coatings. Polymer characterization and analysis. Molecular weight analysis using viscometry, light scattering, and gel permeation chromatography. Thermal analysis using differential scanning calorimetry, thermal mechanical analysis and dynamic mechanical analysis. Polymer rheology. Infrared, Raman and FT-NMR spectroscopy. Atomic force microscopy. 2 laboratories.",
+  "units": "2",
+  "prerequisites": null,
+  "corequisites": "CHEM 444",
+  "crnc": false
+}

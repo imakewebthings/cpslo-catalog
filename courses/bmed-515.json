@@ -1,0 +1,9 @@
+{
+  "id": "bmed-515",
+  "title": "Introduction to Biomedical Imaging",
+  "description": "Fundamental principles and applications of biomedical imaging, modalities in medicine. Topics focus on optical imaging techniques, such as brightfield, fluorescence, confocal, multiphoton, DIC, OCT, SEM, and other advanced microscopy techniques. 2 lectures, 2 laboratories.",
+  "units": "4",
+  "prerequisites": "PHYS 132, MATH 244, and graduate standing",
+  "corequisites": null,
+  "crnc": false
+}

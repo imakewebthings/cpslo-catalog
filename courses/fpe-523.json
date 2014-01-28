@@ -1,0 +1,9 @@
+{
+  "id": "fpe-523",
+  "title": "Water-based Fire Suppression",
+  "description": "Analysis and design of water-based fire suppression systems, including water supply analysis and hydraulic calculations. Overview and design considerations for automatic sprinkler, water spray, water mist and foam suppression systems. Typical contemporary installations and current installation and approval standards. 4 lectures.",
+  "units": "4",
+  "prerequisites": "FPE 501 or consent of instructor",
+  "corequisites": null,
+  "crnc": false
+}

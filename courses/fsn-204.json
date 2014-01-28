@@ -1,0 +1,9 @@
+{
+  "id": "fsn-204",
+  "title": "Food Processing Operations",
+  "description": "Applied food manufacturing and processing technology emphasizing unit operations. Water removal in foods (dehydration, spray drying, vacuum concentration), heat removal (refrigeration, freezing), and osmotic preservation. Students produce processed foods in a pilot plant. Field trip may be required. 3 lectures, 1 laboratory.",
+  "units": "4",
+  "prerequisites": "FSN 125 or FSN 230",
+  "corequisites": null,
+  "crnc": false
+}

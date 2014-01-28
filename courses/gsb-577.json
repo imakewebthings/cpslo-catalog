@@ -1,0 +1,9 @@
+{
+  "id": "gsb-577",
+  "title": "Advanced Quantitative Business Analysis",
+  "description": "The necessary conceptual framework of operations research techniques for solving key problems encountered while managing an enterprise. Concepts of linear programming, simulations, network models, inventory models, PERT/CPM, and forecasting techniques. 3 seminars, 1 laboratory.",
+  "units": "4",
+  "prerequisites": "GSB 512 and OCOB graduate standing or approval from the Associate Dean",
+  "corequisites": null,
+  "crnc": false
+}

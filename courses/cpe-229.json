@@ -1,0 +1,9 @@
+{
+  "id": "cpe-229",
+  "title": "Computer Design and Assembly Language Programming",
+  "description": "Design and implementation of digital computer circuits via CAD tools for programmable logic devices (PLDs). Computer design including datapath components and control unit. Assembly language programming. Instruction set architecture, hardware/software interface, performance evaluation of computer processors. Not open to students with credit in CPE/EE 233. 3 lectures. Crosslisted as CPE/EE 229.",
+  "units": "3",
+  "prerequisites": "CPE/EE 129&169 or CPE/EE 133",
+  "corequisites": null,
+  "crnc": false
+}

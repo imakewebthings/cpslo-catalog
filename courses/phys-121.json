@@ -1,0 +1,9 @@
+{
+  "id": "phys-121",
+  "title": "College Physics I",
+  "description": "Introductory course in mechanics emphasizing motion, force, and energy. Not open to students having a grade of C- or better in PHYS 131 or PHYS 141. 4 lectures. Fulfills GE B3.",
+  "units": "4",
+  "prerequisites": "MATH 118 and high school trigonometry, or MATH 119",
+  "corequisites": null,
+  "crnc": false
+}

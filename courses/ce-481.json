@@ -1,0 +1,9 @@
+{
+  "id": "ce-481",
+  "title": "Analysis and Design of Shallow Foundations",
+  "description": "Evaluation of shear strength for foundation design. Analysis of bearing capacity for generalized conditions. Design of reinforced concrete spread footings. Stress distributions beneath loaded areas. Immediate settlement, consolidation settlement, rate of consolidation, and creep. 4 lectures.",
+  "units": "4",
+  "prerequisites": "CE 381 and CE 382",
+  "corequisites": null,
+  "crnc": false
+}

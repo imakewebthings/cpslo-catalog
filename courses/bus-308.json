@@ -1,0 +1,9 @@
+{
+  "id": "bus-308",
+  "title": "Business Law II",
+  "description": "Legal aspects of management decisions, including problems arising in sales, commercial paper, personal property and bailments, secured transactions, bankruptcy, and securities regulation, with emphasis on the uniform commercial code. Case studies. 4 lectures.",
+  "units": "4",
+  "prerequisites": "BUS 207 or equivalent",
+  "corequisites": null,
+  "crnc": false
+}

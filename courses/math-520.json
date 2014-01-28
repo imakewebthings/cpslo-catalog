@@ -1,0 +1,9 @@
+{
+  "id": "math-520",
+  "title": "Applied Analysis I",
+  "description": "Advanced mathematical methods of analysis in science and engineering, integrated with modeling of physical phenomena. Topics include applications of complex analysis, Fourier analysis, ordinary and partial differential equations. Additional topics to be drawn from perturbation methods, asymptotic analysis, dynamical systems, numerical methods, optimization, and the calculus of variations. 4 lectures.",
+  "units": "4",
+  "prerequisites": "MATH 408, MATH 412 and graduate standing",
+  "corequisites": null,
+  "crnc": false
+}

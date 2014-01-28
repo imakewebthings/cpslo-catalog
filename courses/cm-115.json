@@ -1,0 +1,9 @@
+{
+  "id": "cm-115",
+  "title": "Fundamentals of Construction Management",
+  "description": "Production of drawings and specifications for residential and light commercial construction. Integration of scheduling, estimating, codes, and contracts with a project based approach. Manual drawing techniques and computer aided drafting with building information modeling develop visualization skills for architectural systems. 4 laboratories, 2 activities.",
+  "units": "6",
+  "prerequisites": "ARCE 106 or CM 113 and CM 114; MATH 141, and PHYS 141",
+  "corequisites": null,
+  "crnc": false
+}

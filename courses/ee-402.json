@@ -1,0 +1,9 @@
+{
+  "id": "ee-402",
+  "title": "Electromagnetic Waves",
+  "description": "Maxwell's equations and plane wave propagation in materials. Reflection and transmission of normal and oblique incidence plane waves at planar boundaries between different media. Wave guides. Antennas. 4 lectures.",
+  "units": "4",
+  "prerequisites": "EE 335",
+  "corequisites": null,
+  "crnc": false
+}

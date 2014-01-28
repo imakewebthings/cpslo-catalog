@@ -2,8 +2,8 @@
   "id": "csc-494",
   "title": "Cooperative Education Experience",
   "description": "Full-time work experience in business, industry, government, and other areas of student career interest. Positions are paid and usually require relocation and registration in course for two consecutive quarters. Formal report and evaluation by work supervisor required. Credit/No Credit grading only. No major credit allowed; total credit limited to 18 units.",
-  "units": 6,
-  "prerequisites": "Sophomore standing and consent of instructor.",
-  "crnc": true
+  "units": "6",
+  "prerequisites": "Sophomore standing and consent of instructor",
+  "corequisites": null,
+  "crnc": false
 }
-

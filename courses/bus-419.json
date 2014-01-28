@@ -1,0 +1,9 @@
+{
+  "id": "bus-419",
+  "title": "Strategic Marketing Measurement",
+  "description": "Development of skills to gather, analyze, and report information critical for marketing decision making. Focus on primary data collection and analytical techniques (e.g. experimental design, descriptive statistics, cross-tabulation, ANOVA, and regression). Other methods may include data mining, GIS, and customer relationship management (CRM). 4 lectures.",
+  "units": "4",
+  "prerequisites": "BUS 418, STAT 252; Business majors must have formally declared their concentration to enroll",
+  "corequisites": null,
+  "crnc": false
+}

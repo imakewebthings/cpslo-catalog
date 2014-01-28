@@ -1,0 +1,9 @@
+{
+  "id": "cpe-308",
+  "title": "Software Engineering I",
+  "description": "Principles for engineering requirements analysis and design of large complex software systems. Software process models. Methods of project planning, tracking, documentation, communication, and quality assurance. Analysis of engineering tradeoffs. Group laboratory project. Technical oral and written presentations. 3 lectures, 1 laboratory. Crosslisted as CPE/CSC 308.",
+  "units": "4",
+  "prerequisites": "CSC/CPE 357",
+  "corequisites": null,
+  "crnc": false
+}

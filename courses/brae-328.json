@@ -1,0 +1,9 @@
+{
+  "id": "brae-328",
+  "title": "Measurements and Computer Interfacing",
+  "description": "Transducers and engineering measurements in agricultural engineering. Covering transducer characteristics, signal processors and controllers, instrumentation techniques, and the use of the computer in the measurement and control of typical engineering problems. 3 lectures, 1 laboratory.",
+  "units": "4",
+  "prerequisites": "EE 321, EE 361, a computer programming course",
+  "corequisites": null,
+  "crnc": false
+}

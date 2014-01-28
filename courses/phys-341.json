@@ -1,0 +1,9 @@
+{
+  "id": "phys-341",
+  "title": "Quantum Physics Laboratory II",
+  "description": "Experimental studies of quantum properties of atoms and nuclei. Interactions of radiation, particles and fields. 2 laboratories.",
+  "units": "2",
+  "prerequisites": "PHYS 340",
+  "corequisites": null,
+  "crnc": false
+}

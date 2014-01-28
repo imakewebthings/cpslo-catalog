@@ -1,0 +1,9 @@
+{
+  "id": "chem-216",
+  "title": "Organic Chemistry for Life Sciences I",
+  "description": "Structure, bonding, nomenclature, isomerism, stereochemistry and physical properties of organic compounds. Introduction to spectroscopy. Reactions and mechanisms of alkanes, alkenes, alkylhalides. Applications of organic chemistry to biological systems. Microscale laboratory techniques in organic chemistry. CHEM 216 accepted in lieu of CHEM 316, but not for upper division credit. Not open to Biochemistry or Chemistry majors. Not open to students with credit in CHEM 316. 4 lectures, 1 laboratory.",
+  "units": "5",
+  "prerequisites": "CHEM 125 or CHEM 129",
+  "corequisites": null,
+  "crnc": false
+}

@@ -1,0 +1,9 @@
+{
+  "id": "mate-380",
+  "title": "Thermodynamics and Physical Chemistry",
+  "description": "Thermodynamics concepts related to materials engineering systems and processes: process flowsheets, mass and energy balances, Ellingham diagrams. Physical chemistry concepts related to materials engineering: ideal gases, systems and surroundings, first through third laws of thermodynamics, phase equilibria, chemical reactions. 4 lectures.",
+  "units": "4",
+  "prerequisites": "Junior standing; CHEM 125, PHYS 133, MATH 143, MATE 210 and MATE 215; Materials Engineering students only",
+  "corequisites": null,
+  "crnc": false
+}

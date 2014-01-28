@@ -1,0 +1,9 @@
+{
+  "id": "ce-351",
+  "title": "Structural Analysis",
+  "description": "Analysis for member forces and deflections of determinate and indeterminate structures, including trusses, beams, and frames. General theorems, influence diagrams, and energy methods. 3 lectures, 1 laboratory.",
+  "units": "4",
+  "prerequisites": "CE 251 and either CE 201 or CE 207",
+  "corequisites": null,
+  "crnc": false
+}

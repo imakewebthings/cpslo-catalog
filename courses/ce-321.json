@@ -1,0 +1,9 @@
+{
+  "id": "ce-321",
+  "title": "Fundamentals of Transportation Engineering",
+  "description": "The characteristics and functions of highway, air, rail, transit and other modes of urban and intercity transportation. Fundamentals of transportation design, operations, and planning. Evaluation of costs, benefits, and environmental considerations. 3 lectures.",
+  "units": "3",
+  "prerequisites": "PHYS 141; CE 259 or graduate standing",
+  "corequisites": null,
+  "crnc": false
+}

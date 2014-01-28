@@ -1,0 +1,9 @@
+{
+  "id": "aero-307",
+  "title": "Experimental Aerodynamics",
+  "description": "Wind tunnel testing of basic aerodynamic properties of airfoils, finite wings, aircraft or spacecraft models, and vehicle flight performance. Emphasis on both static and dynamic responses of aircraft. Various measurement techniques, data reduction schemes, and analysis methods. 2 laboratories.",
+  "units": "2",
+  "prerequisites": "AERO 302, AERO 306, ENGL 149",
+  "corequisites": null,
+  "crnc": false
+}

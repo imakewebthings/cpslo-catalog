@@ -1,0 +1,9 @@
+{
+  "id": "stat-325",
+  "title": "Introduction to Probability Models",
+  "description": "Introduction to probability and applied probability models. Topics include basic probability rules, counting rules, conditional probability, discrete and continuous random variables, and expectation. Applied models include Poisson processes, Markov chains, and reliability models. Not open to students with credit in STAT 321 or STAT 425. 4 lectures.",
+  "units": "4",
+  "prerequisites": "MATH 206, and CSC/CPE 101 or CSC 232 or CSC/CPE 235",
+  "corequisites": null,
+  "crnc": false
+}

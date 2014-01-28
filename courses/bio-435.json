@@ -1,0 +1,9 @@
+{
+  "id": "bio-435",
+  "title": "Plant Physiology",
+  "description": "Consideration of the principal physiological and biochemical processes of plants with emphasis on water relations, mineral nutrition, photosynthesis, and the physiology of plant development. 3 lectures, 1 laboratory.",
+  "units": "4",
+  "prerequisites": "BOT 121 or BIO 162",
+  "corequisites": null,
+  "crnc": false
+}

@@ -1,0 +1,9 @@
+{
+  "id": "zoo-428",
+  "title": "Hematology",
+  "description": "Development and function of blood as a tissue. Composition, function, and mechanisms of formation and destruction of blood components in health and disease. Methods for examination of blood. 3 lectures, 1 laboratory.",
+  "units": "4",
+  "prerequisites": "BIO 351 or BIO 302 or BIO 303 or CHEM 373, or graduate standing in Biological Sciences",
+  "corequisites": null,
+  "crnc": false
+}

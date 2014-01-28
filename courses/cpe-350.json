@@ -1,0 +1,9 @@
+{
+  "id": "cpe-350",
+  "title": "Capstone I",
+  "description": "Definition and specification of a system to be constructed in CPE 450; requirements elicitation techniques, research and data gathering methods; project planning, time and budget estimating; project team organization. Ethics and professionalism. 3 lectures, 1 laboratory.",
+  "units": "4",
+  "prerequisites": "CPE 329, may be concurrent",
+  "corequisites": null,
+  "crnc": false
+}

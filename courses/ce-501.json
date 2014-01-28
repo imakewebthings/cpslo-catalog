@@ -1,0 +1,9 @@
+{
+  "id": "ce-501",
+  "title": "Advanced Matrix Analysis of Structures I",
+  "description": "Matrix terminology and operations. Matrix procedures for analysis of two-dimensional frameworks. Development of stiffness, flexibility and mixed methods. Development of algorithms and programs for use in the analysis of structural frameworks. Discussion of modeling issues and limitations. 3 lectures, 1 laboratory.",
+  "units": "4",
+  "prerequisites": "CE 351 or consent of instructor",
+  "corequisites": null,
+  "crnc": false
+}

@@ -1,0 +1,9 @@
+{
+  "id": "cpe-316",
+  "title": "Micro Controllers and Embedded Applications",
+  "description": "Introduction to micro controllers and their applications as embedded devices. Hardware/software tradeoffs, micro controller selection, use of on-chip peripherals, interrupt driven real-time operation, A/D conversion, serial and parallel communications, watch-dog timers, low power operation and assembly language programming techniques. 3 lectures, 1 laboratory. Crosslisted as CPE/CSC 316.",
+  "units": "4",
+  "prerequisites": "CPE/CSC 315 or CPE/EE 329",
+  "corequisites": null,
+  "crnc": false
+}

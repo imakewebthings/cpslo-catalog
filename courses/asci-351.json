@@ -1,0 +1,9 @@
+{
+  "id": "asci-351",
+  "title": "Reproductive Physiology",
+  "description": "Reproductive anatomy of male and female farm animals. General endocrinology and systemic physiology. Endocrine system effects on the various aspects of reproduction, such as: gametogenesis, estrus, gestation, parturition, mothering and seasonality. Introduction to reproductive biotechnology and embryo manipulation. 3 lectures, 1 laboratory.",
+  "units": "4",
+  "prerequisites": "ASCI 229",
+  "corequisites": null,
+  "crnc": false
+}

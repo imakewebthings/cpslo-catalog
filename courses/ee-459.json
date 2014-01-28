@@ -1,0 +1,9 @@
+{
+  "id": "ee-459",
+  "title": "Digital Signal Processing",
+  "description": "Experiments in digital filter design and digital signal processing emphasizing various areas of applications (communications, audio signals, speech processing). Formal experiments and individual project work. 1 laboratory.",
+  "units": "1",
+  "prerequisites": "CSC 101, EE 328 & EE 368",
+  "corequisites": null,
+  "crnc": false
+}

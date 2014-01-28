@@ -1,0 +1,9 @@
+{
+  "id": "fpe-556",
+  "title": "Advanced Heat Transfer III",
+  "description": "Advanced principles of heat transfer. Classical solution techniques to problems in radiation with applications related to the role of radiation heat transfer in the development of fire in buildings. 4 lectures. Crosslisted as FPE/ME 556.",
+  "units": "4",
+  "prerequisites": "ME 343, and ME 347 or FPE 502",
+  "corequisites": null,
+  "crnc": false
+}

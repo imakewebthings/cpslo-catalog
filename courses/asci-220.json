@@ -1,0 +1,9 @@
+{
+  "id": "asci-220",
+  "title": "Introductory Animal Nutrition and Feeding",
+  "description": "Nutrient digestion and absorption; basic functions of major nutrient classes; NRC feed classification and feedstuff characteristics; Van Soest system of fiber analysis and practical applications; feed processing: effects on feeds and nutrient availability; nutrient requirements of animals; diet formulation techniques. 3 lectures, 1 laboratory.",
+  "units": "4",
+  "prerequisites": "ASCI 112",
+  "corequisites": null,
+  "crnc": false
+}

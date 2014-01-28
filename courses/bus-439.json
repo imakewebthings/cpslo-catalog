@@ -1,0 +1,9 @@
+{
+  "id": "bus-439",
+  "title": "Fixed Income Securities Market",
+  "description": "Development of analytical skills for properly valuing fixed income securities. Bond pricing, yields, and volatility; interest rate term structure and yield curve; securities, market structure, and analytical techniques; bond portfolio strategies and an introduction to interest rate derivatives. 4 lectures.",
+  "units": "4",
+  "prerequisites": "BUS 342; Business majors must have formally declared their concentration to enroll",
+  "corequisites": null,
+  "crnc": false
+}

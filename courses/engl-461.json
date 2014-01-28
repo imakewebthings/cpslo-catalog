@@ -1,0 +1,9 @@
+{
+  "id": "engl-461",
+  "title": "Senior Project",
+  "description": "Capstone course which must be taken during the last two quarters of the student's undergraduate career.",
+  "units": "4",
+  "prerequisites": "Senior standing; completion of the GWR; four of the following: ENGL 203, ENGL 204, ENGL 205, ENGL 303, ENGL 304, ENGL 305; and three of the following: ENGL 430, ENGL 431, ENGL 432, ENGL 439, ENGL 449, ENGL 459",
+  "corequisites": null,
+  "crnc": false
+}

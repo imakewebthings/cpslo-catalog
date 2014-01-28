@@ -1,0 +1,9 @@
+{
+  "id": "chem-548",
+  "title": "Polymer Synthesis Laboratory",
+  "description": "Polymer synthesis using solution, suspension, bulk, emulsion techniques. Synthesis of chain growth polymers using free radical, anionic, cationic, and other catalysts. Synthesis of step-growth polymers. Kinetics of polymer reactions. Synthesis of resins used in modern coatings. Special individual project. Not open to students with credit in CHEM 448. 2 laboratories.",
+  "units": "2",
+  "prerequisites": "CHEM 547",
+  "corequisites": "CHEM 545",
+  "crnc": false
+}

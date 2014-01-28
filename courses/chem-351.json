@@ -1,0 +1,9 @@
+{
+  "id": "chem-351",
+  "title": "Physical Chemistry I",
+  "description": "Basic physical chemistry for the study of chemical and biochemical systems. Kinetic-molecular theory, gas laws, principles of thermodynamics. Not open to students with credit in CHEM 305. 3 lectures.",
+  "units": "3",
+  "prerequisites": "CHEM 129, PHYS 122 or PHYS 132, MATH 143",
+  "corequisites": null,
+  "crnc": false
+}

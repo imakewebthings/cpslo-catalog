@@ -1,0 +1,9 @@
+{
+  "id": "brae-447",
+  "title": "Advanced Surveying with GIS Applications",
+  "description": "Collecting field data; processing the data; generating graphical representation of the data; design based on the data and laying out the design in the field; and available record resources for use in GIS systems and their accuracy. 2 lectures, 2 laboratories.",
+  "units": "4",
+  "prerequisites": "BRAE 239",
+  "corequisites": null,
+  "crnc": false
+}

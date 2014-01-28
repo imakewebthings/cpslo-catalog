@@ -1,0 +1,9 @@
+{
+  "id": "phys-403",
+  "title": "Nuclear and Particle Physics",
+  "description": "Advanced nuclear physics topics. The two-nucleon problem at low energy. The deuteron. Subnuclear particles and their structure. Elementary particles. Symmetries and conservation laws. Parity, charge conjugation and time reversal invariance. Hadronic interactions. The weak interaction. 3 lectures.",
+  "units": "3",
+  "prerequisites": "PHYS 212 and PHYS 405",
+  "corequisites": null,
+  "crnc": false
+}

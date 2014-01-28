@@ -1,0 +1,9 @@
+{
+  "id": "ce-201",
+  "title": "Mechanics of Materials",
+  "description": "Stresses, strains, and deformations associated with torsion, axial, shear, moment, and pressure vessel loadings. Combined loadings and principle representations of the states of stress and strain at a point. Basic failure criteria. Introduction to stability including buckling of columns. Equivalent in content to CE 204 and CE 207. 6 lectures.",
+  "units": "6",
+  "prerequisites": "ME 211",
+  "corequisites": null,
+  "crnc": false
+}

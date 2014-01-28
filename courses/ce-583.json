@@ -1,0 +1,9 @@
+{
+  "id": "ce-583",
+  "title": "Geotechnical Earthquake Engineering",
+  "description": "Introduction to engineering seismology and ground motion evaluation. Dynamic behavior of soils. Seismic site response analysis. Soil liquefaction evaluation methods and mitigation techniques. Seismic stability of slopes and retaining walls. Computer-aided analysis. 4 lectures.",
+  "units": "4",
+  "prerequisites": "CE 481 and CE 407 or graduate standing",
+  "corequisites": null,
+  "crnc": false
+}

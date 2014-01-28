@@ -1,0 +1,9 @@
+{
+  "id": "ime-443",
+  "title": "Facilities Planning and Design",
+  "description": "Design concepts and input requirements in planning and design of new or renovation of existing manufacturing systems. Product, process, and flow and activity analysis techniques. Flow lines and buffering techniques. Computer-aided layout design and evaluation. Design of handling systems. Math models of location problems. Multidisciplinary team project. 3 lectures, 1 laboratory.",
+  "units": "4",
+  "prerequisites": "IME 144, IME 223, IME 405 or IME 342, IME 314, or equivalent",
+  "corequisites": null,
+  "crnc": false
+}

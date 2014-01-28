@@ -1,0 +1,9 @@
+{
+  "id": "chem-476",
+  "title": "Gene Expression Laboratory",
+  "description": "Heterologous gene expression of a recombinant protein in a microbial system: gene cloning, construction of expression plasmid, DNA sequence analysis, transformation of microbial host, selection and analysis of transformed host cells, expression and purification of recombinant protein. 2 laboratories. Crosslisted as BIO/CHEM 476.",
+  "units": "2",
+  "prerequisites": "BIO/CHEM 475; CHEM 313 or CHEM 371, or graduate standing in Biological Sciences",
+  "corequisites": null,
+  "crnc": false
+}

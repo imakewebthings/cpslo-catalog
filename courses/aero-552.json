@@ -1,0 +1,9 @@
+{
+  "id": "aero-552",
+  "title": "Advanced Control of Spacecraft and Aircraft",
+  "description": "Model following and digital control of aerospace craft, including dynamic estimation of vehicle states using Kalman filters and adaptive compensation. Team-centered projects involving optimal attitude control in deep space, hovering vehicles, and aeroelastic systems. Survey of non-linear, fuzzy, and neural net controllers for aerospace applications. 2 lectures, 2 laboratories.",
+  "units": "4",
+  "prerequisites": "AERO 420, graduate standing or consent of instructor",
+  "corequisites": null,
+  "crnc": false
+}

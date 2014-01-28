@@ -1,0 +1,9 @@
+{
+  "id": "aero-433",
+  "title": "Experimental Stress Analysis",
+  "description": "Employing the knowledge of stress analysis and aerospace structural analysis in an individual and group design project dealing with aerospace structures. 1 laboratory.",
+  "units": "1",
+  "prerequisites": "AERO 331, AERO 431",
+  "corequisites": null,
+  "crnc": false
+}

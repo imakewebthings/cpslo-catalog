@@ -1,0 +1,9 @@
+{
+  "id": "arce-226",
+  "title": "Structural Systems",
+  "description": "Description, behavior and comparison of structural building systems. Concepts of structural stability, load flow, framing schemes and building configuration related to vertical and lateral loads. For architecture and construction management students. 3 lectures.",
+  "units": "3",
+  "prerequisites": "ARCE 212 or ARCE 222",
+  "corequisites": null,
+  "crnc": false
+}

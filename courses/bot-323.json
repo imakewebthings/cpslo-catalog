@@ -1,0 +1,9 @@
+{
+  "id": "bot-323",
+  "title": "Plant Pathology",
+  "description": "Comprehensive study of the causes and effects of disease in plants. Designed to lead to an understanding of the science and modern control methods. 2 lectures, 2 laboratories.",
+  "units": "4",
+  "prerequisites": "BIO 162 or BOT 121",
+  "corequisites": null,
+  "crnc": false
+}

@@ -1,0 +1,9 @@
+{
+  "id": "cpe-133",
+  "title": "Digital Design",
+  "description": "Number systems, Boolean algebra, Boolean functions, and function minimization. Analysis and design of combinational and sequential logic circuits. Hardware Description Language (HDL) concepts and applications digital design and synthesis in Programmable Logic Devices (PLDs). Not open to students with credit in CPE/EE 129. 3 lectures, 1 laboratory. Crosslisted as CPE/EE 133.",
+  "units": "4",
+  "prerequisites": "An orientation course in student's major (EE 111 & EE 151 for EE students, CPE 100 for CPE students), CPE/CSC 101",
+  "corequisites": null,
+  "crnc": false
+}

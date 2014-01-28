@@ -1,0 +1,9 @@
+{
+  "id": "cpe-431",
+  "title": "Programming Languages II",
+  "description": "Language principles and design issues: bindings, conversion, parameter passing, and dynamic semantics. Language implementation: intermediate code representation, memory management, code optimization, and code generation. Functional programming languages. 3 lectures, 1 laboratory. Crosslisted as CPE/CSC 431.",
+  "units": "4",
+  "prerequisites": "CSC/CPE 430",
+  "corequisites": null,
+  "crnc": false
+}

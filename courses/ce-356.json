@@ -1,0 +1,9 @@
+{
+  "id": "ce-356",
+  "title": "Structural Steel Design",
+  "description": "Design and behavior of the elements of steel structures. Design and analysis of bolted, welded and eccentric connections. Proportioning of members and connections. Introduction to plastic design, end plate connection, composite construction, shear connections and design of composite beams. 3 lectures, 1 laboratory.",
+  "units": "4",
+  "prerequisites": "CE 351",
+  "corequisites": null,
+  "crnc": false
+}

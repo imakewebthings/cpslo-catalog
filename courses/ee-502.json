@@ -1,0 +1,9 @@
+{
+  "id": "ee-502",
+  "title": "Microwave Engineering",
+  "description": "Application of Maxwell's equations and boundary value problems to waveguide structures. Striplines and microstrip lines. S-parameters. Microwave equivalent circuit theorem. Passive microwave devices. Charge and field interactions in oscillators and amplifiers. Transferred electron devices, avalanche transit-time devices, and microwave transistors. Circuits associated with oscillators and reflection type amplifiers. 4 seminars.",
+  "units": "4",
+  "prerequisites": "EE 402 or equivalent",
+  "corequisites": null,
+  "crnc": false
+}

@@ -1,0 +1,9 @@
+{
+  "id": "me-404",
+  "title": "Applied Finite Element Analysis",
+  "description": "Finite element based solutions to engineering problems with an emphasis on elastostatic problems in structural mechanics. The power and pitfalls associated with the finite element method highlighted through practical modeling assignments. Introduces the use of commercial finite element codes. 3 lectures, 1 laboratory. Crosslisted as BMED/CE/ME 404.",
+  "units": "4",
+  "prerequisites": "ME 328 or CE 351 or BMED 410",
+  "corequisites": null,
+  "crnc": false
+}

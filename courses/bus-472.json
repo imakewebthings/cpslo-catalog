@@ -1,0 +1,9 @@
+{
+  "id": "bus-472",
+  "title": "Labor Relations",
+  "description": "Union organizing. Negotiation and administration of collective agreements. Simulation of bargaining, grievance, and arbitration processes. 4 lectures.",
+  "units": "4",
+  "prerequisites": "BUS 384 or equivalent",
+  "corequisites": null,
+  "crnc": false
+}

@@ -1,0 +1,9 @@
+{
+  "id": "ee-421",
+  "title": "Solid-state Microelectronics",
+  "description": "Physical basis of solid-state microelectronics. Passive and active integrated circuit components in Bipolar, MOS, thin and thick film systems. Diffusion, oxidation, ion implantation and other fabrication techniques. Microcircuit layout and design: system development, reliability and economic considerations. Future trends. 3 lectures.",
+  "units": "3",
+  "prerequisites": "EE 307",
+  "corequisites": null,
+  "crnc": false
+}

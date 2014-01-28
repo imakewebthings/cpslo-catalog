@@ -1,0 +1,9 @@
+{
+  "id": "aero-448",
+  "title": "Spacecraft Design II",
+  "description": "Preliminary layout of typical space vehicle using design and calculation techniques developed in previous aerospace engineering courses. Design of selected components and preparation of necessary drawings. 3 laboratories. Open to students enrolled in the multidisciplinary design minor.",
+  "units": "3",
+  "prerequisites": "IME 144, AERO 215, AERO 303, AERO 331, AERO 420, AERO 431, AERO 446, AERO 451, senior standing",
+  "corequisites": null,
+  "crnc": false
+}

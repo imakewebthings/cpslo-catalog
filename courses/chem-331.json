@@ -1,0 +1,9 @@
+{
+  "id": "chem-331",
+  "title": "Quantitative Analysis",
+  "description": "Theory and application of chemical equilibrium to analytical problems. Survey of important analytical methods with stress placed on the theory and application associated with titrimetric and spectrophotometric analysis. 3 lectures, 2 laboratories.",
+  "units": "5",
+  "prerequisites": "CHEM 129",
+  "corequisites": null,
+  "crnc": false
+}

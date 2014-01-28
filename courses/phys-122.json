@@ -1,0 +1,9 @@
+{
+  "id": "phys-122",
+  "title": "College Physics II",
+  "description": "Continuation of PHYS 121. Topics include properties of materials, fluids, waves and vibrations, sound, heat, light and optics. Not open for credit to students having a grade of C- or better in PHYS 132. 3 lectures, 1 laboratory. Fulfills GE B3 & B4.",
+  "units": "4",
+  "prerequisites": "PHYS 118, PHYS 121, PHYS 131, or PHYS 141",
+  "corequisites": null,
+  "crnc": false
+}

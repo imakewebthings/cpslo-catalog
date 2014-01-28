@@ -1,0 +1,9 @@
+{
+  "id": "ee-513",
+  "title": "Control Systems Theory",
+  "description": "State representation of dynamic systems. Mathematical models of physical devices, controllability and observability. Design of closed-loop systems. Optimal control theory. 4 seminars.",
+  "units": "4",
+  "prerequisites": "EE 302 or equivalent, and graduate standing or consent of instructor",
+  "corequisites": null,
+  "crnc": false
+}

@@ -1,0 +1,9 @@
+{
+  "id": "cpe-357",
+  "title": "Systems Programming",
+  "description": "C programming language from a system programming perspective. Standard C language including operators, I/O functions, and data types in the context of system functions. Unix commands, shell scripting, file system, editors. 3 lectures, 1 laboratory. Crosslisted as CPE/CSC 357.",
+  "units": "4",
+  "prerequisites": "CSC/CPE 103 with a grade of C- or better, or consent of instructor, and CSC 225 or CPE/EE 229 or CPE/EE 233",
+  "corequisites": null,
+  "crnc": false
+}

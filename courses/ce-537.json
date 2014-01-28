@@ -1,0 +1,9 @@
+{
+  "id": "ce-537",
+  "title": "Groundwater Contamination",
+  "description": "Sources and types of groundwater contamination, contamination transport mechanisms. Sorption and other chemical reactions. Numerical modeling of contaminant transport. Nonaqueous phase liquids. Groundwater remediation and design. 4 lectures.",
+  "units": "4",
+  "prerequisites": "CE 113",
+  "corequisites": "CE 336 and ENVE 331",
+  "crnc": false
+}

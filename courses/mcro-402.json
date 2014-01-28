@@ -1,0 +1,9 @@
+{
+  "id": "mcro-402",
+  "title": "General Virology",
+  "description": "Infective macromolecules (prions, viroids, and viruses) associated with microbes, plants, and animals. Epidemiology, immune responses, pathogenicity, carcinogenesis, diagnoses, vaccination, and therapy. 3 lectures, 1 laboratory.",
+  "units": "4",
+  "prerequisites": "BIO 351 or CHEM 373, or graduate standing in Biological Sciences",
+  "corequisites": null,
+  "crnc": false
+}

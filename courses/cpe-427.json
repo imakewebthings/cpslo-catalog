@@ -1,0 +1,9 @@
+{
+  "id": "cpe-427",
+  "title": "Digital Computer Subsystems",
+  "description": "Design of components and subsystems in digital computers. Use of modern techniques and devices (CPLDs and FPGAs) in implementation. Consideration given to cost/speed tradeoffs. Implementation of a basic digital computer using pre-designed subsystems. 3 lectures, 1 laboratory. Crosslisted as CPE/EE 427.",
+  "units": "4",
+  "prerequisites": "CPE/EE 329 or CPE/EE 336",
+  "corequisites": null,
+  "crnc": false
+}

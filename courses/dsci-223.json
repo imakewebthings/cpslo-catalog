@@ -1,0 +1,9 @@
+{
+  "id": "dsci-223",
+  "title": "Frozen Dairy Foods",
+  "description": "Technology, equipment, mix calculations and preparation required to process, freeze, package, harden and distribute ice cream and related products. 3 lectures, 1 laboratory.",
+  "units": "4",
+  "prerequisites": "DSCI 231 and DSCI 232, or FSN 125, or FSN 230",
+  "corequisites": null,
+  "crnc": false
+}

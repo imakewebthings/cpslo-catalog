@@ -1,0 +1,9 @@
+{
+  "id": "enve-426",
+  "title": "Air Quality Measurements",
+  "description": "Planning and conducting air quality measurements in the atmosphere, indoors and at the source. Topics include quality control, calibration, and instrument operation for particulate matter, gas and meteorological measurements. 2 lectures, 1 laboratory.",
+  "units": "3",
+  "prerequisites": "ENVE 325, CHEM 212/312, ENVE 264 or ME 341, STAT 312, and ENGL 149",
+  "corequisites": null,
+  "crnc": false
+}

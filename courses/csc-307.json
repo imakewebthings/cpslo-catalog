@@ -1,7 +1,9 @@
 {
   "id": "csc-307",
   "title": "Introduction to Software Engineering",
-  "description": "Requirements, specification, design, implementation, testing and verification of large software systems. Study and use of the software process and software engineering methodologies; working in project teams. 3 lectures, 1 laboratory. Not open to students with credit in CSC/CPE 308.",
-  "units": 4,
-  "prerequisites": "Prerequisite: CSC/CPE 103 with a grade of C- or better, and CSC/CPE 357."
+  "description": "Requirements, specification, design, implementation, testing and verification of large software systems. Study and use of the software process and software engineering methodologies; working in project teams. 3 lectures, 1 laboratory. Not open to students with credit in CSC/CPE 308. Crosslisted as CPE/CSC 307.",
+  "units": "4",
+  "prerequisites": "CSC/CPE 103 with a grade of C- or better, and CSC/CPE 357",
+  "corequisites": null,
+  "crnc": false
 }

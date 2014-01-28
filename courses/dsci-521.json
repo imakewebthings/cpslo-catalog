@@ -1,0 +1,9 @@
+{
+  "id": "dsci-521",
+  "title": "Dairy Processing and Manufacturing II",
+  "description": "Unit operations in process systems for the efficient manufacture of fluid milk products, cream, butter, and concentrated milk. Process variables and their control, system integration. Use of processes to manipulate physical and chemical properties to influence product quality. 3 lectures, 1 laboratory.",
+  "units": "4",
+  "prerequisites": "DSCI 520; admission to Master of Professional Studies program in Dairy Products Technology",
+  "corequisites": null,
+  "crnc": false
+}

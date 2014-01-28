@@ -1,7 +1,9 @@
 {
   "id": "csc-465",
   "title": "Advanced Computer Networks",
-  "description": "Advanced topics in computer networks; greater detail of protocol standards and services provided by the network; focus on current industry and research topics. 3 lectures, 1 laboratory.",
-  "units": 4,
-  "prerequisites": "CSC/CPE 464 and CSC/CPE 453."
+  "description": "Advanced topics in computer networks; greater detail of protocol standards and services provided by the network; focus on current industry and research topics. 3 lectures, 1 laboratory. Crosslisted as CPE/CSC 465.",
+  "units": "4",
+  "prerequisites": "CSC/CPE 464 and CSC/CPE 453",
+  "corequisites": null,
+  "crnc": false
 }

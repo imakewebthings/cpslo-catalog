@@ -1,0 +1,9 @@
+{
+  "id": "soc-355",
+  "title": "Quantitative Research Methods",
+  "description": "The basics of how to do quantitative social research. Includes topics on data collection techniques such as surveys, experiments, and the use of existing data. Also includes topics on univariate, bivariate, and multivariate analysis and the use of SPSS for data analysis. 3 lectures, 1 activity.",
+  "units": "4",
+  "prerequisites": "STAT 217 and Junior standing",
+  "corequisites": null,
+  "crnc": false
+}

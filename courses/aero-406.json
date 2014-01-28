@@ -1,0 +1,9 @@
+{
+  "id": "aero-406",
+  "title": "Applied Computational Fluid Dynamics",
+  "description": "Application of Computational Fluid Dynamics to study wide range of fluid dynamics problems as they relate to the application of aerospace engineering. Topics include grid generation, sources of errors in CFD studies, boundary conditions, 2D and 3D external flows, and other related subjects. 3 lectures, 1 laboratory.",
+  "units": "4",
+  "prerequisites": "AERO 303 and AERO 306",
+  "corequisites": null,
+  "crnc": false
+}

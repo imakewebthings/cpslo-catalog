@@ -1,0 +1,9 @@
+{
+  "id": "aero-517",
+  "title": "Multidisciplinary Design and Optimization",
+  "description": "Numerical optimization applied to the design of complex systems. Multi-criteria decision making, unconstrained and constrained optimization methods, system sensitivity analysis, system decomposition techniques, and multidisciplinary design optimization. 4 lectures.",
+  "units": "4",
+  "prerequisites": "Familiarity with programming in Matlab and graduate standing or consent of instructor",
+  "corequisites": null,
+  "crnc": false
+}

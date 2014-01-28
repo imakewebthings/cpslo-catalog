@@ -1,7 +1,9 @@
 {
   "id": "csc-419",
   "title": "Applied Parallel Computing",
-  "description": "Introduction to applied parallel computing paradigms: software models, resource allocation, performance measurement, and data sharing. Emphasis on massively parallel computation and performance improvement for a real-world application of significant scope. 3 lectures, 1 laboratory.",
-  "units": 4,
-  "prerequisites": "CSC/CPE 357."
+  "description": "Introduction to applied parallel computing paradigms: software models, resource allocation, performance measurement, and data sharing. Emphasis on massively parallel computation and performance improvement for a real-world application of significant scope. 3 lectures, 1 laboratory. Crosslisted as CPE/CSC 419.",
+  "units": "4",
+  "prerequisites": "CSC/CPE 357",
+  "corequisites": null,
+  "crnc": false
 }

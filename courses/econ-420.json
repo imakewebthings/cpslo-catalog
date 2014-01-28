@@ -1,0 +1,9 @@
+{
+  "id": "econ-420",
+  "title": "Advanced Macroeconomics",
+  "description": "Macroeconomics for advanced students. Inflation, unemployment, interest rates, real output, exchange rates, business cycles and macroeconomic policy. Analysis of current data on the macro-economy within the scope of competing views on the macro-economy. 4 lectures.",
+  "units": "4",
+  "prerequisites": "ECON 313, or consent of instructor",
+  "corequisites": null,
+  "crnc": false
+}

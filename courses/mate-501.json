@@ -1,0 +1,9 @@
+{
+  "id": "mate-501",
+  "title": "Advanced Engineering Materials",
+  "description": "An advanced treatment of structure and behavior of matter. Designed for students intending to pursue an advanced degree in Materials Science and Engineering. Survey of materials specialization not presented in undergraduate curriculum. Use of scientific literature to explore fundamental principles of materials science. 4 lectures.",
+  "units": "4",
+  "prerequisites": "Graduate standing or consent of instructor",
+  "corequisites": null,
+  "crnc": false
+}

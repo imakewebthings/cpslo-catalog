@@ -1,0 +1,9 @@
+{
+  "id": "brae-216",
+  "title": "Fundamentals of Electricity",
+  "description": "Application of electricity in BioResource and Agricultural Engineering, including basic electric circuits. Will include wiring materials, code regulations, electrical measurements, R-L-C circuit fundamentals, system planning, motors, basic electronics, and an introduction to computer usage. 3 lectures, 1 laboratory.",
+  "units": "4",
+  "prerequisites": "BRAE 129, MATH 142, PHYS 131",
+  "corequisites": null,
+  "crnc": false
+}

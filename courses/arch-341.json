@@ -1,0 +1,9 @@
+{
+  "id": "arch-341",
+  "title": "Architectural Practice 3",
+  "description": "Continuation of ARCH 242 plus the concepts, methods and processes and building systems that pertain to the detailing and construction of large-scale masonry, steel, concrete and combination structures. 2 lectures, 2 discussions.",
+  "units": "4",
+  "prerequisites": "ARCH 242 and ARCH 253",
+  "corequisites": "ARCH 351",
+  "crnc": false
+}

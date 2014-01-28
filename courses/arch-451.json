@@ -1,0 +1,9 @@
+{
+  "id": "arch-451",
+  "title": "Architectural Design 4",
+  "description": "Problems of increasing architectural complexity involving the comprehensive integration of architectural theory, design processes, and building systems with emphasis placed on multifunction singular buildings. 5 laboratories.",
+  "units": "5",
+  "prerequisites": "ARCE 316, ARCH 353, ARCH 342",
+  "corequisites": null,
+  "crnc": false
+}

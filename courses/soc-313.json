@@ -1,0 +1,9 @@
+{
+  "id": "soc-313",
+  "title": "Urban Sociology",
+  "description": "Description of the context of urban development; analysis of various forces generating urbanization. Investigation of urban models and spational relationships; urban processes; and problems. 4 lectures.",
+  "units": "4",
+  "prerequisites": "SOC 110",
+  "corequisites": null,
+  "crnc": false
+}

@@ -1,7 +1,9 @@
 {
   "id": "csc-103",
   "title": "Fundamentals of Computer Science III",
-  "description": "Introduction to data structures and analysis of algorithms. Abstract data types. Specification and implementation of advanced data structures. Theoretical and empirical analysis and proofs of properties of recursive and iterative algorithms. Software performance evaluation and testing techniques. 3 lectures, 1 laboratory.",
-  "units": 4,
-  "prerequisites": "CPE/CSC 102 with a grade of C- or better or CPE/CSC 108 with a grade of C- or better, CSC 141 with a grade of C- or better, and MATH 141 with a grade of C- or better, or consent of instructor."
+  "description": "Introduction to data structures and analysis of algorithms. Abstract data types. Specification and implementation of advanced data structures. Theoretical and empirical analysis and proofs of properties of recursive and iterative algorithms. Software performance evaluation and testing techniques. 3 lectures, 1 laboratory. Crosslisted as CPE/CSC 103.",
+  "units": "4",
+  "prerequisites": "CPE/CSC 102 with a grade of C- or better or CPE/CSC 108 with a grade of C- or better, CSC 141 with a grade of C- or better, and MATH 141 with a grade of C- or better, or consent of instructor",
+  "corequisites": null,
+  "crnc": false
 }

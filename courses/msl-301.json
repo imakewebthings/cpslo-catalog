@@ -1,0 +1,9 @@
+{
+  "id": "msl-301",
+  "title": "Tactical Leadership I",
+  "description": "Introduction to the life of a professional Army officer. Instruction in the operational art of small-unit leadership, and the roles and responsibilities of an Army 2nd Lieutenant in preparation for attendance at the Leader Development and Assessment Course. 3 lectures.",
+  "units": "3",
+  "prerequisites": "Completion of MSL 101, MSL 102, MSL 103, MSL 201, MSL 202, MSL 203, or completion of MSL 212, and consent of department head",
+  "corequisites": null,
+  "crnc": false
+}

@@ -1,0 +1,9 @@
+{
+  "id": "phys-405",
+  "title": "Quantum Mechanics I",
+  "description": "Wave nature of matter and the basic postulates of quantum mechanics. The wave function, operators, and their interpretation. Schroedinger's equation and its solutions in one and more dimensions. The hydrogen atom and the periodic table. 4 lectures.",
+  "units": "4",
+  "prerequisites": "PHYS 212, PHYS 302, PHYS 322, MATH 241, MATH 242, or MATH 244",
+  "corequisites": null,
+  "crnc": false
+}

@@ -1,0 +1,9 @@
+{
+  "id": "ee-440",
+  "title": "Wireless Communications",
+  "description": "Wireless microwave system design and analysis. RF transmission lines, microwave networks, receiver design, modulation techniques, and mixer characterization and realizations. Noise and distortion, RF oscillators and frequency synthesizers, filter design. Radiating systems and electromagnetic wave propagation, microwave amplifier design. 3 lectures.",
+  "units": "3",
+  "prerequisites": "EE 335, EE 314",
+  "corequisites": null,
+  "crnc": false
+}

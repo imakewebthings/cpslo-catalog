@@ -1,0 +1,9 @@
+{
+  "id": "bus-444",
+  "title": "Financial Engineering and Risk Management",
+  "description": "Advanced course synthesizing concepts from corporate finance, derivative securities, statistics, and computer science. Emphasis on both computer programming in a matrix programming language (Matlab) to solve practical risk management and valuation problems, and analytical training in the area of stochastic calculus, and its application to derivative security pricing. Practical applications of derivatives for controlling risk in an international corporate environment. 4 lectures.",
+  "units": "4",
+  "prerequisites": "BUS 431",
+  "corequisites": null,
+  "crnc": false
+}

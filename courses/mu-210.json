@@ -1,0 +1,9 @@
+{
+  "id": "mu-210",
+  "title": "Musicianship IV",
+  "description": "Continuation of MU 108. Sightsinging and melodic dictation using chromatic tones; rhythmic performance in changing meters; harmonic dictation including seventh chords, secondary dominants, and modulation to closely-related keys; seventh chord inversions; and aural identification of binary and ternary forms. 1 activity.",
+  "units": "1",
+  "prerequisites": "MU 108",
+  "corequisites": "MU 105",
+  "crnc": false
+}

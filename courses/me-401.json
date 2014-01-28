@@ -1,0 +1,9 @@
+{
+  "id": "me-401",
+  "title": "Stress Analysis",
+  "description": "Advanced strength of materials: behavior of disks, plates, and shells. Theory of elasticity. Energy methods. 3 lectures, 1 laboratory.",
+  "units": "4",
+  "prerequisites": "CE 207, MATH 344, ME 328 or consent of instructor",
+  "corequisites": null,
+  "crnc": false
+}

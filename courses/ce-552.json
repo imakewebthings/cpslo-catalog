@@ -1,0 +1,9 @@
+{
+  "id": "ce-552",
+  "title": "Analysis and Seismic Design of Reinforced Concrete",
+  "description": "Emphasis placed on reinforced concrete behavior and seismic design. Topics include moment curvature analysis and plastic hinge modeling, strut and tie, design of structural walls, design of concrete moment frames and seismic detailing. 4 lectures.",
+  "units": "4",
+  "prerequisites": "CE 454",
+  "corequisites": null,
+  "crnc": false
+}

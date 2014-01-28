@@ -1,0 +1,9 @@
+{
+  "id": "ce-454",
+  "title": "Structural Design",
+  "description": "Design of reinforced concrete, steel and timber structures. Loading standards, code design methods, connection design. Comprehensive design projects. 2 lectures, 2 laboratories.",
+  "units": "4",
+  "prerequisites": "CE 351, CE 355, CE 356",
+  "corequisites": null,
+  "crnc": false
+}

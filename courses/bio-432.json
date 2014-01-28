@@ -1,0 +1,9 @@
+{
+  "id": "bio-432",
+  "title": "Vertebrate/Human Anatomy and Physiology I",
+  "description": "Anatomy and physiology of the skeletal, muscular, nervous (central and peripheral) systems, and sense organs of vertebrates, with an emphasis on human systems. Not open to students with credit in ZOO 331. 3 lectures, 2 laboratories.",
+  "units": "5",
+  "prerequisites": "BIO 361 or consent of instructor",
+  "corequisites": null,
+  "crnc": false
+}

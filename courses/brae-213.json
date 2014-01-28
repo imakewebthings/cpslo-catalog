@@ -1,0 +1,9 @@
+{
+  "id": "brae-213",
+  "title": "Bioengineering Fundamentals",
+  "description": "Treatment of the engineering applications of biology. Genetic engineering and the industrial application of microbiology. Systems physiology with engineering applications. Structure and function relationships in biological systems. The impact of life on its environment. 2 lectures. Crosslisted as BRAE/ENGR 213. Fulfills GE B2.",
+  "units": "2",
+  "prerequisites": "MATH 142; for engineering students only",
+  "corequisites": "BIO 213",
+  "crnc": false
+}

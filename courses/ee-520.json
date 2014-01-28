@@ -1,0 +1,9 @@
+{
+  "id": "ee-520",
+  "title": "Solar-Photovoltaic Systems Design",
+  "description": "Solar radiation and insolation variability. Solar cell theory. Photovoltaic module and array design. Interfacing PV generators with various kinds of loads. Power processing circuits and systems. Energy storage options. Stand-alone and grid-connected systems. Economic and policy issues. 4 seminars.",
+  "units": "4",
+  "prerequisites": "Graduate standing or consent of instructor",
+  "corequisites": null,
+  "crnc": false
+}

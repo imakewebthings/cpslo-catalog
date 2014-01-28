@@ -1,0 +1,9 @@
+{
+  "id": "phys-452",
+  "title": "Solid State Physics Laboratory",
+  "description": "Selected experiments on X-ray diffraction, Hall effect, optical absorption, thermo-electric effect, photovoltaic cells, diode characteristics, and superconductivity. 1 laboratory. Fulfills GE B6 with PHYS 412.",
+  "units": "1",
+  "prerequisites": null,
+  "corequisites": null,
+  "crnc": false
+}

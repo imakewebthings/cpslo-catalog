@@ -1,0 +1,9 @@
+{
+  "id": "mu-303",
+  "title": "Music Theory III: Advanced Chromaticism",
+  "description": "Compositional procedures employed by composers of the Classical and Romantic periods. Chromatic third-related harmony, linear chromaticism, and extended tertian chords. Chromatic and enharmonic modulation to distantly-related keys. Sonata and rondo forms. Composition project. 4 lectures.",
+  "units": "4",
+  "prerequisites": "MU 105",
+  "corequisites": null,
+  "crnc": false
+}

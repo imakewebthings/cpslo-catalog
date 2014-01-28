@@ -1,0 +1,9 @@
+{
+  "id": "me-318",
+  "title": "Mechanical Vibrations",
+  "description": "Free and forced vibration response of single and multiple degree of freedom systems. Experimental studies of the dynamic behavior of structures and machines. Instrumentation methods utilized in field and laboratory. 3 lectures, 1 laboratory.",
+  "units": "4",
+  "prerequisites": "ME 326, MATH 344",
+  "corequisites": null,
+  "crnc": false
+}

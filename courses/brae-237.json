@@ -1,0 +1,9 @@
+{
+  "id": "brae-237",
+  "title": "Introduction to Engineering Surveying",
+  "description": "An introduction to basic field note keeping as well as the use of steel tapes, automatic levels, total stations and survey tools. Training in the procedures for differential and profile leveling; angle measurement and traversing. Hands-on experience with the use of GPS for surveying. An understanding in computations to determine direction, elevations, and earthwork volumes. Practice in map reading and building layout. 1 lecture, 1 laboratory.",
+  "units": "2",
+  "prerequisites": "MATH 119 or equivalent",
+  "corequisites": null,
+  "crnc": false
+}

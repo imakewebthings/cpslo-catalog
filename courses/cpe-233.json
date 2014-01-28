@@ -1,0 +1,9 @@
+{
+  "id": "cpe-233",
+  "title": "Computer Design and Assembly Language Programming",
+  "description": "Design and implementation of digital computer circuits via CAD tools for programmable logic devices (PLDs). Basic computer design with its datapath components and control unit. Introduction to assembly language programming of an off-the-shelf RISC-based microcontroller. Not open to students with credit in CPE/EE 229. 3 lectures, 1 laboratory. Crosslisted as CPE/EE 233.",
+  "units": "4",
+  "prerequisites": "CPE/EE 129 and CPE/EE 169, or CPE/EE 133",
+  "corequisites": null,
+  "crnc": false
+}

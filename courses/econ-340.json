@@ -1,0 +1,9 @@
+{
+  "id": "econ-340",
+  "title": "Advanced Econometrics",
+  "description": "Advanced topics in undergraduate econometrics. Single equation estimation topics including: distributed lag models, causality, cointegration and error correction models and nonlinear estimation. Forecasting with a single equation model. Simultaneous equation estimation, including instrumental variables, two stage least squares and seemingly unrelated regression. 3 lectures, 1 activity.",
+  "units": "4",
+  "prerequisites": "ECON 339, and either ECON 221 and ECON 222, or ECON 201, or consent of instructor",
+  "corequisites": null,
+  "crnc": false
+}

@@ -1,0 +1,9 @@
+{
+  "id": "ersc-463",
+  "title": "Undergraduate Seminar",
+  "description": "Review of current research, experiments, and problems related to the student's major field of interest. Preparation and presentation of reports on problems or research activities. 2 seminars.",
+  "units": "2",
+  "prerequisites": "ERSC 461",
+  "corequisites": null,
+  "crnc": false
+}

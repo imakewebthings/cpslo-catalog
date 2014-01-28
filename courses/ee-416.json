@@ -1,0 +1,9 @@
+{
+  "id": "ee-416",
+  "title": "Digital Communication Systems",
+  "description": "Baseband (PCM, PAM, DM) signals and transmission. Bandpass (PSK, FSK, ASK) modulation and demodulation techniques. Digital communication signals in the presence of noise and detection of signals in Gaussian noise. Other topics such as: quantization, multiplexing and multiple access, spread spectrum techniques, coding, synchronization. 3 lectures.",
+  "units": "3",
+  "prerequisites": "EE 314, EE 328",
+  "corequisites": null,
+  "crnc": false
+}

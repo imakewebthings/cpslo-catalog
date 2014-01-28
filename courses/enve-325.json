@@ -1,0 +1,9 @@
+{
+  "id": "enve-325",
+  "title": "Air Quality Engineering",
+  "description": "Causes and effects of air pollution on individual, regional, and global scales including meteorology, pollutant chemistry, global and regional transport, health impacts, regulations, air pollution control technology, and global climate change. Engineering principles to understand, model, and predict air quality. 4 lectures.",
+  "units": "4",
+  "prerequisites": "CHEM 128 and CSC 231",
+  "corequisites": null,
+  "crnc": false
+}

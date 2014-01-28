@@ -1,0 +1,9 @@
+{
+  "id": "ce-407",
+  "title": "Structural Dynamics",
+  "description": "Effect of vibration and transient loads on structural elements. Dynamics load factors, support motion, damping and natural frequencies of multidimensional structural systems. Modal analysis. 3 lectures, 1 laboratory.",
+  "units": "4",
+  "prerequisites": "CE 351, ME 212",
+  "corequisites": null,
+  "crnc": false
+}

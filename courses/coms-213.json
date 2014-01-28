@@ -1,0 +1,9 @@
+{
+  "id": "coms-213",
+  "title": "Organizational Communication",
+  "description": "Introduction to communication within the organization and between the organization and its environment. Effects of networks, superior/subordinate message patterns, team building, climate, message flow patterns and distortion on organizational effectiveness. 4 lectures.",
+  "units": "4",
+  "prerequisites": "COMS 101 or COMS 102",
+  "corequisites": null,
+  "crnc": false
+}

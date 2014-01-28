@@ -1,0 +1,9 @@
+{
+  "id": "bus-392",
+  "title": "Business Application Development",
+  "description": "The fundamental concepts and models of application development needed to understand the key processes related to building functioning business applications and appreciate the complexity of application development. The concepts of computer programming, data structures, problem solving, programming logic, and fundamental design techniques. Up-to-date application development tools and technologies currently used by business enterprises. 4 lectures.",
+  "units": "4",
+  "prerequisites": "BUS 391",
+  "corequisites": null,
+  "crnc": false
+}

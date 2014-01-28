@@ -1,0 +1,9 @@
+{
+  "id": "math-306",
+  "title": "Linear Algebra II",
+  "description": "Inner product spaces, orthogonality, Fourier series and orthogonal bases, linear transformations and similarity, eigenvalues and diagonalization. 4 lectures.",
+  "units": "4",
+  "prerequisites": "MATH 241; and MATH 206 or MATH 244; and a C- or better in MATH 248, or consent of instructor",
+  "corequisites": null,
+  "crnc": false
+}

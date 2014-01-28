@@ -1,0 +1,9 @@
+{
+  "id": "me-423",
+  "title": "Robotics: Fundamentals and Applications",
+  "description": "Introduction to robots and their types. Homogeneous transformations. Kinematic equations and their solutions. Motion trajectories, statics, dynamics, and control of robots. Robot programming. Actuators, sensors and vision systems. 3 lectures, 1 laboratory.",
+  "units": "4",
+  "prerequisites": "ME 326, ME 422",
+  "corequisites": null,
+  "crnc": false
+}

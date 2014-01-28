@@ -1,0 +1,9 @@
+{
+  "id": "cm-413",
+  "title": "Jobsite Construction Management",
+  "description": "Management activities applicable to the construction process involving techniques, applications, and theory needed in a jobsite environment. Addresses the relationships, roles, and perspectives of all stakeholders. Integrated utilization of temporary structures associated with field construction. 3 laboratories, 2 activities.",
+  "units": "5",
+  "prerequisites": "CM 115, CM 214, CM 232, CM 313, CM 314, CM 334, CM 335, ARCE 212, and BUS 207",
+  "corequisites": null,
+  "crnc": false
+}

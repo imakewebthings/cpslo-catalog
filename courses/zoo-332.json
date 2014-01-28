@@ -1,0 +1,9 @@
+{
+  "id": "zoo-332",
+  "title": "Human Anatomy and Physiology II",
+  "description": "Structural and functional organization of the circulatory, respiratory, digestive, excretory, and reproductive systems. Includes discussion of molecular, cellular, and organ system levels of organization. Activities emphasize histology, cadaver anatomy, and physiological experiments. 4 lectures, 1 laboratory. Not open for major credit in Biological Sciences. Not open to students with credit in BIO 433 or ZOO 232.",
+  "units": "5",
+  "prerequisites": "BIO 111, or BIO 161; CHEM 111, CHEM 124, CHEM 127 or PSC 102",
+  "corequisites": null,
+  "crnc": false
+}

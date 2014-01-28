@@ -1,0 +1,9 @@
+{
+  "id": "brae-234",
+  "title": "Introduction to Mechanical Systems in Agriculture",
+  "description": "Introduction to elements used in the mechanical transmission of power and force in agricultural systems. Power transmission using v-belts. roller chain, gear and shaft drives, hydraulic actuators. Linear and nonlinear actuation devices including linkages, cams, and hydraulic/pneumatic cylinders. 3 lectures, 1 laboratory.",
+  "units": "4",
+  "prerequisites": "PHYS 131",
+  "corequisites": null,
+  "crnc": false
+}

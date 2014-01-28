@@ -1,0 +1,9 @@
+{
+  "id": "zoo-341",
+  "title": "Herpetology",
+  "description": "Living and extinct reptiles and amphibians; an adaptive approach to their diversity, biology, and classification. 2 lectures, 2 laboratories.",
+  "units": "4",
+  "prerequisites": "BIO 160 and BIO 162",
+  "corequisites": null,
+  "crnc": false
+}

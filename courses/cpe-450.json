@@ -1,0 +1,9 @@
+{
+  "id": "cpe-450",
+  "title": "Capstone II",
+  "description": "Team-based design, construction and deployment of an embedded system that includes a custom-built computer. Technical management of product development teams. Technical documentation, configuration management, quality assurance, integration and systems testing. Professionalism. 3 lectures, 1 laboratory.",
+  "units": "4",
+  "prerequisites": "CPE 350",
+  "corequisites": null,
+  "crnc": false
+}

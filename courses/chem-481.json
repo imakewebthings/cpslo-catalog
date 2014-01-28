@@ -1,0 +1,9 @@
+{
+  "id": "chem-481",
+  "title": "Inorganic Chemistry",
+  "description": "A systematic study of chemical and physical properties of inorganic compounds based on periodic groupings with emphasis on chemical bonding and structure. Topics will include coordination chemistry and kinetics, organometallic chemistry, advanced acid-base relationships and bonding theories plus other selected topics. 3 lectures.",
+  "units": "3",
+  "prerequisites": "CHEM 352, and CHEM 231/331 or consent of instructor",
+  "corequisites": null,
+  "crnc": false
+}

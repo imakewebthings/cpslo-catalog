@@ -1,0 +1,9 @@
+{
+  "id": "me-302",
+  "title": "Thermodynamics I",
+  "description": "Properties of working fluids and fundamental relations for processes involving the transfer of energy. First and second laws of thermodynamics, irreversibility and availability. 3 lectures.",
+  "units": "3",
+  "prerequisites": "PHYS 132; ME 212 or CHEM 128",
+  "corequisites": null,
+  "crnc": false
+}

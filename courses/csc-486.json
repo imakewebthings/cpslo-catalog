@@ -1,8 +1,9 @@
 {
   "id": "csc-486",
-  "title": "Human-Computer Interation Theory and Design",
-  "description": "Application of the theories of human-computer interaction to the task of user-centered design. Survey of techniques for studying and involving users in different aspects of the design process, and demonstration of where and when applicable. Combining of theoretical understanding with practical experience to design solutions to problems facing interactive systems designers. 3 lectures, 1 laboratory.",
-  "units": 4,
-  "prerequisites": "CSC/CPE 484."
+  "title": "Human-Computer Interaction Theory and Design",
+  "description": "Application of the theories of human-computer interaction to the task of user-centered design. Survey of techniques for studying and involving users in different aspects of the design process, and demonstration of where and when applicable. Combining of theoretical understanding with practical experience to design solutions to problems facing interactive systems designers. 3 lectures, 1 laboratory. Crosslisted as CSC/CPE 486.",
+  "units": "4",
+  "prerequisites": null,
+  "corequisites": "CSC/CPE 484",
+  "crnc": false
 }
-

@@ -1,0 +1,9 @@
+{
+  "id": "mcro-421",
+  "title": "Food Microbiology",
+  "description": "Physiological activities of microorganisms involved in the preparation, preservation, deterioration, and toxicity of foods and related products. Detection and prevention of spoilage microorganisms and foodborne pathogens. 3 lectures, 1 laboratory.",
+  "units": "4",
+  "prerequisites": "MCRO 221 or MCRO 224",
+  "corequisites": null,
+  "crnc": false
+}

@@ -1,0 +1,9 @@
+{
+  "id": "enve-331",
+  "title": "Introduction to Environmental Engineering",
+  "description": "Description and quantification of water and air quality characteristics important for water and wastewater treatment and air pollution control. Fundamentals of kinetics, reactor configurations, toxicity and dose-response relationship. Regulations governing ambient pollutant levels and discharges. Introduction to the modeling of pollutant fate and transport. Overview of solid waste management and global environmental issues. 4 lectures.",
+  "units": "4",
+  "prerequisites": "CHEM 125 or CHEM 128, MATH 242 or MATH 244 (or concurrent)",
+  "corequisites": null,
+  "crnc": false
+}

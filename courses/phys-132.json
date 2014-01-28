@@ -1,0 +1,9 @@
+{
+  "id": "phys-132",
+  "title": "General Physics II",
+  "description": "Oscillations, waves in elastic media, sound waves. Temperature, heat and the first law of thermodynamics. Kinetic theory of matter, second law of thermodynamics. Geometrical and physical optics. 3 lectures, 1 laboratory. Crosslisted as HNRS/PHYS 132. Fulfills GE B3 & B4.",
+  "units": "4",
+  "prerequisites": "PHYS 131 or HNRS 131 or PHYS 141",
+  "corequisites": null,
+  "crnc": false
+}

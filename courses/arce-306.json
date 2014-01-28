@@ -1,0 +1,9 @@
+{
+  "id": "arce-306",
+  "title": "Matrix Analysis of Structures",
+  "description": "Analysis of statically indeterminate structures by direct stiffness method including continuous beams, plane trusses, and frames. Introduction to finite-element methods. 3 lectures.",
+  "units": "3",
+  "prerequisites": "ARCE 302 (C- or better required for ARCE Majors)",
+  "corequisites": null,
+  "crnc": false
+}

@@ -1,0 +1,9 @@
+{
+  "id": "mate-215",
+  "title": "Materials Laboratory I",
+  "description": "Focus on processing-structure-properties relationships of materials, including crystal structures, electronic properties of materials, materials selection, phase diagrams, corrosion, mechanical properties of polymers, cold work and annealing of alloys and heat treatments of steels. 1 laboratory.",
+  "units": "1",
+  "prerequisites": null,
+  "corequisites": null,
+  "crnc": false
+}

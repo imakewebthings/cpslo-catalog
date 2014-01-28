@@ -1,0 +1,9 @@
+{
+  "id": "math-300",
+  "title": "Technology in Mathematics Education",
+  "description": "Examination of existing hardware and software designed for educational uses. Discussion of mathematical topics appropriate for computer enhancement. Special methods and techniques for educational uses of computers. Emphasis on activity learning and applications. Computer as a classroom management device. 4 lectures.",
+  "units": "4",
+  "prerequisites": "MATH 248",
+  "corequisites": null,
+  "crnc": false
+}

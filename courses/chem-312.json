@@ -1,0 +1,9 @@
+{
+  "id": "chem-312",
+  "title": "Survey of Organic Chemistry",
+  "description": "Structure, isomerism, nomenclature, fundamental reactions of major functional groups and applications of organic chemicals in agriculture, medicine, industry, and the home. Not open to students with credit in CHEM 212 or CHEM 216/316. 4 lectures, 1 laboratory.",
+  "units": "5",
+  "prerequisites": "CHEM 111, CHEM 124 or CHEM 127",
+  "corequisites": null,
+  "crnc": false
+}

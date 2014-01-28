@@ -1,0 +1,9 @@
+{
+  "id": "chem-352",
+  "title": "Physical Chemistry II",
+  "description": "Application of physical chemistry to chemical and biochemical systems. Electrochemistry, kinetics, viscosity, surface and transport properties. 3 lectures.",
+  "units": "3",
+  "prerequisites": "CHEM 351",
+  "corequisites": null,
+  "crnc": false
+}

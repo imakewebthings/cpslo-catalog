@@ -1,0 +1,9 @@
+{
+  "id": "asci-406",
+  "title": "Applied Animal Embryology and Assisted Reproduction",
+  "description": "Comparative physiology and molecular understanding of oocyte development, fertilization, culturing, cryopreservation and micromanipulation of gametes and embryos. 3 lectures, 2 activities.",
+  "units": "5",
+  "prerequisites": "ASCI 229 and ASCI 351",
+  "corequisites": null,
+  "crnc": false
+}

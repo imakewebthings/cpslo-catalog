@@ -1,0 +1,9 @@
+{
+  "id": "chem-373",
+  "title": "Molecular Biology",
+  "description": "Structure of nucleic acids and chromosomes. Mechanisms and regulation of nucleic acid and protein synthesis. Molecular biology techniques. 3 lectures.",
+  "units": "3",
+  "prerequisites": "CHEM 371",
+  "corequisites": null,
+  "crnc": false
+}

@@ -1,0 +1,9 @@
+{
+  "id": "aero-567",
+  "title": "Launch Vehicle and Missile Design",
+  "description": "Basic launch vehicle/missile types. Launch vehicle subsystems and their interactions. Vehicle requirements development and flow down. Payload accommodations. System and subsystems trade studies and preliminary design. 4 lectures.",
+  "units": "4",
+  "prerequisites": "AERO 401, AERO 450, AERO 446, graduate standing or consent of instructor",
+  "corequisites": null,
+  "crnc": false
+}

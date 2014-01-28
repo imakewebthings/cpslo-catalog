@@ -1,0 +1,9 @@
+{
+  "id": "bio-162",
+  "title": "Introduction to Organismal Form and Function",
+  "description": "Fundamentals of the structure and physiology of tissues and organs of plants and animals: energy acquisition and food distribution, gas exchange and fluid transport, and sensing and responding to the environment. 3 lectures, 1 laboratory.",
+  "units": "4",
+  "prerequisites": "BIO 161",
+  "corequisites": null,
+  "crnc": false
+}

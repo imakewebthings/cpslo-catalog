@@ -1,0 +1,9 @@
+{
+  "id": "bmed-512",
+  "title": "Biomedical Engineering Horizons",
+  "description": "Examination of the advances in nanotechnology, micro-electro-mechanical systems, materials and clinical technology. Relationship between modern medical achievements and advances in engineering and science, the biomedical engineering industry, and the use of technology in a human context. 4 lectures.",
+  "units": "4",
+  "prerequisites": "Graduate standing, MATH 143, CHEM 125, PHYS 131 or PHYS 141, BIO 161 or consent of instructor",
+  "corequisites": null,
+  "crnc": false
+}

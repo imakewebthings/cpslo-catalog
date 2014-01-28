@@ -1,0 +1,9 @@
+{
+  "id": "asci-503",
+  "title": "Advanced Molecular Techniques in Animal Science",
+  "description": "Advanced molecular laboratory techniques in animal science. Topics include analyses of cellular and metabolic regulation, gene expression, gene activation and regulation, gene construct design, transgenesis, knockout animal models. 2 lectures, 2 laboratories.",
+  "units": "4",
+  "prerequisites": "ASCI 403 or equivalent course",
+  "corequisites": null,
+  "crnc": false
+}

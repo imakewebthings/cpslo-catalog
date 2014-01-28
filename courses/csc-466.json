@@ -1,8 +1,9 @@
 {
   "id": "csc-466",
   "title": "Knowledge Discovery from Data",
-  "description": "Overview of modern knowledge discovery from data (KDD) methods and technologies. Topics in On-line Analytic Transaction Processing (OLAP), data mining (association rules mining, classification, clustering), information retrieval. Emphasis on use of KDD techniques in modern software applications. 3 lectures, 1 laboratory.",
-  "units": 4,
-  "prerequisites": "CSC/CPE 365 and one of STAT 312, STAT 321 or STAT 350."
+  "description": "Overview of modern knowledge discovery from data (KDD) methods and technologies. Topics in On-line Analytic Transaction Processing (OLAP), data mining (association rules mining, classification, clustering), information retrieval. Emphasis on use of KDD techniques in modern software applications. 3 lectures, 1 laboratory. Crosslisted as CPE/CSC 466.",
+  "units": "4",
+  "prerequisites": "CSC/CPE 365 and one of STAT 312, STAT 321 or STAT 350",
+  "corequisites": null,
+  "crnc": false
 }
-

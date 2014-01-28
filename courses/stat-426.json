@@ -1,0 +1,9 @@
+{
+  "id": "stat-426",
+  "title": "Estimation and Sampling Theory",
+  "description": "Continuation of STAT 425. Properties of statistics obtained from samples. Sample mean properties, convergence in probability, law of large numbers, and central limit theorem. Selected probability distributions. Theory of estimation. Sampling distribution of estimators. 4 lectures.",
+  "units": "4",
+  "prerequisites": "STAT 425",
+  "corequisites": null,
+  "crnc": false
+}

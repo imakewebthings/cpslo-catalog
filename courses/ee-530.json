@@ -1,0 +1,9 @@
+{
+  "id": "ee-530",
+  "title": "Fourier Optics",
+  "description": "Approach to the design and analysis of optical systems using linear communication theory, including Fourier analysis. Analysis of two-dimensional signals and systems, foundations of scalar diffraction theory. Fresnel and Fraunhofer diffraction. Wave-optics analysis of coherent optical systems, frequency analysis of optical imaging systems, holo-graphy.4 seminars.",
+  "units": "4",
+  "prerequisites": "EE 402 or equivalent, EE 314 or equivalent, and graduate standing or consent of instructor",
+  "corequisites": null,
+  "crnc": false
+}

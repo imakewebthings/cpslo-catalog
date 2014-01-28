@@ -1,0 +1,9 @@
+{
+  "id": "dsci-333",
+  "title": "Dairy Animal Health, Safety and Applied Technology",
+  "description": "Application of principles of herd health, biosecurity, lactation physiology, cattle management and reproductive physiology to successful dairy operations. Assessment of animal comfort and general healthy and well-being. Practical techniques in safe animal handling. 3 lectures, 1 activity.",
+  "units": "4",
+  "prerequisites": "DSCI 121 or DSCI 230; DSCI 321; DSCI 330",
+  "corequisites": null,
+  "crnc": false
+}

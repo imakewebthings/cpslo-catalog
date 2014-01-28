@@ -2,7 +2,8 @@
   "id": "csc-492",
   "title": "Senior Project Lab II",
   "description": "Selection and completion of a project by individuals or team which is typical of problems which graduates must solve in their fields of employment. Project may include students from other disciplines. Project results are presented in a formal report. 3 laboratories.",
-  "units": 3,
-  "prerequisites": "CSC 491 and consent of instructor."
+  "units": "3",
+  "prerequisites": "CSC 491 and consent of instructor",
+  "corequisites": null,
+  "crnc": false
 }
-

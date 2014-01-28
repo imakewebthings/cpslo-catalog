@@ -1,0 +1,9 @@
+{
+  "id": "geol-241",
+  "title": "Physical Geology Laboratory",
+  "description": "Properties and identification of minerals and rocks. Topographic maps and landform analysis. Geologic maps and interpretation of rock structure. 1 laboratory.",
+  "units": "1",
+  "prerequisites": null,
+  "corequisites": "GEOL 102 or GEOL 201",
+  "crnc": false
+}

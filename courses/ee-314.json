@@ -1,0 +1,9 @@
+{
+  "id": "ee-314",
+  "title": "Introduction to Communication Systems",
+  "description": "Analog modulation, including: double-sideband modulation, amplitude modulation, single-sideband modulation, frequency modulation, phase modulation. Performances of such systems in the presence of white Gaussian noise. Implementations of transmitters and receivers. 3 lectures.",
+  "units": "3",
+  "prerequisites": "STAT 350",
+  "corequisites": null,
+  "crnc": false
+}

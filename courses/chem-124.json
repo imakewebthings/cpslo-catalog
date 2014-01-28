@@ -1,0 +1,9 @@
+{
+  "id": "chem-124",
+  "title": "General Chemistry for the Engineering Disciplines I",
+  "description": "General chemistry concepts presented using a materials science approach with engineering applications. Thermochemistry, bonding, solid-state structures, fundamentals of organic chemistry including polymers. Classwork is presented in an integrated lecture-laboratory format, with an emphasis on computer-based data acquisition, collaborative methods and multimedia-based presentation. Not open to students with credit in CHEM 127. Credit will be granted in only one of the following courses: CHEM 110, CHEM 111, CHEM 124. Equivalent to 3 lectures, 1 laboratory. Fulfills GE B3 & B4.",
+  "units": "4",
+  "prerequisites": "Passing score on ELM, or an ELM exemption, or credit in MATH 104",
+  "corequisites": null,
+  "crnc": false
+}

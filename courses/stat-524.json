@@ -1,0 +1,9 @@
+{
+  "id": "stat-524",
+  "title": "Applied Regression Analysis",
+  "description": "Simple linear regression and associated special topics, multiple linear regression, indicator variables, influence diagnostics, assumption analysis, selection of best subset, nonstandard regression models, logistic regression, nonlinear regression models. Not open to students with credit in STAT 324. 4 lectures.",
+  "units": "4",
+  "prerequisites": "STAT 513 or STAT 542",
+  "corequisites": null,
+  "crnc": false
+}

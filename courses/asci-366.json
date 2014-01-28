@@ -1,0 +1,9 @@
+{
+  "id": "asci-366",
+  "title": "Veterinary Pharmacology",
+  "description": "Investigation of pharmacological principles applied to animal systems. Overview of drugs acting on the nervous, endocrine, circulatory, urinary systems, and reproductive systems, specialty areas of pharmacology, and pharmacogenomics of livestock and companion animals. 3 lectures, 1 activity.",
+  "units": "4",
+  "prerequisites": "CHEM 111 or CHEM 127, and ASCI 229",
+  "corequisites": null,
+  "crnc": false
+}

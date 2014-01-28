@@ -1,0 +1,9 @@
+{
+  "id": "phys-322",
+  "title": "Vibrations and Waves",
+  "description": "Introduction to vibrations and waves and their applications. Harmonic oscillator, waves, complex notation, superposition, interference, coherence, Fourier analysis. Applications may include sound, optics, quantum mechanics, and electromagnetic radiation. 3 lectures.",
+  "units": "3",
+  "prerequisites": "PHYS 132; and MATH 242 or MATH 244",
+  "corequisites": null,
+  "crnc": false
+}

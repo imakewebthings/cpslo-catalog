@@ -1,0 +1,9 @@
+{
+  "id": "ee-458",
+  "title": "Photonic Engineering Laboratory",
+  "description": "Experimental investigation of the techniques used in processing optical signals. Formal experiments on electro-optic modulation, acousto-optic modulation. Construction of an RF spectrum analyzer. Analog processing of optical signals, and charge-coupled array devices. 1 laboratory.",
+  "units": "1",
+  "prerequisites": null,
+  "corequisites": null,
+  "crnc": false
+}

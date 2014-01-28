@@ -1,0 +1,9 @@
+{
+  "id": "fpe-501",
+  "title": "Fundamental Thermal Sciences",
+  "description": "Introduction to the thermal sciences, including thermodynamics, fluid dynamics and heat transfer, as they relate to fire protection engineering. Includes 1st and 2nd laws of thermodynamics, conservation relations, hydrostatics, internal and external flows, and heat transfer by conduction, convection and radiation. 4 lectures.",
+  "units": "4",
+  "prerequisites": "Graduate standing or consent of instructor",
+  "corequisites": null,
+  "crnc": false
+}

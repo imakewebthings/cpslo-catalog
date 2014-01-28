@@ -1,0 +1,9 @@
+{
+  "id": "ime-430",
+  "title": "Quality Engineering",
+  "description": "Quality history and philosophies. Cost of quality. Quality control tools. Statistical control charts for variables and attributes. Process capability. Measurement system analysis. Acceptance sampling. Reliability and life testing methods. Quality improvement tools: Quality Function Deployment, Failure Modes and Effects Analysis, Six Sigma, quality standards and systems. 4 lectures.",
+  "units": "4",
+  "prerequisites": "IME 326, IME 327, IME 503, STAT 302 or STAT 312",
+  "corequisites": null,
+  "crnc": false
+}

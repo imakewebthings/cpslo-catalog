@@ -1,0 +1,9 @@
+{
+  "id": "phys-412",
+  "title": "Solid State Physics",
+  "description": "Properties of solids including the structural, mechanical, thermal, and electronic properties, energy band theory and the properties of metals and semiconductors. 3 lectures. Fulfills GE B6 with PHYS 452.",
+  "units": "3",
+  "prerequisites": "PHYS 211 or MATE 340, MATH 244",
+  "corequisites": null,
+  "crnc": false
+}

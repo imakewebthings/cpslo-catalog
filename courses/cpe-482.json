@@ -1,0 +1,9 @@
+{
+  "id": "cpe-482",
+  "title": "Advanced Topics in Systems for Computer Engineering",
+  "description": "Selected aspects of design, implementation, verification and analysis of advanced computer systems. Topics may include computer systems, embedded systems, robotics, mechatronics, haptics, human computer interfaces, digital control, digital signal processing, wireless computing, real time operating systems, and networks. Class Schedule will list topic selected. Total credit limited to 8 units, repeatable in same term. 3 lectures, 1 laboratory.",
+  "units": "4",
+  "prerequisites": null,
+  "corequisites": "CPE 350, or consent of instructor",
+  "crnc": false
+}

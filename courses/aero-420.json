@@ -1,0 +1,9 @@
+{
+  "id": "aero-420",
+  "title": "Aircraft Dynamics and Control",
+  "description": "Newton's 6-degree-of-freedom equations of motion applied to aerospace vehicles. Stability and control derivatives, reference frames, steady-state and perturbed dynamic analyses applied to aerospace vehicles. Stability and control design principles applied to transfer functions, state-space, and modal system dynamics. 4 lectures.",
+  "units": "4",
+  "prerequisites": "AERO 300; AERO 306; and AERO 320",
+  "corequisites": null,
+  "crnc": false
+}

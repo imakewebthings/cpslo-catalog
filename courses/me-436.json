@@ -1,0 +1,9 @@
+{
+  "id": "me-436",
+  "title": "Petroleum Production Engineering",
+  "description": "Design and operation of surface and subsurface equipment required in oil production. Processes and systems involved are rod pumping, gas lifting, acidizing, hydraulic fracturing, fluid gathering and storage, separation of oil, gas, water and sediment from produced fluid. Includes equipment used in enhanced oil recovery processes. 4 lectures.",
+  "units": "4",
+  "prerequisites": "ME 329, ME 347",
+  "corequisites": null,
+  "crnc": false
+}

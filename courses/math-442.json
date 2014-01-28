@@ -1,0 +1,9 @@
+{
+  "id": "math-442",
+  "title": "Euclidean Geometry",
+  "description": "Foundations of Euclidean geometry, finite geometries, congruence, similarities, polygonal regions, circles and spheres. Constructions, mensuration, the parallel postulate. Appropriate for prospective and in-service mathematics teachers. 4 lectures.",
+  "units": "4",
+  "prerequisites": "MATH 248 with a grade of C- or better or consent of instructor",
+  "corequisites": null,
+  "crnc": false
+}

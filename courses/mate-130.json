@@ -1,0 +1,9 @@
+{
+  "id": "mate-130",
+  "title": "Introduction to Materials Engineering Design III",
+  "description": "Third design laboratory in a sequence. Includes working in teams on project that benefits humanity. Issues of engineering ethnics, technology and society, the environment and sustainability. 1 laboratory.",
+  "units": "1",
+  "prerequisites": "MATE 120",
+  "corequisites": null,
+  "crnc": false
+}

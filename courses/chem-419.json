@@ -1,0 +1,9 @@
+{
+  "id": "chem-419",
+  "title": "Bioorganic Chemistry",
+  "description": "Methods of investigating reaction mechanisms, mechanisms of chemical catalysis, organic models of enzymes, chemistry of vitamins that serve as enzyme cofactors, chemistry of the phosphate group, synthesis of biomolecules. 3 lectures.",
+  "units": "3",
+  "prerequisites": "CHEM 218 or CHEM 318; CHEM 313 or CHEM 371",
+  "corequisites": null,
+  "crnc": false
+}

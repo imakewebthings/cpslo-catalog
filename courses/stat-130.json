@@ -1,0 +1,9 @@
+{
+  "id": "stat-130",
+  "title": "Statistical Reasoning",
+  "description": "Survey of statistical ideas and philosophy. Emphasis on concepts rather than in-depth coverage of statistical methods. Topics include sampling, experimentation, data exploration, chance phenomena, and methods of statistical inference. Not open to students with credit in any statistics course. 4 lectures. Fulfills GE B1.",
+  "units": "4",
+  "prerequisites": "Passing score on the ELM examination, or an ELM exemption, or credit in MATH 104",
+  "corequisites": null,
+  "crnc": false
+}

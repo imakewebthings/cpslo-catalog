@@ -1,0 +1,9 @@
+{
+  "id": "arch-352",
+  "title": "Architectural Design 3",
+  "description": "Continuation of ARCH 351 plus the development and exploration of architectural theories, building systems, and design concepts and processes involved in creating sustainable architecture with an emphasis on implications of ecological, environmental and site issues as building form generator. 1 lecture, 4 laboratories.",
+  "units": "5",
+  "prerequisites": "ARCH 351, ARCH 341",
+  "corequisites": "ARCH 307",
+  "crnc": false
+}

@@ -1,0 +1,9 @@
+{
+  "id": "stat-251",
+  "title": "Statistical Inference for Management I",
+  "description": "Descriptive statistics. Probability and counting rules. Random variables and probability distributions. Sampling distributions and point estimation. Confidence intervals and tests of hypotheses for a single mean and proportion. 4 lectures. Fulfills GE B1.",
+  "units": "4",
+  "prerequisites": "Completion of the ELM requirement and a passing score on appropriate Mathematics Placement Examination for MATH 221 eligibility, or MATH 118 or equivalent",
+  "corequisites": null,
+  "crnc": false
+}

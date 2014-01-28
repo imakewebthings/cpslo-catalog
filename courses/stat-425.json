@@ -1,0 +1,9 @@
+{
+  "id": "stat-425",
+  "title": "Probability Theory",
+  "description": "Basic probability theory, combinatorial methods, independence, conditional and marginal probability, probability models for random phenomena, random variables, probability distributions, distributions of functions of random variables, mathematical expectation, covariance and correlation, conditional expectation. 4 lectures.",
+  "units": "4",
+  "prerequisites": "MATH 241 and MATH 248",
+  "corequisites": null,
+  "crnc": false
+}

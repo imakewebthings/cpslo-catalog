@@ -1,0 +1,9 @@
+{
+  "id": "fsn-368",
+  "title": "Food Analysis",
+  "description": "Principles of chemical and biochemical methods and techniques for measuring food protein, carbohydrates, lipids, water, vitamins, minerals and other components of foods using approved methods. 3 lectures, 1 laboratory.",
+  "units": "4",
+  "prerequisites": "FSN 364",
+  "corequisites": null,
+  "crnc": false
+}

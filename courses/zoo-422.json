@@ -1,0 +1,9 @@
+{
+  "id": "zoo-422",
+  "title": "Functional Histology",
+  "description": "Functional microscopic anatomy of principal tissues and organs of vertebrates, including humans. Structural studies to determine mechanisms underlying physiological processes and their clinical applications in medicine. 2 lectures, 2 laboratories.",
+  "units": "4",
+  "prerequisites": "BIO 162",
+  "corequisites": null,
+  "crnc": false
+}

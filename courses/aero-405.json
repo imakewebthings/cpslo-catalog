@@ -1,0 +1,9 @@
+{
+  "id": "aero-405",
+  "title": "Supersonic and Hypersonic Aerodynamics",
+  "description": "Review of gas dynamics, shock-wave and boundary-layer interaction, aerodynamic design. 2-dimensional supersonic flows around thin airfoil; finite wing in supersonic flow. Local surface inclination methods for high-speed flight, boundary-layer and aerodynamic heating, viscous interactions. 4 lectures.",
+  "units": "4",
+  "prerequisites": "AERO 303; and AERO 306 or AERO 353",
+  "corequisites": null,
+  "crnc": false
+}

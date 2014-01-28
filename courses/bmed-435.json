@@ -1,0 +1,9 @@
+{
+  "id": "bmed-435",
+  "title": "Microfabrication Laboratory",
+  "description": "Basic processes involved in microfabrication; cleanroom protocol, oxidation, diffusion, photolithographic and etching processes, sputtering and evaporation, process development through experimentation, device testing. Each student will be part of a 4-6 person team that will fabricate a micro electronic device or photovoltaic device. 2 laboratories. Crosslisted as BMED/MATE 435.",
+  "units": "2",
+  "prerequisites": null,
+  "corequisites": "BMED 434/MATE 430",
+  "crnc": false
+}

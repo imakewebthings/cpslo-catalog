@@ -1,0 +1,9 @@
+{
+  "id": "aero-407",
+  "title": "Reentry Aerodynamics",
+  "description": "Near planet environments. Transition from orbital to aero-dynamic motion. Aerodynamic heating and effects on design. 4 lectures.",
+  "units": "4",
+  "prerequisites": "AERO 405",
+  "corequisites": null,
+  "crnc": false
+}

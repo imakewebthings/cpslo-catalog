@@ -1,0 +1,9 @@
+{
+  "id": "arch-204",
+  "title": "Architectural Theory",
+  "description": "Theories of architectural design. 3 lectures.",
+  "units": "3",
+  "prerequisites": "EDES 101",
+  "corequisites": null,
+  "crnc": false
+}

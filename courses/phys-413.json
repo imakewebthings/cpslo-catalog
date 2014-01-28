@@ -1,0 +1,9 @@
+{
+  "id": "phys-413",
+  "title": "Advanced Topics in Solid State Physics",
+  "description": "Semiconducting devices, including junction and field-effect transistors, LED's, and diode lasers. Magnetic properties of solids. Superconductivity, including discussion of high-temperature superconductors. Other topics of current interest in solid state physics. 3 lectures.",
+  "units": "3",
+  "prerequisites": "PHYS 412",
+  "corequisites": null,
+  "crnc": false
+}

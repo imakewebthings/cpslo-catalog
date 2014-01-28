@@ -1,0 +1,9 @@
+{
+  "id": "bmed-425",
+  "title": "Biomedical Engineering Transport",
+  "description": "Mass transfer in solids, liquids, and gases with application to biological systems. Free and facilitated diffusion. Convective mass transfer. Diffusion-reaction phenomena. Active transport. Biological mass transfer coefficients. Nonequilibrium thermodynamic analysis of transport phenomena. The osmotic effect. Diffusion and exchange in biological systems. 3 lectures, 1 laboratory.",
+  "units": "4",
+  "prerequisites": "ME 302, ME 341 or consent of instructor",
+  "corequisites": null,
+  "crnc": false
+}

@@ -1,0 +1,9 @@
+{
+  "id": "ee-445",
+  "title": "High Frequency Amplifier Design Laboratory",
+  "description": "Experimental investigation employing advanced techniques. Design of high-frequency electronic amplifiers utilizing S-parameters of bipolar transistors, network analyzers, and computer simulation techniques. 1 laboratory.",
+  "units": "1",
+  "prerequisites": "EE 308 & EE 348, EE 335",
+  "corequisites": "EE 405",
+  "crnc": false
+}

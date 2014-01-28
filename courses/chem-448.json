@@ -1,0 +1,9 @@
+{
+  "id": "chem-448",
+  "title": "Polymers and Coatings Laboratory II",
+  "description": "Polymer synthesis using solution, suspension, bulk, emulsion techniques. Synthesis of chain growth polymers using free radical, anionic, cationic, and other catalysts. Synthesis of step-growth polymers. Kinetics of polymer reactions. Synthesis of resins used in modern coatings. 2 laboratories.",
+  "units": "2",
+  "prerequisites": "CHEM 447",
+  "corequisites": "CHEM 445",
+  "crnc": false
+}

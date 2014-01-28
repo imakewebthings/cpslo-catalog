@@ -1,0 +1,9 @@
+{
+  "id": "brae-425",
+  "title": "Computer Controls for Agriculture",
+  "description": "Computer activated controls as applied to agricultural machinery, agricultural structures, processing and irrigation industries. Encompassing control logic to evaluate stability behavior of systems of computer interfacing, data input and control output. 2 lectures, 1 laboratory.",
+  "units": "3",
+  "prerequisites": "BRAE 324",
+  "corequisites": null,
+  "crnc": false
+}

@@ -1,0 +1,9 @@
+{
+  "id": "ime-312",
+  "title": "Data Management and System Design",
+  "description": "Design and management of industrial databases and reporting systems. Relationships of financial accounting databases and production systems. Efficient data entry and reports, queries, macro function, and Internet based database applications. 3 lectures, 1 laboratory.",
+  "units": "4",
+  "prerequisites": "CSC 232",
+  "corequisites": null,
+  "crnc": false
+}

@@ -1,0 +1,9 @@
+{
+  "id": "hnrs-131",
+  "title": "General Physics I",
+  "description": "Fundamental principles of mechanics. Vectors, particle kinematics. Equilibrium of a rigid body. Work and energy, linear momentum, rotational kinematics and dynamics. Primarily for engineering students, and for students majoring in the physical sciences. Not open to students with credit in PHYS 141. 3 lectures, 1 laboratory. Crosslisted as HNRS/PHYS 131. Fulfills GE B3 & B4.",
+  "units": "4",
+  "prerequisites": "MATH 141 with grade C- or better and MATH 142 or MATH 182 (or concurrent enrollment); for ME and AERO students only",
+  "corequisites": null,
+  "crnc": false
+}

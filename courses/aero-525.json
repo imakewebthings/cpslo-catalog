@@ -1,0 +1,9 @@
+{
+  "id": "aero-525",
+  "title": "Computational Fluid Dynamics",
+  "description": "Classification of partial differential equations. Numerical methods applicable to the solution of elliptic, parabolic, and hyperbolic partial differential equations. Consideration of accuracy and stability of numerical methods. Application to the fundamental equations of fluid dynamics, grid generation, turbulence modeling. 4 lectures.",
+  "units": "4",
+  "prerequisites": "AERO 3O3, graduate standing or consent of instructor",
+  "corequisites": null,
+  "crnc": false
+}

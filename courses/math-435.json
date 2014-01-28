@@ -1,0 +1,9 @@
+{
+  "id": "math-435",
+  "title": "Discrete Mathematics with Applications I",
+  "description": "Methods of discrete mathematics with applications. Generating functions and Lagrange inversion, partition theory, permutation statistics and q-analogues, posets and M?bius inversion. Additional topics including lattice paths and basic hypergeometric series. 4 lectures. Not open to students with credit in MATH 530.",
+  "units": "4",
+  "prerequisites": "MATH 248 with a grade of C- or better and MATH 336, or consent of instructor",
+  "corequisites": null,
+  "crnc": false
+}

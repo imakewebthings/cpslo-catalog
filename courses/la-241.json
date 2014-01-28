@@ -1,0 +1,9 @@
+{
+  "id": "la-241",
+  "title": "Site Engineering Techniques and Applications",
+  "description": "Introduction and application of the techniques, methods, principles and criteria for site engineering and landform design. Includes an introduction to soil science, survey methods, and experiences in the principles, procedures and application of site grading and drainage for landscape architecture. 4 laboratories.",
+  "units": "4",
+  "prerequisites": "LA 202, LA 243",
+  "corequisites": "MATH 118",
+  "crnc": false
+}

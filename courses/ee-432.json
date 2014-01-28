@@ -1,0 +1,9 @@
+{
+  "id": "ee-432",
+  "title": "Digital Control Systems",
+  "description": "Theory and applications of digital computers in linear control systems. Discrete time methods are used in analysis and design studies. Digital control systems are synthesized. 3 lectures. Crosslisted as CPE/EE 432.",
+  "units": "3",
+  "prerequisites": "EE 302 & EE 342",
+  "corequisites": null,
+  "crnc": false
+}

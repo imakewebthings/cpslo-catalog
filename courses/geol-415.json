@@ -1,0 +1,9 @@
+{
+  "id": "geol-415",
+  "title": "Structural Geology",
+  "description": "Recognition, interpretation, and depiction of geological structures. Understanding rock deformation through the study of faults and folds. 3 lectures, 1 laboratory. Required weekend field trips.",
+  "units": "4",
+  "prerequisites": "GEOL 241 and ERSC 223",
+  "corequisites": null,
+  "crnc": false
+}

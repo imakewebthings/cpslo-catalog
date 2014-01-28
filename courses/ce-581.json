@@ -1,0 +1,9 @@
+{
+  "id": "ce-581",
+  "title": "Advanced Geotechnical Engineering",
+  "description": "Advanced topics in saturated flow, unsaturated flow, and consolidation. Stress-strain-deformation response of soils under both drained and undrained loading. Conventional and advanced laboratory strength testing. 3 lectures, 1 laboratory.",
+  "units": "4",
+  "prerequisites": "CE 481 or graduate standing",
+  "corequisites": null,
+  "crnc": false
+}

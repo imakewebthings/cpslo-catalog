@@ -1,0 +1,9 @@
+{
+  "id": "ce-529",
+  "title": "Modeling and Simulation in Transportation",
+  "description": "Theory and operation of transportation systems, the systems approach, simulation techniques. Use of available software packages. Simulation model development, calibration and use. 2 lectures, 2 laboratories.",
+  "units": "4",
+  "prerequisites": "CE 321, graduate standing, or consent of instructor",
+  "corequisites": null,
+  "crnc": false
+}

@@ -1,0 +1,9 @@
+{
+  "id": "chem-458",
+  "title": "Instrumental Organic Qualitative Analysis",
+  "description": "Separation, purification, and identification of organic molecules using chemical and instrumental methods, including nuclear magnetic resonance, infrared and ultraviolet spectroscopy and mass spectroscopy, and techniques in high resolution FT-NMR. 1 lecture, 2 laboratories.",
+  "units": "3",
+  "prerequisites": "CHEM 319",
+  "corequisites": null,
+  "crnc": false
+}

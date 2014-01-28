@@ -1,0 +1,9 @@
+{
+  "id": "bus-433",
+  "title": "International Finance",
+  "description": "Financial management of international business. International capital and money markets, international financial institutions, special problems in evaluating direct foreign investment, and financial techniques used in international business operations. 4 lectures.",
+  "units": "4",
+  "prerequisites": "BUS 431 or BUS 439",
+  "corequisites": null,
+  "crnc": false
+}

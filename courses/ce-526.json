@@ -1,0 +1,9 @@
+{
+  "id": "ce-526",
+  "title": "Transportation Safety",
+  "description": "Introduction to nature and extent of transportation safety problem worldwide and in the United States. Several sub-areas of transportation safety: road safety, human factors, vehicle safety; crash data collection and management; safety planning; hot spot identification; methodologies for conducting transportation accident studies; statistical applications to accident data; predictive model building; 'before-after' studies; countermeasure design. 3 lectures, 1 laboratory.",
+  "units": "4",
+  "prerequisites": "CE 321, CE 322, STAT 312",
+  "corequisites": null,
+  "crnc": false
+}

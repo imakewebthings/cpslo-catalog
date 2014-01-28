@@ -1,7 +1,9 @@
 {
   "id": "csc-344",
   "title": "Music Programming",
-  "description": "Music-producing programs. Software synthesizers: oscillators, coupled oscillators, wavetable synthesis. Sound processing units/filters: LTI, FIR, IIR, nonlinear. Physics of sound, mathematical foundations of sound synthesis and filtering, existing sound formats (both sampled and MIDI). 3 lectures, 1 laboratory.",
-  "units": 4,
-  "prerequisites": "CSC/CPE 357"
+  "description": "Music-producing programs. Software synthesizers: oscillators, coupled oscillators, wavetable synthesis. Sound processing units/filters: LTI, FIR, IIR, nonlinear. Physics of sound, mathematical foundations of sound synthesis and filtering, existing sound formats (both sampled and MIDI). 3 lectures, 1 laboratory. Crosslisted as CPE/CSC 344.",
+  "units": "4",
+  "prerequisites": "CSC/CPE 357",
+  "corequisites": null,
+  "crnc": false
 }

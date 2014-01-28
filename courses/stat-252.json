@@ -1,0 +1,9 @@
+{
+  "id": "stat-252",
+  "title": "Statistical Inference for Management II",
+  "description": "Confidence intervals and tests of hypotheses for two means and two proportions. Introduction to ANOVA, regression, correlation, multiple regression, time series, and forecasting. Statistical quality control. Enumerative data analysis. Substantial use of statistical software. 5 lectures. Fulfills GE B1.",
+  "units": "5",
+  "prerequisites": "STAT 251 with a minimum grade of C- or consent of instructor",
+  "corequisites": null,
+  "crnc": false
+}

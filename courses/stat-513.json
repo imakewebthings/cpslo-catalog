@@ -1,0 +1,9 @@
+{
+  "id": "stat-513",
+  "title": "Applied Experimental Design and Regression Models",
+  "description": "Applications of statistics for graduate students not majoring in mathematics. Analysis of variance including the one-way classification, randomized blocks, Latin squares, and factorial designs. Introduction to multiple regression and to analysis of covariance. Substantial use of statistical software. 4 lectures. Not open to students with credit in STAT 313.",
+  "units": "4",
+  "prerequisites": "Graduate standing and one of the following: STAT 512, STAT 542, STAT 217, STAT 218, STAT 252, STAT 312, or equivalent",
+  "corequisites": null,
+  "crnc": false
+}

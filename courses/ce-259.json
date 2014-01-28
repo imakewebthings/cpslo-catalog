@@ -1,0 +1,9 @@
+{
+  "id": "ce-259",
+  "title": "Civil Engineering Materials",
+  "description": "Experimental determination of mechanical properties of concrete, asphalt, and soils as required for engineering applications. Experimental verification of assumptions made in mechanics of materials procedures. Use of strain measuring devices. Preparation of technical reports. 2 laboratories.",
+  "units": "2",
+  "prerequisites": "CE 204",
+  "corequisites": null,
+  "crnc": false
+}

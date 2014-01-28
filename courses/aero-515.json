@@ -1,0 +1,9 @@
+{
+  "id": "aero-515",
+  "title": "Continuum Mechanics",
+  "description": "Vectors and tensors stress analysis. Analysis of deformation. Velocity fields and compatibility conditions. Constitutive equations. Isotropy. Mechanical properties of real fluids and solids. Field equations and boundary conditions in fluid mechanics problems and applications in elasticity. Active remodeling of structures. 4 seminars.",
+  "units": "4",
+  "prerequisites": "Graduate standing or consent of instructor",
+  "corequisites": null,
+  "crnc": false
+}

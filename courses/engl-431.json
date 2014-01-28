@@ -1,0 +1,9 @@
+{
+  "id": "engl-431",
+  "title": "Shakespeare",
+  "description": "Representative comedies, tragedies, and histories. 4 seminars.",
+  "units": "4",
+  "prerequisites": "Junior standing and two of the following: ENGL 203, ENGL 204, ENGL 205, ENGL 303, ENGL 304, ENGL 305",
+  "corequisites": null,
+  "crnc": false
+}

@@ -1,0 +1,9 @@
+{
+  "id": "asci-320",
+  "title": "Physiological Chemistry of Animals",
+  "description": "Interactions between the biological and chemical reactions in livestock. Physiology explained at the organ, tissue and cellular level as it relates to the whole animal system. 4 lectures.",
+  "units": "4",
+  "prerequisites": "CHEM 312 or CHEM 316, ASCI 229",
+  "corequisites": null,
+  "crnc": false
+}

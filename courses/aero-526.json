@@ -1,0 +1,9 @@
+{
+  "id": "aero-526",
+  "title": "Spacecraft Thermal/Fluid Control",
+  "description": "Satellite thermal/fluid control hardware. Governing equations for flow and heat transfer. Surface tension and liquid/vapor interface. Heat transfer by free convection, forced convection and radiation in low-gravity environment. Heat pipes. Capillary-pumped loops. Cryogenic systems. Fluid management in space. 4 lectures.",
+  "units": "4",
+  "prerequisites": "AERO 301, AERO 302, and AERO 303, or graduate standing",
+  "corequisites": null,
+  "crnc": false
+}

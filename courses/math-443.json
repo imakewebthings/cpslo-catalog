@@ -1,0 +1,9 @@
+{
+  "id": "math-443",
+  "title": "Modern Geometries",
+  "description": "Non-Euclidean and projective geometries. Properties of parallels, biangles, Saccheri and Lambert quadrilaterals, angle-sum and area. Limiting curves: hyperbolic trigonometry, duality, perspectivity, quadrangles, fundamental theorems of projective geometry, conics. 4 lectures.",
+  "units": "4",
+  "prerequisites": "MATH 442",
+  "corequisites": null,
+  "crnc": false
+}

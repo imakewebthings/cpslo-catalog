@@ -1,0 +1,9 @@
+{
+  "id": "aero-551",
+  "title": "Global Positioning Satellite Navigation Systems",
+  "description": "Principles of Global Positioning Satellite navigation systems. Kalman filter design and application to integrated navigation and guidance systems. Statistical evaluation and test methods in aerospace. Interactive computer simulations. 3 lectures, 1 laboratory.",
+  "units": "4",
+  "prerequisites": "AERO 420, graduate standing or consent of instructor",
+  "corequisites": null,
+  "crnc": false
+}
