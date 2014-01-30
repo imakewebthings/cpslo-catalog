@@ -1,6 +1,6 @@
 {
   "name": "cpslo-catalog",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Cal Poly San Luis Obispo Catalog",
   "main": "index.js",
   "scripts": {
@@ -20,8 +20,10 @@
     "mocha": "~1.17.1",
     "chai": "~1.8.1",
     "lodash": "~2.4.1",
-    "require-directory": "~1.2.0",
     "request": "~2.33.0",
     "cheerio": "~0.13.1"
+  },
+  "dependencies": {
+    "require-directory": "~1.2.0"
   }
 }

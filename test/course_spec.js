@@ -1,9 +1,9 @@
 var expect = require('chai').expect;
 var _ = require('lodash');
-var requireDirectory = require('require-directory');
 
 describe('Courses', function() {
-  var courseMap = requireDirectory(module, 'courses');
+  // var courseMap = requireDirectory(module, 'courses');
+  var courseMap = require('..').courses;
 
   _.each(courseMap, function(course, filename) {
     describe(filename + ': ', function() {
