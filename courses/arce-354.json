@@ -4,6 +4,10 @@
   "description": "An intensive survey of numerical analysis techniques used for solving engineering problems. Topics include integration, ordinary differential equations, and the eigenproblem. 1 laboratory.",
   "units": "1",
   "prerequisites": "MATH 244 and ARCE 353 (C- or better required for ARCE Majors)",
-  "corequisites": null,
-  "crnc": false
+  "corequisites": "ARCE 412",
+  "recommended": null,
+  "ges": [],
+  "crnc": false,
+  "gwr": false,
+  "uscp": false
 }

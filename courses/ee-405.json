@@ -4,6 +4,10 @@
   "description": "Design of modern electronic amplifiers and amplifier systems with advanced techniques. UHF and microwave small signal amplifier design utilizing microstrip transmission lines, S parameters of GaAs FET, and bipolar transistors. Low noise, broadband, and power amplifier designs. Oscillator designs. 3 lectures.",
   "units": "3",
   "prerequisites": "EE 308 & EE 348, EE 335",
-  "corequisites": null,
-  "crnc": false
+  "corequisites": "EE 445",
+  "recommended": null,
+  "ges": [],
+  "crnc": false,
+  "gwr": false,
+  "uscp": false
 }

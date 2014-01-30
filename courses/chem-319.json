@@ -5,5 +5,9 @@
   "units": "2",
   "prerequisites": "Concurrent or prior enrollment in CHEM 218/318",
   "corequisites": null,
-  "crnc": false
+  "recommended": null,
+  "ges": [],
+  "crnc": false,
+  "gwr": false,
+  "uscp": false
 }

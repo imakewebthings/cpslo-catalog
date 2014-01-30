@@ -5,5 +5,9 @@
   "units": "4",
   "prerequisites": "IT 326 or BUS 342 or BUS 346 and BUS 212 or BUS 214",
   "corequisites": null,
-  "crnc": false
+  "recommended": null,
+  "ges": [],
+  "crnc": false,
+  "gwr": false,
+  "uscp": false
 }

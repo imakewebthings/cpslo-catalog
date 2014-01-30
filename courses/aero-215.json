@@ -5,5 +5,9 @@
   "units": "2",
   "prerequisites": "AERO 121, MATH 143, and IME 144",
   "corequisites": null,
-  "crnc": false
+  "recommended": "CSC 111",
+  "ges": [],
+  "crnc": false,
+  "gwr": false,
+  "uscp": false
 }

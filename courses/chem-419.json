@@ -5,5 +5,9 @@
   "units": "3",
   "prerequisites": "CHEM 218 or CHEM 318; CHEM 313 or CHEM 371",
   "corequisites": null,
-  "crnc": false
+  "recommended": null,
+  "ges": [],
+  "crnc": false,
+  "gwr": false,
+  "uscp": false
 }

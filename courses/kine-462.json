@@ -5,5 +5,9 @@
   "units": "1-2",
   "prerequisites": "KINE 319, completion of GE Area A, and consent of instructor",
   "corequisites": null,
-  "crnc": false
+  "recommended": null,
+  "ges": [],
+  "crnc": false,
+  "gwr": false,
+  "uscp": false
 }

@@ -4,6 +4,10 @@
   "description": "Design of processes for engineering materials. Topics include kinetics in materials: solid-state diffusion (steady-state and non-steady-state), nucleation and growth kinetics, solid state phase transformations. 3 lectures, 1 laboratory.",
   "units": "4",
   "prerequisites": "MATE 310 and MATE 380",
-  "corequisites": null,
-  "crnc": false
+  "corequisites": "MATE 330",
+  "recommended": null,
+  "ges": [],
+  "crnc": false,
+  "gwr": false,
+  "uscp": false
 }

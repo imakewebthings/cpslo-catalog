@@ -4,6 +4,10 @@
   "description": "An introduction to the issues, concepts, processes and skills pertaining to two- and three-dimensional design and the freehand, constructed and digital representation and visual communication of ideas, objects and environments. Purchase of a laptop computer, software and peripherals is highly recommended to participate in this course. 4 laboratories.",
   "units": "4",
   "prerequisites": null,
-  "corequisites": null,
-  "crnc": false
+  "corequisites": "EDES 101",
+  "recommended": null,
+  "ges": [],
+  "crnc": false,
+  "gwr": false,
+  "uscp": false
 }

@@ -5,5 +5,9 @@
   "units": "3",
   "prerequisites": "BIO 302 or BIO 303 or BIO 351",
   "corequisites": null,
-  "crnc": false
+  "recommended": null,
+  "ges": [],
+  "crnc": false,
+  "gwr": false,
+  "uscp": false
 }

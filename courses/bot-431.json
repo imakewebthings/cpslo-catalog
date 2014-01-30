@@ -5,5 +5,9 @@
   "units": "4",
   "prerequisites": "BOT 323",
   "corequisites": null,
-  "crnc": false
+  "recommended": null,
+  "ges": [],
+  "crnc": false,
+  "gwr": false,
+  "uscp": false
 }

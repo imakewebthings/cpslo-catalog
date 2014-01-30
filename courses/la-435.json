@@ -4,6 +4,10 @@
   "description": "Integrated Learning Course (ILC) to assist integration and application of professional practice principles and techniques in planning and design studio and internship courses. Focus on achieving a high level of professional quality, ethical concern, and legal responsibility in project work. Total credit limited to 12 units. 4 activities.",
   "units": "4",
   "prerequisites": null,
-  "corequisites": null,
-  "crnc": false
+  "corequisites": "Design Focus Studio of student's option",
+  "recommended": null,
+  "ges": [],
+  "crnc": false,
+  "gwr": false,
+  "uscp": false
 }

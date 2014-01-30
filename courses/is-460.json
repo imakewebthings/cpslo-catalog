@@ -5,5 +5,9 @@
   "units": "4",
   "prerequisites": "Senior standing, IS 301, IS 302, IS 450 with a minimum grade of C-",
   "corequisites": null,
-  "crnc": false
+  "recommended": null,
+  "ges": [],
+  "crnc": false,
+  "gwr": false,
+  "uscp": false
 }

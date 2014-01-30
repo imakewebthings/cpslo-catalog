@@ -4,6 +4,10 @@
   "description": "Use of electrical and electronic test equipment. Experimental verification of circuit analysis concepts including Kirchhoff's Laws, Thevenin's Theorem, maximum power transfer and superposition. 1 laboratory.",
   "units": "1",
   "prerequisites": "EE 112; EE 151 for EE students",
-  "corequisites": null,
-  "crnc": false
+  "corequisites": "EE 211",
+  "recommended": null,
+  "ges": [],
+  "crnc": false,
+  "gwr": false,
+  "uscp": false
 }

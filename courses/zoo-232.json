@@ -5,5 +5,9 @@
   "units": "5",
   "prerequisites": null,
   "corequisites": null,
-  "crnc": false
+  "recommended": null,
+  "ges": [],
+  "crnc": false,
+  "gwr": false,
+  "uscp": false
 }

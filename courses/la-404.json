@@ -4,6 +4,10 @@
   "description": "Assessment, exploration and interpretation of cultural values, issues and landscapes to design and planning projects. Emphasis on observation and inquiry of diverse cultural settings, differences in cultural values and personal ethics in the design process. Total credit limited to 12 units. 4 laboratories.",
   "units": "4",
   "prerequisites": "LA 204, LA 211, LA 212 or consent of instructor",
-  "corequisites": null,
-  "crnc": false
+  "corequisites": "Integrated Learning Course (ILC) of student's option",
+  "recommended": null,
+  "ges": [],
+  "crnc": false,
+  "gwr": false,
+  "uscp": false
 }

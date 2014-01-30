@@ -5,5 +5,9 @@
   "units": "2",
   "prerequisites": "Admission into the Professional Level II Special Education Credential Program and completion of all Level II coursework and related activities",
   "corequisites": null,
-  "crnc": false
+  "recommended": null,
+  "ges": [],
+  "crnc": true,
+  "gwr": false,
+  "uscp": false
 }

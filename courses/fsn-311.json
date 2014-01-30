@@ -5,5 +5,9 @@
   "units": "4",
   "prerequisites": "STAT 218; FSN 125 or FSN 230",
   "corequisites": null,
-  "crnc": false
+  "recommended": null,
+  "ges": [],
+  "crnc": false,
+  "gwr": false,
+  "uscp": false
 }

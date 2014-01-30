@@ -5,5 +5,9 @@
   "units": "2",
   "prerequisites": "MU 104",
   "corequisites": "MU 103",
-  "crnc": false
+  "recommended": null,
+  "ges": [],
+  "crnc": false,
+  "gwr": false,
+  "uscp": false
 }

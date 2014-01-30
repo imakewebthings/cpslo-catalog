@@ -5,5 +5,9 @@
   "units": "4",
   "prerequisites": "Junior standing; BIO 161 or BIO 303",
   "corequisites": null,
-  "crnc": false
+  "recommended": "BIO 302 or BIO 303 or BIO 351 or CHEM 373",
+  "ges": [],
+  "crnc": false,
+  "gwr": false,
+  "uscp": false
 }

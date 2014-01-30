@@ -5,5 +5,9 @@
   "units": "4",
   "prerequisites": "Acceptance into Level II Special Education Credential Program and EDUC 441",
   "corequisites": null,
-  "crnc": false
+  "recommended": null,
+  "ges": [],
+  "crnc": false,
+  "gwr": false,
+  "uscp": false
 }

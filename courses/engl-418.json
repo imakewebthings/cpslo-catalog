@@ -5,5 +5,9 @@
   "units": "2-4",
   "prerequisites": "Senior standing and at least two of the following: ENGL 148 or ENGL 149, ENGL 210, ENGL 310, ENGL 317, ENGL 408, ENGL 411, ENGL 412",
   "corequisites": null,
-  "crnc": false
+  "recommended": null,
+  "ges": [],
+  "crnc": true,
+  "gwr": false,
+  "uscp": false
 }

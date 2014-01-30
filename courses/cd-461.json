@@ -5,5 +5,9 @@
   "units": "2",
   "prerequisites": "Completion of GWR, CD 329, and consent of instructor; Psychology and Child Development majors only",
   "corequisites": null,
-  "crnc": false
+  "recommended": null,
+  "ges": [],
+  "crnc": false,
+  "gwr": true,
+  "uscp": false
 }

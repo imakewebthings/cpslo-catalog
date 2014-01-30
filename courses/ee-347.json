@@ -4,6 +4,10 @@
   "description": "Computer simulation and experimental investigation of the characteristics, applications and interfacing of different logic families. 1 laboratory.",
   "units": "1",
   "prerequisites": "EE/CPE 129 & EE/CPE 169 or EE/CPE 133, EE 306 & EE 346",
-  "corequisites": null,
-  "crnc": false
+  "corequisites": "EE 307, EE/CPE 229 or EE/CPE 233 (may be taken previously)",
+  "recommended": null,
+  "ges": [],
+  "crnc": false,
+  "gwr": false,
+  "uscp": false
 }

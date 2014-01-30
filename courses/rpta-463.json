@@ -5,5 +5,9 @@
   "units": "1",
   "prerequisites": "RPTA majors only and senior standing",
   "corequisites": null,
-  "crnc": false
+  "recommended": "enrollment two quarters prior to RPTA 465",
+  "ges": [],
+  "crnc": true,
+  "gwr": false,
+  "uscp": false
 }

@@ -5,5 +5,9 @@
   "units": "2",
   "prerequisites": "CE 113, CE 204 and MATH 244",
   "corequisites": null,
-  "crnc": false
+  "recommended": null,
+  "ges": [],
+  "crnc": false,
+  "gwr": false,
+  "uscp": false
 }

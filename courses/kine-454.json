@@ -5,5 +5,9 @@
   "units": "3",
   "prerequisites": "KINE 303 and CHEM 312 and CHEM 313",
   "corequisites": null,
-  "crnc": false
+  "recommended": "KINE 304",
+  "ges": [],
+  "crnc": false,
+  "gwr": false,
+  "uscp": false
 }

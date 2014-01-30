@@ -5,5 +5,11 @@
   "units": "4",
   "prerequisites": "Enrollment in London Study; completion of GE Area A; completion of two courses in GE Area D or consent of instructor",
   "corequisites": "Enrollment in HUM 319",
-  "crnc": false
+  "recommended": "Junior standing",
+  "ges": [
+    "D5"
+  ],
+  "crnc": false,
+  "gwr": false,
+  "uscp": false
 }

@@ -5,5 +5,9 @@
   "units": "3",
   "prerequisites": "HCS 120, SS 121, CHEM 110 or CHEM 111",
   "corequisites": null,
-  "crnc": false
+  "recommended": null,
+  "ges": [],
+  "crnc": false,
+  "gwr": false,
+  "uscp": false
 }

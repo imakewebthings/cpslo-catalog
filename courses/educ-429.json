@@ -1,9 +1,13 @@
 {
   "id": "educ-429",
-  "title": "Middle Grades (4-8) Literacy and Language Arts Instruction in Schools with Diverse Populations",
-  "description": "Integration of theory and practice for planning, instruction and assessment in a balanced, comprehensive, research-based middle grades literacy and language arts program to enable children of all abilities and background to read, write, speak, listen and think effectively. 3 seminars.",
+  "title": "Learning to Teach K-8 Literacy in Schools with Diverse Populations",
+  "description": "Integration of theory and practice for planning, instruction and assessment in a balanced, comprehensive, research-based K-8 literacy and language arts program to enable children of all abilities and background to read, write, speak, listen and think effectively. 3 seminars.",
   "units": "3",
-  "prerequisites": "Admission to the Multiple Subject Teacher Preparation Program, EDUC 427, and EDUC 428",
-  "corequisites": null,
-  "crnc": false
+  "prerequisites": "Admission to the Multiple Subject Teacher Preparation Program; EDUC 310 or EDUC 427; and EDUC 428",
+  "corequisites": "EDUC 431, EDUC 435, EDUC 436, and EDUC 438",
+  "recommended": null,
+  "ges": [],
+  "crnc": false,
+  "gwr": false,
+  "uscp": false
 }

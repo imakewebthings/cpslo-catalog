@@ -5,5 +5,9 @@
   "units": "4",
   "prerequisites": "BRAE 232, CE 204",
   "corequisites": null,
-  "crnc": false
+  "recommended": null,
+  "ges": [],
+  "crnc": false,
+  "gwr": false,
+  "uscp": false
 }

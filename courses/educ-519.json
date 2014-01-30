@@ -5,5 +5,9 @@
   "units": "1",
   "prerequisites": "Enrollment in the Educational Leadership and Administration Program (ELAP)",
   "corequisites": null,
-  "crnc": false
+  "recommended": null,
+  "ges": [],
+  "crnc": true,
+  "gwr": false,
+  "uscp": false
 }

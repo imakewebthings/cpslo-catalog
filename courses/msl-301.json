@@ -5,5 +5,9 @@
   "units": "3",
   "prerequisites": "Completion of MSL 101, MSL 102, MSL 103, MSL 201, MSL 202, MSL 203, or completion of MSL 212, and consent of department head",
   "corequisites": null,
-  "crnc": false
+  "recommended": null,
+  "ges": [],
+  "crnc": false,
+  "gwr": false,
+  "uscp": false
 }

@@ -5,5 +5,9 @@
   "units": "1-12",
   "prerequisites": "WVIT 202, WVIT/FRSC 231 or WVIT 311; junior standing; and consent of internship instructor",
   "corequisites": null,
-  "crnc": false
+  "recommended": null,
+  "ges": [],
+  "crnc": true,
+  "gwr": false,
+  "uscp": false
 }

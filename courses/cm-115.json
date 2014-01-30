@@ -5,5 +5,9 @@
   "units": "6",
   "prerequisites": "ARCE 106 or CM 113 and CM 114; MATH 141, and PHYS 141",
   "corequisites": null,
-  "crnc": false
+  "recommended": null,
+  "ges": [],
+  "crnc": false,
+  "gwr": false,
+  "uscp": false
 }

@@ -5,5 +5,9 @@
   "units": "4",
   "prerequisites": "Junior standing and two of the following: ENGL 203, ENGL 204, ENGL 205, ENGL 303, ENGL 304, ENGL 305",
   "corequisites": null,
-  "crnc": false
+  "recommended": "ENGL 203",
+  "ges": [],
+  "crnc": false,
+  "gwr": false,
+  "uscp": false
 }

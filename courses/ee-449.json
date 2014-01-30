@@ -4,6 +4,10 @@
   "description": "Design of electronic systems and subsystems using integrated circuits. 1 laboratory.",
   "units": "1",
   "prerequisites": "EE 308 & EE 348; CPE/EE 328 & CPE/EE 368; CPE/EE 329 or CPE/EE 336",
-  "corequisites": null,
-  "crnc": false
+  "corequisites": "EE 409",
+  "recommended": null,
+  "ges": [],
+  "crnc": false,
+  "gwr": false,
+  "uscp": false
 }

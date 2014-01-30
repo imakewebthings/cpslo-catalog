@@ -5,5 +5,9 @@
   "units": "2",
   "prerequisites": "By audition or consent of instructor",
   "corequisites": null,
-  "crnc": false
+  "recommended": null,
+  "ges": [],
+  "crnc": false,
+  "gwr": false,
+  "uscp": false
 }

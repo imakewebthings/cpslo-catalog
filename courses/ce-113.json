@@ -5,5 +5,9 @@
   "units": "2",
   "prerequisites": "ENVE 111 or CE 112 (may be taken concurrently)",
   "corequisites": null,
-  "crnc": false
+  "recommended": null,
+  "ges": [],
+  "crnc": false,
+  "gwr": false,
+  "uscp": false
 }

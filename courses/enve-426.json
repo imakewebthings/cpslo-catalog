@@ -5,5 +5,9 @@
   "units": "3",
   "prerequisites": "ENVE 325, CHEM 212/312, ENVE 264 or ME 341, STAT 312, and ENGL 149",
   "corequisites": null,
-  "crnc": false
+  "recommended": null,
+  "ges": [],
+  "crnc": false,
+  "gwr": false,
+  "uscp": false
 }

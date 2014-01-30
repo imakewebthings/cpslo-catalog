@@ -5,5 +5,9 @@
   "units": "1",
   "prerequisites": "MU 151 or consent of instructor; for non-music majors",
   "corequisites": null,
-  "crnc": false
+  "recommended": null,
+  "ges": [],
+  "crnc": false,
+  "gwr": false,
+  "uscp": false
 }

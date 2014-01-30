@@ -4,6 +4,10 @@
   "description": "Number systems, Boolean algebra, Boolean functions, and minimization. Analysis and design of combinational logic circuits. Feedback circuits. Analysis and design of sequential logic circuits. Applying Hardware Description Language (HDL) to synthesize digital logic circuits in Programmable Logic Devices (PLDs). Not open to students with credit in CPE/EE 133. 3 lectures. Crosslisted as CPE/EE 129.",
   "units": "3",
   "prerequisites": "An orientation course in student's major (EE 111 & EE 151 for EE students, CPE 100 for CPE students), CPE/CSC 101",
-  "corequisites": null,
-  "crnc": false
+  "corequisites": "CPE/EE 169",
+  "recommended": null,
+  "ges": [],
+  "crnc": false,
+  "gwr": false,
+  "uscp": false
 }

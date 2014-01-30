@@ -4,6 +4,10 @@
   "description": "Review of Z-transform, convolution and discrete Fourier Transform. Digital filter design. Fast Fourier Transform. Theory and applications of digital signal processors. 3 lectures.",
   "units": "3",
   "prerequisites": "CSC 101, EE 328 & EE 368",
-  "corequisites": null,
-  "crnc": false
+  "corequisites": "EE 459",
+  "recommended": null,
+  "ges": [],
+  "crnc": false,
+  "gwr": false,
+  "uscp": false
 }

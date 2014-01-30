@@ -5,5 +5,9 @@
   "units": "2",
   "prerequisites": "CHEM 231/331",
   "corequisites": "CHEM 352",
-  "crnc": false
+  "recommended": null,
+  "ges": [],
+  "crnc": false,
+  "gwr": false,
+  "uscp": false
 }

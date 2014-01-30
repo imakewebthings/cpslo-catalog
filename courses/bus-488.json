@@ -5,5 +5,9 @@
   "units": "4",
   "prerequisites": "BUS 215, BUS 310, BUS 342, BUS 346 and BUS 436; Business majors must have formally declared their concentration to enroll",
   "corequisites": null,
-  "crnc": false
+  "recommended": null,
+  "ges": [],
+  "crnc": false,
+  "gwr": false,
+  "uscp": false
 }

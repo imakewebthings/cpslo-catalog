@@ -5,5 +5,9 @@
   "units": "12",
   "prerequisites": "Completion of GE Area B and consent of instructor",
   "corequisites": null,
-  "crnc": false
+  "recommended": "Junior or senior standing",
+  "ges": [],
+  "crnc": false,
+  "gwr": false,
+  "uscp": false
 }

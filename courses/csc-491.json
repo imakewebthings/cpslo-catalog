@@ -5,5 +5,9 @@
   "units": "2",
   "prerequisites": "CSC/CPE 307 or CSC/CPE 309 and consent of instructor",
   "corequisites": null,
-  "crnc": false
+  "recommended": null,
+  "ges": [],
+  "crnc": false,
+  "gwr": false,
+  "uscp": false
 }

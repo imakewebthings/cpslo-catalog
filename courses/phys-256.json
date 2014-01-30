@@ -4,6 +4,10 @@
   "description": "Experimental studies of circuit analysis and electronics; introduction to digital techniques; instrumentation. 1 laboratory.",
   "units": "1",
   "prerequisites": "PHYS 133, MATH 143",
-  "corequisites": null,
-  "crnc": false
+  "corequisites": "PHYS 206",
+  "recommended": null,
+  "ges": [],
+  "crnc": false,
+  "gwr": false,
+  "uscp": false
 }

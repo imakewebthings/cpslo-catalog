@@ -5,5 +5,9 @@
   "units": "2",
   "prerequisites": "Consent of rodeo coach/instructor",
   "corequisites": null,
-  "crnc": false
+  "recommended": null,
+  "ges": [],
+  "crnc": true,
+  "gwr": false,
+  "uscp": false
 }

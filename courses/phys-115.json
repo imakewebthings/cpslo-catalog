@@ -5,5 +5,11 @@
   "units": "4",
   "prerequisites": "Passing score on ELM examination, or an ELM exemption, or credit in MATH 104",
   "corequisites": null,
-  "crnc": false
+  "recommended": null,
+  "ges": [
+    "B3"
+  ],
+  "crnc": false,
+  "gwr": false,
+  "uscp": false
 }

@@ -5,5 +5,9 @@
   "units": "4",
   "prerequisites": "MU 320 or consent of instructor",
   "corequisites": null,
-  "crnc": false
+  "recommended": "MU 120",
+  "ges": [],
+  "crnc": false,
+  "gwr": false,
+  "uscp": false
 }

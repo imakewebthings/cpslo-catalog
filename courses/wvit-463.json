@@ -5,5 +5,9 @@
   "units": "2",
   "prerequisites": "Senior standing; WVIT majors only",
   "corequisites": null,
-  "crnc": false
+  "recommended": null,
+  "ges": [],
+  "crnc": false,
+  "gwr": false,
+  "uscp": false
 }

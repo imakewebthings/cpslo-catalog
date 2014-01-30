@@ -5,5 +5,9 @@
   "units": "5",
   "prerequisites": "ARCH 451, ARCH 452 and ARCH 453",
   "corequisites": null,
-  "crnc": false
+  "recommended": null,
+  "ges": [],
+  "crnc": false,
+  "gwr": false,
+  "uscp": false
 }

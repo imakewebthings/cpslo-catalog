@@ -5,5 +5,11 @@
   "units": "4",
   "prerequisites": "MATH 161",
   "corequisites": null,
-  "crnc": false
+  "recommended": null,
+  "ges": [
+    "B1"
+  ],
+  "crnc": false,
+  "gwr": false,
+  "uscp": false
 }

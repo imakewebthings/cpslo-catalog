@@ -5,5 +5,9 @@
   "units": "4",
   "prerequisites": "GEOL 102 or GEOL 201, GEOL 241, GEOL 415, ERSC 223, ERSC 323",
   "corequisites": null,
-  "crnc": false
+  "recommended": null,
+  "ges": [],
+  "crnc": false,
+  "gwr": false,
+  "uscp": false
 }

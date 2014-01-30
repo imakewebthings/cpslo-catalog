@@ -5,5 +5,11 @@
   "units": "4",
   "prerequisites": "Satisfactory score on the English Placement Test",
   "corequisites": null,
-  "crnc": false
+  "recommended": null,
+  "ges": [
+    "A1"
+  ],
+  "crnc": false,
+  "gwr": false,
+  "uscp": false
 }

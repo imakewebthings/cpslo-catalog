@@ -5,5 +5,9 @@
   "units": "4",
   "prerequisites": "CE 251 or CSC 231, or graduate standing/consent of instructor",
   "corequisites": null,
-  "crnc": false
+  "recommended": null,
+  "ges": [],
+  "crnc": false,
+  "gwr": false,
+  "uscp": false
 }

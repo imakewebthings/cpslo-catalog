@@ -5,5 +5,9 @@
   "units": "4",
   "prerequisites": "Two of the following: CD 304, CD 305, CD 306; junior standing or consent of instructor",
   "corequisites": null,
-  "crnc": false
+  "recommended": null,
+  "ges": [],
+  "crnc": false,
+  "gwr": false,
+  "uscp": false
 }

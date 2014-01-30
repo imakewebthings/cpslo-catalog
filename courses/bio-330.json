@@ -4,6 +4,10 @@
   "description": "Minimum of two days of field instruction in places with significant biological diversity, and an individual or group project. Focus on field notebooks, field identification, survey methods, experimental design, and significant habitat types for various groups of organisms. The Schedule of Classes will list the title of the associated field biology course. Total credit limited to 6 units, each associated with a different field biology course, with no more than 4 units applied as advisor approved electives. 1 activity.",
   "units": "1",
   "prerequisites": null,
-  "corequisites": null,
-  "crnc": false
+  "corequisites": "Enrollment in corresponding field biology course",
+  "recommended": null,
+  "ges": [],
+  "crnc": false,
+  "gwr": false,
+  "uscp": false
 }

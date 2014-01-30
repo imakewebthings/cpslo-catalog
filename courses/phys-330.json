@@ -5,5 +5,9 @@
   "units": "2",
   "prerequisites": "PHYS 122, PHYS 123, PHYS 132, PHYS 133, PSC 102, or PSC 103",
   "corequisites": null,
-  "crnc": false
+  "recommended": null,
+  "ges": [],
+  "crnc": false,
+  "gwr": false,
+  "uscp": false
 }

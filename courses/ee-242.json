@@ -4,6 +4,10 @@
   "description": "Observation of transient and steady-state phenomena, phase-shift circuits, resonance. Use of phasor diagrams. 1 laboratory.",
   "units": "1",
   "prerequisites": "MATH 244, EE 241 or consent of department chair",
-  "corequisites": null,
-  "crnc": false
+  "corequisites": "EE 212",
+  "recommended": null,
+  "ges": [],
+  "crnc": false,
+  "gwr": false,
+  "uscp": false
 }

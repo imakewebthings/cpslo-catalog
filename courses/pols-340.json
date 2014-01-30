@@ -5,5 +5,9 @@
   "units": "4",
   "prerequisites": "POLS 112 or consent of instructor; for Law and Society minors and POLS majors with pre-law concentration",
   "corequisites": null,
-  "crnc": false
+  "recommended": null,
+  "ges": [],
+  "crnc": false,
+  "gwr": false,
+  "uscp": false
 }

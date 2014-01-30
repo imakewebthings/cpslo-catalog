@@ -4,6 +4,10 @@
   "description": "Experimental determination of device characteristics and models. 1 laboratory.",
   "units": "1",
   "prerequisites": "CHEM 124, EE 212 & EE 242, IME 156 or IME 157 or IME 458, PHYS 211",
-  "corequisites": null,
-  "crnc": false
+  "corequisites": "ENGL 134",
+  "recommended": "ENGL 134",
+  "ges": [],
+  "crnc": false,
+  "gwr": false,
+  "uscp": false
 }

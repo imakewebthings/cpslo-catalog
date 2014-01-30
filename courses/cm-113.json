@@ -4,6 +4,10 @@
   "description": "Exploration of the various materials, assemblies, and processes used and applied in the building construction process. Includes presentation, discussion, analysis, study and research of construction materials and assemblies. 2 lectures.",
   "units": "2",
   "prerequisites": "EDES 101",
-  "corequisites": null,
-  "crnc": false
+  "corequisites": "CM 102",
+  "recommended": "CM 102",
+  "ges": [],
+  "crnc": false,
+  "gwr": false,
+  "uscp": false
 }

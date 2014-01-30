@@ -5,5 +5,9 @@
   "units": "4",
   "prerequisites": "PSY 450, PSY 560 and admission to MS Psychology program",
   "corequisites": null,
-  "crnc": false
+  "recommended": null,
+  "ges": [],
+  "crnc": false,
+  "gwr": false,
+  "uscp": false
 }

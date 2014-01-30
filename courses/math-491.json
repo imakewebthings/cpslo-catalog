@@ -4,6 +4,10 @@
   "description": "Facilitated study and discussion of the methods and techniques of proof in abstract algebra. Credit/No Credit grading only. 1 laboratory.",
   "units": "1",
   "prerequisites": null,
-  "corequisites": null,
-  "crnc": false
+  "corequisites": "Enrollment in the associated section of MATH 481",
+  "recommended": null,
+  "ges": [],
+  "crnc": true,
+  "gwr": false,
+  "uscp": false
 }

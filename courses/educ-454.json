@@ -4,6 +4,10 @@
   "description": "Clinical experiences involving planning, instruction, assessment and reflection; growth as a professional and related activities in K-8 public school classrooms. Participation in public schools requires mandated fingerprint clearance. Credit/No Credit grading only.",
   "units": "8",
   "prerequisites": "Acceptance in STEP II or STEP B of the Multiple Subject Credential Program",
-  "corequisites": null,
-  "crnc": false
+  "corequisites": "EDUC 455",
+  "recommended": null,
+  "ges": [],
+  "crnc": true,
+  "gwr": false,
+  "uscp": false
 }

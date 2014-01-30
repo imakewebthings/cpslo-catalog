@@ -5,5 +5,9 @@
   "units": "2",
   "prerequisites": "CHEM 129; CHEM 216 or CHEM 316; MATH 142 or MATH 162",
   "corequisites": null,
-  "crnc": false
+  "recommended": null,
+  "ges": [],
+  "crnc": false,
+  "gwr": false,
+  "uscp": false
 }

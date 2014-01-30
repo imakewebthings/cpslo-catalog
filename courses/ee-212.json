@@ -4,6 +4,10 @@
   "description": "AC power, 3-phase circuits. Mutual inductance, series and parallel resonance and two-port networks. Frequency response, including Bode plots. 3 lectures.",
   "units": "3",
   "prerequisites": "MATH 244, EE 211",
-  "corequisites": null,
-  "crnc": false
+  "corequisites": "EE 242",
+  "recommended": null,
+  "ges": [],
+  "crnc": false,
+  "gwr": false,
+  "uscp": false
 }

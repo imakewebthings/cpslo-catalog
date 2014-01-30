@@ -5,5 +5,9 @@
   "units": "3",
   "prerequisites": "Senior standing, ASCI 363 and consent of instructor",
   "corequisites": null,
-  "crnc": false
+  "recommended": "one course in statistics",
+  "ges": [],
+  "crnc": false,
+  "gwr": false,
+  "uscp": false
 }

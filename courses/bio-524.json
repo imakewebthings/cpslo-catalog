@@ -5,5 +5,9 @@
   "units": "2",
   "prerequisites": "Graduate standing in Biological Sciences or consent of instructor",
   "corequisites": null,
-  "crnc": false
+  "recommended": "BIO 501",
+  "ges": [],
+  "crnc": false,
+  "gwr": false,
+  "uscp": false
 }

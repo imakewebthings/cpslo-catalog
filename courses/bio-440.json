@@ -5,5 +5,9 @@
   "units": "3",
   "prerequisites": "BIO 328, ZOO 322, ZOO 336 or PSC 201; completion of GE A; and GE Area B2 or BIO 211; Junior standing",
   "corequisites": null,
-  "crnc": false
+  "recommended": null,
+  "ges": [],
+  "crnc": false,
+  "gwr": false,
+  "uscp": false
 }

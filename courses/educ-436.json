@@ -4,6 +4,10 @@
   "description": "Curriculum, instruction, and assessment concepts regarding teaching science for understanding to culturally diverse students in grades K-8, with emphasis on teaching via inquiry to promote the development of scientific knowledge and reasoning. 3 seminars.",
   "units": "3",
   "prerequisites": "Admission to the Multiple Subject Teacher Preparation Program; EDUC 427 and EDUC 428",
-  "corequisites": null,
-  "crnc": false
+  "corequisites": "EDUC 429, EDUC 431, EDUC 435 and EDUC 438",
+  "recommended": null,
+  "ges": [],
+  "crnc": false,
+  "gwr": false,
+  "uscp": false
 }

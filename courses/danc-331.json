@@ -5,5 +5,9 @@
   "units": "2",
   "prerequisites": "DANC 231 or intermediate level experience as determined by instructor at first class meeting",
   "corequisites": null,
-  "crnc": false
+  "recommended": null,
+  "ges": [],
+  "crnc": false,
+  "gwr": false,
+  "uscp": false
 }

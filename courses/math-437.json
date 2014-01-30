@@ -5,5 +5,9 @@
   "units": "4",
   "prerequisites": "MATH 206 or MATH 244, and MATH 248 with a grade of C- or better, or consent of instructor",
   "corequisites": null,
-  "crnc": false
+  "recommended": null,
+  "ges": [],
+  "crnc": false,
+  "gwr": false,
+  "uscp": false
 }

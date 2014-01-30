@@ -5,5 +5,9 @@
   "units": "4",
   "prerequisites": null,
   "corequisites": "OCOB graduate standing and GSB 511, GSB 513, GSB 523, GSB 531, GSB 533 and either GSB 512 or IME 503; and either GSB 524 or GSB 573; and either GSB 534 or IME 580, or approval from the Associate Dean",
-  "crnc": false
+  "recommended": null,
+  "ges": [],
+  "crnc": false,
+  "gwr": false,
+  "uscp": false
 }

@@ -5,5 +5,9 @@
   "units": "2",
   "prerequisites": "Graduate standing and consent of instructor",
   "corequisites": "CSC 590",
-  "crnc": false
+  "recommended": null,
+  "ges": [],
+  "crnc": false,
+  "gwr": false,
+  "uscp": false
 }

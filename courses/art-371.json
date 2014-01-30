@@ -5,5 +5,11 @@
   "units": "4",
   "prerequisites": "Completion of GE Area A, and one course from Area C3 or ART 211 or ART 212",
   "corequisites": null,
-  "crnc": false
+  "recommended": "Junior standing",
+  "ges": [
+    "C4"
+  ],
+  "crnc": false,
+  "gwr": false,
+  "uscp": false
 }

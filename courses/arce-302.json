@@ -4,6 +4,10 @@
   "description": "Analysis of statically indeterminate structures using virtual work, slope deflection, the force method and moment distribution. Analysis of structural systems using approximate methods and influence lines. 4 lectures.",
   "units": "4",
   "prerequisites": "ARCE 223 and ARCE 227 (C- or better required for ARCE Majors)",
-  "corequisites": null,
-  "crnc": false
+  "corequisites": "ARCE 352",
+  "recommended": null,
+  "ges": [],
+  "crnc": false,
+  "gwr": false,
+  "uscp": false
 }

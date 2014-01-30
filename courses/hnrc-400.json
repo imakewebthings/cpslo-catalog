@@ -5,5 +5,9 @@
   "units": "0",
   "prerequisites": "Student must be in good standing in the Honors Program, and have permission of the Director",
   "corequisites": null,
-  "crnc": false
+  "recommended": null,
+  "ges": [],
+  "crnc": true,
+  "gwr": false,
+  "uscp": false
 }

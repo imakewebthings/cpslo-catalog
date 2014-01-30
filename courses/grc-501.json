@@ -3,7 +3,11 @@
   "title": "Survey of Functional Printing",
   "description": "Foundations for emerging functional printing fields including printed electronics, active packaging, and security printing. Emphasis on processes, materials, electrical characterization, sensing, barrier properties, and anti-counterfeiting. Focus on applications including lighting, displays, novel electronics, energy harvesting, energy storage, sensors, scavengers, and brand security. Course offered online only. 2 lectures.",
   "units": "2",
-  "prerequisites": "Admission to the graduate certificate program in Printed Electronics and Functional Imaging",
+  "prerequisites": "Consent of Printed Electronics and Functional Imaging Graduate Coordinator",
   "corequisites": null,
-  "crnc": false
+  "recommended": null,
+  "ges": [],
+  "crnc": false,
+  "gwr": false,
+  "uscp": false
 }

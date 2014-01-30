@@ -5,5 +5,9 @@
   "units": "4",
   "prerequisites": "MATH 141",
   "corequisites": null,
-  "crnc": false
+  "recommended": "IME 101",
+  "ges": [],
+  "crnc": false,
+  "gwr": false,
+  "uscp": false
 }

@@ -5,5 +5,9 @@
   "units": "1-3",
   "prerequisites": "Graduate standing and consent of department chair",
   "corequisites": null,
-  "crnc": false
+  "recommended": null,
+  "ges": [],
+  "crnc": false,
+  "gwr": false,
+  "uscp": false
 }

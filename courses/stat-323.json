@@ -5,5 +5,9 @@
   "units": "4",
   "prerequisites": "STAT 252 or STAT 302 or STAT 312 or STAT 313",
   "corequisites": null,
-  "crnc": false
+  "recommended": null,
+  "ges": [],
+  "crnc": false,
+  "gwr": false,
+  "uscp": false
 }

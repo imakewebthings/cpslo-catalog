@@ -5,5 +5,9 @@
   "units": "6",
   "prerequisites": "CD 305, CD 306, CD 329",
   "corequisites": null,
-  "crnc": false
+  "recommended": null,
+  "ges": [],
+  "crnc": false,
+  "gwr": false,
+  "uscp": false
 }

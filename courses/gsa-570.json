@@ -5,5 +5,9 @@
   "units": "1-4",
   "prerequisites": "OCOB graduate standing or approval from the Associate Dean",
   "corequisites": null,
-  "crnc": false
+  "recommended": null,
+  "ges": [],
+  "crnc": false,
+  "gwr": false,
+  "uscp": false
 }

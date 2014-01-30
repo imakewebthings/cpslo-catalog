@@ -5,5 +5,9 @@
   "units": "4",
   "prerequisites": "Junior standing; CHEM 125, PHYS 133, MATH 143, MATE 210 and MATE 215; Materials Engineering students only",
   "corequisites": null,
-  "crnc": false
+  "recommended": null,
+  "ges": [],
+  "crnc": false,
+  "gwr": false,
+  "uscp": false
 }

@@ -4,6 +4,10 @@
   "description": "Introduction to career opportunities in Mechanical Engineering, exploration of the ethical responsibilities of being a student and professional engineer, and familiarity with the ME curriculum including cooperative education and international exchange opportunities. 1 lecture.",
   "units": "1",
   "prerequisites": null,
-  "corequisites": null,
-  "crnc": false
+  "corequisites": "ME 129",
+  "recommended": null,
+  "ges": [],
+  "crnc": false,
+  "gwr": false,
+  "uscp": false
 }

@@ -4,6 +4,10 @@
   "description": "Design and programming of microprocessor-based digital controls for electro-mechanical plants. Topics include digital control laws, translation of transfer functions into algorithms, assembly language programming, real-time software design, sample rate selection, finite word-length considerations. 1 laboratory. Crosslisted as CPE/EE 472.",
   "units": "1",
   "prerequisites": null,
-  "corequisites": null,
-  "crnc": false
+  "corequisites": "CPE/EE 432",
+  "recommended": null,
+  "ges": [],
+  "crnc": false,
+  "gwr": false,
+  "uscp": false
 }

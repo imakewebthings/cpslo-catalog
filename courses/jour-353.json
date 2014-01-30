@@ -5,5 +5,9 @@
   "units": "4",
   "prerequisites": "JOUR 333 and JOUR 346 or JOUR 348",
   "corequisites": null,
-  "crnc": false
+  "recommended": null,
+  "ges": [],
+  "crnc": false,
+  "gwr": false,
+  "uscp": false
 }

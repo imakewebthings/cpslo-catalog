@@ -4,6 +4,10 @@
   "description": "Maxwell's equations. Plane wave propagation in free space. Static electric and magnetic fields. Distributed-circuit concepts and transmission line parameters. Reflections and standing waves. The Smith chart and its applications. Transmission line measurements and impedance matching techniques. 4 lectures.",
   "units": "4",
   "prerequisites": "MATH 241, EE 212 & EE 242",
-  "corequisites": null,
-  "crnc": false
+  "corequisites": "EE 375",
+  "recommended": null,
+  "ges": [],
+  "crnc": false,
+  "gwr": false,
+  "uscp": false
 }

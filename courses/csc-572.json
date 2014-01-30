@@ -5,5 +5,9 @@
   "units": "4",
   "prerequisites": "Successful completion of CSC/CPE 471 and graduate standing, or consent of instructor",
   "corequisites": null,
-  "crnc": false
+  "recommended": null,
+  "ges": [],
+  "crnc": false,
+  "gwr": false,
+  "uscp": false
 }

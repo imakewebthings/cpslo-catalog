@@ -5,5 +5,9 @@
   "units": "4",
   "prerequisites": "STAT 217 with a C- or better and two sociology courses, or consent of instructor",
   "corequisites": null,
-  "crnc": false
+  "recommended": null,
+  "ges": [],
+  "crnc": false,
+  "gwr": false,
+  "uscp": false
 }

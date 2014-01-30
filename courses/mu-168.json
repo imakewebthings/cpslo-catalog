@@ -5,5 +5,9 @@
   "units": "1",
   "prerequisites": null,
   "corequisites": "MU 253 or piano topic in any of the following courses: MU 150, MU 250, MU 350 or MU 450; or consent of instructor",
-  "crnc": false
+  "recommended": null,
+  "ges": [],
+  "crnc": false,
+  "gwr": false,
+  "uscp": false
 }

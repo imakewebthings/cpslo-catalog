@@ -5,5 +5,9 @@
   "units": "1-10",
   "prerequisites": "Advanced graduate standing, completion of, or concurrent enrollment in, engineering courses in specialization, and consent of participating faculty",
   "corequisites": null,
-  "crnc": false
+  "recommended": null,
+  "ges": [],
+  "crnc": false,
+  "gwr": false,
+  "uscp": false
 }

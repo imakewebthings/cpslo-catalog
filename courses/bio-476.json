@@ -5,5 +5,9 @@
   "units": "2",
   "prerequisites": "BIO/CHEM 475; CHEM 313 or CHEM 371, or graduate standing in Biological Sciences",
   "corequisites": null,
-  "crnc": false
+  "recommended": null,
+  "ges": [],
+  "crnc": false,
+  "gwr": false,
+  "uscp": false
 }

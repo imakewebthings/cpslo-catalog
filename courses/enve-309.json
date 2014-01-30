@@ -5,5 +5,9 @@
   "units": "3",
   "prerequisites": "MATH 241 and PHYS 132",
   "corequisites": "ENGL 149",
-  "crnc": false
+  "recommended": null,
+  "ges": [],
+  "crnc": false,
+  "gwr": false,
+  "uscp": false
 }

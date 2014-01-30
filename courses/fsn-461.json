@@ -5,5 +5,9 @@
   "units": "3",
   "prerequisites": "For FDSC and NUTR majors, completion of GE A3, STAT 218, and senior standing",
   "corequisites": null,
-  "crnc": false
+  "recommended": null,
+  "ges": [],
+  "crnc": false,
+  "gwr": false,
+  "uscp": false
 }

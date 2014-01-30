@@ -5,5 +5,9 @@
   "units": "2",
   "prerequisites": "Completion of four design focus studios (16 units from LA 402 - LA 405)",
   "corequisites": null,
-  "crnc": false
+  "recommended": null,
+  "ges": [],
+  "crnc": false,
+  "gwr": false,
+  "uscp": false
 }

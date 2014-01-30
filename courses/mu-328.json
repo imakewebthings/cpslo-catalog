@@ -5,5 +5,12 @@
   "units": "4",
   "prerequisites": "Completion of GE Area A and a foundation course in Area C",
   "corequisites": null,
-  "crnc": false
+  "recommended": "Junior standing",
+  "ges": [
+    "C4",
+    "USCP"
+  ],
+  "crnc": false,
+  "gwr": false,
+  "uscp": true
 }

@@ -5,5 +5,9 @@
   "units": "5",
   "prerequisites": "BIO 161, BIO 162, upper division genetics course (BIO 302 or BIO 303 or BIO 351 or ASCI 304) or consent of instructor",
   "corequisites": null,
-  "crnc": false
+  "recommended": null,
+  "ges": [],
+  "crnc": false,
+  "gwr": false,
+  "uscp": false
 }

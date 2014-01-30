@@ -5,5 +5,9 @@
   "units": "6",
   "prerequisites": "Sophomore standing and consent of department head",
   "corequisites": null,
-  "crnc": false
+  "recommended": null,
+  "ges": [],
+  "crnc": true,
+  "gwr": false,
+  "uscp": false
 }

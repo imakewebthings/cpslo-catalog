@@ -5,5 +5,9 @@
   "units": "3",
   "prerequisites": "BRAE 324",
   "corequisites": null,
-  "crnc": false
+  "recommended": null,
+  "ges": [],
+  "crnc": false,
+  "gwr": false,
+  "uscp": false
 }

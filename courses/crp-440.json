@@ -5,5 +5,9 @@
   "units": "4",
   "prerequisites": "CRP 212 or CRP 501",
   "corequisites": null,
-  "crnc": false
+  "recommended": "CRP 336",
+  "ges": [],
+  "crnc": false,
+  "gwr": false,
+  "uscp": false
 }

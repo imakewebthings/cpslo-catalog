@@ -5,5 +5,9 @@
   "units": "4",
   "prerequisites": "ASCI 224 and ASCI 220",
   "corequisites": null,
-  "crnc": false
+  "recommended": null,
+  "ges": [],
+  "crnc": false,
+  "gwr": false,
+  "uscp": false
 }

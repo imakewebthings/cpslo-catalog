@@ -4,6 +4,10 @@
   "description": "Experimental investigations of material properties. Experimental studies of stresses and deflections in beams, including plastic bending, and unsymmetrical bending. Stress transformations via strain gages for combined loading cases. Culminating lab experience: A student run, self-designed experiment. 1 laboratory.",
   "units": "1",
   "prerequisites": null,
-  "corequisites": null,
-  "crnc": false
+  "corequisites": "ARCE 223",
+  "recommended": null,
+  "ges": [],
+  "crnc": false,
+  "gwr": false,
+  "uscp": false
 }

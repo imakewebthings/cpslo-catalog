@@ -5,5 +5,9 @@
   "units": "2",
   "prerequisites": "AGED 102",
   "corequisites": null,
-  "crnc": false
+  "recommended": "AGED 303",
+  "ges": [],
+  "crnc": false,
+  "gwr": false,
+  "uscp": false
 }

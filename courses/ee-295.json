@@ -4,6 +4,10 @@
   "description": "Single-phase and three-phase transformers. Starting of rotating machines, evaluation of characteristics of rotating machines. 1 laboratory.",
   "units": "1",
   "prerequisites": "EE 212 & EE 242 or EE 201 & EE 251",
-  "corequisites": null,
-  "crnc": false
+  "corequisites": "EE 255",
+  "recommended": null,
+  "ges": [],
+  "crnc": false,
+  "gwr": false,
+  "uscp": false
 }

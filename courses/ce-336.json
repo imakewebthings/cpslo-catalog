@@ -4,6 +4,10 @@
   "description": "Hydraulics of pile flow. Open channel flow, groundwater, and hydrology. 4 lectures.",
   "units": "4",
   "prerequisites": "ME 341 or ENVE 264",
-  "corequisites": null,
-  "crnc": false
+  "corequisites": "CE 337",
+  "recommended": null,
+  "ges": [],
+  "crnc": false,
+  "gwr": false,
+  "uscp": false
 }

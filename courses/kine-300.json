@@ -5,5 +5,9 @@
   "units": "3",
   "prerequisites": "KINE 180",
   "corequisites": "KINE 306",
-  "crnc": false
+  "recommended": null,
+  "ges": [],
+  "crnc": false,
+  "gwr": false,
+  "uscp": false
 }

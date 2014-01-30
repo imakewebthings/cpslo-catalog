@@ -5,5 +5,9 @@
   "units": "1",
   "prerequisites": "Completion of COMS 311, COMS 312, COMS 330 and COMS 332, and junior standing; for COMS majors only",
   "corequisites": null,
-  "crnc": false
+  "recommended": null,
+  "ges": [],
+  "crnc": false,
+  "gwr": false,
+  "uscp": false
 }

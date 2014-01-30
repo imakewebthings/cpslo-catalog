@@ -4,6 +4,10 @@
   "description": "Experimental procedures in solid-state electronics. Investigation and improvement of the characteristics of a solid-state electronic device. 1 laboratory.",
   "units": "1",
   "prerequisites": "Graduate standing or consent of instructor",
-  "corequisites": null,
-  "crnc": false
+  "corequisites": "EE 524",
+  "recommended": null,
+  "ges": [],
+  "crnc": false,
+  "gwr": false,
+  "uscp": false
 }

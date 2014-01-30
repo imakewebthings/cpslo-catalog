@@ -4,6 +4,10 @@
   "description": "Differentiated instruction and further theoretical knowledge and skills needed for successful teaching of linguistically and culturally diverse learners, as well as students with special learning needs. PACT assessments embedded in course prepare credential candidates for the teaching event. 3 lectures.",
   "units": "3",
   "prerequisites": "EDUC 412, EDUC 414, and content methods course",
-  "corequisites": null,
-  "crnc": false
+  "corequisites": "EDUC 416 and EDUC 469, or AGED 438 for students enrolled in Agricultural Education Credential Program",
+  "recommended": null,
+  "ges": [],
+  "crnc": false,
+  "gwr": false,
+  "uscp": false
 }

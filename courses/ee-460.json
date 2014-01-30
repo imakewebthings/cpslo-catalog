@@ -5,5 +5,9 @@
   "units": "2",
   "prerequisites": "EE 314, EE 335",
   "corequisites": "EE 409 & EE 449",
-  "crnc": false
+  "recommended": null,
+  "ges": [],
+  "crnc": false,
+  "gwr": false,
+  "uscp": false
 }

@@ -5,5 +5,11 @@
   "units": "4",
   "prerequisites": "ENGL 111, ENGL 112, and ENGL 113, or satisfactory score on the English Placement Test, or consent of instructor",
   "corequisites": null,
-  "crnc": false
+  "recommended": null,
+  "ges": [
+    "A1"
+  ],
+  "crnc": false,
+  "gwr": false,
+  "uscp": false
 }

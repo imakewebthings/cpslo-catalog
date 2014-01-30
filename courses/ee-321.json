@@ -5,5 +5,9 @@
   "units": "3",
   "prerequisites": "EE 201 or BRAE 216 for BRAE majors",
   "corequisites": null,
-  "crnc": false
+  "recommended": null,
+  "ges": [],
+  "crnc": false,
+  "gwr": false,
+  "uscp": false
 }

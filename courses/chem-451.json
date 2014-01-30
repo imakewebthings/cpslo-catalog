@@ -5,5 +5,9 @@
   "units": "2",
   "prerequisites": "CHEM 447 or CHEM 547",
   "corequisites": "CHEM 450",
-  "crnc": false
+  "recommended": "CHEM 445 or CHEM 545; CHEM 448 or CHEM 548; CHEM 446",
+  "ges": [],
+  "crnc": false,
+  "gwr": false,
+  "uscp": false
 }

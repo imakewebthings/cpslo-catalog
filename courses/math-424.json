@@ -5,5 +5,9 @@
   "units": "4",
   "prerequisites": "Acceptance into the Mathematics Single Subject Credential Program, or senior standing in the mathematics major, or consent of instructor",
   "corequisites": null,
-  "crnc": false
+  "recommended": null,
+  "ges": [],
+  "crnc": true,
+  "gwr": false,
+  "uscp": false
 }

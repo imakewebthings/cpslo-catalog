@@ -4,6 +4,10 @@
   "description": "Transmission line and passive component measurements at microwave frequencies. Response to pulse excitation using time domain techniques and sinusoidal excitation using frequency domain techniques. Application of the Smith Chart and network analyzers in transmission line characterization and impedance matching techniques. 1 laboratory.",
   "units": "1",
   "prerequisites": null,
-  "corequisites": null,
-  "crnc": false
+  "corequisites": "EE 335",
+  "recommended": null,
+  "ges": [],
+  "crnc": false,
+  "gwr": false,
+  "uscp": false
 }

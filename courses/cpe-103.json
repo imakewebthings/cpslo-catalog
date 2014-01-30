@@ -5,5 +5,9 @@
   "units": "4",
   "prerequisites": "CPE/CSC 102 with a grade of C- or better or CPE/CSC 108 with a grade of C- or better, CSC 141 with a grade of C- or better, and MATH 141 with a grade of C- or better, or consent of instructor",
   "corequisites": null,
-  "crnc": false
+  "recommended": null,
+  "ges": [],
+  "crnc": false,
+  "gwr": false,
+  "uscp": false
 }

@@ -4,6 +4,10 @@
   "description": "Theories and application of literacy learning, assessment and second language acquisition in content classrooms. Observation of classrooms, tutoring English language learners, designing and teaching literacy lessons, planning and implementing assessments across content areas. Recognition of the role of culture in language acquisition. 3 lectures.",
   "units": "3",
   "prerequisites": "Admission to the Single Subject Credential Program or senior standing for Agricultural Education candidates",
-  "corequisites": null,
-  "crnc": false
+  "corequisites": "EDUC 418 and EDUC 469 (except students enrolled in Agricultural Education Credential Program)",
+  "recommended": null,
+  "ges": [],
+  "crnc": false,
+  "gwr": false,
+  "uscp": false
 }

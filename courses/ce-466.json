@@ -5,5 +5,9 @@
   "units": "3",
   "prerequisites": "CE 321, CE 322, CE 336, CE 337, CE 355, CE 381, CE 382, senior standing, and consent of instructor",
   "corequisites": null,
-  "crnc": false
+  "recommended": null,
+  "ges": [],
+  "crnc": false,
+  "gwr": false,
+  "uscp": false
 }

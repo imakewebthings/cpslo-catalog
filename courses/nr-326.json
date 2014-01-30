@@ -5,5 +5,9 @@
   "units": "4",
   "prerequisites": "MATH 161 or MATH 221 or equivalent",
   "corequisites": null,
-  "crnc": false
+  "recommended": "GE Area D2 (ECON 201 recommended), AGB 212",
+  "ges": [],
+  "crnc": false,
+  "gwr": false,
+  "uscp": false
 }

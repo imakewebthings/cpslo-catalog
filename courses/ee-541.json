@@ -5,5 +5,9 @@
   "units": "2",
   "prerequisites": "EE 402 or equivalent and graduate standing or consent of instructor",
   "corequisites": "EE 502",
-  "crnc": false
+  "recommended": null,
+  "ges": [],
+  "crnc": false,
+  "gwr": false,
+  "uscp": false
 }

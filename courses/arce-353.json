@@ -4,6 +4,10 @@
   "description": "Emphasis on the use of nonplanar structural analysis software to analyze a building's structural system and its individual elements. 1 laboratory.",
   "units": "1",
   "prerequisites": "ARCE 352 (C- or better required for ARCE Majors)",
-  "corequisites": null,
-  "crnc": false
+  "corequisites": "ARCE 306",
+  "recommended": null,
+  "ges": [],
+  "crnc": false,
+  "gwr": false,
+  "uscp": false
 }

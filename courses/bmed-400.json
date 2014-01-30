@@ -5,5 +5,9 @@
   "units": "2-4",
   "prerequisites": "ME 212, junior standing and consent of department chair",
   "corequisites": null,
-  "crnc": false
+  "recommended": null,
+  "ges": [],
+  "crnc": false,
+  "gwr": false,
+  "uscp": false
 }

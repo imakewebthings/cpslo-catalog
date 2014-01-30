@@ -5,5 +5,9 @@
   "units": "3",
   "prerequisites": "ME 456, ME 458",
   "corequisites": null,
-  "crnc": false
+  "recommended": null,
+  "ges": [],
+  "crnc": false,
+  "gwr": false,
+  "uscp": false
 }

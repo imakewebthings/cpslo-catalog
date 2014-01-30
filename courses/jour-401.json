@@ -5,5 +5,9 @@
   "units": "4",
   "prerequisites": "JOUR 203 and junior standing or consent of instructor",
   "corequisites": null,
-  "crnc": false
+  "recommended": null,
+  "ges": [],
+  "crnc": false,
+  "gwr": false,
+  "uscp": false
 }

@@ -5,5 +5,9 @@
   "units": "4",
   "prerequisites": "PHYS 121, SS 121, MATH 119",
   "corequisites": null,
-  "crnc": false
+  "recommended": null,
+  "ges": [],
+  "crnc": false,
+  "gwr": false,
+  "uscp": false
 }

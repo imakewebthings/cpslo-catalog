@@ -5,5 +5,12 @@
   "units": "4",
   "prerequisites": "CHEM 110 or CHEM 111 or CHEM 124 or CHEM 127 or PSC 102",
   "corequisites": null,
-  "crnc": false
+  "recommended": null,
+  "ges": [
+    "B2",
+    "B4"
+  ],
+  "crnc": false,
+  "gwr": false,
+  "uscp": false
 }

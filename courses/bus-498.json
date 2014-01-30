@@ -5,5 +5,9 @@
   "units": "4",
   "prerequisites": "BUS 392 (formerly BUS 390) and BUS 393",
   "corequisites": null,
-  "crnc": false
+  "recommended": null,
+  "ges": [],
+  "crnc": false,
+  "gwr": false,
+  "uscp": false
 }

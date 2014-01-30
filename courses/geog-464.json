@@ -5,5 +5,9 @@
   "units": "1",
   "prerequisites": "Junior standing, ANT 201, GEOG 150",
   "corequisites": null,
-  "crnc": false
+  "recommended": null,
+  "ges": [],
+  "crnc": true,
+  "gwr": false,
+  "uscp": false
 }

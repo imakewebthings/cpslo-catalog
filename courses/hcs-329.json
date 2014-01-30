@@ -5,5 +5,11 @@
   "units": "4",
   "prerequisites": "Completion of one of the following: BIO 111, BIO 114, BIO 161, BOT 121, or HCS 120",
   "corequisites": null,
-  "crnc": false
+  "recommended": "Junior standing",
+  "ges": [
+    "F"
+  ],
+  "crnc": false,
+  "gwr": false,
+  "uscp": false
 }

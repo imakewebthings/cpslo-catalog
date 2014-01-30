@@ -5,5 +5,12 @@
   "units": "4",
   "prerequisites": null,
   "corequisites": null,
-  "crnc": false
+  "recommended": "GE Area A1, GE Area A2, or GE Area A3",
+  "ges": [
+    "C3",
+    "USCP"
+  ],
+  "crnc": false,
+  "gwr": false,
+  "uscp": true
 }

@@ -4,6 +4,10 @@
   "description": "Computer calculations, programming and technical reporting. Emphasis on use of two-dimensional structural analysis software to analyze a building's structural system and its individual elements. 1 laboratory.",
   "units": "1",
   "prerequisites": null,
-  "corequisites": null,
-  "crnc": false
+  "corequisites": "ARCE 302",
+  "recommended": null,
+  "ges": [],
+  "crnc": false,
+  "gwr": false,
+  "uscp": false
 }

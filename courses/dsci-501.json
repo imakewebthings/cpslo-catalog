@@ -5,5 +5,9 @@
   "units": "3",
   "prerequisites": "CHEM 212 or CHEM 312; admission to Master of Professional Studies program in Dairy Products Technology",
   "corequisites": null,
-  "crnc": false
+  "recommended": "Differential and Integral Calculus",
+  "ges": [],
+  "crnc": false,
+  "gwr": false,
+  "uscp": false
 }

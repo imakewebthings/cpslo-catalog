@@ -5,5 +5,9 @@
   "units": "4",
   "prerequisites": "Completion of GE Area A; and SPAN 207 or SPAN 301 or SPAN 302 or consent of instructor",
   "corequisites": null,
-  "crnc": false
+  "recommended": null,
+  "ges": [],
+  "crnc": false,
+  "gwr": false,
+  "uscp": false
 }

@@ -5,5 +5,9 @@
   "units": "4",
   "prerequisites": "Graduate standing and one of the following: STAT 512, STAT 542, STAT 217, STAT 218, STAT 252, STAT 312, or equivalent",
   "corequisites": null,
-  "crnc": false
+  "recommended": null,
+  "ges": [],
+  "crnc": false,
+  "gwr": false,
+  "uscp": false
 }

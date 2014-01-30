@@ -5,5 +5,9 @@
   "units": "2",
   "prerequisites": "MATH 459 or MATH 460",
   "corequisites": null,
-  "crnc": false
+  "recommended": null,
+  "ges": [],
+  "crnc": false,
+  "gwr": false,
+  "uscp": false
 }

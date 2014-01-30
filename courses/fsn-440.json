@@ -5,5 +5,9 @@
   "units": "1-12",
   "prerequisites": "Junior standing and consent of instructor",
   "corequisites": null,
-  "crnc": false
+  "recommended": null,
+  "ges": [],
+  "crnc": false,
+  "gwr": false,
+  "uscp": false
 }

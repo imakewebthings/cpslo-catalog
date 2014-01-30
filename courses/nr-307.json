@@ -5,5 +5,9 @@
   "units": "3",
   "prerequisites": "Completion of GE Areas B2 and B4",
   "corequisites": null,
-  "crnc": false
+  "recommended": null,
+  "ges": [],
+  "crnc": false,
+  "gwr": false,
+  "uscp": false
 }

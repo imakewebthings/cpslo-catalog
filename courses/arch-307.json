@@ -4,6 +4,10 @@
   "description": "Continuation of ARCH 207 plus theory and application of climate, energy use and comfort as determinants of architectural form in large-scale buildings. Emphasis on architectural and mechanical methods of ventilating, cooling, heating, lighting, acoustics, and water and waste systems for internal-load dominated buildings. 2 lectures, 2 discussions.",
   "units": "4",
   "prerequisites": "ARCH 207",
-  "corequisites": null,
-  "crnc": false
+  "corequisites": "ARCH 352",
+  "recommended": null,
+  "ges": [],
+  "crnc": false,
+  "gwr": false,
+  "uscp": false
 }

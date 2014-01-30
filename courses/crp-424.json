@@ -5,5 +5,9 @@
   "units": "3",
   "prerequisites": "CRP 212 (or CRP 501 for graduate students), or equivalent",
   "corequisites": null,
-  "crnc": false
+  "recommended": null,
+  "ges": [],
+  "crnc": false,
+  "gwr": false,
+  "uscp": false
 }

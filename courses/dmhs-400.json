@@ -5,5 +5,9 @@
   "units": "1-4",
   "prerequisites": "Consent of instructor and department head",
   "corequisites": null,
-  "crnc": false
+  "recommended": null,
+  "ges": [],
+  "crnc": false,
+  "gwr": false,
+  "uscp": false
 }

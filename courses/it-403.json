@@ -5,5 +5,9 @@
   "units": "4",
   "prerequisites": "IT 341 or IT 371 and STAT 217, or STAT 218, or STAT 251; Business majors must have formally declared their concentration to enroll",
   "corequisites": null,
-  "crnc": false
+  "recommended": null,
+  "ges": [],
+  "crnc": false,
+  "gwr": false,
+  "uscp": false
 }

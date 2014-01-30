@@ -5,5 +5,9 @@
   "units": "1",
   "prerequisites": "EE 347 or MATE 340 or CHEM 319 or PHYS 340",
   "corequisites": null,
-  "crnc": false
+  "recommended": null,
+  "ges": [],
+  "crnc": false,
+  "gwr": false,
+  "uscp": false
 }

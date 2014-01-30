@@ -5,5 +5,9 @@
   "units": "1",
   "prerequisites": "Enrollment limited to those qualified to compete in intercollegiate forestry activities and consent of instructor",
   "corequisites": null,
-  "crnc": false
+  "recommended": null,
+  "ges": [],
+  "crnc": true,
+  "gwr": false,
+  "uscp": false
 }

@@ -5,5 +5,9 @@
   "units": "4",
   "prerequisites": "Either ECON 221 and ECON 222, or ECON 201",
   "corequisites": null,
-  "crnc": false
+  "recommended": null,
+  "ges": [],
+  "crnc": false,
+  "gwr": false,
+  "uscp": false
 }

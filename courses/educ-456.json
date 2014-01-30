@@ -4,6 +4,10 @@
   "description": "Advanced clinical experiences involving planning, instruction, assessment and reflection; growth as a professional and related activities in K-8 public school classrooms. Credit/No Credit grading only.",
   "units": "12",
   "prerequisites": "EDUC 454 and EDUC 455",
-  "corequisites": null,
-  "crnc": false
+  "corequisites": "EDUC 457",
+  "recommended": null,
+  "ges": [],
+  "crnc": true,
+  "gwr": false,
+  "uscp": false
 }

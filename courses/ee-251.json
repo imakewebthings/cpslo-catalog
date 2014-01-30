@@ -4,6 +4,10 @@
   "description": "Techniques of measurement of DC and steady-state AC circuit parameters. Equivalent circuits, nonlinear elements, resonance. 1 laboratory.",
   "units": "1",
   "prerequisites": null,
-  "corequisites": null,
-  "crnc": false
+  "corequisites": "EE 201",
+  "recommended": null,
+  "ges": [],
+  "crnc": false,
+  "gwr": false,
+  "uscp": false
 }

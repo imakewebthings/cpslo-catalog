@@ -5,5 +5,9 @@
   "units": "4",
   "prerequisites": "BIO 160 or BIO 161",
   "corequisites": null,
-  "crnc": false
+  "recommended": null,
+  "ges": [],
+  "crnc": false,
+  "gwr": false,
+  "uscp": false
 }

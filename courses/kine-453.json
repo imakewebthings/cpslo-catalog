@@ -5,5 +5,9 @@
   "units": "3",
   "prerequisites": "FSN 210 or FSN 250, and KINE 298, KINE 304",
   "corequisites": null,
-  "crnc": false
+  "recommended": null,
+  "ges": [],
+  "crnc": false,
+  "gwr": false,
+  "uscp": false
 }

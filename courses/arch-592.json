@@ -4,6 +4,10 @@
   "description": "Development of the framework and format of a thesis project proposal related to the specific design option. Work to include: research topic, intent, scope, methodology, assumptions, outline of work program and documentation. 3 seminars.",
   "units": "3",
   "prerequisites": "5th year standing or consent of instructor",
-  "corequisites": null,
-  "crnc": false
+  "corequisites": "First quarter of ARCH 521",
+  "recommended": null,
+  "ges": [],
+  "crnc": false,
+  "gwr": false,
+  "uscp": false
 }

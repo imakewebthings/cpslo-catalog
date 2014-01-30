@@ -5,5 +5,9 @@
   "units": "2",
   "prerequisites": "Acceptance into the Cal Poly, San Luis Obispo Dietetic Internship, a special session program in Extended Education",
   "corequisites": null,
-  "crnc": false
+  "recommended": null,
+  "ges": [],
+  "crnc": true,
+  "gwr": false,
+  "uscp": false
 }

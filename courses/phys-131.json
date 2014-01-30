@@ -5,5 +5,12 @@
   "units": "4",
   "prerequisites": "MATH 141 with grade C- or better and MATH 142 or MATH 182 (or concurrent enrollment); for ME and AERO students only",
   "corequisites": null,
-  "crnc": false
+  "recommended": "High School Physics",
+  "ges": [
+    "B3",
+    "B4"
+  ],
+  "crnc": false,
+  "gwr": false,
+  "uscp": false
 }

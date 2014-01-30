@@ -4,6 +4,10 @@
   "description": "Design of electronic materials systems utilizing the basic concepts in electron theory of solids, electrical properties and conduction in materials, magnetic phenomena and optical properties in materials. 3 lectures, 1 laboratory.",
   "units": "4",
   "prerequisites": "MATE 210 and PHYS 133",
-  "corequisites": null,
-  "crnc": false
+  "corequisites": "MATE 360",
+  "recommended": null,
+  "ges": [],
+  "crnc": false,
+  "gwr": false,
+  "uscp": false
 }

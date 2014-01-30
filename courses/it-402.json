@@ -5,5 +5,9 @@
   "units": "4",
   "prerequisites": "COMS 101 or COMS 102, BUS 346",
   "corequisites": null,
-  "crnc": false
+  "recommended": null,
+  "ges": [],
+  "crnc": false,
+  "gwr": false,
+  "uscp": false
 }

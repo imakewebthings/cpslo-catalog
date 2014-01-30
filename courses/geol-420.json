@@ -5,5 +5,9 @@
   "units": "3",
   "prerequisites": "PHYS 132, GEOL 201",
   "corequisites": null,
-  "crnc": false
+  "recommended": null,
+  "ges": [],
+  "crnc": false,
+  "gwr": false,
+  "uscp": false
 }

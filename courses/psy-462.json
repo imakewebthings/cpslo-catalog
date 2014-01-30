@@ -5,5 +5,9 @@
   "units": "3",
   "prerequisites": "PSY 461; Psychology and Child Development majors only",
   "corequisites": null,
-  "crnc": false
+  "recommended": null,
+  "ges": [],
+  "crnc": false,
+  "gwr": false,
+  "uscp": false
 }

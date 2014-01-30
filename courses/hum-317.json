@@ -5,5 +5,9 @@
   "units": "2",
   "prerequisites": "Limited to Study Abroad Programs in Latin America",
   "corequisites": "Enrollment in a 300-level course offered as part of a Study Abroad Program in Latin America",
-  "crnc": false
+  "recommended": null,
+  "ges": [],
+  "crnc": true,
+  "gwr": false,
+  "uscp": false
 }

@@ -5,5 +5,9 @@
   "units": "4",
   "prerequisites": "Graduate standing, MATH 143, CHEM 125, PHYS 131 or PHYS 141, BIO 161 or consent of instructor",
   "corequisites": null,
-  "crnc": false
+  "recommended": null,
+  "ges": [],
+  "crnc": false,
+  "gwr": false,
+  "uscp": false
 }

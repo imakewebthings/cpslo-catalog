@@ -5,5 +5,9 @@
   "units": "4",
   "prerequisites": "Consent of instructor",
   "corequisites": null,
-  "crnc": false
+  "recommended": "ECON 201 or ECON 221 or ECON 222",
+  "ges": [],
+  "crnc": false,
+  "gwr": false,
+  "uscp": false
 }

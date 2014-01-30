@@ -5,5 +5,9 @@
   "units": "4-12",
   "prerequisites": "Junior standing, completion of HIST 303 with grade of B or better and consent of internship coordinator",
   "corequisites": null,
-  "crnc": false
+  "recommended": null,
+  "ges": [],
+  "crnc": true,
+  "gwr": false,
+  "uscp": false
 }

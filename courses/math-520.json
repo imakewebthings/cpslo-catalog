@@ -5,5 +5,9 @@
   "units": "4",
   "prerequisites": "MATH 408, MATH 412 and graduate standing",
   "corequisites": null,
-  "crnc": false
+  "recommended": "MATH 418",
+  "ges": [],
+  "crnc": false,
+  "gwr": false,
+  "uscp": false
 }

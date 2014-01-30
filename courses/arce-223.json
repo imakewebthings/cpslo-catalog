@@ -4,6 +4,10 @@
   "description": "Advanced topics of stresses in beams. Plastic bending, unsymmetrical bending. Combined stresses. Stress transformation. Buckling. Deflection of beams. 3 lectures.",
   "units": "3",
   "prerequisites": "ARCE 212 or ARCE 222 (C- or better required for ARCE Majors)",
-  "corequisites": null,
-  "crnc": false
+  "corequisites": "ARCE 224 and ARCE 351",
+  "recommended": null,
+  "ges": [],
+  "crnc": false,
+  "gwr": false,
+  "uscp": false
 }

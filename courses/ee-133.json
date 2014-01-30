@@ -5,5 +5,9 @@
   "units": "4",
   "prerequisites": "An orientation course in student's major (EE 111 & EE 151 for EE students, CPE 100 for CPE students), CPE/CSC 101",
   "corequisites": null,
-  "crnc": false
+  "recommended": null,
+  "ges": [],
+  "crnc": false,
+  "gwr": false,
+  "uscp": false
 }

@@ -5,5 +5,9 @@
   "units": "4",
   "prerequisites": "ASCI 229",
   "corequisites": null,
-  "crnc": false
+  "recommended": "ASCI 320, CHEM 371 or equivalent",
+  "ges": [],
+  "crnc": false,
+  "gwr": false,
+  "uscp": false
 }

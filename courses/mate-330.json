@@ -4,6 +4,10 @@
   "description": "Properties, design and applications of composite material systems, concentrating on polymer-matrix, ceramic-fiber composites. Materials(matrices, fibers), mechanical behavior and properties, and manufacturing methods treated in detail. Laboratory practice concentrates on the mechanical testing of fiber-reinforced composite materials. 3 lectures, 1 laboratory.",
   "units": "4",
   "prerequisites": "MATE 350",
-  "corequisites": null,
-  "crnc": false
+  "corequisites": "MATE 370",
+  "recommended": null,
+  "ges": [],
+  "crnc": false,
+  "gwr": false,
+  "uscp": false
 }

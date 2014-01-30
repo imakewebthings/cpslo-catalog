@@ -5,5 +5,9 @@
   "units": "4",
   "prerequisites": "RPTA 210 or RPTA 260 with C- or better or consent of instructor, STAT 217 or STAT 218 or STAT 251 or STAT 252, junior standing",
   "corequisites": null,
-  "crnc": false
+  "recommended": "CSC 110 or CSC 113",
+  "ges": [],
+  "crnc": false,
+  "gwr": false,
+  "uscp": false
 }

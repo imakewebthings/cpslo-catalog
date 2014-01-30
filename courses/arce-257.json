@@ -5,5 +5,9 @@
   "units": "2",
   "prerequisites": "ARCH 133, CM 115",
   "corequisites": null,
-  "crnc": false
+  "recommended": null,
+  "ges": [],
+  "crnc": false,
+  "gwr": false,
+  "uscp": false
 }

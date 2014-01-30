@@ -4,6 +4,10 @@
   "description": "Application of basic fluid dynamic principles to various mechanical systems. Exposure to experimental problems and techniques with guided laboratory projects related to civil engineering discipline. 1 laboratory.",
   "units": "1",
   "prerequisites": "ME 341 or ENVE 264",
-  "corequisites": null,
-  "crnc": false
+  "corequisites": "CE 336",
+  "recommended": null,
+  "ges": [],
+  "crnc": false,
+  "gwr": false,
+  "uscp": false
 }

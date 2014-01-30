@@ -5,5 +5,9 @@
   "units": "4",
   "prerequisites": "AGB 312; AGB 315; AGB 370; and one of the following AGB 327, AGB 328, AGB 421 or AGB 433",
   "corequisites": null,
-  "crnc": false
+  "recommended": null,
+  "ges": [],
+  "crnc": false,
+  "gwr": false,
+  "uscp": false
 }

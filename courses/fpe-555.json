@@ -5,5 +5,9 @@
   "units": "4",
   "prerequisites": "Graduate standing or consent of instructor",
   "corequisites": null,
-  "crnc": false
+  "recommended": "LA/NR 318 and NR 340",
+  "ges": [],
+  "crnc": false,
+  "gwr": false,
+  "uscp": false
 }

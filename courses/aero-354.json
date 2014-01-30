@@ -5,5 +5,9 @@
   "units": "2",
   "prerequisites": "ENGL 149 and AERO 353",
   "corequisites": null,
-  "crnc": false
+  "recommended": null,
+  "ges": [],
+  "crnc": false,
+  "gwr": false,
+  "uscp": false
 }

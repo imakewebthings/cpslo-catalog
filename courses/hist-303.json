@@ -5,5 +5,9 @@
   "units": "5",
   "prerequisites": "History major or minor, completion of GE Areas A1 and A3, or consent of instructor",
   "corequisites": null,
-  "crnc": false
+  "recommended": null,
+  "ges": [],
+  "crnc": false,
+  "gwr": false,
+  "uscp": false
 }

@@ -5,5 +5,9 @@
   "units": "5",
   "prerequisites": "For architecture majors, all prerequisites required by the year and course level for which the student is seeking credit; for non-architecture majors, junior standing or permission of instructor; for local professionals not seeking academic credit, permission of instructor",
   "corequisites": null,
-  "crnc": false
+  "recommended": null,
+  "ges": [],
+  "crnc": false,
+  "gwr": false,
+  "uscp": false
 }

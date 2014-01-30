@@ -5,5 +5,9 @@
   "units": "4",
   "prerequisites": "BIO 160, BIO 162, BIO 263, and STAT 218 or Graduate standing in Biological Sciences",
   "corequisites": null,
-  "crnc": false
+  "recommended": "BIO 325, BIO 327, BIO 328, BIO 401, or BOT 326",
+  "ges": [],
+  "crnc": false,
+  "gwr": false,
+  "uscp": false
 }

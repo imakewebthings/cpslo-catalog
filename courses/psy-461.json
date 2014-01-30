@@ -5,5 +5,9 @@
   "units": "1",
   "prerequisites": "Senior standing; PSY 329; Psychology and Child Development majors only",
   "corequisites": null,
-  "crnc": false
+  "recommended": null,
+  "ges": [],
+  "crnc": true,
+  "gwr": false,
+  "uscp": false
 }

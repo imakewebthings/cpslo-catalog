@@ -5,5 +5,9 @@
   "units": "3-12",
   "prerequisites": "Graduate standing; consent of instructor",
   "corequisites": null,
-  "crnc": false
+  "recommended": null,
+  "ges": [],
+  "crnc": true,
+  "gwr": false,
+  "uscp": false
 }

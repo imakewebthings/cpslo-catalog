@@ -5,5 +5,9 @@
   "units": "2",
   "prerequisites": "Senior standing",
   "corequisites": null,
-  "crnc": false
+  "recommended": "FSN 329",
+  "ges": [],
+  "crnc": true,
+  "gwr": false,
+  "uscp": false
 }

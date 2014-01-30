@@ -5,5 +5,9 @@
   "units": "4",
   "prerequisites": "MATH 244; IME 144 or IME 143 and ME 251; and CSC 101, CSC 231, CSC 232 or CSC 234",
   "corequisites": null,
-  "crnc": false
+  "recommended": null,
+  "ges": [],
+  "crnc": false,
+  "gwr": false,
+  "uscp": false
 }

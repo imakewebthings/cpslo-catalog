@@ -5,5 +5,9 @@
   "units": "3",
   "prerequisites": "FSN 125 and FSN 204",
   "corequisites": null,
-  "crnc": false
+  "recommended": null,
+  "ges": [],
+  "crnc": false,
+  "gwr": false,
+  "uscp": false
 }

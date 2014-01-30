@@ -5,5 +5,9 @@
   "units": "4",
   "prerequisites": "MATH 241 and MATH 248",
   "corequisites": null,
-  "crnc": false
+  "recommended": "STAT 301 and STAT 325",
+  "ges": [],
+  "crnc": false,
+  "gwr": false,
+  "uscp": false
 }

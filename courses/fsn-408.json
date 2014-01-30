@@ -5,5 +5,9 @@
   "units": "4",
   "prerequisites": "FSN 311; FSN 364; CHEM 313; and senior standing",
   "corequisites": null,
-  "crnc": false
+  "recommended": null,
+  "ges": [],
+  "crnc": false,
+  "gwr": false,
+  "uscp": false
 }

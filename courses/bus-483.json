@@ -5,5 +5,9 @@
   "units": "4",
   "prerequisites": "BUS 382 and BUS 387",
   "corequisites": null,
-  "crnc": false
+  "recommended": null,
+  "ges": [],
+  "crnc": false,
+  "gwr": false,
+  "uscp": false
 }

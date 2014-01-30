@@ -5,5 +5,9 @@
   "units": "3",
   "prerequisites": "IME 239, IME 314, and IME 405, or consent of instructor",
   "corequisites": null,
-  "crnc": false
+  "recommended": null,
+  "ges": [],
+  "crnc": false,
+  "gwr": false,
+  "uscp": false
 }

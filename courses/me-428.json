@@ -5,5 +5,9 @@
   "units": "3",
   "prerequisites": "ME 318, ME 329, and ME 343",
   "corequisites": null,
-  "crnc": false
+  "recommended": null,
+  "ges": [],
+  "crnc": false,
+  "gwr": false,
+  "uscp": false
 }

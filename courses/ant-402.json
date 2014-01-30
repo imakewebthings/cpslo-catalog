@@ -5,5 +5,9 @@
   "units": "4",
   "prerequisites": "Junior standing; completion of GE Area A and ANT 201, or consent of instructor",
   "corequisites": null,
-  "crnc": false
+  "recommended": "ANT 250",
+  "ges": [],
+  "crnc": false,
+  "gwr": false,
+  "uscp": false
 }

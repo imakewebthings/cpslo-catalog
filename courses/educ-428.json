@@ -1,9 +1,13 @@
 {
   "id": "educ-428",
-  "title": "Primary Grade (K-3) Literacy and Language Arts Instruction in Schools with Diverse Populations",
-  "description": "Introduction of approaches, strategies, and methods for literacy and language arts instruction for diverse learners in K-3 classrooms. Examination of concepts and theories underlying literacy instruction, and relating research-based patterns of reading and writing development to features of learning environments. Participation in public schools requires mandated fingerprint clearance. 3 seminars, 1 activity.",
+  "title": "Foundations of K-8 Literacy Teaching and Learning in Schools with Diverse Populations",
+  "description": "Introduction of foundational topics in literacy teaching and learning in K-8 schools with diverse populations. Examination of concepts and theories underlying literacy learning and instruction, and relating research-based patterns of reading and writing development to features of the learner and learning environments. Participation in public schools requires mandated fingerprint clearance. 3 seminars, 1 activity.",
   "units": "4",
-  "prerequisites": "Senior standing and ENGL 391, or Graduate standing",
+  "prerequisites": "Senior or Graduate standing",
   "corequisites": null,
-  "crnc": false
+  "recommended": null,
+  "ges": [],
+  "crnc": false,
+  "gwr": false,
+  "uscp": false
 }

@@ -5,5 +5,9 @@
   "units": "4",
   "prerequisites": null,
   "corequisites": "EDUC 430, EDUC 431, EDUC 435, EDUC 436, graduate standing or consent of instructor",
-  "crnc": false
+  "recommended": null,
+  "ges": [],
+  "crnc": false,
+  "gwr": false,
+  "uscp": false
 }

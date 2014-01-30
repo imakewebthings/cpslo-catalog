@@ -4,6 +4,10 @@
   "description": "Preliminary layout of a typical aircraft vehicle using design and calculation techniques developed in previous aerospace engineering courses. Design of a flight vehicle, including its structures and systems. Preparation of necessary drawings and a report. 2 lectures, 2 laboratories. Open to students enrolled in the multidisciplinary design minor.",
   "units": "4",
   "prerequisites": "Senior standing, IME 144, AERO 215, AERO 303, AERO 306, AERO 331, AERO 405, AERO 420, AERO 431",
-  "corequisites": null,
-  "crnc": false
+  "corequisites": "AERO 401",
+  "recommended": null,
+  "ges": [],
+  "crnc": false,
+  "gwr": false,
+  "uscp": false
 }

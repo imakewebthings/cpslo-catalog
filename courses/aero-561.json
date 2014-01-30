@@ -5,5 +5,9 @@
   "units": "2",
   "prerequisites": "AERO 446 and graduate standing or consent of instructor",
   "corequisites": null,
-  "crnc": false
+  "recommended": "AERO 450",
+  "ges": [],
+  "crnc": false,
+  "gwr": false,
+  "uscp": false
 }

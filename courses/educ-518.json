@@ -5,5 +5,9 @@
   "units": "3",
   "prerequisites": "Admittance to the Administrative Services Credential program and consent of instructor",
   "corequisites": null,
-  "crnc": false
+  "recommended": null,
+  "ges": [],
+  "crnc": true,
+  "gwr": false,
+  "uscp": false
 }

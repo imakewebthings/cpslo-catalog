@@ -5,5 +5,9 @@
   "units": "4",
   "prerequisites": "ME 212; EE 201 and EE 251; and AERO 353",
   "corequisites": null,
-  "crnc": false
+  "recommended": null,
+  "ges": [],
+  "crnc": false,
+  "gwr": false,
+  "uscp": false
 }

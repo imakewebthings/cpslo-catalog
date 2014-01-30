@@ -5,5 +5,9 @@
   "units": "2",
   "prerequisites": null,
   "corequisites": "CHEM 318 and junior standing",
-  "crnc": false
+  "recommended": null,
+  "ges": [],
+  "crnc": false,
+  "gwr": false,
+  "uscp": false
 }

@@ -5,5 +5,9 @@
   "units": "4",
   "prerequisites": "BIO 263 or equivalent, and BIO 303 or BIO 351",
   "corequisites": null,
-  "crnc": false
+  "recommended": "BIO 325 or equivalent",
+  "ges": [],
+  "crnc": false,
+  "gwr": false,
+  "uscp": false
 }

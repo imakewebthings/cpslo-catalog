@@ -5,5 +5,9 @@
   "units": "3",
   "prerequisites": "KINE 300 and two activity classes",
   "corequisites": null,
-  "crnc": false
+  "recommended": null,
+  "ges": [],
+  "crnc": false,
+  "gwr": false,
+  "uscp": false
 }

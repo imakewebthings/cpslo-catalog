@@ -5,5 +5,9 @@
   "units": "2",
   "prerequisites": "Junior standing and completion of GE Area A1 and consent of instructor",
   "corequisites": null,
-  "crnc": false
+  "recommended": null,
+  "ges": [],
+  "crnc": false,
+  "gwr": false,
+  "uscp": false
 }

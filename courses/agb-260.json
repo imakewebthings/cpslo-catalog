@@ -5,5 +5,9 @@
   "units": "4",
   "prerequisites": "AGB 101 or junior standing",
   "corequisites": null,
-  "crnc": false
+  "recommended": null,
+  "ges": [],
+  "crnc": false,
+  "gwr": false,
+  "uscp": false
 }

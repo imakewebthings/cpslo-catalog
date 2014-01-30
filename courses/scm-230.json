@@ -5,5 +5,9 @@
   "units": "2",
   "prerequisites": "BIO 160, BIO 161, CHEM 124, CHEM 127, MATH 141, PHYS 131, or PHYS 141",
   "corequisites": null,
-  "crnc": false
+  "recommended": null,
+  "ges": [],
+  "crnc": true,
+  "gwr": false,
+  "uscp": false
 }

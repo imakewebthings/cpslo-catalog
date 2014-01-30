@@ -5,5 +5,11 @@
   "units": "4",
   "prerequisites": "MATH 244 and one of the following courses: CSC 101, CSC 231, CSC 232, CSC 234, CSC 235, or consent of instructor",
   "corequisites": null,
-  "crnc": false
+  "recommended": null,
+  "ges": [
+    "B6"
+  ],
+  "crnc": false,
+  "gwr": false,
+  "uscp": false
 }

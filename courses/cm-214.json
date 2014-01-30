@@ -5,5 +5,9 @@
   "units": "5",
   "prerequisites": "CM 115, PHYS 132 or CHEM 124",
   "corequisites": "CM 232",
-  "crnc": false
+  "recommended": null,
+  "ges": [],
+  "crnc": false,
+  "gwr": false,
+  "uscp": false
 }

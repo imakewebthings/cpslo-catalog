@@ -5,5 +5,9 @@
   "units": "3",
   "prerequisites": "ENVE 330 or ENVE 331",
   "corequisites": null,
-  "crnc": false
+  "recommended": null,
+  "ges": [],
+  "crnc": false,
+  "gwr": false,
+  "uscp": false
 }

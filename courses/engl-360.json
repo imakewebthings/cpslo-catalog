@@ -5,5 +5,9 @@
   "units": "4",
   "prerequisites": "ENGL 230, ENGL 231, ENGL 240, ENGL 251, ENGL 252, or ENGL 253",
   "corequisites": null,
-  "crnc": false
+  "recommended": "Junior standing",
+  "ges": [],
+  "crnc": false,
+  "gwr": false,
+  "uscp": false
 }

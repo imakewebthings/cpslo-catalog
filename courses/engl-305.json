@@ -5,5 +5,9 @@
   "units": "4",
   "prerequisites": null,
   "corequisites": "ENGL 304; for English majors only",
-  "crnc": false
+  "recommended": null,
+  "ges": [],
+  "crnc": false,
+  "gwr": false,
+  "uscp": false
 }

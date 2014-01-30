@@ -5,5 +5,9 @@
   "units": "4",
   "prerequisites": "IME 141 or IT 341; IME 142; CE 204; MATE 210; MATE 215; IME 144 or IME 143 and ME 251",
   "corequisites": null,
-  "crnc": false
+  "recommended": null,
+  "ges": [],
+  "crnc": false,
+  "gwr": false,
+  "uscp": false
 }

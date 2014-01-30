@@ -5,5 +5,9 @@
   "units": "5",
   "prerequisites": "Completion of GE Area A, senior or graduate standing and admission to the teacher education program, or consent of instructor",
   "corequisites": null,
-  "crnc": false
+  "recommended": null,
+  "ges": [],
+  "crnc": false,
+  "gwr": false,
+  "uscp": false
 }

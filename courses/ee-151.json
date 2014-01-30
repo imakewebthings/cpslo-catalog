@@ -4,6 +4,10 @@
   "description": "A variety of hands-on experiments and demonstrations in electrical engineering, providing background and motivation for successful completion of the Electrical Engineering (EE) program at Cal Poly. Not open to students with credit for EE 241. 1 laboratory.",
   "units": "1",
   "prerequisites": null,
-  "corequisites": null,
-  "crnc": false
+  "corequisites": "EE 111",
+  "recommended": null,
+  "ges": [],
+  "crnc": false,
+  "gwr": false,
+  "uscp": false
 }

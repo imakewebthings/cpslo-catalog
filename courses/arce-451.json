@@ -5,5 +5,9 @@
   "units": "3",
   "prerequisites": "ARCE 257, ARCE 304, ARCE 305, and ARCE 371 (C- or better required for ARCE Majors)",
   "corequisites": null,
-  "crnc": false
+  "recommended": null,
+  "ges": [],
+  "crnc": false,
+  "gwr": false,
+  "uscp": false
 }

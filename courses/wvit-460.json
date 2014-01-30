@@ -5,5 +5,9 @@
   "units": "4",
   "prerequisites": "Completion of at least two of the following courses: AGB 422, WVIT 343, WVIT 444 and AGB 323; Senior standing; WVIT majors only",
   "corequisites": null,
-  "crnc": false
+  "recommended": null,
+  "ges": [],
+  "crnc": false,
+  "gwr": false,
+  "uscp": false
 }

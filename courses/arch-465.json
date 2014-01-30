@@ -5,5 +5,9 @@
   "units": "3",
   "prerequisites": "Junior standing and current participation in Washington Alexandria Architectural Consortium off-campus program",
   "corequisites": null,
-  "crnc": false
+  "recommended": null,
+  "ges": [],
+  "crnc": false,
+  "gwr": false,
+  "uscp": false
 }

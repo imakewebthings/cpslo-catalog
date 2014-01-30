@@ -5,5 +5,9 @@
   "units": "1-4",
   "prerequisites": "Open to undergraduate students and consent of instructor; Graphic Communication majors only",
   "corequisites": null,
-  "crnc": false
+  "recommended": null,
+  "ges": [],
+  "crnc": false,
+  "gwr": false,
+  "uscp": false
 }

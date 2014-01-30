@@ -5,5 +5,11 @@
   "units": "4",
   "prerequisites": "Junior standing; completion of Area A and two courses from D1, D2, D3, D4",
   "corequisites": null,
-  "crnc": false
+  "recommended": null,
+  "ges": [
+    "D5"
+  ],
+  "crnc": false,
+  "gwr": false,
+  "uscp": false
 }

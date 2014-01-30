@@ -4,6 +4,10 @@
   "description": "Educational issues and research, development and assessment of teaching portfolio, completion of materials for a job search, and beginning the first year as a special educator. 3 seminars, 1 activity.",
   "units": "4",
   "prerequisites": "Acceptance into Level I Special Education Credential Program; completion of program requirements for the Level I Special Education Program",
-  "corequisites": null,
-  "crnc": false
+  "corequisites": "EDUC 449",
+  "recommended": null,
+  "ges": [],
+  "crnc": true,
+  "gwr": false,
+  "uscp": false
 }

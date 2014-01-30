@@ -5,5 +5,9 @@
   "units": "3",
   "prerequisites": "MATH 241; ME 211 or ARCE 211",
   "corequisites": null,
-  "crnc": false
+  "recommended": null,
+  "ges": [],
+  "crnc": false,
+  "gwr": false,
+  "uscp": false
 }

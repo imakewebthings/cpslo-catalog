@@ -5,5 +5,9 @@
   "units": "3",
   "prerequisites": "Junior standing; PSY 201, PSY 202, or KINE 250 or consent of instructor",
   "corequisites": null,
-  "crnc": false
+  "recommended": "IME 314",
+  "ges": [],
+  "crnc": false,
+  "gwr": false,
+  "uscp": false
 }

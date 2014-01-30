@@ -5,5 +5,11 @@
   "units": "4",
   "prerequisites": "Completion of GE Area A and one lower division course in Area C",
   "corequisites": null,
-  "crnc": false
+  "recommended": "Completion of one ES course; Junior standing",
+  "ges": [
+    "C4"
+  ],
+  "crnc": false,
+  "gwr": false,
+  "uscp": false
 }

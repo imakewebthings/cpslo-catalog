@@ -5,5 +5,9 @@
   "units": "5",
   "prerequisites": "Junior standing; MCRO 225; and CHEM 216, CHEM 312 or CHEM 316; and consent of instructor",
   "corequisites": null,
-  "crnc": false
+  "recommended": null,
+  "ges": [],
+  "crnc": false,
+  "gwr": false,
+  "uscp": false
 }

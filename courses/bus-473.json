@@ -5,5 +5,9 @@
   "units": "4",
   "prerequisites": "BUS 207, BUS 384 or equivalent",
   "corequisites": null,
-  "crnc": false
+  "recommended": null,
+  "ges": [],
+  "crnc": false,
+  "gwr": false,
+  "uscp": false
 }

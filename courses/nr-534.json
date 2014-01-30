@@ -5,5 +5,9 @@
   "units": "3",
   "prerequisites": "One course in undergraduate statistics, graduate standing, or consent of instructor",
   "corequisites": null,
-  "crnc": false
+  "recommended": null,
+  "ges": [],
+  "crnc": false,
+  "gwr": false,
+  "uscp": false
 }

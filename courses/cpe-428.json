@@ -5,5 +5,9 @@
   "units": "4",
   "prerequisites": "EE 328 or CPE/CSC 357 or ME 305 or consent of instructor",
   "corequisites": null,
-  "crnc": false
+  "recommended": null,
+  "ges": [],
+  "crnc": false,
+  "gwr": false,
+  "uscp": false
 }

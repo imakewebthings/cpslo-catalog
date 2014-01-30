@@ -15,7 +15,11 @@ describe('Courses', function() {
           'units',
           'prerequisites',
           'corequisites',
-          'crnc'
+          'recommended',
+          'ges',
+          'crnc',
+          'gwr',
+          'uscp'
         ]).to.include.members(Object.keys(course));
       });
 
@@ -33,6 +37,10 @@ describe('Courses', function() {
 
       it('requires a 0 or positive number for units', function() {
         expect(parseInt(course.units, 10)).to.be.at.least(0);
+      });
+
+      it('requires ges be an array', function() {
+        expect(course.ges).to.be.an('array');
       });
     });
   });

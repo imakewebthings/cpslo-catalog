@@ -5,5 +5,11 @@
   "units": "4",
   "prerequisites": "Completion of ELM requirement and passing score on appropriate Mathematics Placement Examination",
   "corequisites": null,
-  "crnc": false
+  "recommended": null,
+  "ges": [
+    "B1"
+  ],
+  "crnc": false,
+  "gwr": false,
+  "uscp": false
 }

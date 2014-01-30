@@ -4,6 +4,10 @@
   "description": "Modern optical design with emphasis on the use of computers to design simple optical systems and to evaluate existing optical designs. Paraxial and exact ray tracing through thin and thick lenses, mirrors, and prisms. Radiometry and photometry. Electro-optic, acousto-optic, and magneto-optic modulators and their applications. Thermal detectors, semiconductor detectors, and charge coupled device (CCD) arrays. 3 lectures.",
   "units": "3",
   "prerequisites": "EE 335 or PHYS 323",
-  "corequisites": null,
-  "crnc": false
+  "corequisites": "EE 458",
+  "recommended": null,
+  "ges": [],
+  "crnc": false,
+  "gwr": false,
+  "uscp": false
 }

@@ -5,5 +5,9 @@
   "units": "4",
   "prerequisites": "FSN 210, CHEM 313 or CHEM 371, BIO 111 or BIO 161, junior standing",
   "corequisites": null,
-  "crnc": false
+  "recommended": null,
+  "ges": [],
+  "crnc": false,
+  "gwr": false,
+  "uscp": false
 }

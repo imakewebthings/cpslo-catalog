@@ -5,5 +5,9 @@
   "units": "4",
   "prerequisites": "CHEM 128 and CSC 231",
   "corequisites": null,
-  "crnc": false
+  "recommended": "ENVE 264",
+  "ges": [],
+  "crnc": false,
+  "gwr": false,
+  "uscp": false
 }

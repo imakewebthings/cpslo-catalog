@@ -5,5 +5,9 @@
   "units": "4",
   "prerequisites": "GE Area A, ECON 221 and BUS 207",
   "corequisites": null,
-  "crnc": false
+  "recommended": "STAT 252",
+  "ges": [],
+  "crnc": false,
+  "gwr": false,
+  "uscp": false
 }

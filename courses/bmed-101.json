@@ -5,5 +5,9 @@
   "units": "1",
   "prerequisites": "Biomedical or General Engineering Freshmen",
   "corequisites": null,
-  "crnc": false
+  "recommended": null,
+  "ges": [],
+  "crnc": false,
+  "gwr": false,
+  "uscp": false
 }

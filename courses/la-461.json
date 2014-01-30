@@ -5,5 +5,9 @@
   "units": "4",
   "prerequisites": "Completion of Design Focus Sequence (20 units from LA 402-LA 405)",
   "corequisites": null,
-  "crnc": false
+  "recommended": null,
+  "ges": [],
+  "crnc": false,
+  "gwr": false,
+  "uscp": false
 }

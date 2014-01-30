@@ -5,5 +5,9 @@
   "units": "4",
   "prerequisites": "A grade of C- or better in ECON 222",
   "corequisites": null,
-  "crnc": false
+  "recommended": null,
+  "ges": [],
+  "crnc": false,
+  "gwr": false,
+  "uscp": false
 }

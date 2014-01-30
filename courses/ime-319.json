@@ -5,5 +5,9 @@
   "units": "3",
   "prerequisites": "PSY 201 or PSY 202 or consent of instructor, and junior standing",
   "corequisites": null,
-  "crnc": false
+  "recommended": null,
+  "ges": [],
+  "crnc": false,
+  "gwr": false,
+  "uscp": false
 }

@@ -4,6 +4,10 @@
   "description": "Design of electronic systems and subsystems using analog and digital integrated circuits. Design principles and techniques. Analysis and design of feedback amplifiers; operational amplifier applications. Design of analog/digital and digital/analog converters. Power supply design. Emphasis on IC implementation. 3 lectures.",
   "units": "3",
   "prerequisites": "EE 308 & EE 348; CPE/EE 328 & CPE/EE 368; CPE/EE 329 or CPE/EE 336",
-  "corequisites": null,
-  "crnc": false
+  "corequisites": "EE 449",
+  "recommended": null,
+  "ges": [],
+  "crnc": false,
+  "gwr": false,
+  "uscp": false
 }

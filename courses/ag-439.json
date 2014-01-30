@@ -5,5 +5,9 @@
   "units": "6-12",
   "prerequisites": "Senior or graduate standing and consent of instructor; for students working and living at Swanton Pacific Ranch",
   "corequisites": null,
-  "crnc": false
+  "recommended": null,
+  "ges": [],
+  "crnc": true,
+  "gwr": false,
+  "uscp": false
 }

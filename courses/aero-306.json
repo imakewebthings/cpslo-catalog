@@ -4,6 +4,10 @@
   "description": "Introduction to theoretical aerodynamics. Primary emphasis in the subsonic region, including compressibility effects. Basic aerodynamic theory: Airfoil theory, wing theory, lift and drag. Team-centered aerodynamic design. Flight performance. 4 lectures.",
   "units": "4",
   "prerequisites": "AERO 215, AERO 301",
-  "corequisites": null,
-  "crnc": false
+  "corequisites": "AERO 302",
+  "recommended": null,
+  "ges": [],
+  "crnc": false,
+  "gwr": false,
+  "uscp": false
 }

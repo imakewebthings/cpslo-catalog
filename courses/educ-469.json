@@ -4,6 +4,10 @@
   "description": "Part-time assignment in a classroom (Single Subject only). Includes teaching activities under the direction of a selected cooperating teacher in consultation with a university supervisor. Assignment consists of an entire morning in the classroom (or the equivalent) for one quarter. Credit/No Credit grading only.",
   "units": "8",
   "prerequisites": "Completion of courses and requirements to begin student teaching and approval of campus screening committee for credential candidates",
-  "corequisites": null,
-  "crnc": false
+  "corequisites": "EDUC 416, EDUC 418, content seminar (except AGED)",
+  "recommended": null,
+  "ges": [],
+  "crnc": true,
+  "gwr": false,
+  "uscp": false
 }

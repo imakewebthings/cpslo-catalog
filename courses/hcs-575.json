@@ -5,5 +5,9 @@
   "units": "3",
   "prerequisites": "STAT 218 and senior or graduate standing",
   "corequisites": null,
-  "crnc": false
+  "recommended": null,
+  "ges": [],
+  "crnc": false,
+  "gwr": false,
+  "uscp": false
 }

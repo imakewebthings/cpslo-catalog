@@ -4,6 +4,10 @@
   "description": "Advanced laboratory study of LC and VCO oscillators, phase detectors, phase-locked loop circuits, transducer interface circuits, noise sources and signal-to-noise determination, ADC and DAC for data conversion. Formal experiments and computer SPICE simulation. 1 laboratory.",
   "units": "1",
   "prerequisites": "EE 314, EE 409 & EE 449",
-  "corequisites": null,
-  "crnc": false
+  "corequisites": "EE 412",
+  "recommended": null,
+  "ges": [],
+  "crnc": false,
+  "gwr": false,
+  "uscp": false
 }

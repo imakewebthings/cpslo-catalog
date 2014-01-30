@@ -5,5 +5,9 @@
   "units": "4",
   "prerequisites": "Sophomore standing; for Math majors or Science and Engineering majors only",
   "corequisites": null,
-  "crnc": false
+  "recommended": null,
+  "ges": [],
+  "crnc": true,
+  "gwr": false,
+  "uscp": false
 }

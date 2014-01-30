@@ -4,6 +4,12 @@
   "description": "Impact of one or two technologies in modern London. How they developed from the scientific/industrial revolution, as seen through London museums and industries. How solutions to modern problems are dependent on available technology. Specific technology chosen by instructor. 2 lectures, 2 activities. Fulfills GE Area F.",
   "units": "4",
   "prerequisites": "Junior standing and completion of GE Area B",
-  "corequisites": null,
-  "crnc": false
+  "corequisites": "Enrollment in London Study Program",
+  "recommended": null,
+  "ges": [
+    "F"
+  ],
+  "crnc": false,
+  "gwr": false,
+  "uscp": false
 }

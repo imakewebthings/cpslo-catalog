@@ -5,5 +5,9 @@
   "units": "3",
   "prerequisites": "COMS 460; for COMS majors only",
   "corequisites": null,
-  "crnc": false
+  "recommended": null,
+  "ges": [],
+  "crnc": false,
+  "gwr": false,
+  "uscp": false
 }

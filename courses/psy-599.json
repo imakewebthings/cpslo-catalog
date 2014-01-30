@@ -5,5 +5,9 @@
   "units": "2-4",
   "prerequisites": "PSY 585 and advancement to candidacy",
   "corequisites": null,
-  "crnc": false
+  "recommended": null,
+  "ges": [],
+  "crnc": false,
+  "gwr": false,
+  "uscp": false
 }

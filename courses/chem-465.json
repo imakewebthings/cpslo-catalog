@@ -5,5 +5,9 @@
   "units": "1-2",
   "prerequisites": "Junior standing, CHEM 231/331 (or permission of instructor), evidence of satisfactory preparation in chemistry; department chair approval required",
   "corequisites": null,
-  "crnc": false
+  "recommended": null,
+  "ges": [],
+  "crnc": true,
+  "gwr": false,
+  "uscp": false
 }

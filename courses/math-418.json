@@ -5,5 +5,9 @@
   "units": "4",
   "prerequisites": "MATH 344 or consent of instructor",
   "corequisites": null,
-  "crnc": false
+  "recommended": "MATH 304",
+  "ges": [],
+  "crnc": false,
+  "gwr": false,
+  "uscp": false
 }

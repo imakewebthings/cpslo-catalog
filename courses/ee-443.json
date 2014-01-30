@@ -4,6 +4,10 @@
   "description": "Experimental investigation of the properties of optical fibers, sources, and detectors. Measurement of fiber physical characteristics, attenuation, losses, and bandwidth. Evaluation of an analog and digital fiber optic data link. 1 laboratory.",
   "units": "1",
   "prerequisites": "EE 335 or PHYS 323",
-  "corequisites": null,
-  "crnc": false
+  "corequisites": "EE 403",
+  "recommended": null,
+  "ges": [],
+  "crnc": false,
+  "gwr": false,
+  "uscp": false
 }

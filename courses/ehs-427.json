@@ -5,5 +5,9 @@
   "units": "4",
   "prerequisites": "EHS 231, EHS 232, EHS 301",
   "corequisites": null,
-  "crnc": false
+  "recommended": "EHS 381",
+  "ges": [],
+  "crnc": false,
+  "gwr": false,
+  "uscp": false
 }

@@ -5,5 +5,9 @@
   "units": "1-4",
   "prerequisites": "BRAE 201 or consent of instructor",
   "corequisites": null,
-  "crnc": false
+  "recommended": null,
+  "ges": [],
+  "crnc": true,
+  "gwr": false,
+  "uscp": false
 }

@@ -5,5 +5,9 @@
   "units": "5",
   "prerequisites": "Admission into the Level I Special Education Credential Program and master's degree program in education",
   "corequisites": null,
-  "crnc": false
+  "recommended": null,
+  "ges": [],
+  "crnc": false,
+  "gwr": false,
+  "uscp": false
 }

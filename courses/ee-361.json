@@ -4,6 +4,10 @@
   "description": "Instrumentation amplifiers, feedback, rectifiers and power control, pulse and digital logic circuits. 1 laboratory.",
   "units": "1",
   "prerequisites": "EE 251 or BRAE 216 for BRAE majors",
-  "corequisites": null,
-  "crnc": false
+  "corequisites": "EE 321",
+  "recommended": null,
+  "ges": [],
+  "crnc": false,
+  "gwr": false,
+  "uscp": false
 }

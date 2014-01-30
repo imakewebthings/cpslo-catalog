@@ -5,5 +5,9 @@
   "units": "4",
   "prerequisites": "Fourth year standing or consent of instructor",
   "corequisites": null,
-  "crnc": false
+  "recommended": "Third year design and analysis courses; ARCE 302, ARCE 372",
+  "ges": [],
+  "crnc": false,
+  "gwr": false,
+  "uscp": false
 }

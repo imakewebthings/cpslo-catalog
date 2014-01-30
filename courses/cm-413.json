@@ -5,5 +5,9 @@
   "units": "5",
   "prerequisites": "CM 115, CM 214, CM 232, CM 313, CM 314, CM 334, CM 335, ARCE 212, and BUS 207",
   "corequisites": null,
-  "crnc": false
+  "recommended": null,
+  "ges": [],
+  "crnc": false,
+  "gwr": false,
+  "uscp": false
 }

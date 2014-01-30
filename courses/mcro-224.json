@@ -5,5 +5,12 @@
   "units": "5",
   "prerequisites": "BIO 161 and CHEM 111, CHEM 124 or CHEM 127",
   "corequisites": null,
-  "crnc": false
+  "recommended": "CHEM 128",
+  "ges": [
+    "B4",
+    "B2"
+  ],
+  "crnc": false,
+  "gwr": false,
+  "uscp": false
 }

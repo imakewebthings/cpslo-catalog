@@ -5,5 +5,9 @@
   "units": "5",
   "prerequisites": "Graduate standing in the Specialization in Stem Cell Research for the MS in Biological Sciences or for the MS in Biomedical Engineering, or the Animal Science Specialization in the MS in Agriculture, and BMED 510, BMED 545, BMED 515, and BIO 534",
   "corequisites": null,
-  "crnc": false
+  "recommended": null,
+  "ges": [],
+  "crnc": false,
+  "gwr": false,
+  "uscp": false
 }

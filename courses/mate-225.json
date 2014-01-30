@@ -4,6 +4,10 @@
   "description": "Process-structure relationships of materials. Introduction to materials characterization techniques including differential scanning calorimetry, x-ray diffraction, and metallography. Emphasis on materials engineering professional practices and written communication. 1 laboratory.",
   "units": "1",
   "prerequisites": "MATE 215",
-  "corequisites": null,
-  "crnc": false
+  "corequisites": "MATE 232",
+  "recommended": null,
+  "ges": [],
+  "crnc": false,
+  "gwr": false,
+  "uscp": false
 }

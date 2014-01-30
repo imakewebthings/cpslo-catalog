@@ -5,5 +5,9 @@
   "units": "1",
   "prerequisites": "MATH 142; PHYS 132, PHYS 133, PHYS 122, PHYS 123, PSC 102 or PSC 103; and consent of instructor",
   "corequisites": null,
-  "crnc": false
+  "recommended": null,
+  "ges": [],
+  "crnc": true,
+  "gwr": false,
+  "uscp": false
 }

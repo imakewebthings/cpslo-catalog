@@ -5,5 +5,9 @@
   "units": "4",
   "prerequisites": "Senior standing, PSY 201/202",
   "corequisites": "FSN 415",
-  "crnc": false
+  "recommended": null,
+  "ges": [],
+  "crnc": false,
+  "gwr": false,
+  "uscp": false
 }

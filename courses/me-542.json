@@ -5,5 +5,9 @@
   "units": "4",
   "prerequisites": "ME 303, ME 343, ME 347, MATH 244, and graduate standing or consent of instructor",
   "corequisites": null,
-  "crnc": false
+  "recommended": null,
+  "ges": [],
+  "crnc": false,
+  "gwr": false,
+  "uscp": false
 }

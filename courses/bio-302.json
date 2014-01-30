@@ -5,5 +5,11 @@
   "units": "4",
   "prerequisites": "One course from GE Area B1 ( Recommended: STAT 217 or STAT 218), and one course from GE Area B2",
   "corequisites": null,
-  "crnc": false
+  "recommended": "STAT 217 or STAT 218), and one course from GE Area B2",
+  "ges": [
+    "B5"
+  ],
+  "crnc": false,
+  "gwr": false,
+  "uscp": false
 }

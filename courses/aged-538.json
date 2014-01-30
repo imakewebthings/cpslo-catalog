@@ -5,5 +5,9 @@
   "units": "3",
   "prerequisites": "BIO 112 or BIO 115 or BIO 161; AGED 438; and either enrollment in MS degree in Agricultural Education or currently teaching agriscience",
   "corequisites": null,
-  "crnc": false
+  "recommended": null,
+  "ges": [],
+  "crnc": false,
+  "gwr": false,
+  "uscp": false
 }

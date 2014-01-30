@@ -5,5 +5,9 @@
   "units": "2",
   "prerequisites": "STAT 217 or STAT 218; junior standing and consent of instructor; WVIT majors only",
   "corequisites": null,
-  "crnc": false
+  "recommended": null,
+  "ges": [],
+  "crnc": false,
+  "gwr": false,
+  "uscp": false
 }

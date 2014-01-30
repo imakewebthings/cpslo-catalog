@@ -5,5 +5,9 @@
   "units": "1",
   "prerequisites": "AERO 331, AERO 431",
   "corequisites": null,
-  "crnc": false
+  "recommended": null,
+  "ges": [],
+  "crnc": false,
+  "gwr": false,
+  "uscp": false
 }

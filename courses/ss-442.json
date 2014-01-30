@@ -5,5 +5,9 @@
   "units": "4",
   "prerequisites": "CHEM 212/312 or CHEM 216/CHEM 316, GEOL 201; SS 121 or consent of instructor",
   "corequisites": null,
-  "crnc": false
+  "recommended": null,
+  "ges": [],
+  "crnc": false,
+  "gwr": false,
+  "uscp": false
 }

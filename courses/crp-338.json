@@ -5,5 +5,11 @@
   "units": "4",
   "prerequisites": "Junior standing; completion of Area B",
   "corequisites": null,
-  "crnc": false
+  "recommended": null,
+  "ges": [
+    "F"
+  ],
+  "crnc": false,
+  "gwr": false,
+  "uscp": false
 }

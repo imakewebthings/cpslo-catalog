@@ -5,5 +5,9 @@
   "units": "1",
   "prerequisites": "MATE 110",
   "corequisites": null,
-  "crnc": false
+  "recommended": null,
+  "ges": [],
+  "crnc": false,
+  "gwr": false,
+  "uscp": false
 }

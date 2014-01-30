@@ -5,5 +5,9 @@
   "units": "1-9",
   "prerequisites": "Consent of graduate advisor",
   "corequisites": null,
-  "crnc": false
+  "recommended": null,
+  "ges": [],
+  "crnc": false,
+  "gwr": false,
+  "uscp": false
 }

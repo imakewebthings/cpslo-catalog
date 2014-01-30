@@ -5,5 +5,9 @@
   "units": "2-4",
   "prerequisites": "Graduate standing and consent of Program Director",
   "corequisites": null,
-  "crnc": false
+  "recommended": null,
+  "ges": [],
+  "crnc": false,
+  "gwr": false,
+  "uscp": false
 }

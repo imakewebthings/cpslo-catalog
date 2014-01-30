@@ -4,6 +4,10 @@
   "description": "Physical production of final portfolio for the graduating senior. 1 laboratory.",
   "units": "1",
   "prerequisites": "Senior standing",
-  "corequisites": null,
-  "crnc": false
+  "corequisites": "ART 462",
+  "recommended": null,
+  "ges": [],
+  "crnc": false,
+  "gwr": false,
+  "uscp": false
 }

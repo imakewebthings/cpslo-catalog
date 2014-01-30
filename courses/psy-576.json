@@ -5,5 +5,9 @@
   "units": "4",
   "prerequisites": "PSY 569, PSY 564 and consent of MS program committee",
   "corequisites": null,
-  "crnc": false
+  "recommended": null,
+  "ges": [],
+  "crnc": true,
+  "gwr": false,
+  "uscp": false
 }

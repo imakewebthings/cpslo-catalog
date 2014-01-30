@@ -4,6 +4,10 @@
   "description": "Theory and application of climate, energy use and comfort as determinants of architectural form in small-scale buildings. Emphasis on architectural methods of ventilating, cooling, heating, and lighting for envelope-load dominated buildings. 2 lectures, 2 activities.",
   "units": "4",
   "prerequisites": "ARCH 242",
-  "corequisites": null,
-  "crnc": false
+  "corequisites": "ARCH 253",
+  "recommended": null,
+  "ges": [],
+  "crnc": false,
+  "gwr": false,
+  "uscp": false
 }

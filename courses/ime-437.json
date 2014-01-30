@@ -5,5 +5,9 @@
   "units": "3",
   "prerequisites": "IME 319 and either IME 326 or IME 503",
   "corequisites": null,
-  "crnc": false
+  "recommended": null,
+  "ges": [],
+  "crnc": false,
+  "gwr": false,
+  "uscp": false
 }

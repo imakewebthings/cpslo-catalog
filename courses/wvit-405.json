@@ -5,5 +5,9 @@
   "units": "4",
   "prerequisites": "WVIT 404; students must be at least 21 years in age",
   "corequisites": null,
-  "crnc": false
+  "recommended": null,
+  "ges": [],
+  "crnc": false,
+  "gwr": false,
+  "uscp": false
 }

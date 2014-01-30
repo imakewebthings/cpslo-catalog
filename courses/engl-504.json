@@ -5,5 +5,9 @@
   "units": "4",
   "prerequisites": "Graduate standing in English and one of the following: ENGL 290, ENGL 390, or ENGL 503, or consent of instructor",
   "corequisites": null,
-  "crnc": false
+  "recommended": null,
+  "ges": [],
+  "crnc": false,
+  "gwr": false,
+  "uscp": false
 }

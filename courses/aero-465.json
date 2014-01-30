@@ -5,5 +5,9 @@
   "units": "1",
   "prerequisites": "AERO 303, AERO 304, AERO 320, AERO 431 and Senior standing",
   "corequisites": null,
-  "crnc": false
+  "recommended": null,
+  "ges": [],
+  "crnc": false,
+  "gwr": false,
+  "uscp": false
 }

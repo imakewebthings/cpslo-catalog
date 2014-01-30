@@ -5,5 +5,9 @@
   "units": "4",
   "prerequisites": "EHS 123, EHS 231, and EHS 232 or NR 208 for FNR majors",
   "corequisites": null,
-  "crnc": false
+  "recommended": null,
+  "ges": [],
+  "crnc": false,
+  "gwr": false,
+  "uscp": false
 }

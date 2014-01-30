@@ -5,5 +5,9 @@
   "units": "4",
   "prerequisites": "STAT 218 or equivalent, or graduate standing in Biological Sciences",
   "corequisites": null,
-  "crnc": false
+  "recommended": "BIO 263 or BIO 325 or NR 306 or BOT 326",
+  "ges": [],
+  "crnc": false,
+  "gwr": false,
+  "uscp": false
 }

@@ -5,5 +5,9 @@
   "units": "4-8",
   "prerequisites": "Senior standing and/or consent of instructor",
   "corequisites": null,
-  "crnc": false
+  "recommended": null,
+  "ges": [],
+  "crnc": true,
+  "gwr": false,
+  "uscp": false
 }

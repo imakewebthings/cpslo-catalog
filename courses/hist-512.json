@@ -5,5 +5,9 @@
   "units": "2",
   "prerequisites": "HIST 504 and 12 units of graduate study",
   "corequisites": null,
-  "crnc": false
+  "recommended": null,
+  "ges": [],
+  "crnc": false,
+  "gwr": false,
+  "uscp": false
 }

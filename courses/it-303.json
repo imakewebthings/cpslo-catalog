@@ -5,5 +5,9 @@
   "units": "4",
   "prerequisites": "STAT 217, STAT 218, STAT 251, or any 300 or 400 level statistics course",
   "corequisites": null,
-  "crnc": false
+  "recommended": null,
+  "ges": [],
+  "crnc": false,
+  "gwr": false,
+  "uscp": false
 }

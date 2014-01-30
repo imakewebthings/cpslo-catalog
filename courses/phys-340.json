@@ -5,5 +5,9 @@
   "units": "2",
   "prerequisites": "PHYS 212 and PHYS 256",
   "corequisites": null,
-  "crnc": false
+  "recommended": null,
+  "ges": [],
+  "crnc": false,
+  "gwr": false,
+  "uscp": false
 }

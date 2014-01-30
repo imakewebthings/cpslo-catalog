@@ -5,5 +5,9 @@
   "units": "4",
   "prerequisites": "Completion of GE Areas A and C3 (TH 210 recommended); TH 210, TH 227, or TH 228 for Theatre majors",
   "corequisites": null,
-  "crnc": false
+  "recommended": "Junior standing",
+  "ges": [],
+  "crnc": false,
+  "gwr": false,
+  "uscp": true
 }

@@ -5,5 +5,9 @@
   "units": "3",
   "prerequisites": "ARCE 211 or ARCE 221 (C- or better required for ARCE Majors) and MATH 241",
   "corequisites": null,
-  "crnc": false
+  "recommended": null,
+  "ges": [],
+  "crnc": false,
+  "gwr": false,
+  "uscp": false
 }

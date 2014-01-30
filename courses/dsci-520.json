@@ -4,6 +4,10 @@
   "description": "Principles of unit operations involving heat and mass transfer including pasteurization and related thermal processes, centrifugal separation, concentration processes, churning and related high shear extrusion, fractionation processes, freezing, and drying technologies. Pneumatic and mechanical devices and systems. 2 lectures, 1 laboratory.",
   "units": "3",
   "prerequisites": "Admission to Master of Professional Studies program in Dairy Products Technology",
-  "corequisites": null,
-  "crnc": false
+  "corequisites": "DSCI 540",
+  "recommended": null,
+  "ges": [],
+  "crnc": false,
+  "gwr": false,
+  "uscp": false
 }

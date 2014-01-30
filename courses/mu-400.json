@@ -5,5 +5,9 @@
   "units": "1-2",
   "prerequisites": "Junior standing and consent of department head",
   "corequisites": null,
-  "crnc": false
+  "recommended": null,
+  "ges": [],
+  "crnc": false,
+  "gwr": false,
+  "uscp": false
 }

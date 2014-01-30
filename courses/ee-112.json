@@ -5,5 +5,9 @@
   "units": "2",
   "prerequisites": "MATH 142 or equivalent",
   "corequisites": null,
-  "crnc": false
+  "recommended": "EE 111/151",
+  "ges": [],
+  "crnc": false,
+  "gwr": false,
+  "uscp": false
 }

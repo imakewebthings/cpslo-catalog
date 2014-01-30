@@ -5,5 +5,9 @@
   "units": "4",
   "prerequisites": "Advanced C programming skills, CPE/EE 329 or CPE/EE 336 or equivalent, or consent of instructor",
   "corequisites": null,
-  "crnc": false
+  "recommended": null,
+  "ges": [],
+  "crnc": false,
+  "gwr": false,
+  "uscp": false
 }

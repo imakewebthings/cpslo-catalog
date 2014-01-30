@@ -4,6 +4,10 @@
   "description": "Clinical experiences involving observation; limited planning instruction, assessment and reflection; growth as a professional, and participation in other school-related activities in K-8 public school classrooms. Credit/No Credit grading only. Participation in public schools requires mandated fingerprint clearance.",
   "units": "4",
   "prerequisites": "Admission to the Multiple Subject Teacher Preparation (MSTEP) Program; EDUC 427 and EDUC 428",
-  "corequisites": null,
-  "crnc": false
+  "corequisites": "KINE 250 or KINE 443",
+  "recommended": "KINE 250 or KINE 443",
+  "ges": [],
+  "crnc": true,
+  "gwr": false,
+  "uscp": false
 }

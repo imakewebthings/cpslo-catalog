@@ -4,6 +4,10 @@
   "description": "Raw milk microbiological principles, pasteurization and microorganisms in diary foods safety, microbiological analysis of dairy products, fermented milks and cheese, starters and probiotics, commercial practices and sources of information for regulation on microbial aspects of dairy foods. 2 lectures, 2 laboratories.",
   "units": "4",
   "prerequisites": "Admission to Master of Professional Studies program in Dairy Products Technology",
-  "corequisites": null,
-  "crnc": false
+  "corequisites": "MCRO 221 or equivalent",
+  "recommended": "MCRO 221 or equivalent",
+  "ges": [],
+  "crnc": false,
+  "gwr": false,
+  "uscp": false
 }

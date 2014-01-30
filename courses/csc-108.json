@@ -5,5 +5,9 @@
   "units": "4",
   "prerequisites": "Math 118 (or equivalent) with a grade of C- or better, significant experience in computer programming, and consent of instructor",
   "corequisites": "CSC 141",
-  "crnc": false
+  "recommended": null,
+  "ges": [],
+  "crnc": false,
+  "gwr": false,
+  "uscp": false
 }

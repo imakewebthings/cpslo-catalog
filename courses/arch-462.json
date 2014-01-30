@@ -5,5 +5,9 @@
   "units": "3-4",
   "prerequisites": "ARCH 342 or consent of instructor",
   "corequisites": null,
-  "crnc": false
+  "recommended": null,
+  "ges": [],
+  "crnc": false,
+  "gwr": false,
+  "uscp": false
 }

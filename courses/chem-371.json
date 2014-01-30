@@ -5,5 +5,9 @@
   "units": "5",
   "prerequisites": "CHEM 217 or CHEM 317; and BIO 161",
   "corequisites": null,
-  "crnc": false
+  "recommended": "CHEM 231/331",
+  "ges": [],
+  "crnc": false,
+  "gwr": false,
+  "uscp": false
 }

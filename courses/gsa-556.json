@@ -1,9 +1,13 @@
 {
   "id": "gsa-556",
-  "title": "Financial Statement Analysis and Valuation",
-  "description": "Comprehensive coverage of selected topics on financial statement analysis and valuation. Topics include: security valuation, financial accounting analysis, financial ratio analysis, cash flow analysis, structured forecasting, credit analysis, the cost of capital, valuation models, valuation ratios, real option valuation, earnings quality. 4 lectures.",
+  "title": "Financial Accounting and Valuation",
+  "description": "Comprehensive coverage of approaches to the measurement of fair values that are used in accounting situations such as mergers and acquisitions, recognition of stock based compensation, and determination of impairments in the carrying amounts of long-lived assets including intangible assets and goodwill. Role of financial reporting in the valuation of securities, credit analysis, and the determination of the cost of capital. 4 lectures.",
   "units": "4",
   "prerequisites": "OCOB graduate standing or approval from the Associate Dean",
   "corequisites": null,
-  "crnc": false
+  "recommended": null,
+  "ges": [],
+  "crnc": false,
+  "gwr": false,
+  "uscp": false
 }

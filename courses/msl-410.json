@@ -5,5 +5,9 @@
   "units": "1",
   "prerequisites": "MSL 303 or MSL 310",
   "corequisites": null,
-  "crnc": false
+  "recommended": "MSL 314",
+  "ges": [],
+  "crnc": false,
+  "gwr": false,
+  "uscp": false
 }

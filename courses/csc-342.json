@@ -5,5 +5,9 @@
   "units": "3",
   "prerequisites": "MATH 143 and knowledge of a high level programming language, or ability to use one of the following systems: Maple, MatLab, Mathematica, or Mathcad",
   "corequisites": null,
-  "crnc": false
+  "recommended": null,
+  "ges": [],
+  "crnc": false,
+  "gwr": false,
+  "uscp": false
 }

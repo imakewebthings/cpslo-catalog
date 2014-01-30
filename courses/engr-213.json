@@ -5,5 +5,11 @@
   "units": "2",
   "prerequisites": "MATH 142; for engineering students only",
   "corequisites": "BIO 213",
-  "crnc": false
+  "recommended": "CHEM 124",
+  "ges": [
+    "B2"
+  ],
+  "crnc": false,
+  "gwr": false,
+  "uscp": false
 }

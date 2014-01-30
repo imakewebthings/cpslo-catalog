@@ -5,5 +5,9 @@
   "units": "4",
   "prerequisites": "CRP 501 or POLS 360 or consent of instructor",
   "corequisites": null,
-  "crnc": false
+  "recommended": null,
+  "ges": [],
+  "crnc": false,
+  "gwr": false,
+  "uscp": false
 }

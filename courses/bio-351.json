@@ -5,5 +5,9 @@
   "units": "5",
   "prerequisites": "BIO 161",
   "corequisites": "CHEM 216, CHEM 312 or CHEM 316",
-  "crnc": false
+  "recommended": "BIO 263",
+  "ges": [],
+  "crnc": false,
+  "gwr": false,
+  "uscp": false
 }

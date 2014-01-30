@@ -5,5 +5,9 @@
   "units": "5",
   "prerequisites": "PSY 323, Psychology and Child Development majors only, junior standing, and consent of instructor",
   "corequisites": null,
-  "crnc": false
+  "recommended": null,
+  "ges": [],
+  "crnc": true,
+  "gwr": false,
+  "uscp": false
 }

@@ -4,6 +4,10 @@
   "description": "Fieldwork in the secondary classroom related culturally responsive teaching in diverse classrooms for Agriculture Education candidates. Includes 1-3 hours of observation each week. Participation in public schools requires mandated fingerprint clearance. Credit/No Credit grading. 1 activity.",
   "units": "1",
   "prerequisites": null,
-  "corequisites": null,
-  "crnc": false
+  "corequisites": "EDUC 418",
+  "recommended": null,
+  "ges": [],
+  "crnc": true,
+  "gwr": false,
+  "uscp": false
 }

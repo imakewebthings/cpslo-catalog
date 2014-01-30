@@ -49,7 +49,7 @@ function parseDepartmentCourses(department) {
 function saveCourse(course) {
   var filename = path.resolve('courses', course.id + '.json');
   fs.writeFileSync(filename, JSON.stringify(course, null, 2));
-  console.log(filename + ' generated.');
+  console.log(course.id + ' generated.');
 }
 
 function parseCourse($element) {
@@ -60,7 +60,11 @@ function parseCourse($element) {
     units: parseCourseUnits($element),
     prerequisites: parseCoursePrerequisites($element),
     corequisites: parseCourseCorequisites($element),
-    crnc: parseCourseCrnc($element)
+    recommended: parseCourseRecommended($element),
+    ges: parseCourseGes($element),
+    crnc: parseCourseCrnc($element),
+    gwr: parseCourseGwr($element),
+    uscp: parseCourseUscp($element)
   };
 }
 
@@ -82,34 +86,74 @@ function parseCourseUnits($element) {
   return $element.find('.courseblockhours').text().split(' ')[0];
 }
 
-function parseCoursePrerequisites($element) {
-  var prereqs = null;
+function parseCourseExtendedString($element, precursor) {
+  var string = null;
   $element.find('.courseextendedwrap p').each(function() {
     var text = $(this).text();
-    if (text.indexOf('Prerequisite:') > -1) {
-      prereqs = text.split('Prerequisite: ')[1].split('.')[0];
+    if (text.indexOf(precursor) > -1) {
+      string = text.split(precursor)[1].split('.')[0].trim();
     }
   });
-  return prereqs;
+  return string;
+}
+
+function parseCoursePrerequisites($element) {
+  return parseCourseExtendedString($element, 'Prerequisite:');
+}
+
+function parseConcurrents($element) {
+  var string = null;
+  $element.find('.courseextendedwrap p').each(function() {
+    var text = $(this).text();
+    var match = text.match(/Concurrent.*:(.*)\./);
+    if (match) {
+      string = match[1].trim();
+    }
+  });
+  return string;
 }
 
 function parseCourseCorequisites($element) {
-  var coreqs = null;
+  var coreqs = parseCourseExtendedString($element, 'Corequisite:');
+  var concurrents = parseConcurrents($element);
+  return coreqs || concurrents;
+}
+
+function parseCourseRecommended($element) {
+  return parseCourseExtendedString($element, 'Recommended:');
+}
+
+function parseExtendedBoolean($element, word) {
+  var match = false;
   $element.find('.courseextendedwrap p').each(function() {
-    var text = $(this).text();
-    if (text.indexOf('Corequisite:') > -1) {
-      coreqs = text.split('Corequisite: ')[1].split('.')[0];
+    if ($(this).text().indexOf(word) > -1) {
+      match = true;
     }
   });
-  return coreqs;
+  return match;
+}
+
+function parseCourseGes($element) {
+  var ges = [];
+  $element.find('.courseextendedwrap p').each(function() {
+    var text = $(this).text();
+    if (text.indexOf('GE Area') === 0) {
+      ges = text.split(';').map(function(area) {
+        return area.replace(/GE Area/, '').trim();
+      });
+    }
+  });
+  return ges;
 }
 
 function parseCourseCrnc($element) {
-  var crnc = false;
-  $element.find('courseextendedwrap p').each(function() {
-    if ($(this).text() === 'CR/NC') {
-      crnc = true;
-    }
-  });
-  return crnc;
+  return parseExtendedBoolean($element, 'CR/NC');
+}
+
+function parseCourseGwr($element) {
+  return parseExtendedBoolean($element, 'GWR');
+}
+
+function parseCourseUscp($element) {
+  return parseExtendedBoolean($element, 'USCP');
 }

@@ -5,5 +5,9 @@
   "units": "3",
   "prerequisites": "ARCE 371 for ARCE majors (with C- or better); ARCE 223 and ARCE 226 for ARCE minors",
   "corequisites": null,
-  "crnc": false
+  "recommended": null,
+  "ges": [],
+  "crnc": false,
+  "gwr": false,
+  "uscp": false
 }

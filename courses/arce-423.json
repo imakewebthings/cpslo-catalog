@@ -5,5 +5,9 @@
   "units": "3",
   "prerequisites": "ARCE 422 and ARCE 444 (C- or better required for ARCE Majors)",
   "corequisites": null,
-  "crnc": false
+  "recommended": null,
+  "ges": [],
+  "crnc": false,
+  "gwr": false,
+  "uscp": false
 }

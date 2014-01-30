@@ -5,5 +5,9 @@
   "units": "3",
   "prerequisites": "MATH 241 (or concurrently), PHYS 131 or PHYS 141",
   "corequisites": null,
-  "crnc": false
+  "recommended": null,
+  "ges": [],
+  "crnc": false,
+  "gwr": false,
+  "uscp": false
 }

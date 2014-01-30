@@ -5,5 +5,9 @@
   "units": "5",
   "prerequisites": "ERSC 223, CHEM 129, CHEM 212/312 or CHEM 216/316, MATH 118 or MATH 141",
   "corequisites": null,
-  "crnc": false
+  "recommended": null,
+  "ges": [],
+  "crnc": false,
+  "gwr": false,
+  "uscp": false
 }

@@ -5,5 +5,9 @@
   "units": "4",
   "prerequisites": "AERO 522, AERO 530 and AERO 550, graduate standing or consent of instructor",
   "corequisites": null,
-  "crnc": false
+  "recommended": null,
+  "ges": [],
+  "crnc": false,
+  "gwr": false,
+  "uscp": false
 }

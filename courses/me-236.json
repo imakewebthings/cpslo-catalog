@@ -4,6 +4,10 @@
   "description": "Introduction to principles and practice of measurement. Application of probability distributions, sampling, confidence intervals, uncertainty, and regression analysis to engineering experiments and design. Techniques for measuring common physical quantities such as temperature, pressure, and strain. Introduction to laboratory report writing and communication of technical data. 2 lectures, 1 laboratory.",
   "units": "3",
   "prerequisites": "Engineering majors",
-  "corequisites": null,
-  "crnc": false
+  "corequisites": "ENGL 134, CHEM 125, PHYS 131",
+  "recommended": "ENGL 134, CHEM 125, PHYS 131",
+  "ges": [],
+  "crnc": false,
+  "gwr": false,
+  "uscp": false
 }

@@ -5,5 +5,9 @@
   "units": "3",
   "prerequisites": "RPTA 210 or RPTA 260 with C- or better and consent of instructor",
   "corequisites": null,
-  "crnc": false
+  "recommended": null,
+  "ges": [],
+  "crnc": true,
+  "gwr": false,
+  "uscp": false
 }

@@ -4,6 +4,10 @@
   "description": "Analysis and design of integrated circuits for use in analog applications. Gain, frequency response, and feedback of linear small-signal amplifiers. 3 lectures.",
   "units": "3",
   "prerequisites": "EE 302 & EE 342, EE 307 & EE 347",
-  "corequisites": null,
-  "crnc": false
+  "corequisites": "EE 348",
+  "recommended": null,
+  "ges": [],
+  "crnc": false,
+  "gwr": false,
+  "uscp": false
 }

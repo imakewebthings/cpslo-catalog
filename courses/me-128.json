@@ -5,5 +5,9 @@
   "units": "1",
   "prerequisites": "Mechanical Engineering student; first quarter of freshman year",
   "corequisites": null,
-  "crnc": false
+  "recommended": null,
+  "ges": [],
+  "crnc": false,
+  "gwr": false,
+  "uscp": false
 }

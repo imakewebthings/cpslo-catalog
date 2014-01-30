@@ -5,5 +5,9 @@
   "units": "1-4",
   "prerequisites": "FSN 201 and junior standing and consent of instructor",
   "corequisites": null,
-  "crnc": false
+  "recommended": null,
+  "ges": [],
+  "crnc": false,
+  "gwr": false,
+  "uscp": false
 }

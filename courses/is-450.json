@@ -5,5 +5,9 @@
   "units": "4",
   "prerequisites": "Admission to Adult Degree Program (Bachelor of Arts in Interdisciplinary Studies), IS 301 and IS 302 with a minimum grade of C-",
   "corequisites": null,
-  "crnc": false
+  "recommended": null,
+  "ges": [],
+  "crnc": false,
+  "gwr": false,
+  "uscp": false
 }

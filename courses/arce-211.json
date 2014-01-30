@@ -5,5 +5,9 @@
   "units": "3",
   "prerequisites": "For ARCE majors: PHYS 141, MATH 142; for ARCH and CM majors: PHYS 121 or PHYS 141, MATH 142 or MATH 182",
   "corequisites": null,
-  "crnc": false
+  "recommended": null,
+  "ges": [],
+  "crnc": false,
+  "gwr": false,
+  "uscp": false
 }

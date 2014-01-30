@@ -5,5 +5,9 @@
   "units": "4",
   "prerequisites": "Junior standing, or consent of instructor",
   "corequisites": null,
-  "crnc": false
+  "recommended": "SOC 110, SOC 111",
+  "ges": [],
+  "crnc": false,
+  "gwr": false,
+  "uscp": false
 }

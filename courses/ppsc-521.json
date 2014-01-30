@@ -5,5 +5,9 @@
   "units": "4",
   "prerequisites": "BOT 323 or BOT 324, and PPSC 311 or ZOO 335, and graduate standing",
   "corequisites": null,
-  "crnc": false
+  "recommended": null,
+  "ges": [],
+  "crnc": false,
+  "gwr": false,
+  "uscp": false
 }

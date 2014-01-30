@@ -5,5 +5,11 @@
   "units": "5",
   "prerequisites": "STAT 251 with a minimum grade of C- or consent of instructor",
   "corequisites": null,
-  "crnc": false
+  "recommended": null,
+  "ges": [
+    "B1"
+  ],
+  "crnc": false,
+  "gwr": false,
+  "uscp": false
 }

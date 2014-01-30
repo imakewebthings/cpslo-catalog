@@ -5,5 +5,9 @@
   "units": "3",
   "prerequisites": "AGED 438 or consent of instructor, enrollment in agriculture teaching credential program or MS degree in Agricultural Education, or current agriculture teacher; undergraduate biology course (BIO 111 or equivalent)",
   "corequisites": null,
-  "crnc": false
+  "recommended": null,
+  "ges": [],
+  "crnc": false,
+  "gwr": false,
+  "uscp": false
 }

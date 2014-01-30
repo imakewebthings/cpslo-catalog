@@ -5,5 +5,9 @@
   "units": "5",
   "prerequisites": "Acceptance into Level I Special Education Credential Program and MA in Education, EDUC 440, EDUC 446",
   "corequisites": null,
-  "crnc": false
+  "recommended": null,
+  "ges": [],
+  "crnc": false,
+  "gwr": false,
+  "uscp": false
 }

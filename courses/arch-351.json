@@ -5,5 +5,9 @@
   "units": "5",
   "prerequisites": "ARCE 212, ARCH 253, ARCH 207 and PHYS 122 or PHYS 132, or consent of department head",
   "corequisites": "ARCH 341",
-  "crnc": false
+  "recommended": null,
+  "ges": [],
+  "crnc": false,
+  "gwr": false,
+  "uscp": false
 }

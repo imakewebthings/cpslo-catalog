@@ -5,5 +5,9 @@
   "units": "2-5",
   "prerequisites": "FPE 504, advanced graduate standing, completion of, or concurrent enrollment in, engineering courses in program, and consent of instructor",
   "corequisites": null,
-  "crnc": false
+  "recommended": null,
+  "ges": [],
+  "crnc": false,
+  "gwr": false,
+  "uscp": false
 }

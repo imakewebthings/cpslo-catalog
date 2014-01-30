@@ -4,6 +4,10 @@
   "description": "Discussion of contemporary educational issues, national education policies and expectations for effective classroom practice; reflection on advanced clinical experiences in elementary education and their connection with educational theory and research. Credit/No Credit grading. 3 seminars.",
   "units": "3",
   "prerequisites": "EDUC 454 and EDUC 455",
-  "corequisites": null,
-  "crnc": false
+  "corequisites": "EDUC 456",
+  "recommended": null,
+  "ges": [],
+  "crnc": true,
+  "gwr": false,
+  "uscp": false
 }

@@ -4,6 +4,10 @@
   "description": "Advanced laboratory study of sensitivity and stability of active networks prescribed for realization of transfer functions by active network synthesis techniques. Formal experiments and individual project work. 1 laboratory.",
   "units": "1",
   "prerequisites": "EE 409 & EE 449",
-  "corequisites": null,
-  "crnc": false
+  "corequisites": "EE 425",
+  "recommended": null,
+  "ges": [],
+  "crnc": false,
+  "gwr": false,
+  "uscp": false
 }

@@ -5,5 +5,9 @@
   "units": "3",
   "prerequisites": "FSN 121 and junior standing",
   "corequisites": null,
-  "crnc": false
+  "recommended": null,
+  "ges": [],
+  "crnc": false,
+  "gwr": false,
+  "uscp": false
 }

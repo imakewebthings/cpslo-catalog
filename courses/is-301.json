@@ -5,5 +5,9 @@
   "units": "4",
   "prerequisites": "Admission to the Adult Degree Program (Bachelor of Arts in Interdisciplinary Studies) prior to enrolling in this seminar",
   "corequisites": null,
-  "crnc": false
+  "recommended": null,
+  "ges": [],
+  "crnc": false,
+  "gwr": false,
+  "uscp": false
 }

@@ -5,5 +5,9 @@
   "units": "4",
   "prerequisites": "BIO 160 and BIO 263; BIO 325 or BIO 327 or BIO 328 or BIO 401 or BOT 326, or Graduate standing in Biological Sciences",
   "corequisites": null,
-  "crnc": false
+  "recommended": "PSC 201",
+  "ges": [],
+  "crnc": false,
+  "gwr": false,
+  "uscp": false
 }

@@ -5,5 +5,9 @@
   "units": "3",
   "prerequisites": "CM 413",
   "corequisites": "CM 443",
-  "crnc": false
+  "recommended": null,
+  "ges": [],
+  "crnc": false,
+  "gwr": false,
+  "uscp": false
 }

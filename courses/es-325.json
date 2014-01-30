@@ -5,5 +5,9 @@
   "units": "4",
   "prerequisites": "Completion of a course in GE Area D1 or D3",
   "corequisites": null,
-  "crnc": false
+  "recommended": "ES 112 or ES 212",
+  "ges": [],
+  "crnc": false,
+  "gwr": false,
+  "uscp": true
 }

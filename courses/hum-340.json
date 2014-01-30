@@ -5,5 +5,9 @@
   "units": "4",
   "prerequisites": "HUM 240 and permission of Media Arts and Technologies minor coordinator",
   "corequisites": null,
-  "crnc": false
+  "recommended": null,
+  "ges": [],
+  "crnc": false,
+  "gwr": false,
+  "uscp": false
 }

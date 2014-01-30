@@ -5,5 +5,9 @@
   "units": "4",
   "prerequisites": "BRAE 129, MATH 142, PHYS 131",
   "corequisites": null,
-  "crnc": false
+  "recommended": null,
+  "ges": [],
+  "crnc": false,
+  "gwr": false,
+  "uscp": false
 }

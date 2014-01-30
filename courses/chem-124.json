@@ -5,5 +5,12 @@
   "units": "4",
   "prerequisites": "Passing score on ELM, or an ELM exemption, or credit in MATH 104",
   "corequisites": null,
-  "crnc": false
+  "recommended": "High school chemistry or CHEM 106 or equivalent",
+  "ges": [
+    "B3",
+    "B4"
+  ],
+  "crnc": false,
+  "gwr": false,
+  "uscp": false
 }

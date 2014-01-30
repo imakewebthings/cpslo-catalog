@@ -5,5 +5,9 @@
   "units": "4",
   "prerequisites": "CSC/CPE 357, and CSC/CPE 225 or CPE/EE 229 or CPE/EE 233",
   "corequisites": null,
-  "crnc": false
+  "recommended": null,
+  "ges": [],
+  "crnc": false,
+  "gwr": false,
+  "uscp": false
 }

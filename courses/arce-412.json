@@ -4,6 +4,10 @@
   "description": "Analysis of structures subjected to dynamic loads with single- and multi-degrees of freedom. Development of techniques for analysis of structures in response to time varying loads. 3 lectures.",
   "units": "3",
   "prerequisites": "ARCE 225 (C- or better required for ARCE Majors) or ME 212, MATH 244, and ARCE 306 (C- or better required for ARCE Majors)",
-  "corequisites": null,
-  "crnc": false
+  "corequisites": "ARCE 354",
+  "recommended": null,
+  "ges": [],
+  "crnc": false,
+  "gwr": false,
+  "uscp": false
 }

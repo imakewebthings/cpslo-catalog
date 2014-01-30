@@ -5,5 +5,9 @@
   "units": "5",
   "prerequisites": "ARCE 316, ARCH 353, ARCH 342",
   "corequisites": null,
-  "crnc": false
+  "recommended": null,
+  "ges": [],
+  "crnc": false,
+  "gwr": false,
+  "uscp": false
 }

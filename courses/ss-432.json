@@ -5,5 +5,9 @@
   "units": "5",
   "prerequisites": "SS 121, PHYS 121 or PHYS 141, CHEM 128, MATH 118 or MATH 141, or consent of instructor",
   "corequisites": null,
-  "crnc": false
+  "recommended": null,
+  "ges": [],
+  "crnc": false,
+  "gwr": false,
+  "uscp": false
 }

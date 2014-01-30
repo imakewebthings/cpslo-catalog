@@ -5,5 +5,9 @@
   "units": "4",
   "prerequisites": "IME 144, IME 223, IME 405 or IME 342, IME 314, or equivalent",
   "corequisites": null,
-  "crnc": false
+  "recommended": "IME 319, IME 420",
+  "ges": [],
+  "crnc": false,
+  "gwr": false,
+  "uscp": false
 }
