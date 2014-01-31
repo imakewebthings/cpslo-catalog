@@ -1,0 +1,14 @@
+{
+  "prefix": "edes",
+  "title": "Environmental Design",
+  "courses": [
+    "edes-101",
+    "edes-333",
+    "edes-350",
+    "edes-406",
+    "edes-408",
+    "edes-410",
+    "edes-420",
+    "edes-430"
+  ]
+}

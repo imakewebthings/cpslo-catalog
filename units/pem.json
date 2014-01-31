@@ -1,0 +1,16 @@
+{
+  "prefix": "pem",
+  "title": "Physical Education: Men",
+  "courses": [
+    "pem-182",
+    "pem-183",
+    "pem-184",
+    "pem-185",
+    "pem-189",
+    "pem-191",
+    "pem-192",
+    "pem-193",
+    "pem-195",
+    "pem-196"
+  ]
+}

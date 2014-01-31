@@ -1,0 +1,19 @@
+{
+  "prefix": "laes",
+  "title": "Liberal Arts and Engineering Studies",
+  "courses": [
+    "laes-200",
+    "laes-270",
+    "laes-301",
+    "laes-302",
+    "laes-400",
+    "laes-411",
+    "laes-430",
+    "laes-461",
+    "laes-462",
+    "laes-470",
+    "laes-471",
+    "laes-485",
+    "laes-495"
+  ]
+}

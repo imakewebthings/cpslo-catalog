@@ -1,0 +1,21 @@
+{
+  "prefix": "zoo",
+  "title": "Zoology",
+  "courses": [
+    "zoo-231",
+    "zoo-232",
+    "zoo-321",
+    "zoo-322",
+    "zoo-323",
+    "zoo-324",
+    "zoo-329",
+    "zoo-331",
+    "zoo-332",
+    "zoo-335",
+    "zoo-336",
+    "zoo-341",
+    "zoo-422",
+    "zoo-425",
+    "zoo-428"
+  ]
+}

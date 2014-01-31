@@ -1,0 +1,19 @@
+{
+  "prefix": "ppsc",
+  "title": "Plant Protection Science",
+  "courses": [
+    "ppsc-110",
+    "ppsc-311",
+    "ppsc-321",
+    "ppsc-327",
+    "ppsc-405",
+    "ppsc-414",
+    "ppsc-421",
+    "ppsc-427",
+    "ppsc-431",
+    "ppsc-441",
+    "ppsc-511",
+    "ppsc-521",
+    "ppsc-599"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "prefix": "msl",
+  "title": "Military Science Leadership",
+  "courses": [
+    "msl-101",
+    "msl-102",
+    "msl-103",
+    "msl-110",
+    "msl-111",
+    "msl-112",
+    "msl-201",
+    "msl-202",
+    "msl-203",
+    "msl-212",
+    "msl-229",
+    "msl-240",
+    "msl-270",
+    "msl-275",
+    "msl-301",
+    "msl-302",
+    "msl-303",
+    "msl-310",
+    "msl-312",
+    "msl-314",
+    "msl-400",
+    "msl-401",
+    "msl-402",
+    "msl-403",
+    "msl-410",
+    "msl-412",
+    "msl-470"
+  ]
+}

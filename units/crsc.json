@@ -1,0 +1,15 @@
+{
+  "prefix": "crsc",
+  "title": "Crop Science",
+  "courses": [
+    "crsc-123",
+    "crsc-203",
+    "crsc-244",
+    "crsc-333",
+    "crsc-402",
+    "crsc-411",
+    "crsc-445",
+    "crsc-581",
+    "crsc-599"
+  ]
+}

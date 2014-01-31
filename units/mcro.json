@@ -1,0 +1,18 @@
+{
+  "prefix": "mcro",
+  "title": "Microbiology",
+  "courses": [
+    "mcro-221",
+    "mcro-224",
+    "mcro-225",
+    "mcro-301",
+    "mcro-320",
+    "mcro-342",
+    "mcro-402",
+    "mcro-421",
+    "mcro-423",
+    "mcro-424",
+    "mcro-433",
+    "mcro-436"
+  ]
+}

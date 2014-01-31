@@ -1,0 +1,13 @@
+{
+  "prefix": "socs",
+  "title": "Social Sciences",
+  "courses": [
+    "socs-200",
+    "socs-400",
+    "socs-440",
+    "socs-461",
+    "socs-462",
+    "socs-485",
+    "socs-495"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "prefix": "scm",
+  "title": "College of Science and Mathematics",
+  "courses": [
+    "scm-100",
+    "scm-101",
+    "scm-150",
+    "scm-201",
+    "scm-220",
+    "scm-230",
+    "scm-270",
+    "scm-300",
+    "scm-302",
+    "scm-320",
+    "scm-325",
+    "scm-330",
+    "scm-335",
+    "scm-350",
+    "scm-363",
+    "scm-401",
+    "scm-451",
+    "scm-470",
+    "scm-471",
+    "scm-491",
+    "scm-593"
+  ]
+}

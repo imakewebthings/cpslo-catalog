@@ -1,0 +1,28 @@
+{
+  "prefix": "hum",
+  "title": "Humanities",
+  "courses": [
+    "hum-240",
+    "hum-302",
+    "hum-303",
+    "hum-310",
+    "hum-312",
+    "hum-315",
+    "hum-316",
+    "hum-317",
+    "hum-318",
+    "hum-319",
+    "hum-320",
+    "hum-330",
+    "hum-340",
+    "hum-341",
+    "hum-350",
+    "hum-361",
+    "hum-400",
+    "hum-450",
+    "hum-451",
+    "hum-470",
+    "hum-480",
+    "hum-490"
+  ]
+}

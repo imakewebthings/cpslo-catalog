@@ -1,0 +1,15 @@
+{
+  "prefix": "dmhs",
+  "title": "Disaster Management and Homeland Security",
+  "courses": [
+    "dmhs-351",
+    "dmhs-352",
+    "dmhs-353",
+    "dmhs-400",
+    "dmhs-401",
+    "dmhs-405",
+    "dmhs-432",
+    "dmhs-470",
+    "dmhs-471"
+  ]
+}

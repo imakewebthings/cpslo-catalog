@@ -1,0 +1,11 @@
+{
+  "prefix": "vgsc",
+  "title": "Vegetable Science",
+  "courses": [
+    "vgsc-190",
+    "vgsc-202",
+    "vgsc-230",
+    "vgsc-402",
+    "vgsc-423"
+  ]
+}

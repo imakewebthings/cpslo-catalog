@@ -1,0 +1,12 @@
+{
+  "prefix": "chin",
+  "title": "Chinese",
+  "courses": [
+    "chin-101",
+    "chin-102",
+    "chin-103",
+    "chin-201",
+    "chin-202",
+    "chin-203"
+  ]
+}

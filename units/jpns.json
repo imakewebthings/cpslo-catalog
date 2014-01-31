@@ -1,0 +1,10 @@
+{
+  "prefix": "jpns",
+  "title": "Japanese",
+  "courses": [
+    "jpns-101",
+    "jpns-102",
+    "jpns-103",
+    "jpns-201"
+  ]
+}

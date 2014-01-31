@@ -1,0 +1,19 @@
+{
+  "prefix": "univ",
+  "title": "University Studies",
+  "courses": [
+    "univ-125",
+    "univ-321",
+    "univ-330",
+    "univ-333",
+    "univ-339",
+    "univ-350",
+    "univ-361",
+    "univ-391",
+    "univ-392",
+    "univ-424",
+    "univ-470",
+    "univ-491",
+    "univ-492"
+  ]
+}

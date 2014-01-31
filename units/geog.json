@@ -1,0 +1,31 @@
+{
+  "prefix": "geog",
+  "title": "Geography",
+  "courses": [
+    "geog-150",
+    "geog-200",
+    "geog-250",
+    "geog-270",
+    "geog-300",
+    "geog-301",
+    "geog-308",
+    "geog-317",
+    "geog-318",
+    "geog-325",
+    "geog-328",
+    "geog-333",
+    "geog-340",
+    "geog-370",
+    "geog-400",
+    "geog-408",
+    "geog-414",
+    "geog-415",
+    "geog-440",
+    "geog-455",
+    "geog-461",
+    "geog-462",
+    "geog-464",
+    "geog-465",
+    "geog-470"
+  ]
+}

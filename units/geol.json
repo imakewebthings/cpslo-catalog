@@ -1,0 +1,25 @@
+{
+  "prefix": "geol",
+  "title": "Geology",
+  "courses": [
+    "geol-102",
+    "geol-200",
+    "geol-201",
+    "geol-203",
+    "geol-204",
+    "geol-205",
+    "geol-206",
+    "geol-241",
+    "geol-270",
+    "geol-305",
+    "geol-310",
+    "geol-330",
+    "geol-400",
+    "geol-401",
+    "geol-402",
+    "geol-415",
+    "geol-420",
+    "geol-470",
+    "geol-471"
+  ]
+}

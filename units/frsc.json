@@ -1,0 +1,19 @@
+{
+  "prefix": "frsc",
+  "title": "Fruit Science",
+  "courses": [
+    "frsc-123",
+    "frsc-132",
+    "frsc-133",
+    "frsc-202",
+    "frsc-210",
+    "frsc-230",
+    "frsc-231",
+    "frsc-311",
+    "frsc-331",
+    "frsc-342",
+    "frsc-402",
+    "frsc-415",
+    "frsc-599"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "prefix": "ant",
+  "title": "Anthropology",
+  "courses": [
+    "ant-200",
+    "ant-201",
+    "ant-202",
+    "ant-250",
+    "ant-270",
+    "ant-309",
+    "ant-310",
+    "ant-311",
+    "ant-312",
+    "ant-320",
+    "ant-325",
+    "ant-330",
+    "ant-344",
+    "ant-345",
+    "ant-360",
+    "ant-400",
+    "ant-401",
+    "ant-402",
+    "ant-415",
+    "ant-425",
+    "ant-455",
+    "ant-461",
+    "ant-462",
+    "ant-464",
+    "ant-465",
+    "ant-470"
+  ]
+}

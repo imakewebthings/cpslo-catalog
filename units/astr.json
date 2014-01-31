@@ -1,0 +1,19 @@
+{
+  "prefix": "astr",
+  "title": "Astronomy and Astrophysics",
+  "courses": [
+    "astr-101",
+    "astr-102",
+    "astr-112",
+    "astr-200",
+    "astr-270",
+    "astr-301",
+    "astr-302",
+    "astr-324",
+    "astr-326",
+    "astr-400",
+    "astr-444",
+    "astr-470",
+    "astr-471"
+  ]
+}

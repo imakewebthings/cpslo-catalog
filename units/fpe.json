@@ -1,0 +1,22 @@
+{
+  "prefix": "fpe",
+  "title": "Fire Protection Engineering",
+  "courses": [
+    "fpe-500",
+    "fpe-501",
+    "fpe-502",
+    "fpe-503",
+    "fpe-504",
+    "fpe-521",
+    "fpe-522",
+    "fpe-523",
+    "fpe-524",
+    "fpe-551",
+    "fpe-552",
+    "fpe-554",
+    "fpe-555",
+    "fpe-556",
+    "fpe-596",
+    "fpe-599"
+  ]
+}

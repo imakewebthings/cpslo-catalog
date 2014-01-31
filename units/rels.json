@@ -1,0 +1,24 @@
+{
+  "prefix": "rels",
+  "title": "Religious Studies",
+  "courses": [
+    "rels-201",
+    "rels-205",
+    "rels-270",
+    "rels-301",
+    "rels-302",
+    "rels-304",
+    "rels-306",
+    "rels-307",
+    "rels-310",
+    "rels-311",
+    "rels-344",
+    "rels-370",
+    "rels-372",
+    "rels-374",
+    "rels-378",
+    "rels-380",
+    "rels-400",
+    "rels-470"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "prefix": "ersc",
+  "title": "Earth Science",
+  "courses": [
+    "ersc-110",
+    "ersc-144",
+    "ersc-200",
+    "ersc-202",
+    "ersc-223",
+    "ersc-250",
+    "ersc-270",
+    "ersc-301",
+    "ersc-323",
+    "ersc-325",
+    "ersc-333",
+    "ersc-339",
+    "ersc-400",
+    "ersc-401",
+    "ersc-402",
+    "ersc-414",
+    "ersc-415",
+    "ersc-461",
+    "ersc-462",
+    "ersc-463",
+    "ersc-470",
+    "ersc-471",
+    "ersc-544",
+    "ersc-570",
+    "ersc-571"
+  ]
+}

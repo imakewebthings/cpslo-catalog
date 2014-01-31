@@ -1,0 +1,10 @@
+{
+  "prefix": "ital",
+  "title": "Italian",
+  "courses": [
+    "ital-101",
+    "ital-102",
+    "ital-103",
+    "ital-201"
+  ]
+}

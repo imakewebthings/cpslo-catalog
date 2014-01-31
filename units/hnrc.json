@@ -1,0 +1,10 @@
+{
+  "prefix": "hnrc",
+  "title": "Honors Contract",
+  "courses": [
+    "hnrc-199",
+    "hnrc-200",
+    "hnrc-399",
+    "hnrc-400"
+  ]
+}

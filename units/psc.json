@@ -1,0 +1,14 @@
+{
+  "prefix": "psc",
+  "title": "Physical Science",
+  "courses": [
+    "psc-101",
+    "psc-102",
+    "psc-103",
+    "psc-201",
+    "psc-307",
+    "psc-320",
+    "psc-424",
+    "psc-461"
+  ]
+}

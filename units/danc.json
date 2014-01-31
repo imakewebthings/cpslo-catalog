@@ -1,0 +1,31 @@
+{
+  "prefix": "danc",
+  "title": "Dance",
+  "courses": [
+    "danc-130",
+    "danc-131",
+    "danc-132",
+    "danc-133",
+    "danc-134",
+    "danc-135",
+    "danc-139",
+    "danc-221",
+    "danc-231",
+    "danc-232",
+    "danc-233",
+    "danc-234",
+    "danc-270",
+    "danc-280",
+    "danc-311",
+    "danc-321",
+    "danc-331",
+    "danc-332",
+    "danc-340",
+    "danc-345",
+    "danc-346",
+    "danc-381",
+    "danc-400",
+    "danc-470",
+    "danc-471"
+  ]
+}

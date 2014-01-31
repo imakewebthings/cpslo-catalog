@@ -1,0 +1,31 @@
+{
+  "prefix": "hcs",
+  "title": "Horticulture and Crop Science",
+  "courses": [
+    "hcs-110",
+    "hcs-120",
+    "hcs-124",
+    "hcs-200",
+    "hcs-231",
+    "hcs-270",
+    "hcs-304",
+    "hcs-327",
+    "hcs-329",
+    "hcs-339",
+    "hcs-340",
+    "hcs-400",
+    "hcs-410",
+    "hcs-421",
+    "hcs-461",
+    "hcs-462",
+    "hcs-463",
+    "hcs-470",
+    "hcs-471",
+    "hcs-500",
+    "hcs-511",
+    "hcs-539",
+    "hcs-570",
+    "hcs-571",
+    "hcs-575"
+  ]
+}

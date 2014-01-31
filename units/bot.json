@@ -1,0 +1,16 @@
+{
+  "prefix": "bot",
+  "title": "Botany",
+  "courses": [
+    "bot-121",
+    "bot-238",
+    "bot-311",
+    "bot-313",
+    "bot-323",
+    "bot-326",
+    "bot-329",
+    "bot-431",
+    "bot-433",
+    "bot-437"
+  ]
+}

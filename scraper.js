@@ -3,15 +3,15 @@ var path = require('path');
 var request = require('request');
 var cheerio = require('cheerio');
 var command = process.argv[2];
-var departmentEndpoint = 'http://catalog.calpoly.edu/coursesaz/';
+var unitEndpoint = 'http://catalog.calpoly.edu/coursesaz/';
 var $;
 
 switch (command) {
   case 'all':
-    parseDepartmentList();
+    parseUnitList();
     break;
-  case 'dept':
-    parseDepartmentCourses(process.argv[3]);
+  case 'unit':
+    parseUnitCourses(process.argv[3]);
     break;
   default:
     printUsage();
@@ -20,36 +20,37 @@ switch (command) {
 function printUsage() {
   console.log('Usage:');
   console.log('  node scraper.js all');
-  console.log('  node scraper.js dept CODE');
+  console.log('  node scraper.js unit CODE');
 }
 
-function parseDepartmentList() {
-  request(departmentEndpoint, function(err, response, html) {
+function parseUnitList() {
+  request(unitEndpoint, function(err, response, html) {
     if (err) throw err;
     var $ = cheerio.load(html);
     $('#tbl-coursesaz .sitemaplink').each(function() {
-      var department = $(this).text().match(/\((.*)\)/)[1].toLowerCase();
-      parseDepartmentCourses(department);
+      var unit = $(this).text().match(/\((.*)\)/)[1].toLowerCase();
+      parseUnitCourses(unit);
     });
   });
 }
 
-function parseDepartmentCourses(department) {
-  request(departmentEndpoint + department, function(err, response, html) {
+function parseUnitCourses(unit) {
+  request(unitEndpoint + unit, function(err, response, html) {
     if (err || response.statusCode !== 200) {
-      return console.log('Department ' + department + ' not found.')
+      return console.log('Unit' + unit + ' not found.')
     }
     $ = cheerio.load(html);
     $('.courseblock').each(function() {
       saveCourse(parseCourse($(this)));
     });
+    saveUnit(parseUnit($));
   });
 }
 
 function saveCourse(course) {
   var filename = path.resolve('courses', course.id + '.json');
   fs.writeFileSync(filename, JSON.stringify(course, null, 2));
-  console.log(course.id + ' generated.');
+  console.log('COURSE: ' + course.id + ' generated.');
 }
 
 function parseCourse($element) {
@@ -156,4 +157,34 @@ function parseCourseGwr($element) {
 
 function parseCourseUscp($element) {
   return parseExtendedBoolean($element, 'USCP');
+}
+
+function saveUnit(unit) {
+  var filename = path.resolve('units', unit.prefix + '.json');
+  fs.writeFileSync(filename, JSON.stringify(unit, null, 2));
+  console.log('UNIT: ' + unit.prefix + ' generated.');
+}
+
+function parseUnit($) {
+  return {
+    prefix: parseUnitPrefix($),
+    title: parseUnitTitle($),
+    courses: parseUnitCourseList($)
+  };
+}
+
+function parseUnitPrefix($) {
+  return $('#secondary-tabs .lastitem').text().trim().toLowerCase();
+}
+
+function parseUnitTitle($) {
+  return $('.courses h3').text().replace(' Courses', '');
+}
+
+function parseUnitCourseList($) {
+  var courseList = [];
+  $('.courseblock').each(function() {
+    courseList.push(parseCourseId($(this)));
+  });
+  return courseList;
 }

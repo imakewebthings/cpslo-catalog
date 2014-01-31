@@ -1,0 +1,18 @@
+{
+  "prefix": "mll",
+  "title": "Modern Languages and Literatures",
+  "courses": [
+    "mll-101",
+    "mll-102",
+    "mll-103",
+    "mll-200",
+    "mll-201",
+    "mll-202",
+    "mll-270",
+    "mll-290",
+    "mll-360",
+    "mll-400",
+    "mll-460",
+    "mll-470"
+  ]
+}
